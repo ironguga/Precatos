@@ -1,5 +1,10 @@
-# Copie para .dev.vars para desenvolvimento local (wrangler dev).
-# Em produção use `wrangler secret put`.
-SUPABASE_URL=https://SEU-PROJETO.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=eyJ...
-ADMIN_TOKEN=um-token-longo-e-aleatorio
+# Copie para .dev.vars (o script `npm run db:start` faz isso automaticamente).
+#
+# Os valores abaixo são os PADRÃO do Supabase LOCAL — iguais em qualquer
+# instalação, públicos, só funcionam contra o Supabase rodando na sua máquina.
+# Para o Supabase na NUVEM, troque pela sua URL e pela chave service_role real
+# (Settings -> API) e use `wrangler secret put` em produção.
+
+SUPABASE_URL=http://127.0.0.1:54321
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoic2VydmljZV9yb2xlIiwiaXNzIjoic3VwYWJhc2UtZGVtbyIsImlhdCI6MTY0MTc2OTIwMCwiZXhwIjoxNzk5NTM1NjAwfQ.DaYlNEoUrrEn2Ig7tqibS-PHK5vgusbcbo7X36XVt4Q
+ADMIN_TOKEN=local-dev-token

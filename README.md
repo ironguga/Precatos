@@ -22,41 +22,50 @@ cron mensal (dia 2)     ──> DEPRE / planilhas  ───┘
 - **DEPRE** (`src/sources/depre.ts`): baixa a página de listas da DEPRE, descobre os links das planilhas por ente devedor, faz o parse (cabeçalho localizado por heurística) e grava a foto mensal em `depre_entries`; entradas acima de `DEPRE_VALOR_MINIMO` viram alvos.
 - **Dedupe/pipeline**: `targets.numero_processo` é único; inserções usam *ignore-duplicates*, então o trabalho manual de pipeline (status, anotações) nunca é sobrescrito pelo robô.
 
-## Setup
+## Setup — tudo local (recomendado para começar)
 
-### 1. Supabase
+Não precisa de conta na nuvem. O Supabase roda inteiro na sua máquina (Postgres + PostgREST + Studio via Docker) e o coletor roda no Node. Como seu IP é brasileiro, o geobloqueio da API do CNJ também deixa de ser problema.
 
-Crie um projeto e aplique `supabase/migrations/0001_init.sql` no SQL Editor. Tabelas criadas: `targets`, `djen_comunicacoes`, `depre_entries`, `runs` (todas com RLS ligado; o Worker usa a service role key).
-
-### 2. Rodar localmente (recomendado antes do deploy)
-
-Rodando da sua máquina no Brasil, o geobloqueio da API do CNJ não é problema — é o melhor jeito de validar tudo antes de subir o Worker. Requer Node 18+.
+**Requisitos:** Node 18+ e Docker rodando (Docker Desktop no Mac/Windows, ou o daemon no Linux).
 
 ```bash
 npm install
-cp .dev.vars.example .dev.vars   # preencha SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY
-
-npm run local:djen    # varredura do DJEN agora
-npm run local:depre   # coleta da DEPRE agora
+npm run db:start      # sobe o Supabase local, aplica as migrations e escreve .dev.vars
+npm run local:djen    # varredura do DJEN agora — o teste que importa
 npm run local:status  # últimas execuções registradas
-npm run smoke         # teste de parsing sem rede (não precisa de Supabase)
 ```
 
-Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`). Depois de validar, siga para o deploy do Worker para ter os crons automáticos — ou, se preferir, agende os comandos locais no cron da sua própria máquina e nem use o Cloudflare.
+Pronto. `npm run db:start` é idempotente e deixa o `.dev.vars` preenchido com a URL (`http://127.0.0.1:54321`) e a `service_role` local automaticamente. Veja os dados em **http://127.0.0.1:54323** (Supabase Studio — interface visual das tabelas `targets`, `djen_comunicacoes`, etc.).
 
-### 3. Worker (Cloudflare)
+Comandos auxiliares:
 
 ```bash
-npm install
+npm run db:reset      # recria o banco do zero aplicando supabase/migrations
+npm run db:stop       # para os containers
+npm run smoke         # teste de parsing sem rede (nem precisa do banco)
+npm run local:depre   # coleta da DEPRE (ver aviso em docs/depre-fonte.md)
+```
+
+Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`).
+
+### Alternativa: Supabase na nuvem
+
+Se preferir a nuvem (para deixar rodando sem sua máquina ligada): crie um projeto em [supabase.com](https://supabase.com) (região São Paulo), aplique `supabase/migrations/0001_init.sql` no SQL Editor e coloque a Project URL e a chave `service_role` (Settings → API) no `.dev.vars`. O mesmo schema serve para os dois.
+
+## Deploy no Worker (Cloudflare) — para automação sem máquina ligada
+
+Opcional. Só faz sentido com o **Supabase na nuvem** (o Worker não alcança um Postgres no seu `127.0.0.1`).
+
+```bash
 npx wrangler secret put SUPABASE_URL
 npx wrangler secret put SUPABASE_SERVICE_ROLE_KEY
 npx wrangler secret put ADMIN_TOKEN
 npm run deploy
 ```
 
-Para desenvolvimento local: copie `.dev.vars.example` para `.dev.vars` e rode `npm run dev`.
+Os crons (DJEN diário, DEPRE mensal) ficam armados automaticamente. Atenção ao geobloqueio (seção abaixo): o Worker pode sair por um PoP fora do Brasil.
 
-### 4. Disparo manual e status do Worker
+### Disparo manual e status do Worker
 
 ```bash
 curl -X POST https://<worker>.workers.dev/run/djen  -H "Authorization: Bearer $ADMIN_TOKEN"
