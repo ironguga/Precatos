@@ -1,6 +1,18 @@
 /**
  * Scraper mensal da ordem cronológica da DEPRE (TJSP).
  *
+ * ⚠️ ATENÇÃO (ver docs/depre-fonte.md): investigação contra o site real do
+ * TJSP mostrou que a DEPRE NÃO publica a ordem cronológica como planilhas
+ * .xlsx numa página. Os dados ficam no sistema SCP (GeneXus) sob
+ * /cac/scp/*.aspx, atrás de CAPTCHA. Este coletor — que procura links .xlsx —
+ * portanto NÃO encontra a fila de precatórios do TJSP e precisa ser reescrito
+ * por um dos caminhos descritos em docs/depre-fonte.md.
+ *
+ * O código abaixo continua válido para QUALQUER fonte que publique planilhas
+ * .xlsx diretamente (outros tribunais, ou uma futura exportação manual), então
+ * foi mantido em vez de removido. Não aponte DEPRE_LIST_URL para o portal do
+ * TJSP esperando resultados.
+ *
  * Fluxo:
  *   1. Baixa a página configurada em DEPRE_LIST_URL e descobre links
  *      para planilhas (.xlsx/.xls) — a DEPRE publica a ordem cronológica
