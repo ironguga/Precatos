@@ -101,3 +101,12 @@ alter table targets enable row level security;
 alter table djen_comunicacoes enable row level security;
 alter table depre_entries enable row level security;
 alter table runs enable row level security;
+
+-- Concede acesso à service_role (o coletor). No Supabase hospedado isso já
+-- vem por default privileges; explicitar aqui garante o mesmo comportamento
+-- no Supabase local e em qualquer reaplicação limpa do schema.
+grant usage on schema public to service_role;
+grant all privileges on all tables in schema public to service_role;
+grant all privileges on all sequences in schema public to service_role;
+alter default privileges in schema public grant all on tables to service_role;
+alter default privileges in schema public grant all on sequences to service_role;

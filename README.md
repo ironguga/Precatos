@@ -48,9 +48,31 @@ npm run local:depre   # coleta da DEPRE (ver aviso em docs/depre-fonte.md)
 
 Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`).
 
+### Teste do pipeline sem depender do CNJ
+
+A API do CNJ geobloqueia IPs fora do Brasil, então em CI (ou fora do país) o `local:djen` real não roda. Para validar todo o pipeline mesmo assim — parsing, filtro anti-RPV, dedupe, consolidação de alvos e log de `runs` — há um teste de integração offline que roda o código real do coletor com uma resposta sintética da API no lugar da rede:
+
+```bash
+npm run db:start   # se ainda não estiver no ar
+npm run demo:djen  # roda runDjen() com fixture e valida o resultado em `targets`
+```
+
+Deve terminar com `✅ PIPELINE OK` e deixar 1 alvo em `targets` (o RPV do fixture é filtrado e a republicação duplicada é deduplicada).
+
 ### Alternativa: Supabase na nuvem
 
 Se preferir a nuvem (para deixar rodando sem sua máquina ligada): crie um projeto em [supabase.com](https://supabase.com) (região São Paulo), aplique `supabase/migrations/0001_init.sql` no SQL Editor e coloque a Project URL e a chave `service_role` (Settings → API) no `.dev.vars`. O mesmo schema serve para os dois.
+
+### Ambiente com Docker restrito / aninhado
+
+Em máquinas normais o `npm run db:start` funciona direto. Em ambientes aninhados (alguns CIs, contêineres de dev), o `supabase start` pode falhar com `error setting rlimit type 7: operation not permitted` — o runc tenta elevar o limite de arquivos acima do teto permitido. Solução: fixe um `default-ulimits` seguro no daemon do Docker, dentro do teto do host (veja `ulimit -Hn`):
+
+```json
+// /etc/docker/daemon.json
+{ "default-ulimits": { "nofile": { "Name": "nofile", "Hard": 20000, "Soft": 20000 } } }
+```
+
+Reinicie o daemon e rode `db:start` de novo. Se algum container secundário (analytics/vector) ainda travar, dá para desligar serviços não-essenciais no `supabase/config.toml` (`[analytics]`, `[realtime]`, `[storage]`, `[studio]` → `enabled = false`) — o coletor só precisa de `[api]` (PostgREST) e `[db]`.
 
 ## Deploy no Worker (Cloudflare) — para automação sem máquina ligada
 

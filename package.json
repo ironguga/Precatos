@@ -13,6 +13,7 @@
     "local:djen": "tsx scripts/run-local.ts djen",
     "local:depre": "tsx scripts/run-local.ts depre",
     "local:status": "tsx scripts/run-local.ts status",
+    "demo:djen": "tsx scripts/demo-djen-offline.ts",
     "smoke": "tsx scripts/smoke.ts"
   },
   "dependencies": {
