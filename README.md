@@ -28,6 +28,21 @@ Não precisa de conta na nuvem. O Supabase roda inteiro na sua máquina (Postgre
 
 **Requisitos:** Node 18+ e Docker rodando (Docker Desktop no Mac/Windows, ou o daemon no Linux).
 
+### Jeito mais fácil: um comando
+
+Numa máquina nova, clone o projeto (o repositório é privado, então precisa do seu acesso ao GitHub) e rode o `setup.sh` — ele confere Node/Docker, instala tudo, sobe o banco, valida o pipeline e já tenta a primeira coleta:
+
+```bash
+git clone https://github.com/ironguga/Precatos.git
+cd Precatos
+git checkout claude/precatorios-origination-platform-wro99o
+./setup.sh
+```
+
+Ao final, o Supabase local estará no ar e o banco pronto. Veja os dados em **http://127.0.0.1:54323**.
+
+### Ou passo a passo (o que o setup.sh faz por dentro)
+
 ```bash
 npm install
 npm run db:start      # sobe o Supabase local, aplica as migrations e escreve .dev.vars
