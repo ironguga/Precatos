@@ -46,7 +46,23 @@ npm run smoke         # teste de parsing sem rede (nem precisa do banco)
 npm run local:depre   # coleta da DEPRE (ver aviso em docs/depre-fonte.md)
 ```
 
-Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`).
+Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`). Os dados ficam num volume Docker do Postgres local — **nada sai da sua máquina, nada vai para a nuvem.**
+
+### Deixar rodando sozinho na sua máquina (sem nuvem)
+
+Para o coletor rodar todo dia sem você digitar nada, agende no sistema. O único pré-requisito é a máquina estar **ligada e com o Docker no ar** na hora agendada (num notebook que dorme, ou você roda manualmente, ou deixa um mini-PC/Raspberry ligado).
+
+**macOS / Linux (cron):** `crontab -e` e adicione (ajuste o caminho absoluto do projeto e do `npm`):
+
+```cron
+# DJEN todo dia às 06:00; DEPRE no dia 2 de cada mês às 09:00 (horário local da máquina)
+0 6 * * *  cd /CAMINHO/para/Precatos && /usr/local/bin/npm run local:djen  >> ~/precatos.log 2>&1
+0 9 2 * *  cd /CAMINHO/para/Precatos && /usr/local/bin/npm run local:depre >> ~/precatos.log 2>&1
+```
+
+Descubra o caminho do npm com `which npm`. O `db:start` precisa ter rodado uma vez para o banco existir; deixe o Docker Desktop configurado para iniciar junto com o sistema.
+
+**Windows:** use o Agendador de Tarefas (Task Scheduler) apontando para `npm run local:djen` no diretório do projeto, com o Docker Desktop iniciando no boot.
 
 ### Teste do pipeline sem depender do CNJ
 
