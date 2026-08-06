@@ -6,13 +6,19 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "local:djen": "tsx scripts/run-local.ts djen",
+    "local:depre": "tsx scripts/run-local.ts depre",
+    "local:status": "tsx scripts/run-local.ts status",
+    "smoke": "tsx scripts/smoke.ts"
   },
   "dependencies": {
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260801.1",
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.9",
     "typescript": "^5.5.4",
     "wrangler": "^4.0.0"
   }

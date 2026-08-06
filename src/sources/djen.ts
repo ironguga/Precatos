@@ -75,8 +75,11 @@ async function buscarTermo(termo: string, inicio: string, fim: string): Promise<
     });
     const contentType = res.headers.get("content-type") ?? "";
     if (!res.ok || !contentType.includes("json")) {
-      const corpo = (await res.text()).slice(0, 300);
-      if (res.status === 403 && corpo.includes("CloudFront")) {
+      const corpoCompleto = await res.text();
+      const corpo = corpoCompleto.slice(0, 300);
+      const pareceGeobloqueio =
+        /cloudfront/i.test(corpoCompleto) || corpoCompleto.includes("block access from your country");
+      if (res.status === 403 && pareceGeobloqueio) {
         throw new Error(
           "API Comunica bloqueou a requisição (geobloqueio CloudFront — IP fora do Brasil). " +
             "Ver README, seção 'Geobloqueio'.",

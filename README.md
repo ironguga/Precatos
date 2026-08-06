@@ -28,7 +28,23 @@ cron mensal (dia 2)     ──> DEPRE / planilhas  ───┘
 
 Crie um projeto e aplique `supabase/migrations/0001_init.sql` no SQL Editor. Tabelas criadas: `targets`, `djen_comunicacoes`, `depre_entries`, `runs` (todas com RLS ligado; o Worker usa a service role key).
 
-### 2. Worker
+### 2. Rodar localmente (recomendado antes do deploy)
+
+Rodando da sua máquina no Brasil, o geobloqueio da API do CNJ não é problema — é o melhor jeito de validar tudo antes de subir o Worker. Requer Node 18+.
+
+```bash
+npm install
+cp .dev.vars.example .dev.vars   # preencha SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY
+
+npm run local:djen    # varredura do DJEN agora
+npm run local:depre   # coleta da DEPRE agora
+npm run local:status  # últimas execuções registradas
+npm run smoke         # teste de parsing sem rede (não precisa de Supabase)
+```
+
+Cada execução imprime o resultado no terminal e registra em `runs` (com `executor: "local"`). Depois de validar, siga para o deploy do Worker para ter os crons automáticos — ou, se preferir, agende os comandos locais no cron da sua própria máquina e nem use o Cloudflare.
+
+### 3. Worker (Cloudflare)
 
 ```bash
 npm install
@@ -40,7 +56,7 @@ npm run deploy
 
 Para desenvolvimento local: copie `.dev.vars.example` para `.dev.vars` e rode `npm run dev`.
 
-### 3. Disparo manual e status
+### 4. Disparo manual e status do Worker
 
 ```bash
 curl -X POST https://<worker>.workers.dev/run/djen  -H "Authorization: Bearer $ADMIN_TOKEN"
