@@ -1,0 +1,5 @@
+# Copie para .dev.vars para desenvolvimento local (wrangler dev).
+# Em produção use `wrangler secret put`.
+SUPABASE_URL=https://SEU-PROJETO.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJ...
+ADMIN_TOKEN=um-token-longo-e-aleatorio

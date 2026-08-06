@@ -1,0 +1,19 @@
+{
+  "name": "precatos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Plataforma de originação de precatórios — módulo 1: captação (DJEN + DEPRE) em Cloudflare Workers + Supabase",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20260801.1",
+    "typescript": "^5.5.4",
+    "wrangler": "^4.0.0"
+  }
+}
