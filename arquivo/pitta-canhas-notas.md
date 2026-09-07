@@ -940,3 +940,64 @@ Lidos no corpo os fólios 128, 130, 132, 134, 136, 138, 140, 142, 144 e 146
 (fl. 140v), nenhum filho de um Pedro. Casas novas colhidas de passagem:
 **João Pitta Coelho × Madalena Rodrigues** (fl. 144) e **Felippe Gonçalves ×
 Luiza Pitta** (fl. 134).
+
+---
+
+# O ASSENTO — 8 de Dezembro de 1748
+
+**Livro 6.º de baptismos dos Canhas, fl. 97 (imagem 190)**
+
+> Em os oito dias do mes de Dezembro de mil sete centos e quarenta e outo
+> baptizey e pus os oleos a **Maria**, que nasceo aos [seis] do d.º mes e anno,
+> **f.ª legítima de PEDRO DA S.ª PITTA e de sua m.er Ca[tharina] Gonsalves**,
+> e **neta paterna de PEDRO DA S.ª DE PONTE e de sua m.er M.ª P.[itta]**, e
+> [neta] materna de **Francisco Gonsalves da Rocha** e de sua m.er
+> **An.ª da C.[onceição]**, todos naturais desta freguezia e também moradores,
+> e seus pais moradores [n]as Salas…
+
+Lido com subtracção de fundo por desfoque gaussiano e ampliação até 12×. As
+palavras «Pedro da S.ª Pitta», «Pedro da S.ª de Ponte», «Gonsalves» e
+«Francisco Gonsalves da Rocha» estão nítidas.
+
+## O que isto diz
+
+**Um documento primário declara a filiação que faltava:** Pedro da Silva
+Pitta é **filho de Pedro da Sylva de Ponte e de Maria Pitta**.
+
+E resolve para trás a ambiguidade do óbito de 23 Dez 1757 («testamenteiro seu
+filho Pedro Pitta», de uma Maria Vieyra Pitta): se Pedro é filho de Pedro da
+Sylva de Ponte com Maria Vieyra Pitta, a testadora de 1757 é ela. **Dois
+documentos independentes, a nove anos de distância, dizem o mesmo.**
+
+## O que tenho de pôr ao lado, e é sério
+
+A mulher, neste assento de 1748, é **Catharina Gonsalves** — não Antónia da
+Silva, que é a mulher do Pedro do Outeiro nos assentos de 1786, 1789 e 1791.
+
+Duas leituras:
+
+**(1) Pedro enviuvou e casou segunda vez.** É banal, e põe os dois casamentos
+no Livro 4.º de casamentos (1743–1754), que falta ao acervo — exactamente
+onde a cronologia já os punha. Filhos do primeiro leito a partir de 1748;
+filhos do segundo a partir de meados dos anos 50, que é quando os três
+documentados (Francisca, João, José) teriam nascido para casar em 1786, 1789
+e 1791.
+
+**(2) São dois homens diferentes.** Em seis livros lidos — dois de casamentos,
+três de baptismos, dois de óbitos, 1692 a 1814 — **não aparece nenhum outro
+Pedro Pitta**. Mas «não aparece» não é «não existiu».
+
+## Classificação
+
+- **CONFIRMADO POR DOCUMENTO PRIMÁRIO:** existiu nos Canhas, em Dezembro de
+  1748, um **Pedro da Silva Pitta, filho de Pedro da Sylva de Ponte e de
+  Maria Pitta**, casado com Catharina Gonsalves, com uma filha Maria.
+- **MUITO PROVÁVEL:** que seja o mesmo Pedro da Silva Pitta que vive no
+  Outeiro com Antónia da Silva e cujos filhos casam entre 1786 e 1791.
+- **POR CONFIRMAR:** o segundo casamento. Cai no Livro 4.º, ausente.
+
+## O que confirma ou desmente, e é verificável neste mesmo livro
+
+Os irmãos desta Maria. Se aparecerem mais filhos de **Pedro da Silva Pitta e
+Catharina Gonsalves** entre 1743 e 1751, e depois nada, a hipótese do segundo
+casamento ganha corpo. Procuro-os a seguir.
