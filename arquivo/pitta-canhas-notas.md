@@ -1333,3 +1333,50 @@ se o casamento de Pedro da Sylva de Ponte estivesse nas imagens 19-90, que é
 onde a cronologia o põe, já teria aparecido. As duas explicações que restam —
 casou antes de 1692, ou casou noutra freguesia — apontam ambas para fora do
 que varri, e a segunda para fora do que tenho.
+
+---
+
+# Os livros mais antigos dos Canhas — o que dão e o que não dão
+
+Sonda e descarga:
+
+| ID | Livro | Páginas |
+|---|---|---|
+| **42092** | 2.º de baptismos, 1639–1680 | **267 — descarregado** |
+| 42081 | 1.º de baptismos, [1593]–[1639] | 93, por descarregar |
+| **41773** | 2.º misto de óbitos, 1639–1678 | **0 — catalogado, não digitalizado** |
+| 48628 | 4.º de óbitos, 1720–1749 | 292 |
+| 42119 | 3.º de baptismos, 1680–1708 | 296 |
+
+## O Livro 2.º de baptismos (1639–1680), examinado
+
+**Dá só os pais, não as avoengas** — o que é o normal no século XVII. Formato,
+lido no fl. 98 (imagem 200), ano de 1673:
+> «Em os 12 de Junho de 1673… eu Sebastião Marques, vigário desta igreja de
+> N.ª S.ª da Piedade dos Canhas, bautizei e pus os Santos Óleos a **Manoel,
+> filho de Ant.º Roiz e de sua mulher Izabel Roiz**; foi padrinho…»
+
+**Estado de conservação:** o próprio arquivo carimba páginas com «**Tinta
+Repassada · Ink Bleed Through**». A imagem 120 (fl. 59, ano de 1659) está
+quase toda ilegível por repasse do verso; a imagem 200 (fl. 98, 1673) está
+perfeitamente legível. O livro alterna.
+
+## Consequência para a estratégia
+
+Como este livro dá os pais, o baptismo de **António Correa** ou de **Francisco
+Pitta** — nascidos por volta de 1640-1660 — nomearia **a décima primeira
+geração**. Mas a margem dá apenas o nome próprio da criança, e há dezenas de
+Antónios e Franciscos: sem saber o nome do pai, a varredura não discrimina.
+
+**A via eficiente continua a ser o casamento**, no Livro 2.º de casamentos
+(1640–1691), que dá a filiação dos dois noivos de uma vez. Varridas até agora
+as imagens 82-90, 100-117, 127-144 e 172-180. As imagens 172-180 revelam que
+o fim do livro **não são assentos**: são contas e rol de irmãos da confraria.
+Os casamentos ocupam, portanto, cerca das imagens 1-165, e é aí que falta
+varrer.
+
+## Um beco documentado
+
+O **Livro 2.º misto de óbitos (1639–1678)** está catalogado e tem **zero
+páginas digitalizadas**. É o terceiro livro dos Canhas nessa condição, com o
+8.º de baptismos (1765–1780) e os róis de crismados de 1732 e 1742.
