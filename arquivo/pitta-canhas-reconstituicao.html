@@ -1,0 +1,552 @@
+<title>Os Pitta dos Canhas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --paper:#eef1f4;
+    --panel:#f7f9fa;
+    --edge:#d3d9e0;
+    --edge-soft:#e2e7ec;
+    --ink:#161d27;
+    --ink-2:#3d4855;
+    --ink-3:#6a7583;
+    --indigo:#2c3f79;
+    --iron:#7a5230;
+    --ok:#2b6146;
+    --maybe:#8a6318;
+    --guess:#7c3a4d;
+    --quote-bg:#e9edf1;
+    --shadow:0 1px 2px rgba(22,29,39,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#12161c;
+      --panel:#191f27;
+      --edge:#2c343f;
+      --edge-soft:#232a33;
+      --ink:#e6eaef;
+      --ink-2:#b3bcc7;
+      --ink-3:#8590a0;
+      --indigo:#9db0e8;
+      --iron:#d0a877;
+      --ok:#7fc4a1;
+      --maybe:#dcb463;
+      --guess:#e09aae;
+      --quote-bg:#1d242d;
+      --shadow:0 1px 2px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#12161c;
+    --panel:#191f27;
+    --edge:#2c343f;
+    --edge-soft:#232a33;
+    --ink:#e6eaef;
+    --ink-2:#b3bcc7;
+    --ink-3:#8590a0;
+    --indigo:#9db0e8;
+    --iron:#d0a877;
+    --ok:#7fc4a1;
+    --maybe:#dcb463;
+    --guess:#e09aae;
+    --quote-bg:#1d242d;
+    --shadow:0 1px 2px rgba(0,0,0,.4);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Spectral",Georgia,"Times New Roman",serif;
+    font-size:17px;
+    line-height:1.62;
+    margin:0;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1120px;margin:0 auto;padding:40px 28px 96px}
+
+  /* ---------- cabeçalho ---------- */
+  .eyebrow{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:11.5px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--ink-3);margin:0 0 14px;
+  }
+  h1{
+    font-weight:600;font-size:clamp(34px,5.2vw,52px);line-height:1.06;
+    letter-spacing:-.015em;margin:0 0 14px;text-wrap:balance;
+  }
+  .standfirst{
+    font-size:19px;color:var(--ink-2);max-width:62ch;margin:0 0 26px;font-weight:300;
+  }
+  .scope{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:1px;
+    background:var(--edge);border:1px solid var(--edge);border-radius:3px;overflow:hidden;
+    margin-bottom:56px;
+  }
+  .scope div{background:var(--panel);padding:13px 15px}
+  .scope dt{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:10.5px;font-weight:600;
+    letter-spacing:.11em;text-transform:uppercase;color:var(--ink-3);margin:0 0 4px;
+  }
+  .scope dd{margin:0;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;color:var(--ink)}
+
+  /* ---------- secções ---------- */
+  section{margin-bottom:62px}
+  h2{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:12px;font-weight:600;letter-spacing:.15em;text-transform:uppercase;
+    color:var(--indigo);margin:0 0 6px;
+  }
+  .h2sub{font-size:15px;color:var(--ink-3);margin:0 0 26px;max-width:66ch;font-weight:300}
+  h3{font-weight:600;font-size:20px;margin:0 0 4px;letter-spacing:-.01em}
+
+  /* ---------- estados ---------- */
+  .chip{
+    display:inline-block;font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+    padding:2px 7px;border-radius:2px;border:1px solid currentColor;white-space:nowrap;
+  }
+  .c-ok{color:var(--ok)} .c-maybe{color:var(--maybe)} .c-guess{color:var(--guess)}
+
+  /* ---------- linha de descendência ---------- */
+  .line{border-left:2px solid var(--edge);margin-left:6px;padding-left:0}
+  .gen{position:relative;padding:0 0 22px 26px}
+  .gen::before{
+    content:"";position:absolute;left:-6px;top:9px;width:9px;height:9px;border-radius:50%;
+    background:var(--paper);border:2px solid var(--ink-3);
+  }
+  .gen.confirmed::before{border-color:var(--ok);background:var(--ok)}
+  .gen.ceiling::before{border-color:var(--iron);background:var(--iron);width:13px;height:13px;left:-8px;top:7px}
+  .gen .who{font-size:18px;font-weight:600}
+  .gen .who em{font-style:italic;font-weight:400;color:var(--ink-2)}
+  .gen .meta{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:13px;color:var(--ink-3);
+    display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:3px;
+  }
+
+  /* ---------- casas / agregados ---------- */
+  .houses{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:18px}
+  .house{
+    background:var(--panel);border:1px solid var(--edge-soft);border-radius:3px;
+    padding:18px 20px 16px;box-shadow:var(--shadow);
+    border-left:3px solid var(--edge);
+  }
+  .house.k-ok{border-left-color:var(--ok)}
+  .house.k-maybe{border-left-color:var(--maybe)}
+  .house .couple{font-size:17px;font-weight:600;line-height:1.35;margin-bottom:2px}
+  .house .era{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:12px;color:var(--ink-3);
+    margin-bottom:12px;
+  }
+  .house ul{list-style:none;margin:0 0 12px;padding:0;display:flex;flex-direction:column;gap:7px}
+  .house li{font-size:15.5px;line-height:1.45;padding-left:14px;position:relative;color:var(--ink-2)}
+  .house li::before{
+    content:"";position:absolute;left:0;top:.62em;width:6px;height:1px;background:var(--ink-3);
+  }
+  .house li b{color:var(--ink);font-weight:600}
+  .src{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11.5px;color:var(--ink-3);
+    border-top:1px solid var(--edge-soft);padding-top:9px;line-height:1.5;
+  }
+
+  /* ---------- citação ---------- */
+  blockquote{
+    margin:0 0 14px;padding:16px 20px;background:var(--quote-bg);
+    border-left:3px solid var(--iron);border-radius:0 3px 3px 0;
+    font-size:16px;line-height:1.6;color:var(--ink);
+  }
+  blockquote b{font-weight:600}
+
+  /* ---------- hipóteses ---------- */
+  .hyps{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px;margin-bottom:22px}
+  .hyp{border:1px solid var(--edge);border-radius:3px;padding:20px;background:var(--panel)}
+  .hyp h3{margin-bottom:10px}
+  .hyp p{margin:0 0 12px;font-size:15.5px;color:var(--ink-2)}
+  .hyp p:last-child{margin-bottom:0}
+  .stem{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12.5px;line-height:1.85;
+    color:var(--ink);background:var(--quote-bg);padding:12px 14px;border-radius:2px;
+    margin:0 0 12px;overflow-x:auto;white-space:pre;
+  }
+
+  /* ---------- lacunas ---------- */
+  table{border-collapse:collapse;width:100%;font-size:15px}
+  .tw{overflow-x:auto;border:1px solid var(--edge);border-radius:3px;background:var(--panel)}
+  th,td{text-align:left;padding:11px 15px;border-bottom:1px solid var(--edge-soft);vertical-align:top}
+  th{
+    font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:10.5px;font-weight:600;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);white-space:nowrap;
+  }
+  tbody tr:last-child td{border-bottom:none}
+  td.code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12.5px;white-space:nowrap}
+  .gap td{color:var(--guess)}
+  .gap td.code{color:var(--guess)}
+
+  /* ---------- registo de fontes ---------- */
+  .reg{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--edge)}
+  .rec{
+    display:grid;grid-template-columns:110px 1fr;gap:0 22px;
+    padding:14px 0;border-bottom:1px solid var(--edge-soft);
+  }
+  .rec .loc{
+    font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--ink-3);
+    line-height:1.55;
+  }
+  .rec .loc b{display:block;color:var(--indigo);font-weight:500}
+  .rec .txt{font-size:15.5px;line-height:1.55;color:var(--ink-2)}
+  .rec .txt b{color:var(--ink);font-weight:600}
+
+  .note{
+    font-size:14.5px;color:var(--ink-3);border-left:2px solid var(--edge);
+    padding-left:16px;max-width:70ch;font-style:italic;
+  }
+  @media (max-width:620px){
+    .rec{grid-template-columns:1fr;gap:6px}
+    .wrap{padding:28px 18px 72px}
+  }
+</style>
+
+<div class="wrap">
+
+  <p class="eyebrow">Reconstituição de família · Arquivo e Biblioteca da Madeira</p>
+  <h1>Os Pitta dos Canhas</h1>
+  <p class="standfirst">
+    Quem eram os Pitta da freguesia de Nossa Senhora da Piedade dos Canhas entre 1690 e 1791,
+    lidos assento a assento nos livros paroquiais — e onde, exatamente, a linha de
+    Luiz Gustavo Ferro encontra o limite do que está documentado.
+  </p>
+
+  <dl class="scope">
+    <div><dt>Fundo</dt><dd>PT/ABM/PPTS01</dd></div>
+    <div><dt>Livros lidos</dt><dd>002/00003 · 002/00005</dd></div>
+    <div><dt>Assentos transcritos</dt><dd>9</dd></div>
+    <div><dt>Pitta identificados</dt><dd>19</dd></div>
+    <div><dt>Gerações Pitta</dt><dd>4</dd></div>
+  </dl>
+
+  <section>
+    <h2>A linha direta</h2>
+    <p class="h2sub">
+      Oito gerações acima de Luiz Gustavo Ferro. Cada elo verde assenta num documento
+      primário que nomeia explicitamente a relação; nenhum foi inferido por apelido.
+    </p>
+
+    <div class="line">
+      <div class="gen confirmed">
+        <div class="who">Luiz Gustavo Ferro <em>· n. 1979</em></div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">Verquinia Teresa Gregório <em>· n. 1957</em></div>
+        <div class="meta">filha de Alexandre Gregório e Nair Pitta</div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">Nair Pitta <em>· n. 1918, Santos</em></div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">José Maria Pitta × Maria Teresa Corbani</div>
+        <div class="meta">
+          <span>n. 20 out. 1876, Madeira — f. 17 jan. 1945, Pindamonhangaba</span>
+          <span class="chip c-ok">certidão de óbito</span>
+        </div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">João Pitta × Júlia Maria Henriques</div>
+        <div class="meta">
+          <span>casamento 30 out. 1871 · N.ª S.ª do Monte, Funchal · Quinta dos Reis</span>
+          <span class="chip c-ok">assento</span>
+        </div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">António Pitta × Sabina Rosa</div>
+        <div class="meta">
+          <span>casamento 5 ago. 1835 · N.ª S.ª do Monte</span>
+          <span class="chip c-ok">assento</span>
+        </div>
+      </div>
+      <div class="gen confirmed">
+        <div class="who">José da Silva Pitta × Maria Gomes</div>
+        <div class="meta">
+          <span>casamento 1791</span>
+          <span class="chip c-ok">assento</span>
+        </div>
+      </div>
+      <div class="gen ceiling">
+        <div class="who">Pedro da Silva Pitta × Antónia de S…</div>
+        <div class="meta">
+          <span>moradores no <b>Outeiro</b>, freguesia dos Canhas · ativos c. 1755–1789</span>
+          <span class="chip c-ok">dois assentos</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>O teto, e o que o sustenta</h2>
+    <p class="h2sub">
+      Pedro da Silva Pitta era, até agora, um nome que só existia por constar do casamento
+      do filho José em 1791. Passou a ter uma segunda fonte independente — e um segundo filho.
+    </p>
+
+    <blockquote>
+      «…assisti ao matrimonio q. entre si contraserão <b>João Pitta</b>,
+      <b>filho legitimo de Pedro da Silva Pitta e de sua molher Antonia de S…</b>,
+      naturais e moradores nesta mesma freguesia <b>onde chamam o Outeiro</b>,
+      com <b>Francisca de Ponte</b>, filha legitima de Manoel Luís Machado e de sua molher
+      Marianna de Ponte… Foram testemunhas… <b>Manoel Jozé Pitta</b> e o Ajudante Manoel Soares.»
+    </blockquote>
+    <p class="src" style="border:0;padding:0;margin:0 0 22px">
+      Livro 5.º de casamentos dos Canhas · fl. 227 · imagem 454 · novembro de 1789
+    </p>
+
+    <p style="max-width:66ch;color:var(--ink-2);margin:0 0 10px">
+      Isto estabelece três coisas que a árvore não tinha: que <b>João Pitta é irmão de José</b>,
+      o primeiro irmão documentado; que o casal Pedro × Antónia é atestado por dois filhos
+      diferentes, em dois assentos distintos; e que a família morava mesmo <b>no Outeiro</b> —
+      o Lombo do Outeiro deixou de ser tradição familiar e passou a ser texto de assento.
+    </p>
+    <p class="note">
+      O apelido da mãe está abreviado no original — «Antonia de S.ª…» — e a tinta repassada
+      não permite fixá-lo nos 936 px que o arquivo publica. É compatível com «da Silva»,
+      mas não o dou por lido.
+    </p>
+  </section>
+
+  <section>
+    <h2>As casas Pitta da freguesia</h2>
+    <p class="h2sub">
+      Seis agregados reconstruídos a partir das filiações e das avoengas declaradas nos
+      próprios assentos de casamento dos netos. Cada casa cita o documento que a sustenta.
+    </p>
+
+    <div class="houses">
+
+      <div class="house k-ok">
+        <div class="couple">Domingos Fernandes Pitta × Maria Vieyra</div>
+        <div class="era">geração de c. 1670 · avós paternos declarados</div>
+        <ul>
+          <li><b>João Pitta</b> × Magdalena da Sylva</li>
+          <li>— <b>Ritta Pitta</b>, casada 29 jul. 1756 com Felippe da Sylva</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 21 · img. 43<br>«neta paterna de Domingos Fernandes Pitta e de sua molher Maria Vieyra»</p>
+      </div>
+
+      <div class="house k-ok">
+        <div class="couple">Manoel Fernandes Pitta × ?</div>
+        <div class="era">geração de c. 1670 · avô paterno declarado</div>
+        <ul>
+          <li><b>João Pitta</b> «do L…» × Anna da Sylva</li>
+          <li>— <b>Jozeph Pitta</b>, casado c. 1761 com Izabel Gonçalves da Conceição</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 50 · img. 100<br>«neto paterno de Manoel Fernandes Pitta»</p>
+      </div>
+
+      <div class="house k-ok">
+        <div class="couple">Manoel Rodrigues Pitta × Maria Vieyra</div>
+        <div class="era">geração de c. 1670 · avós maternos declarados</div>
+        <ul>
+          <li><b>Anna Pitta</b> × João Coelho</li>
+          <li>— <b>Maria Caetana Pitta</b> × João da Sylva</li>
+          <li>—— <b>Manoel da Sylva</b>, casado c. 1790 com Magdalena Pitta</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 38 · img. 77 · e fl. 229 · img. 458</p>
+      </div>
+
+      <div class="house k-ok">
+        <div class="couple">Pedro da Sylva de Ponte × Maria Pitta</div>
+        <div class="era">geração de c. 1680 · avós maternos declarados</div>
+        <ul>
+          <li><b>Maria Pitta</b> × João Rodrigues Carneiro</li>
+          <li>— <b>Jacinta Pitta</b>, casada 24 jan. 1760 com Manoel Rodrigues</li>
+          <li>— <b>Sebastianna Pitta</b>, casada 10 jan. 1765 com Francisco da Sylva</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 40 · img. 80 · e fl. 71 · img. 142<br>«materna de Pedro da Sylva de Ponte, e de sua molher Maria Pitta»</p>
+      </div>
+
+      <div class="house k-ok">
+        <div class="couple">João Pitta × <i>1.ª mulher</i> Maria do Espírito Santo</div>
+        <div class="era">geração de c. 1680 · primeiro casamento declarado</div>
+        <ul>
+          <li><b>Maria Pitta</b> × João de Abreu</li>
+          <li>— <b>Maria Pitta de Abreu</b>, casada 27 set. 1758 com Francisco Pereira da Sylva</li>
+          <li>—— <b>Magdalena Pitta</b>, casada c. 1790 com Manoel da Sylva</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 34 · img. 68<br>«materna de João Pitta, e de sua primeira molher Maria do Espírito Santo»</p>
+      </div>
+
+      <div class="house k-maybe">
+        <div class="couple">Pedro da Silva Pitta × Antónia de S…</div>
+        <div class="era">geração de c. 1730 · o teto da linha · moradores no Outeiro</div>
+        <ul>
+          <li><b>João Pitta</b>, casado nov. 1789 com Francisca de Ponte</li>
+          <li><b>José da Silva Pitta</b>, casado 1791 com Maria Gomes</li>
+        </ul>
+        <p class="src">Livro 5.º · fl. 227 · img. 454 · e o assento de 1791<br>Pais de Pedro: por identificar</p>
+      </div>
+
+    </div>
+
+    <p class="note" style="margin-top:20px">
+      Quatro Pitta ficam sem casa atribuída: <b>Manoel Jozé Pitta</b> (testemunha do casamento
+      de João em 1789), <b>Francisco da Sylva Pitta</b> (assinou em 1760), <b>Maria Roza Pitta</b>
+      e <b>Maria Pitta de S. Diogo</b>. Aparecem nos documentos sem filiação declarada.
+    </p>
+  </section>
+
+  <section>
+    <h2>De quem descende Pedro</h2>
+    <p class="h2sub">
+      Duas hipóteses concorrentes. Nenhuma entra na árvore enquanto um assento não a disser.
+    </p>
+
+    <div class="hyps">
+      <div class="hyp">
+        <h3>A · pela casa de Ponte <span class="chip c-maybe">mais forte</span></h3>
+        <div class="stem">Pedro da Sylva de Ponte × Maria Pitta
+   └ [um filho]
+      └ PEDRO DA SILVA PITTA</div>
+        <p>
+          Um casal <b>da Sylva × Pitta</b> produz, pela regra onomástica da época, filhos de
+          apelido composto <b>«da Silva Pitta»</b> — que é exatamente a forma, já fixada, do nome
+          do antepassado. Reforça-a <b>Francisco da Sylva Pitta</b>, que assina o mesmo assento de
+          1760: é o único portador documentado do apelido composto na geração anterior.
+        </p>
+        <p>E o nome de baptismo repetir-se-ia do avô, como era uso.</p>
+      </div>
+
+      <div class="hyp">
+        <h3>B · pela casa de Manoel Fernandes <span class="chip c-guess">mais fraca</span></h3>
+        <div class="stem">Manoel Fernandes Pitta
+   └ João Pitta × Anna da Sylva
+      └ PEDRO DA SILVA PITTA</div>
+        <p>
+          Explica o «da Silva» pela mãe, e o filho mais velho chamado <b>João</b> pelo avô paterno.
+          Mas não explica por que o apelido aparece já composto e fixo, e não como
+          «Pedro Pitta» ou «Pedro da Silva».
+        </p>
+        <p>Torna Pedro irmão de <b>Jozeph Pitta</b>, casado c. 1761.</p>
+      </div>
+    </div>
+
+    <p style="max-width:66ch;color:var(--ink-2)">
+      <b>O que decide:</b> o assento de casamento do próprio Pedro, que dirá «filho legítimo de…».
+      Pela cadência dos livros, ou está entre 1743 e 1754 — e aí esbarra na lacuna abaixo —
+      ou noutra freguesia, sendo a Ponta do Sol a candidata natural.
+    </p>
+  </section>
+
+  <section>
+    <h2>O que o arquivo publica, e o que não publica</h2>
+    <p class="h2sub">
+      Levantamento completo do acervo dos Canhas em linha. As duas lacunas caem exatamente
+      onde Pedro nasceu e casou — não é falha de busca, é o que não foi digitalizado.
+    </p>
+
+    <div class="tw">
+      <table>
+        <thead>
+          <tr><th>Série</th><th>Livro</th><th>Cobertura</th><th>Referência</th><th>ID</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Baptismos</td><td>1.º</td><td>1593–1639</td><td class="code">001/00001</td><td class="code">42081</td></tr>
+          <tr><td>Baptismos</td><td>misto</td><td>1622</td><td class="code">001/00002</td><td class="code">42120</td></tr>
+          <tr><td>Baptismos</td><td>2.º</td><td>1639–1680</td><td class="code">001/00003</td><td class="code">42092</td></tr>
+          <tr><td>Baptismos</td><td>3.º</td><td>1680–1708</td><td class="code">001/00004</td><td class="code">42119</td></tr>
+          <tr class="gap"><td>Baptismos</td><td>4.º e seguintes</td><td>1708 em diante</td><td class="code">—</td><td class="code">ausente</td></tr>
+          <tr><td>Óbitos</td><td>2.º misto</td><td>1639–1678</td><td class="code">003/00002</td><td class="code">41773</td></tr>
+          <tr><td>Casamentos</td><td>3.º</td><td>1692–1743</td><td class="code">002/00003</td><td class="code">41777</td></tr>
+          <tr class="gap"><td>Casamentos</td><td>4.º</td><td>1743–1754</td><td class="code">002/00004</td><td class="code">ausente</td></tr>
+          <tr><td>Casamentos</td><td>5.º</td><td>1754–1793</td><td class="code">002/00005</td><td class="code">41778</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="note" style="margin-top:18px">
+      O título do 3.º de baptismos diz «1680/1708» e o catálogo mostra 1751 — a data tardia vem
+      de uma anotação solta. Verifiquei no próprio documento: a imagem 280 lê
+      «Em os 29 dias de Setembro de <b>1707</b>».
+    </p>
+  </section>
+
+  <section>
+    <h2>Homónimos a não ligar</h2>
+    <p class="h2sub">Nomes que coincidem com os da linha e pertencem a outras famílias.</p>
+    <div class="houses">
+      <div class="house">
+        <div class="couple">Antónia da Sylva</div>
+        <div class="era">Livro 5.º · fl. 77 · img. 154 · c. 1766</div>
+        <ul><li>Mulher de <b>António Rodrigues Bolhas</b>, mãe de Manoel Rodrigues. Não é a mulher de Pedro.</li></ul>
+      </div>
+      <div class="house">
+        <div class="couple">José da Sylva</div>
+        <div class="era">Livro 5.º · fl. 76 · img. 153 · c. 1766</div>
+        <ul><li>Falecido antes de 1766, marido de <b>Domingas Fernandes</b>. Não é José da Silva Pitta.</li></ul>
+      </div>
+      <div class="house">
+        <div class="couple">Pedro da Sylva × Maria Fernandes</div>
+        <div class="era">Livro 5.º · fl. 34 · img. 68 · 1758</div>
+        <ul><li>Avô paterno dos <b>Pereira da Silva</b>. Distinto de Pedro da Sylva de Ponte e de Pedro da Silva Pitta.</li></ul>
+      </div>
+      <div class="house">
+        <div class="couple">Dois João Pitta</div>
+        <div class="era">Livro 5.º · fl. 21 e fl. 50</div>
+        <ul><li>Um filho de <b>Domingos</b> Fernandes Pitta, outro de <b>Manoel</b> Fernandes Pitta. Confundi-los funde duas casas distintas.</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Registo das fontes</h2>
+    <p class="h2sub">
+      Os nove assentos lidos diretamente na imagem. Todos no fundo PT/ABM/PPTS01, freguesia
+      de N.ª S.ª da Piedade dos Canhas.
+    </p>
+
+    <div class="reg">
+      <div class="rec">
+        <div class="loc"><b>Liv. 3.º</b>fl. 49 · img. 100<br>21 dez. 1714</div>
+        <div class="txt"><b>João Gonçalves × Maria Pitta.</b> Ele filho de João Gonçalves e Maria da Silva; ela filha de Francisco Vieyra e Maria Pitta. <i>Leitura parcial.</i></div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 21 · img. 43<br>29 jul. 1756</div>
+        <div class="txt"><b>Felippe da Sylva × Ritta Pitta.</b> Ela filha de João Pitta e Magdalena da Sylva; neta paterna de <b>Domingos Fernandes Pitta</b> e Maria Vieyra; neta materna de Manoel Rodrigues Jardim e Izabel Rodrigues.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 34 · img. 68<br>27 set. 1758</div>
+        <div class="txt"><b>Francisco Pereira da Sylva × Maria Pitta de Abreu.</b> Ela filha de João de Abreu e Maria Pitta; neta paterna de Amaro de Abreu e Maria Coelho; neta materna de <b>João Pitta e de sua primeira molher Maria do Espírito Santo</b>.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 38 · img. 77<br>c. 1759</div>
+        <div class="txt"><b>[?] da Sylva × Maria Caetana Pitta.</b> Ela filha de João Coelho e Anna Pitta; neta materna de <b>Manoel Rodrigues Pitta</b> e Maria Vieyra.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 40 · img. 80<br>24 jan. 1760</div>
+        <div class="txt"><b>Manoel Rodrigues × Jacinta Pitta.</b> Ela filha de João Rodrigues Carneiro e Maria Pitta; neta materna de <b>Pedro da Sylva de Ponte e Maria Pitta</b>. Testemunha que assina: <b>Francisco da Sylva Pitta</b>.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 50 · img. 100<br>30 mai. c. 1761</div>
+        <div class="txt"><b>Jozeph Pitta × Izabel Gonçalves da Conceição.</b> Ele filho de João Pitta e Anna da Sylva, <b>neto paterno de Manoel Fernandes Pitta</b>.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 71 · img. 142<br>10 jan. 1765</div>
+        <div class="txt"><b>Francisco da Sylva × Sebastianna Pitta.</b> Ela irmã de Jacinta, mesmos pais. Ele viúvo de Francisca da Sylva. Dispensados em 3.º com 4.º grau de consanguinidade.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 227 · img. 454<br>nov. 1789</div>
+        <div class="txt"><b>João Pitta × Francisca de Ponte.</b> Ele <b>filho legítimo de Pedro da Silva Pitta e Antónia de S…</b>, do Outeiro. Ela filha de Manoel Luís Machado e Marianna de Ponte.</div>
+      </div>
+      <div class="rec">
+        <div class="loc"><b>Liv. 5.º</b>fl. 229 · img. 458<br>c. 1790</div>
+        <div class="txt"><b>Manoel da Sylva × Magdalena Pitta.</b> Ele filho de João da Sylva e <b>Maria Caetana Pitta</b>; ela filha de Francisco Pereira e <b>Maria Pitta de Abreu</b> — os noivos de 1758 e 1759 reaparecem aqui como pais.</div>
+      </div>
+    </div>
+
+    <p class="note" style="margin-top:22px">
+      As imagens que o ABM publica têm 936 × 1395 px: a variante de alta resolução consta do
+      catálogo mas o servidor recusa-a. O texto lê-se depois de recortar e ampliar 2×; acima de
+      3× não há mais informação no ficheiro. Apelidos como <i>Bolhas</i>, <i>Borges</i>,
+      <i>Montoya</i> e <i>Piqueno</i> são leituras prováveis, não certezas.
+    </p>
+  </section>
+
+</div>
