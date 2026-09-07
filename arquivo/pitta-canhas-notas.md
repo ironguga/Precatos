@@ -1001,3 +1001,38 @@ Pedro Pitta**. Mas «não aparece» não é «não existiu».
 Os irmãos desta Maria. Se aparecerem mais filhos de **Pedro da Silva Pitta e
 Catharina Gonsalves** entre 1743 e 1751, e depois nada, a hipótese do segundo
 casamento ganha corpo. Procuro-os a seguir.
+
+---
+
+# Laura dos Santos: a data da morte
+
+**26 Abr 1749, Livro 5.º de óbitos dos Canhas, fl. 2 (imagem 4)**
+
+> Em os vinte e seis dias do mes de Abril de mil sete centos e quarenta e nove
+> annos faleceo **Laura dos Santos, mulher de Francisco da Sylva Pitta**, com
+> todos os Sacramentos de bem morrer. Foi sepultada nesta Igreja em cova da
+> fabrica. Fez seu testamento aprovado; declara nelle **seu marido Francisco
+> da Sylva Pitta por seu testamenteiro**.
+
+Margem: cova, direitos, missa de prima, enfermeiros, acompanhamento, e
+«Testamenteiro seu marido Fr.co da Sylva Pitta».
+
+Os assentos de 23 Set 1754 (fl. 9) e 14 Set 1770 (fl. 100v) diziam apenas «já
+defunta». Agora tem data exacta, e o testamento dela nomeia o marido — o que
+volta a atestar o casal, pela sexta vez.
+
+## Nota sobre a busca de Catharina Gonsalves
+
+Se Pedro enviuvou do primeiro casamento, Catharina Gonsalves teria morrido
+entre Dez 1748 (nascimento da filha Maria) e meados dos anos 50. Li os
+fólios 1 a 20 do Livro 5.º de óbitos (Fev 1749 – Dez 1750) sem a encontrar.
+As margens deste livro dão só o nome próprio, pelo que a busca tem de ser
+feita no corpo, fólio a fólio. Fica por acabar: fólios 21 a 60, anos
+1751–1757.
+
+## Um teste que deu negativo, e registo-o
+
+A filha Maria, baptizada em Dez 1748, casaria por volta de 1770–76. O único
+assento candidato que restava por ler — **12 Jul 1776, fl. 139v (imagem 279)**,
+João da Silva com **Maria Pitta** — dá-lhe outra filiação: «filha de **Manoel
+Pereira da Costa** e de sua mulher…». Não é ela.
