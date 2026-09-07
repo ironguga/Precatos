@@ -665,3 +665,76 @@ igualmente bem. Classificação: **HIPÓTESE**, não elevo.
   (1793 e 1801), Clara Pitta viúva, Francisco Pitta (c. 1796), Manoel Pitta
   viúvo (c. 1804), António Pitta, Anna Pitta mulher de João Vieira, Maria
   Pitta viúva.
+
+---
+
+# O ACHADO — Maria Vieyra Pitta tem um filho chamado Pedro Pitta
+
+**23 Dez 1757, Livro 5.º de óbitos dos Canhas, fl. 50 (imagem 99)**
+
+> Em os vinte e tres dias do mes de Dezembro de mil e sete centos, e sincoenta
+> e sete annos faleceu com todos os Sacramentos de bem morrer **Maria Vieyra
+> Pitta**, desta freguezia. Foi sepultada nesta Igreja de Nossa Senhora da
+> Piedade em cova da fabrica, e fez hum ajuntamento em que dispôs no que toca
+> à igreja, e que se lhe acha à margem, de que fis este termo. Canhas era ut
+> supra. — O Vigário Jozeph Glz de Andrade
+
+**Margem direita**, lida a 8× de ampliação, sem qualquer ambiguidade:
+> C. f.ª 400 · **Testamentr.º seu f.º PEDRO PITTA e M.el Jozeph Pitta**
+
+**Margem esquerda** (a disposição): 3 P.D. nocturnas, missas; deixa uma quarta
+da fazenda a uma neta já casada com pensão de 5 missas; deixa o resto a
+**Manoel Jozeph Pitta** com missas.
+
+## Porque isto importa
+
+"Maria Vieyra Pitta" é **exactamente** o nome que o assento de 22 Set 1754
+(Livro 5.º de casamentos, fl. 8v) dá à mulher de **Pedro da Sylva de Ponte**:
+> «…e materna de **Pedro da Sylva de Ponte** e de sua mulher **Maria Vieyra
+> Pitta**»
+
+A mesma mulher aparece ainda como «Maria Roiz Pitta» (1730), «Maria Pitta»
+(1754, 1760) e «Maria Vieyra de Ponte» (1759) — a variação de apelido é a
+regra nesta freguesia, não a excepção.
+
+Cronologia: filhos dela casam em 1725 e 1730, logo nasceu por volta de 1685 e
+morre com uns 72 anos. Encaixa sem forçar.
+
+**A hipótese pedia que tivesse existido um filho chamado Pedro naquela casa.
+O documento diz agora que existiu, e nomeia-o: Pedro Pitta, vivo em Dezembro
+de 1757.**
+
+## O que isto prova e o que não prova
+
+**PROVADO POR DOCUMENTO:** Maria Vieyra Pitta, falecida a 23 Dez 1757 nos
+Canhas, teve um filho chamado **Pedro Pitta**.
+
+**MUITO PROVÁVEL:** que essa Maria Vieyra Pitta seja a mulher de Pedro da
+Sylva de Ponte — o nome completo é o mesmo, a freguesia é a mesma, a
+cronologia bate, e em seis livros lidos não aparece outra.
+
+**MUITO PROVÁVEL:** que esse Pedro Pitta seja **Pedro da Silva Pitta do
+Outeiro** — em seis livros lidos (dois de casamentos, três de baptismos, dois
+de óbitos, 1692 a 1814) não há outro Pedro Pitta. Ambos estão vivos e activos
+nos Canhas em meados do século, ambos são escolhidos testamenteiros (ele em
+1791), e o apelido composto «da Silva Pitta» é precisamente o que se espera de
+um filho de Pedro da **Silva** de Ponte com Maria **Pitta**.
+
+**NÃO PROVADO:** nenhum documento diz ainda, com todas as letras, «Pedro da
+Silva Pitta, filho de Pedro da Sylva de Ponte e de Maria Vieyra Pitta». O que
+mudou é que os dois lados da ponte estão agora documentados; falta a trave.
+
+## Consequência para a árvore
+
+Se a identificação se confirmar, a linha sobe **três gerações** de uma vez:
+
+    António Correa × Maria de Ponte      Francisco Pitta × Maria Rodrigues
+                          ↓                        ↓
+            Pedro da Sylva de Ponte × Maria Vieyra Pitta  († 23 Dez 1757)
+                                    ↓
+              PEDRO (DA SILVA) PITTA × Antónia da Silva  — o Outeiro
+                                    ↓
+                    José da Silva Pitta × Maria Gomes (1791)
+
+e o tecto passa de Pedro para **António Correa e Maria de Ponte**, geração de
+cerca de 1650 — quatro gerações acima do que estava.
