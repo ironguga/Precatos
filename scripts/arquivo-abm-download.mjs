@@ -26,8 +26,9 @@ const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 const HEADERS = { 'User-Agent': UA, 'Accept-Language': 'pt-PT,pt;q=0.9,en;q=0.8' };
 
-// Da melhor para a pior qualidade.
-const QUALIDADES = ['MASTER', 'DISSEMINATION', 'THUMB'];
+// Da melhor para a pior qualidade. ORIGINAL é a digitalização completa;
+// DISSEMINATION é a cópia reduzida que o visualizador mostra (~936 px).
+const QUALIDADES = ['ORIGINAL', 'MASTER', 'DISSEMINATION', 'THUMB'];
 
 function parsePages(spec) {
   const out = [];
