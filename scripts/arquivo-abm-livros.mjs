@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * Enumera os livros da paróquia dos Canhas (fundo PT/ABM/PPTS01) no Archeevo.
+ * Enumera as descrições de um fundo do Archeevo pelo código de referência.
  *
- * A busca por termo é difusa e o Archeevo não expõe hierarquia
- * (/parents, /children devolvem 404). Mas os IDs das descrições de um mesmo
- * fundo ficam em bloco: o Livro 5.º de casamentos é o 41778, portanto os
- * livros de baptismos e os outros de casamentos estão à volta. Varremos o
- * bloco e ficamos com o que tiver PPTS01 no código de referência.
+ * A varredura por ID é lenta e os IDs de uma paróquia não são contíguos. A
+ * busca (/api/descriptions/search?q=) é difusa, mas aceita o próprio código de
+ * referência como termo — o que permite pedir a série toda de uma vez.
+ *
+ * Uso: node scripts/arquivo-abm-livros.mjs [termos...]
  */
 const origem = 'https://arquivo-abm.madeira.gov.pt';
 const H = {
@@ -15,28 +15,44 @@ const H = {
   Accept: 'application/json',
 };
 
-const inicio = Number(process.argv[2] ?? 41700);
-const fim = Number(process.argv[3] ?? 41860);
+const termos = process.argv.slice(2);
+if (!termos.length) termos.push('PT/ABM/PPTS01/001', 'PT/ABM/PPTS01/002', 'PPTS01 baptismos', 'Canhas 1765');
 
-console.log(`A varrer descrições ${inicio}..${fim}\n`);
-console.log('    ID  CÓDIGO                        DATAS            TÍTULO');
+const vistos = new Map();
 
-const achados = [];
-for (let id = inicio; id <= fim; id++) {
-  try {
-    const res = await fetch(`${origem}/api/descriptions/${id}`, { headers: H });
-    if (!res.ok) continue;
-    const d = await res.json();
-    const cod = d.CompleteUnitId ?? '';
-    if (!/PPTS01/i.test(cod)) continue;
-    const linha = `${String(id).padStart(6)}  ${cod.padEnd(28)} ${(d.UnitDateInitial ?? '').slice(0, 10)}..${(d.UnitDateFinal ?? '').slice(0, 10)}  ${d.UnitTitle ?? ''}`;
-    console.log(linha);
-    achados.push({ id, cod, titulo: d.UnitTitle });
-  } catch {
-    /* segue */
+for (const termo of termos) {
+  for (let pagina = 1; pagina <= 4; pagina++) {
+    let r;
+    try {
+      const res = await fetch(
+        `${origem}/api/descriptions/search?q=${encodeURIComponent(termo)}&page=${pagina}&perPage=50`,
+        { headers: H }
+      );
+      if (!res.ok) break;
+      r = await res.json();
+    } catch {
+      break;
+    }
+    const itens = r.Items ?? r.items ?? [];
+    if (!itens.length) break;
+    for (const it of itens) {
+      const cod = it.CompleteUnitId ?? '';
+      if (!/PPTS01/i.test(cod)) continue;
+      const id = it.ID ?? it.Id;
+      if (vistos.has(id)) continue;
+      vistos.set(id, {
+        id,
+        cod,
+        ini: (it.UnitDateInitial ?? '').slice(0, 10),
+        fim: (it.UnitDateFinal ?? '').slice(0, 10),
+        tit: it.UnitTitle ?? '',
+      });
+    }
   }
 }
 
-console.log(`\n${achados.length} descrições da paróquia dos Canhas encontradas.`);
-console.log('\nURLs do visualizador:');
-for (const a of achados) console.log(`  ${origem}/viewer/descriptions/${a.id}   ${a.titulo ?? ''}`);
+const achados = [...vistos.values()].sort((a, b) => a.cod.localeCompare(b.cod));
+console.log(`\n=== ${achados.length} descrições da paróquia dos Canhas ===`);
+console.log('    ID  CÓDIGO                        DATAS                    TÍTULO');
+for (const a of achados)
+  console.log(`${String(a.id).padStart(6)}  ${a.cod.padEnd(28)} ${a.ini}..${a.fim}  ${a.tit}`);
