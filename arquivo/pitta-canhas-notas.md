@@ -837,3 +837,42 @@ prova nada em nenhum dos sentidos.
 Fica portanto o que fica: **a 23 Dez 1757 morreu nos Canhas uma Maria Vieyra
 Pitta cujo testamenteiro era o seu filho Pedro Pitta.** É o primeiro Pedro
 Pitta que aparece nomeado como filho de alguém em toda a investigação.
+
+---
+
+# Livro 6.º de baptismos (1743–1751) — a via que não precisa do pedido ao ABM
+
+Raciocínio: Pedro casou antes de Janeiro de 1754. Qualquer filho nascido entre
+1743 e 1751 tem o baptismo neste livro, **e estes assentos declaram os quatro
+avós** — verificado no corpo (fl. 29, fl. 124, fl. 157, fl. 160). Um só desses
+assentos nomearia os pais de Pedro directamente. Não é indício: é a resposta.
+
+## Cobertura até agora
+
+Varridas as margens de cerca de **200 das 321 imagens** — os troços 1-100,
+121-130, 151-160, 181-190, 211-250 e 291-321 — e lidos os corpos de fl. 29,
+124, 157 e 160.
+
+**Não apareceu nenhum filho de um Pedro.** Os pais que a margem nomeia nesses
+troços são dezenas, e nenhum é Pedro.
+
+## Onde a varredura não serve, e é preciso ler o corpo
+
+A margem deste livro muda de mão e de formato. Em cerca de metade dos fólios
+dá **«Nome f.º de PAI e MÃE»** — e aí a leitura é limpa. Noutros troços é
+lápis desmaiado com só o nome próprio da criança, e aí a margem **não prova
+nada**: um filho de Pedro pode lá estar sem que a margem o diga.
+
+Os troços por ler no corpo são as imagens **101-120, 131-150, 161-180,
+191-210, 251-290** — cerca de 120 imagens, 60 aberturas.
+
+## Achados laterais desta passagem
+
+- **fl. 157 (img 311)** e **fl. 160 (img 316)**, 1751 — filhos de **An.to Pitta
+  × Sebastiana da Sylva** e de **M.el Pitta × Luzia Glz**.
+- **img 296**, c. 1750 — Manoel, filho de **Francisco Pitta e Thereza de
+  Jesus**: o casal cujo filho António Pita casa em 1785, atestado 35 anos antes.
+- **img 217**, c. 1748 — João, filho de **João Roiz Torneiro e Maria Pitta**:
+  um quarto filho do casal, além de Anna Maria (1734), Antónia e Jacinta.
+- **img 314** — Maria, filha de M.el Vieira e **Clara Pitta**.
+- **img 247** — Maria, filha de Francisco da Sylva e **Maria Pitta**.
