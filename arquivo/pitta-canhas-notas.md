@@ -591,3 +591,77 @@ confirmado; o assento não nomeia a mulher dele.
 
 Ser escolhido testamenteiro, e assinar, diz também alguma coisa sobre a
 condição dele: não era um lavrador iletrado qualquer.
+
+---
+
+# Quinta campanha — o Livro 7.º de óbitos (1783–1814)
+
+Varridas as margens das imagens 1–30 e **171–510** (fólios 86–255, anos
+1792–1806) por inteiro, mais amostras em 511–520, 531–540, 551–560, 571–580,
+601–610, 641–650 e 681–690. Cada assento de enterro dá, na margem, o nome do
+defunto; o corpo dá o cônjuge, a morada e quem levou o testamento.
+
+## 1. Pedro vivo em 1791, e a sogra dele
+
+**11 Nov 1791, fl. 97 (img 190–191)** — já registado acima. Izabel Gonçalves,
+viúva de Lucas; testamenteiro e genro **Pedro da S.ª Pita**; em sua falta o
+genro Manoel Cabral. Ao fólio seguinte: «Levou os apontamentos seu Genro, e
+assigna: **P.º da S.ª Pitta**».
+
+## 2. O que NÃO está no livro
+
+**Não há enterro de nenhum Pedro da Silva Pitta entre 1792 e 1806.** Percorri
+margem a margem os 340 fólios desse intervalo. Os únicos Pedro que aparecem
+são: Pedro Gonçalves (testamenteiro, 1808), P.º Roiz (testamenteiro, 1799) e
+Jozé Jozé de Ponte (1804, que li primeiro como Pedro e não é).
+
+Isto tem três leituras possíveis, e não escolho nenhuma sem prova:
+1. Pedro morreu depois de 1806, no troço que ainda não varri por inteiro;
+2. morreu fora da freguesia;
+3. está lá sob uma forma do nome que não reconheci.
+
+## 3. O fio que mais promete, e a sua fragilidade
+
+**c. 1801, fl. 188 (img 379)** — margem lida a 4,2× de ampliação, sem
+ambiguidade:
+> «Levou o testam.to **P.º da S.ª de Ponte** e assignou.»
+
+E o testamento que ele executa, de Joaquim Ferreira, diz:
+> «…que deixa a seu **Sobrinho Joze, filho de Pedro da Sylva**, o que lhe
+> pertencer da sua fazenda…»
+
+Ou seja: em Canhas, entre 1791 e 1801, há um homem que executa testamentos e
+assina, chamado ora **Pedro da Silva Pita**, ora **Pedro da Silva de Ponte** —
+os dois apelidos exactos que a hipótese B prevê para um filho de **Pedro da
+Sylva de Ponte × Maria Pitta** (da Silva de Ponte pelo pai, Pitta pela mãe).
+
+Reforço: **entre 1754 e 1793 não casou nos Canhas nenhum Pedro da Silva de
+Ponte nem nenhum Pedro da Silva Pitta** — li o livro inteiro. Ambos os nomes
+estão activos na paróquia em 1791–1801. Ou são dois homens que casaram ambos
+no Livro 4.º em falta, ou são **um só**.
+
+**Fragilidade, que registo contra mim:** o assento de 1801 distingue o
+testamenteiro («Pedro da Silva de Ponte») do pai do sobrinho («Pedro da
+Sylva»); se fossem o mesmo, o pároco teria escrito «seu filho». E Pedro da
+Sylva de Ponte era nome corrente naquela casa — um neto homónimo explica tudo
+igualmente bem. Classificação: **HIPÓTESE**, não elevo.
+
+## 4. Outros cruzamentos que o livro de óbitos deu
+
+- **26 Fev 1800, fl. 248 (img 349)** — **Antónia Pitta, viúva de Manoel Vieira
+  de Gouvea, moradora no Lombo do Alto**. É a Antónia Pitta que casou a 27 Fev
+  1759 (fl. 36), filha de João Rodrigues Torneiro e Maria Pitta, neta de Pedro
+  da Sylva de Ponte. Quarenta e um anos entre os dois assentos.
+- **25 Fev 1800, fl. 248** — **Maria Lourença, viúva, moradora no Lombo da
+  Piedade**: a mulher do Alferes Manoel da Sylva Pitta, que morre portanto
+  antes de 1800.
+- **c. 1793, fl. …(img 273)** — **José da Silva Pitta** recebe um testamento e
+  assina de cruz. É o filho de Pedro, casado em 1791: iletrado, ao contrário
+  do pai.
+- **1801–1802** — o **Padre Manoel José Pitta** serve a paróquia e assina
+  dezenas de assentos; antes dele, nos anos 80 e 90, o **Padre Manoel dos
+  Ramos Pitta**. A casa tinha clero.
+- Mortes Pitta ao longo do livro: Manoel Joze Pitta (c. 1794), Luiza Pitta
+  (1793 e 1801), Clara Pitta viúva, Francisco Pitta (c. 1796), Manoel Pitta
+  viúvo (c. 1804), António Pitta, Anna Pitta mulher de João Vieira, Maria
+  Pitta viúva.
