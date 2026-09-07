@@ -115,7 +115,8 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          test -s arquivo/abm-canhas-acervo.txt || node scripts/arquivo-abm-canhas.mjs 41000 43000 > arquivo/abm-canhas-acervo.txt 2> >(tail -5 >&2)
+          node scripts/arquivo-abm-canhas.mjs 43000 60000 > arquivo/abm-canhas-acervo-2.txt 2> >(tail -5 >&2) || true
+          tail -80 arquivo/abm-canhas-acervo-2.txt
           tail -60 arquivo/abm-canhas-acervo.txt
 
       - name: Comitar o levantamento
@@ -123,7 +124,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -f arquivo/abm-canhas-acervo.txt
+          git add -f arquivo/abm-canhas-acervo.txt arquivo/abm-canhas-acervo-2.txt
           if git diff --cached --quiet; then
             echo 'Levantamento sem alterações.'
             exit 0
