@@ -1099,3 +1099,42 @@ Antónia podem ter nascido depois de Janeiro de 1765**, quando este livro acaba.
 Se Francisca casou aos 21 em 1786, nasceu em 1765; João em 1789, nasceu em 1768;
 José em 1791, em 1770. Todos cairiam no **Livro 8.º (1765–1780)** — o que está
 catalogado com **zero páginas digitalizadas**.
+
+## O rol de crismados do Livro 7.º (fl. 254-257, imagens 509-517)
+
+Três colunas — **Crismados · Pays · Padrinhos** —, mais de trezentos rapazes e
+outras tantas raparigas, cada um com o nome do pai. É o índice nominal mais
+denso de toda a paróquia, e não existia nos livros que eu tinha.
+
+Lidas as folhas 509-514 por inteiro. **Nenhum crismado filho de um Pedro da
+Silva Pitta.**
+
+Pitta que aparecem, todos como padrinhos ou madrinhas: **Euzebio Pitta**,
+**Manoel Pitta**, **Manoel da Silva Pitta**, **Bras Pitta**, **Manoel Pitta da
+Cova**, **Anna Pitta**, **Maria Pitta**, **Mariana Pitta**, **Sebastiana
+Pitta**, **Quiteria dos Santos Pitta**. E como pais: Manoel Pitta, Manoel da
+Silva Pitta, Manoel José Pitta.
+
+## A conclusão estrutural, que vale mais do que mais uma varredura
+
+Cruzando tudo:
+
+- O Livro 7.º de baptismos acaba a **30 de Janeiro de 1765**.
+- Francisca casa em **Out 1786**, João em **Nov 1789**, José em **1791**.
+- Aos 21 anos, nasceriam em **1765, 1768 e 1770** — todos **depois** do fim
+  deste livro.
+- Nenhum filho de um Pedro da Silva Pitta aparece neste livro nem no rol de
+  crismados, nem no Livro 6.º (1743-1751) além da Maria de 1748.
+
+**A leitura mais simples é que Pedro casou segunda vez, com Antónia da Silva,
+por volta de 1763-64, e que os três filhos documentados nasceram entre 1765 e
+1771** — precisamente na janela do **Livro 8.º de baptismos (1765-1780)**, que
+está catalogado no ABM com **zero páginas digitalizadas**.
+
+Isso explica, sem forçar nada, todos os negativos acumulados:
+o silêncio do Livro 7.º, o silêncio do rol de crismados, a ausência de irmãos
+da Maria de 1748, e a mudança de morada das Salas de Cruz (1748) para o
+Outeiro (1786).
+
+**Não é prova. É a hipótese que sobrevive a tudo o que li.** E aponta para um
+só documento: o Livro 8.º, que existe fisicamente no ABM e não está em linha.
