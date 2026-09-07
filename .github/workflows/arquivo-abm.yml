@@ -30,7 +30,7 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  ABM_LIVROS: ''
+  ABM_LIVROS: '48627:1-460 44109:1-20 48628:1-200'
 
 jobs:
   baixar:
@@ -52,6 +52,7 @@ jobs:
       # O levantamento exaustivo vai para um ficheiro comitado na branch: o
       # ambiente do agente não alcança nem o artefacto nem o log do run.
       - name: Interrogar o índice nominal do ABM
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -69,6 +70,7 @@ jobs:
           }
 
       - name: Procurar em genealogias publicadas e fóruns
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -86,6 +88,7 @@ jobs:
           }
 
       - name: Procurar séries notariais e judiciais
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -102,7 +105,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-sondar.mjs | tee arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-sondar.mjs 48627 48626 48628 44108 44109 44110 | tee arquivo/abm-canhas-sonda.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-canhas-sonda.txt
@@ -112,6 +115,7 @@ jobs:
           }
 
       - name: Levantar todo o acervo dos Canhas
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
