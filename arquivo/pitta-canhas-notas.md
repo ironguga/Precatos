@@ -1297,3 +1297,39 @@ Continua nos quatro nomes da décima geração — **António Correa × Maria de
 Ponte** e **Francisco Pitta × Maria Rodrigues** —, declarados no assento de
 6 Nov 1730. Subir acima deles depende de encontrar o casamento de Pedro da
 Sylva de Ponte no Livro 3.º, ou de identificar com segurança o assento de 1677.
+
+## Varredura para subir acima da décima geração — resultado
+
+**Livro 3.º de casamentos (1692–1743), imagens 19 a 90** — anos c. 1695 a 1712,
+varridas por margem. **Não aparece o casamento de Pedro da Sylva de Ponte com
+Maria (Vieyra/Roiz) Pitta.** Os «Pedro» que aparecem são:
+
+| Imagem | Margem | Verdicto |
+|---|---|---|
+| 51 | P.º Roiz com M.ª de Souza | outro |
+| 54 | P.º Frz com M.ª Jozeph | outro |
+| 81 | Pedro Ro[iz], filho de Manoel Ro[iz] | outro |
+| 86 | P.º da Silva com Izabel dos Anjos | noiva não bate |
+| 89 | P.º de [Ponte?] com M.ª […] | **ilegível** |
+
+A imagem 89 é o único candidato que não consigo excluir, e **não consigo
+lê-la**: o repasse do verso é tão forte quanto a escrita, e nem a subtracção
+de fundo a 3,4× a resolve. Fica assinalada, não interpretada.
+
+Colhido de passagem, e novo: **imagem 23 — «M.el Glz Pitta com D.os Glz»** e
+**imagem 27 — «M.el Pitta com Izabel Roiz»**, dois casamentos Pitta de 1697 que
+eu não tinha, na mesma página do assento de João Pitta × Maria do Espírito
+Santo.
+
+## Onde isto deixa o tecto
+
+**Não subo acima da décima geração.** Continuam **António Correa × Maria de
+Ponte** e **Francisco Pitta × Maria Rodrigues**, declarados no assento de
+6 Nov 1730, e não os movo sem documento.
+
+O que falta varrer, e pode ainda dar: imagens 1-18 e 91-130 do Livro 3.º, e
+145-257 do Livro 2.º. Mas registo a razão pela qual a probabilidade baixou:
+se o casamento de Pedro da Sylva de Ponte estivesse nas imagens 19-90, que é
+onde a cronologia o põe, já teria aparecido. As duas explicações que restam —
+casou antes de 1692, ou casou noutra freguesia — apontam ambas para fora do
+que varri, e a segunda para fora do que tenho.
