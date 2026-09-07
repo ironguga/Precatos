@@ -1,0 +1,67 @@
+name: Baixar imagens do Arquivo ABM
+
+# O runner do GitHub tem internet aberta, ao contrário do ambiente do agente,
+# onde arquivo-abm.madeira.gov.pt está bloqueado pelo proxy de egresso.
+# Corre a cada push nesta branch; as imagens saem como artefacto do run.
+on:
+  push:
+    branches: [claude/arquivo-historico-imagens-ynij2b]
+    paths:
+      - '.github/workflows/arquivo-abm.yml'
+      - 'scripts/arquivo-abm-download.mjs'
+  workflow_dispatch:
+    inputs:
+      url:
+        description: URL do visualizador
+        required: false
+        default: https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955
+      paginas:
+        description: 'Imagens a baixar (ex.: 145-149,151-155)'
+        required: false
+        default: 145-149,151-155
+
+env:
+  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '145-149,151-155' }}
+
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Listar imagens do documento
+        run: node scripts/arquivo-abm-download.mjs "$ABM_URL" --list | head -400
+
+      - name: Baixar imagens em alta resolução
+        run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
+
+      - name: Conferir o que foi baixado
+        run: |
+          ls -lh imagens
+          command -v identify >/dev/null && identify imagens/*.jpg || true
+
+      - name: Versão reduzida (leitura rápida no browser)
+        run: |
+          mkdir -p imagens-preview
+          for f in imagens/*.jpg; do
+            convert "$f" -resize 2000x2000\> -quality 85 "imagens-preview/$(basename "$f")"
+          done
+          ls -lh imagens-preview
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: imagens-alta-resolucao
+          path: imagens/
+          retention-days: 90
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: imagens-preview
+          path: imagens-preview/
+          retention-days: 90
