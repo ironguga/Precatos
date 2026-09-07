@@ -805,3 +805,35 @@ Não escolho. A identificação anterior era minha, não do documento, e retiro-
    Pitta).
 3. **O casamento de Anna Pitta com João Coelho** — se declarar irmãos, ou se
    algum assento nomear os filhos de Manoel Rodrigues Pitta.
+
+## O testamento de 23 Dez 1757, lido por inteiro
+
+Margem esquerda, a 7× de ampliação:
+> «3 P.D. nocturnas · Missas C… · **Deixa 4.ª de fazenda a sua neta, que já he
+> casada, Maria C[orrea?]**, com pensão de 5 Missas por sua alma… Deixa o
+> resto a [M.el] Jozeph Pitta com Missas…»
+
+Margem direita:
+> «C. f.ª 400 · **Testamentr.º seu f.º Pedro Pitta e M.el Jozeph Pitta**»
+
+A neta chama-se **Maria**, e o apelido lê-se com um C ou P inicial de laçada
+larga: **Correa** é a leitura mais provável, **Perreira** a alternativa. Não
+fixo nenhuma.
+
+Se for **Correa**, pesa a favor da casa de Ponte: os avós paternos de Pedro da
+Sylva de Ponte são **António Correa e Maria de Ponte** (assento de 1730), e o
+apelido corre naquela família. Mas é indício, não prova, e digo-o.
+
+## Retiro também o meu «indício contra (a)»
+
+Escrevi acima que os assentos de 1759 e 1760 não chamam «já defunta» à mulher
+de Pedro da Sylva de Ponte, e que isso apontava para ela estar viva. **O
+argumento não se sustenta:** o assento de 24 Set 1759 (fl. 38v) dá «neta
+materna de **Manoel Rodrigues Pitta** e de sua mulher Maria Vieyra» sem lhe
+chamar «já defunto» — e Manoel Rodrigues Pitta morreu, provadamente, a 23 de
+Março de 1757. Este pároco omite a fórmula mesmo quando sabe. O silêncio não
+prova nada em nenhum dos sentidos.
+
+Fica portanto o que fica: **a 23 Dez 1757 morreu nos Canhas uma Maria Vieyra
+Pitta cujo testamenteiro era o seu filho Pedro Pitta.** É o primeiro Pedro
+Pitta que aparece nomeado como filho de alguém em toda a investigação.
