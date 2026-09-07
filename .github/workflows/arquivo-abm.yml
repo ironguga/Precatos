@@ -22,7 +22,7 @@ on:
 
 env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41777' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '16-140' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '141-290' }}
 
 jobs:
   baixar:
