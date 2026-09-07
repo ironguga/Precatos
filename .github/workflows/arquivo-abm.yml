@@ -13,6 +13,7 @@ on:
       - 'scripts/arquivo-abm-livros.mjs'
       - 'scripts/arquivo-abm-indexados.mjs'
       - 'scripts/arquivo-abm-canhas.mjs'
+      - 'scripts/arquivo-abm-sondar.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -47,11 +48,24 @@ jobs:
 
       # O levantamento exaustivo vai para um ficheiro comitado na branch: o
       # ambiente do agente não alcança nem o artefacto nem o log do run.
+      - name: Sondar o que está mesmo digitalizado
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-sondar.mjs | tee arquivo/abm-canhas-sonda.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-canhas-sonda.txt
+          git diff --cached --quiet || {
+            git commit -m 'Sonda: que livros dos Canhas têm mesmo imagens em linha'
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME"
+          }
+
       - name: Levantar todo o acervo dos Canhas
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-canhas.mjs 41000 43000 > arquivo/abm-canhas-acervo.txt 2> >(tail -5 >&2)
+          test -s arquivo/abm-canhas-acervo.txt || node scripts/arquivo-abm-canhas.mjs 41000 43000 > arquivo/abm-canhas-acervo.txt 2> >(tail -5 >&2)
           tail -60 arquivo/abm-canhas-acervo.txt
 
       - name: Comitar o levantamento
