@@ -401,3 +401,58 @@ Pitta em Canhas não é alcunha arbitrária — **transmite-se também por via
 feminina**. A consequência prática é a mesma: dois Pitta dos Canhas podem não
 ter nenhum antepassado Pitta em comum pelo varão, e só a filiação declarada
 serve.
+
+---
+
+# Correcção importante: o acervo em linha é muito maior do que eu disse
+
+Eu tinha escrito que os baptismos dos Canhas param em 1708 e os óbitos em
+1678. **Estava errado.** A busca por texto do Archeevo é difusa e não devolve
+a série completa; um varrimento de IDs (41000–43000) filtrado pelo código da
+paróquia devolve 58 descrições. O levantamento está em
+`arquivo/abm-canhas-acervo.txt`.
+
+## O que existe em linha, e serve
+
+| ID | Código | Livro | Datas |
+|---|---|---|---|
+| 42081 | 001/00001 | 1.º de baptismos | 1593–1639 |
+| 42092 | 001/00003 | 2.º de baptismos | 1639–1680 |
+| 42119 | 001/00004 | 3.º de baptismos | 1680–1708 |
+| **41111** | **001/00006** | **5.º de baptismos** | **1725–1743** |
+| **42296** | **001/00007** | **6.º de baptismos** | **1743–1751** |
+| **42455** | **001/00009** | **8.º de baptismos** | **1765–1780** |
+| **42493** | **001/00010** | **9.º de baptismos** | **1780–1790** |
+| 41777 | 002/00003 | 3.º de casamentos | 1692–1743 |
+| 41778 | 002/00005 | 5.º de casamentos | 1754–1793 |
+| 41773 | 003/00002 | 2.º de óbitos | 1639–1678 |
+| **42580** | **003/00005** | **5.º de óbitos** | **1749–1771** |
+| **42393** | **003/00007** | **7.º de óbitos** | **1783–1814** |
+
+## O que falta mesmo
+
+- **Casamentos, Livro 4.º (002/00004), c. 1743–1754** — o código salta de
+  00003 para 00005. Continua a ser o buraco onde cai o casamento de Pedro.
+- Baptismos, Livro 4.º (001/00005), c. 1708–1725.
+- Baptismos, Livro 7.º (001/00008), c. 1751–1765.
+- Óbitos, livros 1.º, 3.º, 4.º e 6.º.
+
+## Porque isto muda tudo
+
+Um assento de baptismo declara a filiação. Se Pedro da Silva Pitta nasceu
+entre 1725 e 1743 — o que a cronologia exige, já que casa antes de 1754 e tem
+filhos a casar de 1786 a 1791 — **o seu baptismo está no Livro 5.º de
+baptismos, ID 41111**, e nomeia os pais dele directamente.
+
+Alvos secundários, por ordem:
+
+1. **41111** (baptismos 1725–1743) — o baptismo de Pedro.
+2. **42296** (baptismos 1743–1751) — os filhos mais velhos de Pedro, se casou
+   logo; e o baptismo de Pedro se nasceu depois de 1743.
+3. **42580** (óbitos 1749–1771) — a morte de **Laura dos Santos** (já defunta
+   em Set 1754) e a de **Francisco da Silva Pitta Estanqueiro** (já defunto em
+   Set 1770). Um óbito de adulto nesta época costuma nomear o cônjuge e por
+   vezes os filhos.
+4. **42393** (óbitos 1783–1814) — a morte do próprio **Pedro da Silva Pitta**,
+   vivo ainda em Nov 1789.
+5. **42455** e **42493** (baptismos 1765–1790) — os filhos mais novos de Pedro.
