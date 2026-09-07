@@ -1,15 +1,14 @@
 name: Baixar imagens do Arquivo ABM
 
-# O runner do GitHub tem internet aberta, ao contrário do ambiente do agente,
-# onde arquivo-abm.madeira.gov.pt está bloqueado pelo proxy de egresso.
-# Corre a cada push nesta branch; as imagens saem como artefacto do run.
+# O ambiente do agente tem arquivo-abm.madeira.gov.pt bloqueado pelo proxy de
+# egresso; o runner do GitHub tem internet aberta. Corre a cada push nesta
+# branch e publica as imagens como artefacto do run.
 on:
   push:
     branches: [claude/arquivo-historico-imagens-ynij2b]
     paths:
       - '.github/workflows/arquivo-abm.yml'
       - 'scripts/arquivo-abm-download.mjs'
-      - 'scripts/arquivo-abm-sniff.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -34,33 +33,29 @@ jobs:
         with:
           node-version: '22'
 
-      # O run anterior apanhou "The URL you requested has been blocked":
-      # o arquivo filtra do lado dele. Este passo identifica se é por
-      # cabeçalhos ou por IP de datacenter.
-      - name: Diagnóstico — descobrir o URL real das imagens
-        run: |
-          npm i -D playwright@1.49.1
-          npx playwright install --with-deps chromium
-          node scripts/arquivo-abm-sniff.mjs "$ABM_URL"
-
-      - name: Listar imagens do documento
-        continue-on-error: true
-        run: node scripts/arquivo-abm-download.mjs "$ABM_URL" --list | head -400
-
-      - name: Baixar imagens em alta resolução
-        continue-on-error: true
+      - name: Baixar imagens
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
 
-      - name: Conferir o que foi baixado
-        continue-on-error: true
+      - name: Conferir dimensões
         run: |
-          ls -lh imagens || true
-          for f in imagens/*.jpg; do magick identify "$f" 2>/dev/null || true; done
+          ls -lh imagens
+          for f in imagens/*.jpg; do
+            printf '%s  ' "$f"
+            node -e '
+              const b=require("fs").readFileSync(process.argv[1]);
+              let i=2;
+              while(i<b.length){
+                if(b[i]!==0xFF){i++;continue}
+                const m=b[i+1];
+                if(m>=0xC0&&m<=0xCF&&m!==0xC4&&m!==0xC8&&m!==0xCC){
+                  console.log(b.readUInt16BE(i+7)+" x "+b.readUInt16BE(i+5)+" px");break;
+                }
+                i+=2+b.readUInt16BE(i+2);
+              }' "$f"
+          done
 
-      - name: Publicar imagens
-        if: hashFiles('imagens/**') != ''
-        uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v4
         with:
-          name: imagens-alta-resolucao
+          name: imagens-canhas-casamentos
           path: imagens/
           retention-days: 90
