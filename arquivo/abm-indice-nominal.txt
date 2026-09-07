@@ -23,9 +23,9 @@ Casou com Manuel Pereira, em 13.02.1920, no Posto número dois do Registo Civil 
   UnitId: 000053
   AssociationCount: 1
   AllowTextualContentInference: true
-  ViewCount: 129
+  ViewCount: 130
   Created: 2017-04-12T10:24:27.6
-  Modified: 2026-06-30T22:15:02.16
+  Modified: 2026-09-07T23:05:39.397
   WithPartialPermissions: false
   PhysicalStorageAssociationCount: 2
   ProcessInfoDate: 0001-01-01T00:00:00
