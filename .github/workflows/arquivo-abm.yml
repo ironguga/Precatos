@@ -11,6 +11,7 @@ on:
       - 'scripts/arquivo-abm-download.mjs'
       - 'scripts/arquivo-abm-buscar.mjs'
       - 'scripts/arquivo-abm-livros.mjs'
+      - 'scripts/arquivo-abm-indexados.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -21,8 +22,8 @@ on:
         required: false
 
 env:
-  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41777' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '141-290' }}
+  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '156-451' }}
 
 jobs:
   baixar:
@@ -39,7 +40,11 @@ jobs:
 
       - name: Mapear os livros da paróquia dos Canhas
         continue-on-error: true
-        run: node scripts/arquivo-abm-livros.mjs 'PT/ABM/PPTS01' 'baptismos Canhas 1751' 'casamentos Canhas 1743'
+        run: node scripts/arquivo-abm-livros.mjs 'PT/ABM/PPTS01' 'PT/ABM/PPTS01/001' 'baptismos dos Canhas' 2>&1 | tail -40
+
+      - name: Procurar em fontes com indexação nominal
+        continue-on-error: true
+        run: node scripts/arquivo-abm-indexados.mjs
 
       - name: Baixar imagens
         run: |
