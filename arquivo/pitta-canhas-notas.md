@@ -503,3 +503,91 @@ pelo menos duas casas Pitta sem parentesco varonil provado entre si, além da
 de Pedro. **O lugar reforça a hipótese A, não a demonstra.** O que continua
 exclusivo da casa de Pedro da Sylva de Ponte é o apelido composto "da Silva
 Pitta" — e mesmo esse é usado também pelo Alferes Manoel da Sylva Pitta.
+
+---
+
+# Quarta campanha — os livros que faltavam ao meu levantamento
+
+## O que a sonda apurou (arquivo/abm-canhas-sonda.txt)
+
+Perguntei à API, livro a livro, quantas páginas responde. Resultado:
+
+| ID | Livro | Páginas em linha |
+|---|---|---|
+| 41111 | 5.º baptismos 1725–1743 | 363 |
+| 42296 | 6.º baptismos 1743–1751 | 321 |
+| **42455** | **8.º baptismos 1765–1780** | **0 — catalogado, não digitalizado** |
+| 42493 | 9.º baptismos 1780–1790 | 380 |
+| 42580 | 5.º óbitos 1749–1771 | 283 |
+| 42393 | 7.º óbitos 1783–1814 | 735 |
+| 42119 | 3.º baptismos 1680–1708 | 296 |
+| 41777 | 3.º casamentos 1692–1743 | 295 |
+| 41778 | 5.º casamentos 1754–1793 | 517 |
+
+O Livro 8.º de baptismos — onde cairia o baptismo de José da Silva Pitta,
+que casa em 1791 — **não tem imagens**. A descarga não falhava por erro do
+script.
+
+## O que o Livro 5.º de baptismos (1725–1743) provou, e o que desmentiu
+
+**9 Dez 1731, fl. 59 (img 116)**
+> a **Manoel**, que nasceo em 2 do dito mes, filho de **Francisco da Sylva
+> Pitta** e de sua mulher **Laura dos Santos**, neto paterno de **Pedro da
+> Sylva de Ponte** e de sua mulher **Maria Roiz Pitta**, e materno neto de
+> **Manoel Barretto** e de sua mulher **Felicia dos Santos**, todos desta
+> freguezia. Foi padrinho o **Morgado Henrique Moniz Cezar**.
+
+Primeiro filho do casal que casou a 6 Nov 1730. Leva o nome do avô **materno**.
+
+**26 Fev 1734, fl. 78** — **Anna Maria**, filha de João Roiz Torneiro e Maria
+Pitta, neta materna de **Pedro da Sylva de Ponte** e **Maria Vieyra**. É a
+mesma que casa a 22 Set 1754: cruzamento perfeito entre os dois livros.
+
+**4 Jul 1734, fl. 78** — **Laura dos Santos** aparece como madrinha.
+
+### O negativo, que é meu
+
+Varri as margens das 363 imagens deste livro. Em dezoito anos há **quatro**
+rapazes baptizados com o nome Pedro, e li os quatro:
+
+| Imagem | Data | Pai e mãe |
+|---|---|---|
+| 125 | 23 Jun 1732 | Pedro João, f. de … Vieira e Quitéria Glz |
+| 142 | 5 Jul 1733 | f. de **Sebastião Henriques** e Maria Roiz |
+| 153 | Jun 1734 | f. de **Diogo Rodrigues** e Izabel Roiz |
+| 234 | 4 Fev 1738 | f. de **José Rodrigues Mestre** e **Izabel Pitta** |
+
+**Nenhum é filho de Francisco da Silva Pitta.** Como Pedro da Silva Pitta
+casou antes de Janeiro de 1754 e o casal só casou em Nov 1730, **Pedro não
+pode ser filho deles**. A hipótese A, na forma em que a pus, cai — e fui eu
+que a construí.
+
+## A hipótese que fica no lugar
+
+Pedro nasceu **antes de Março de 1725** — Livro 4.º de baptismos (1708–1725),
+ausente — e casou entre 1743 e 1754 — Livro 4.º de casamentos, ausente. As
+duas únicas lacunas da série de casamentos e baptismos são exactamente as
+duas que o esconderiam.
+
+O lugar natural dele sobe uma geração: **filho de Pedro da Sylva de Ponte e
+de Maria (Vieyra/Roiz) Pitta**, portanto irmão de Francisco da Silva Pitta
+Estanqueiro e de Maria Pitta. Explica o nome próprio (o do pai), o apelido
+composto (da **Silva** de Ponte + **Pitta**), o Outeiro e a cronologia.
+Continua **HIPÓTESE**.
+
+## Pedro da Silva Pitta em 1791, vivo, num documento novo
+
+**11 Nov 1791, Livro 7.º de óbitos, fl. 97 (img 190–191)**
+> …faleceu com todos os Sacramentos de bem morrer **Izabel Glz, viúva de
+> Lucas**… fez um apontamento… deixou à sua filha **Maria** uma caixa… com
+> pensão de lhe mandar dizer uma missa, executada **por seu testamenteiro e
+> seu genro PEDRO DA S.ª PITA; em sua falta, seu genro Manoel Cabral**.
+> [fl. 97v] Levou os apontamentos seu Genro, e assigna: **P.º da S.ª Pitta**.
+
+Se este Pedro da Silva Pita é o nosso — e em três livros lidos não há outro —,
+então **Antónia da Silva é filha de Lucas … e de Izabel Gonçalves**, e Pedro
+tinha um concunhado, **Manoel Cabral**. Classificação: **MUITO PROVÁVEL**, não
+confirmado; o assento não nomeia a mulher dele.
+
+Ser escolhido testamenteiro, e assinar, diz também alguma coisa sobre a
+condição dele: não era um lavrador iletrado qualquer.
