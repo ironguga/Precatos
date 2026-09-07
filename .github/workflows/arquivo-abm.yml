@@ -21,8 +21,8 @@ on:
         required: false
 
 env:
-  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '38-87' }}
+  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41777' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '1,20,60,100,140,180,220,260,300,340,380,420,460,500' }}
 
 jobs:
   baixar:
@@ -39,10 +39,12 @@ jobs:
 
       - name: Mapear os livros da paróquia dos Canhas
         continue-on-error: true
-        run: node scripts/arquivo-abm-livros.mjs 41700 41870
+        run: node scripts/arquivo-abm-livros.mjs 41500 42120
 
       - name: Baixar imagens
-        run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
+        run: |
+          echo "ABM_ID=$(echo "$ABM_URL" | grep -oE 'descriptions/[0-9]+' | cut -d/ -f2)" >> "$GITHUB_ENV"
+          node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
 
       - uses: actions/upload-artifact@v4
         with:
@@ -54,15 +56,16 @@ jobs:
       # que o ambiente do agente não alcança, mas o git sim.
       - name: Comitar as imagens na branch
         run: |
-          mkdir -p arquivo/canhas-casamentos-1754-1793
-          cp imagens/*.jpg arquivo/canhas-casamentos-1754-1793/
+          destino="arquivo/abm-$ABM_ID"
+          mkdir -p "$destino"
+          cp imagens/*.jpg "$destino"/
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -f arquivo/canhas-casamentos-1754-1793
+          git add -f "$destino"
           if git diff --cached --quiet; then
             echo 'Sem imagens novas para comitar.'
             exit 0
           fi
-          git commit -m 'Imagens do Livro 5.º de casamentos dos Canhas (fólios pedidos)'
+          git commit -m "Imagens da descrição ABM $ABM_ID (fólios pedidos)"
           git pull --rebase origin "$GITHUB_REF_NAME"
           git push origin HEAD:"$GITHUB_REF_NAME"
