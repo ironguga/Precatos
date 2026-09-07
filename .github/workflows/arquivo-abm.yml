@@ -10,6 +10,7 @@ on:
       - '.github/workflows/arquivo-abm.yml'
       - 'scripts/arquivo-abm-download.mjs'
       - 'scripts/arquivo-abm-buscar.mjs'
+      - 'scripts/arquivo-abm-livros.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -21,7 +22,7 @@ on:
 
 env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '200,240,270,285,300,315,330,360,400,440,470' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '286,290,294,298,302,306,310' }}
 
 jobs:
   baixar:
@@ -36,9 +37,9 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Tentar a busca por nome no Archeevo
+      - name: Mapear os livros da paróquia dos Canhas
         continue-on-error: true
-        run: node scripts/arquivo-abm-buscar.mjs
+        run: node scripts/arquivo-abm-livros.mjs
 
       - name: Baixar imagens
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
