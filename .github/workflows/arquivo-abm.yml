@@ -30,7 +30,7 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  ABM_LIVROS: '48626:1-257'
+  ABM_LIVROS: '42092:1-400 41773:1-300 42081:1-300'
 
 jobs:
   baixar:
@@ -105,7 +105,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-sondar.mjs 48627 48626 48628 44108 44109 44110 | tee arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-sondar.mjs 42092 42081 41773 48628 42119 | tee arquivo/abm-canhas-sonda.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-canhas-sonda.txt
