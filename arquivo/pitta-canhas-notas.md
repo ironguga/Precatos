@@ -1036,3 +1036,66 @@ A filha Maria, baptizada em Dez 1748, casaria por volta de 1770–76. O único
 assento candidato que restava por ler — **12 Jul 1776, fl. 139v (imagem 279)**,
 João da Silva com **Maria Pitta** — dá-lhe outra filiação: «filha de **Manoel
 Pereira da Costa** e de sua mulher…». Não é ela.
+
+---
+
+# A faixa de identificadores que eu não tinha varrido
+
+Eu disse duas vezes que o acervo estava esgotado. **Estava errado das duas
+vezes**, e a razão é a mesma: varri os identificadores 41000–43000 e 43000–60000
+tarde demais.
+
+A pista veio de fora. Uma busca na web devolveu descrições do ABM **ao nível do
+assento individual**, com o nome do pai e da mãe no título:
+> `/descriptions/163946` — «Registo de batismo n.º 53: Ana. Pai: José Pita;
+> Mãe: Francisca Pita» — `PT/ABM/PPTS01/001/00056/000053`, **Canhas**, 1897
+
+Essa descrição traz `Parent: 49126` — o livro. Ou seja, os livros da paróquia
+estendem-se a identificadores na casa dos 49 mil. Alarguei a varredura e
+apareceu:
+
+| ID | Código | Livro | Páginas |
+|---|---|---|---|
+| **48627** | 001/00008 | **7.º de baptismos, 1751–1765** | **527** |
+| 48626 | 002/00002 | 2.º de casamentos, 1640–1691 | 257 |
+| 48628 | 003/00004 | 4.º de óbitos, 1720–1749 | 292 |
+| 44108-44113 | 005/… | Róis de crismados 1643, 1685, 1691, 1732, 1742 | 0 |
+
+**O Livro 7.º de baptismos, que eu dera como ausente, existe e está
+digitalizado.** Descarreguei as 527 páginas.
+
+Fica também provado, e não suposto: **o motor de busca do Archeevo ignora os
+termos** — devolve o mesmo álbum fotográfico do fundo AAC para qualquer palavra
+que se lhe dê. Foi isso que me escondeu tudo isto desde o princípio.
+
+## O que o Livro 7.º já deu
+
+**15 Fev 1763, fl. 190 (img 380)** — baptismo de Maria, filha do **Alferes
+Manoel da Sylva Pitta e de sua mulher Maria Lourença**, moradores no **Lombo da
+Piedade**, **neta paterna de […] da Sylva e de sua mulher Francisca da Sylva**,
+e **materna de Felippe da Sylva e de sua mulher Izabel Pitta**.
+
+Duas consequências:
+1. **O Alferes não é filho de Pedro da Sylva de Ponte.** Os pais dele são outros.
+   O candidato alternativo que eu tinha assinalado — o Alferes como irmão de
+   Pedro — **cai**.
+2. **Maria Lourença é filha de Felippe da Sylva e Izabel Pitta**, casal
+   documentado desde 22 Out 1722. Mais uma casa fechada.
+
+**Rol de crismados encadernado no fim do livro (fl. 256 e ss., imagens 509-516)**
+— lista de trezentos e um crismados em três colunas: nome, «filho de [PAI]»,
+padrinho. É o índice nominal mais denso de toda a paróquia. Padrinhos Pitta:
+Euzebio Pitta, Manoel Pitta, Manoel da Silva Pitta, Bras Pitta, Manoel Pitta da
+Cova.
+
+## O que falta, e é honesto dizer
+
+Varri por margem cerca de 130 das 527 imagens do Livro 7.º e li o rol de
+crismados em parte. **Ainda não apareceu nenhum filho de um Pedro da Silva
+Pitta.**
+
+E há uma explicação simples que não posso excluir: **os filhos de Pedro com
+Antónia podem ter nascido depois de Janeiro de 1765**, quando este livro acaba.
+Se Francisca casou aos 21 em 1786, nasceu em 1765; João em 1789, nasceu em 1768;
+José em 1791, em 1770. Todos cairiam no **Livro 8.º (1765–1780)** — o que está
+catalogado com **zero páginas digitalizadas**.
