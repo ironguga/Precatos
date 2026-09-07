@@ -37,8 +37,11 @@ jobs:
       # O run anterior apanhou "The URL you requested has been blocked":
       # o arquivo filtra do lado dele. Este passo identifica se é por
       # cabeçalhos ou por IP de datacenter.
-      - name: Diagnóstico — porque é que o arquivo recusa o runner
-        run: node scripts/arquivo-abm-sniff.mjs "$ABM_URL"
+      - name: Diagnóstico — descobrir o URL real das imagens
+        run: |
+          npm i -D playwright@1.49.1
+          npx playwright install --with-deps chromium
+          node scripts/arquivo-abm-sniff.mjs "$ABM_URL"
 
       - name: Listar imagens do documento
         continue-on-error: true
