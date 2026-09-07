@@ -1230,3 +1230,70 @@ primeiro lugar. Não o encontrei antes por três razões, todas minhas: procurei
 de identificadores 41000-43000 quando os livros da paróquia se estendem até
 aos 49 mil; e tomei a falha do motor de busca do Archeevo por ausência de
 acervo. Fica registado.
+
+---
+
+# Livro 2.º de casamentos dos Canhas (1640–1691) — aberto
+
+**ID 48626, 257 páginas, descarregadas.**
+
+## O que o livro é
+
+Legível, e dá **a filiação de ambos os noivos** — pai e mãe de cada um, com
+«já defunto» quando é o caso, e a freguesia de naturalidade. Não dá avoengas.
+As notas marginais dão o par de nomes, o que permite varrer depressa.
+
+Escala medida: imagem 100 = Out 1676; imagem 136 = Nov 1688. Cerca de três
+imagens por ano, e o livro abre por volta de 1643.
+
+## Assentos lidos
+
+**1 Ago 1677, fl. 50v (img 102)**
+> …não haver mais impedimento que o de 3.º e 4.º grau de consanguinidade, em
+> que forão dispensados pelo Snr. Núncio Apostólico… dei as bênçãos a
+> **António de Ponte, filho de Diogo de Ponte e de sua mulher Francisca Roiz,
+> já defuntos**, com **Maria de Ponte, filha de Sebastião Roiz e de sua mulher
+> Catherina de Ponte**, desta freguezia.
+
+**É um candidato, e digo-o como candidato.** O nome do noivo é «António **de
+Ponte**», não «António **Correa**» como o assento de 1730 declara. A data
+encaixa (Pedro da Sylva de Ponte nasceria por volta de 1678-1685) e o «de
+Ponte» viria da mãe, como o costume da freguesia manda. Mas **não ligo por
+coincidência de nome próprio e de nome da mulher** — é exactamente a armadilha
+contra a qual o dossiê avisa. Fica **HIPÓTESE**.
+
+**8 Nov 1688, fl. 67 (img 136)** — um Correa, mas não o nosso:
+> …dispensados por Sua Santidade no 3.º grau dobrado… a **[An]tónio Correa,
+> filho de Manoel Correa defunto e de sua mulher … Álvares**, com **Maria dos
+> Reis, filha de Manoel Fernandes … e de sua mulher Francisca do Rosário**.
+
+A noiva é Maria **dos Reis**, não Maria de Ponte. Não é o casal que procuro,
+mas documenta a casa Correa nos Canhas: **Manoel Correa × … Álvares**.
+
+**21 Jun 1677, fl. 50 (img 101)** — Francisco Roiz, filho de Francisco Roiz…,
+com **Magdalena da Silva, filha de Agostinho da Silva e de sua mulher Joana
+Roiz, já defuntos**.
+
+## O alvo que passa a valer mais, e está noutro livro
+
+O casamento de **Pedro da Sylva de Ponte com Maria Vieyra Pitta** cai por
+volta de 1700-1710 — **depois** do fim deste livro. Está no **Livro 3.º de
+casamentos (1692–1743, ID 41777)**, que já tenho, e esse assento nomeia os
+pais dos dois de uma vez: confirmaria «António Correa e Maria de Ponte» e
+«Francisco Pitta e Maria Rodrigues» pela própria mão do pároco, e não por
+dedução a partir do assento de 1730.
+
+Varridas as margens das imagens 37-63 desse livro (anos 1697-1703) sem o
+encontrar. Casas de Ponte que ali aparecem, e que interessam ao contexto:
+André Glz da Silva × Maria de Ponte; Manoel Frz × Magdalena de Ponte; João
+Roiz de Anchova × Izabel de Ponte; Jozeph Ferreira × Maria de Ponte; **João da
+Silva de Ponte × Margarida Roiz**; e **Simão da Silva × Izabel … Pitta** — que
+poderá ser o casal Simão da Sylva de Ponte × Izabel Vieyra Pitta que o assento
+de 1755 declara.
+
+## Estado do tecto
+
+Continua nos quatro nomes da décima geração — **António Correa × Maria de
+Ponte** e **Francisco Pitta × Maria Rodrigues** —, declarados no assento de
+6 Nov 1730. Subir acima deles depende de encontrar o casamento de Pedro da
+Sylva de Ponte no Livro 3.º, ou de identificar com segurança o assento de 1677.
