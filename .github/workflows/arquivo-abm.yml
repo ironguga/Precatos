@@ -26,7 +26,7 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  ABM_LIVROS: '42455:1-420 42493:1-320'
+  ABM_LIVROS: '42455:1-200 42455:201-420'
 
 jobs:
   baixar:
