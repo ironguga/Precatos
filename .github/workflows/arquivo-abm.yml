@@ -9,16 +9,15 @@ on:
     paths:
       - '.github/workflows/arquivo-abm.yml'
       - 'scripts/arquivo-abm-download.mjs'
+      - 'scripts/arquivo-abm-sniff.mjs'
   workflow_dispatch:
     inputs:
       url:
         description: URL do visualizador
         required: false
-        default: https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955
       paginas:
         description: 'Imagens a baixar (ex.: 145-149,151-155)'
         required: false
-        default: 145-149,151-155
 
 env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778/247955' }}
@@ -33,35 +32,34 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+
+      # Descobre como o visualizador carrega as imagens: abre a página num
+      # Chromium real e regista todos os pedidos de rede que ele dispara.
+      - name: Diagnóstico — espiar os pedidos do visualizador
+        run: |
+          npm i -D playwright@1.49.1
+          npx playwright install --with-deps chromium
+          node scripts/arquivo-abm-sniff.mjs "$ABM_URL"
 
       - name: Listar imagens do documento
+        continue-on-error: true
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" --list | head -400
 
       - name: Baixar imagens em alta resolução
+        continue-on-error: true
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
 
       - name: Conferir o que foi baixado
+        continue-on-error: true
         run: |
-          ls -lh imagens
-          command -v identify >/dev/null && identify imagens/*.jpg || true
+          ls -lh imagens || true
+          for f in imagens/*.jpg; do magick identify "$f" 2>/dev/null || true; done
 
-      - name: Versão reduzida (leitura rápida no browser)
-        run: |
-          mkdir -p imagens-preview
-          for f in imagens/*.jpg; do
-            convert "$f" -resize 2000x2000\> -quality 85 "imagens-preview/$(basename "$f")"
-          done
-          ls -lh imagens-preview
-
-      - uses: actions/upload-artifact@v4
+      - name: Publicar imagens
+        if: hashFiles('imagens/**') != ''
+        uses: actions/upload-artifact@v4
         with:
           name: imagens-alta-resolucao
           path: imagens/
-          retention-days: 90
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: imagens-preview
-          path: imagens-preview/
           retention-days: 90

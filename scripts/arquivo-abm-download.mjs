@@ -66,9 +66,13 @@ function discoverCandidates(html, baseUrl) {
     /["'](\/iiif\/[^"'\s<>]*)["']/gi,
   ];
 
+  // Falsos positivos: o manifesto de PWA/favicon do site não é um manifesto IIIF.
+  const ruido = /\.webmanifest|\/favicon|\/assets\/img\//i;
+
   for (const re of patterns) {
     for (const m of text.matchAll(re)) {
       const raw = m[1] || m[0];
+      if (ruido.test(raw)) continue;
       try {
         found.add(abs(raw));
       } catch {
@@ -188,7 +192,10 @@ async function main() {
   let manifestUrl = null;
   for (const u of manifestUrls) {
     try {
-      manifest = await (await get(u)).json();
+      const candidate = await (await get(u)).json();
+      // Só aceita se tiver mesmo estrutura de manifesto IIIF com páginas.
+      if (canvasesFromManifest(candidate).length === 0) continue;
+      manifest = candidate;
       manifestUrl = u;
       break;
     } catch {
