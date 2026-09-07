@@ -315,3 +315,89 @@ verificável — basta achar o assento de casamento de Pedro.
    corpo. É onde cai o casamento de Pedro se ele casou depois de 1758.
 3. Baptismos dos Canhas depois de 1708 — ausentes em linha. O baptismo de
    Pedro (c. 1725/1735) cairia aí e nomearia os pais directamente.
+
+---
+
+# Terceira campanha — o Outeiro liga-se à casa de Francisco da Silva Pitta
+
+Varridas por margem as imagens 72–289 (fólios 36–144, 1758–1778) e lido o corpo
+de todas as páginas com nota marginal "Pitta".
+
+## O assento que muda a hipótese
+
+**c. 1770, fl. 100v (imagem 201)** — margem: "An.to João Pitta com Cath.ª da S.ª"
+> Em quatorze dias do mes de Setembro de mil sete centos e setenta annos, nesta
+> Igreja de Nossa Senhora da Piedade dos Canhas... assisti ao matrimonio que
+> contrahio **António João Pitta, filho de FRANCISCO DA SYLVA PITTA e de sua
+> mulher LAURA DOS SANTOS, já defuntos**, com Catharina da Sylva, filha de
+> Joseph da Silva de Deos já defunto e de sua mulher Maria da Sylva, **todos
+> naturais e moradores nesta freguezia onde chamam o OUTEIRO**. Testemunhas...
+> Manoel Joseph Pitta.
+
+Duas coisas ao mesmo tempo:
+
+1. **Quarta atestação** do casal Francisco da Sylva Pitta × Laura dos Santos
+   (casamento em 1730; filho Francisco casa em 1754; filho António João casa
+   em 1770).
+2. **Primeira vez que esta casa aparece no OUTEIRO** — o mesmo lugar onde os
+   três assentos dos filhos de Pedro (1786, 1789, 1791) põem Pedro da Silva
+   Pitta e Antónia da Silva.
+
+Datação: fl. 100v cai entre a marca "1769" (fl. 88) e a marca "1774" (fl. 122),
+o que confirma "setenta" = 1770. Nome da mãe lido a 3,1× de ampliação:
+"Laura dos Santos", sem ambiguidade. Lugar lido a 3,4×: "o Outeiro".
+
+## Os filhos conhecidos de Francisco da Silva Pitta e Laura dos Santos
+
+- **Francisco da Sylva Pitta** — casa 23 Set 1754, fl. 9, com Michaela da Sylva
+- **António João Pitta** — casa 14 Set 1770, fl. 100v, com Catharina da Sylva,
+  no Outeiro
+
+Ambos filhos usam o apelido do pai; o segundo vive no Outeiro. Um terceiro
+filho chamado **Pedro** — pelo nome do avô paterno, Pedro da Sylva de Ponte —
+é exactamente o que o costume onomástico português prevê, e é exactamente o
+que o Outeiro nos devolve na geração seguinte.
+
+**Continua HIPÓTESE.** O que falta é um só documento: o assento de casamento de
+Pedro da Silva Pitta com Antónia da Silva, ou o seu baptismo. Nenhum dos dois
+está no acervo em linha (ver lacunas), e a busca fólio a fólio de 1754 a 1786
+não o encontrou — o que reforça que Pedro casou antes de Jan 1754, no Livro 4.º
+que falta.
+
+## Outros assentos novos desta campanha
+
+**1 Jun 1763, fl. 64v (img 129)** — Jozeph Pitta, filho legítimo de **João Pitta
+e de sua mulher Maria de Santiago, já defuntos**, com Anna Maria dos Ramos,
+filha de Francisco Gomes de Gouvea e Izabel Maria. Terceira atestação do casal
+João Pitta × Maria de Santiago (já nomeado nos assentos de 1739 e 1741).
+
+**c. 1769, fl. 92v (img 185)** — Francisco Pitta, do Valle, filho legítimo de
+**Francisco Pitta e de sua mulher Anna da Trindade**, com Izabel da Sylva.
+Terceira geração documentada da casa do Valle.
+
+**27 Fev 1759, fl. 36 (img 72)** — Antónia Pitta, filha de João Rodrigues
+Torneiro e Maria Pitta, neta materna de **Pedro da Sylva de Ponte e de sua
+mulher Maria Vieyra de Ponte**.
+
+**24 Jan 1760, fl. 40 (img 80)** — Jacinta Pitta, mesma filiação, neta materna
+de **Pedro da Sylva de Ponte e Maria Pitta**. Testemunha e assinante de cruz:
+**Francisco da Sylva Pitta** — o Estanqueiro, tio das noivas.
+
+Pedro da Sylva de Ponte × Maria Pitta está agora atestado por **cinco** assentos
+independentes: 1725, 1730, 1754, 1759, 1760.
+
+**24 Set 1759, fl. 38v (img 77)** — Maria Caetana Pitta, filha de João Coelho e
+**Anna Pitta**, neta materna de **Manoel Rodrigues Pitta e Maria Vieyra**.
+
+**8 Mai 1760, fl. 41 (img 82)** — resolve o enigma das "Izabel Pitta":
+> **Romé Fernandes Pitta**, viúvo de Izabel da Sylva, filho legítimo de
+> **Francisco Gomes Jardim e de sua mulher Anna Fernandes**, neto paterno de
+> Ignacio Gomes Jardim e Anna Ferreyra, e materno de **MANOEL FERNANDES PITTA
+> e de sua mulher MARIA RODRIGUES**.
+
+Ou seja: o apelido Pitta chega a estes irmãos **pela avó materna**. A Izabel
+Pitta que casa com Felippe da Sylva é irmã de Romé. Corrijo a nota anterior: o
+Pitta em Canhas não é alcunha arbitrária — **transmite-se também por via
+feminina**. A consequência prática é a mesma: dois Pitta dos Canhas podem não
+ter nenhum antepassado Pitta em comum pelo varão, e só a filiação declarada
+serve.
