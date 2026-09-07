@@ -907,3 +907,36 @@ homem casado.
 
 Lidos no corpo os fólios 128, 132, 136, 140 e 142 (imagens 251-291) do Livro
 6.º. Nenhum filho de um Pedro.
+
+## Um limite físico, não de método
+
+**10 Mai 1750, Livro 6.º de baptismos, fl. 130 (imagem 256)** — margem:
+«Anna f.ª de M.el da S.ª Pitta e M.ª Lourença».
+
+É o baptismo de uma filha do **Alferes Manoel da Sylva Pitta**, o único outro
+homem dos Canhas que usa o composto «da Silva Pitta» na geração de Pedro. Se
+o assento declarar as avoengas, nomeia os pais dele — e, se Pedro for irmão
+dele, nomeia também os de Pedro.
+
+Consigo ler: «Em os dez dias do mes de Mayo de mil e sete centos e sincoenta…
+baptizei e puz os Santos Óleos a **Anna**, que nasceo aos quatro do dito mes,
+**filha legítima de Manoel da Sylva Pitta e de sua mulher Maria Lourença**…
+naturais e moradores desta freguezia…»
+
+**A linha das avoengas está ilegível.** Tentei recorte a 3,6×, autocontraste
+com corte a zero, e subtracção de fundo por desfoque gaussiano para separar a
+tinta do repasse do verso. O repasse é tão forte quanto a escrita. Nos
+1009 × 1414 px que o ABM publica não há mais informação no ficheiro.
+
+Registo isto como limite físico, não como falha de leitura: **o documento que
+poderia nomear os pais do Alferes está na página e a resolução publicada
+derrota-o.** Numa consulta ao original, ou numa digitalização em alta
+resolução, lê-se.
+
+## Cobertura acrescentada nesta passagem
+
+Lidos no corpo os fólios 128, 130, 132, 134, 136, 138, 140, 142, 144 e 146
+(imagens 251-291) do Livro 6.º. Além do padrinho Pedro da Sylva de Ponte
+(fl. 140v), nenhum filho de um Pedro. Casas novas colhidas de passagem:
+**João Pitta Coelho × Madalena Rodrigues** (fl. 144) e **Felippe Gonçalves ×
+Luiza Pitta** (fl. 134).
