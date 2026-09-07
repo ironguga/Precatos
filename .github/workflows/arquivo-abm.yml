@@ -30,7 +30,8 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  ABM_LIVROS: '42092:1-400 41773:1-300 42081:1-300'
+  # Lacuna do Livro 3.º de casamentos (1692-1743): imagens 3-15, anos 1692-1695.
+  ABM_LIVROS: '41777:3-15'
 
 jobs:
   baixar:
@@ -46,6 +47,7 @@ jobs:
           node-version: '22'
 
       - name: Mapear os livros da paróquia dos Canhas
+        if: false
         continue-on-error: true
         run: node scripts/arquivo-abm-livros.mjs 'PT/ABM/PPTS01' 'PT/ABM/PPTS01/001' 'baptismos dos Canhas' 2>&1 | tail -40
 
@@ -102,6 +104,7 @@ jobs:
           }
 
       - name: Sondar o que está mesmo digitalizado
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -124,6 +127,7 @@ jobs:
           tail -60 arquivo/abm-canhas-acervo.txt
 
       - name: Comitar o levantamento
+        if: false
         continue-on-error: true
         run: |
           git config user.name 'github-actions[bot]'
@@ -138,6 +142,7 @@ jobs:
           git push origin HEAD:"$GITHUB_REF_NAME"
 
       - name: Procurar em fontes com indexação nominal
+        if: false
         continue-on-error: true
         run: node scripts/arquivo-abm-indexados.mjs
 
