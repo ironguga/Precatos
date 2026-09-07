@@ -738,3 +738,70 @@ Se a identificação se confirmar, a linha sobe **três gerações** de uma vez:
 
 e o tecto passa de Pedro para **António Correa e Maria de Ponte**, geração de
 cerca de 1650 — quatro gerações acima do que estava.
+
+---
+
+# CORRECÇÃO à secção anterior — a atribuição era minha, não do documento
+
+Na mesma varredura, quatro fólios antes, está o assento que me obriga a
+retirar a identificação.
+
+**23 Mar 1757, Livro 5.º de óbitos, fl. 84 (imagem 90)**
+> …faleceo com todos os Sacramentos de bem morrer **Manoel Rodrigues Pitta**.
+> Foi sepultado nesta Igreja de Nossa Senhora da Piedade em cova da fabrica
+> **sem [pagar] esmola pelo muito trabalho que tem tido com a mesma fabrica,
+> em ser fabriqueiro**. Fez seu testamento aprovado… — margem:
+> «Testamenteiro M.el da S.ª de Gouvea»
+
+(Na folha de margens eu lera «M.ª Roiz Pitta»; lido o corpo, é **M.el** —
+Manoel. Corrijo.)
+
+Este é o **Manoel Rodrigues Pitta casado com Maria Vieyra** que três assentos
+de casamento dão como avô materno (fl. 14 em 1755, fl. 27v em 1757, fl. 38v em
+1759). Morre **nove meses antes** da «Maria Vieyra Pitta» do fl. 50.
+
+## A ambiguidade, posta a claro
+
+A mulher que morre a 23 Dez 1757 pode ser:
+
+**(a)** a mulher de **Pedro da Sylva de Ponte** — o assento de 22 Set 1754
+chama-lhe exactamente «Maria Vieyra Pitta»; ou
+
+**(b)** a **viúva de Manoel Rodrigues Pitta** — cuja mulher os assentos chamam
+«Maria Vieyra», e que passaria a «Maria Vieyra Pitta» ao enviuvar. Uma viúva
+tomar o apelido do marido é corrente nestes livros.
+
+**Indício contra (a):** os assentos de 27 Fev 1759 (fl. 36) e 24 Jan 1760
+(fl. 40) continuam a nomear a mulher de Pedro da Sylva de Ponte sem lhe
+chamar «já defunta» — e este mesmo pároco escreve «já defunta» quando sabe
+(fê-lo com Laura dos Santos a 23 Set 1754, e com Maria Vieira em 1697).
+
+**Indício a favor de (b):** a proximidade das duas mortes no mesmo ano, e o
+facto de o óbito de Dez 1757 não lhe chamar nem «casada com» nem «viúva de» —
+o que é mais natural numa viúva recente, já identificada pelo apelido do
+marido.
+
+## O que fica, depois da correcção
+
+**PROVADO POR DOCUMENTO:** a 23 Dez 1757 morreu nos Canhas uma **Maria Vieyra
+Pitta** cujo **testamenteiro era o seu filho PEDRO PITTA**.
+
+**POR DECIDIR:** de qual das duas casas. Se de (a), a linha sobe três gerações
+de uma vez. Se de (b), há nos Canhas um Pedro Pitta filho de Manoel Rodrigues
+Pitta — e a hipótese B fica **enfraquecida**, não reforçada, porque passa a
+haver um candidato alternativo com nome igual noutra casa.
+
+Não escolho. A identificação anterior era minha, não do documento, e retiro-a.
+
+## O que decidiria, e é verificável
+
+1. **O óbito de Pedro da Sylva de Ponte.** Se morreu antes de Dez 1757, a
+   mulher dele era viúva e o assento de Dezembro tê-lo-ia dito. Se morreu
+   depois, a mulher dele estava casada em Dezembro de 1757 — e o assento
+   também o teria dito. Em qualquer dos casos, o silêncio do assento aponta
+   para (b).
+2. **O óbito da própria mulher de Pedro da Sylva de Ponte**, se estiver neste
+   livro sob outra forma do nome (Maria Roiz Pitta, Maria de Ponte, Maria
+   Pitta).
+3. **O casamento de Anna Pitta com João Coelho** — se declarar irmãos, ou se
+   algum assento nomear os filhos de Manoel Rodrigues Pitta.
