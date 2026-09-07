@@ -36,24 +36,6 @@ jobs:
       - name: Baixar imagens
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
 
-      - name: Conferir dimensões
-        run: |
-          ls -lh imagens
-          for f in imagens/*.jpg; do
-            printf '%s  ' "$f"
-            node -e '
-              const b=require("fs").readFileSync(process.argv[1]);
-              let i=2;
-              while(i<b.length){
-                if(b[i]!==0xFF){i++;continue}
-                const m=b[i+1];
-                if(m>=0xC0&&m<=0xCF&&m!==0xC4&&m!==0xC8&&m!==0xCC){
-                  console.log(b.readUInt16BE(i+7)+" x "+b.readUInt16BE(i+5)+" px");break;
-                }
-                i+=2+b.readUInt16BE(i+2);
-              }' "$f"
-          done
-
       - uses: actions/upload-artifact@v4
         with:
           name: imagens-canhas-casamentos

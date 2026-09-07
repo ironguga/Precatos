@@ -93,10 +93,29 @@ function extrairPaginas(dados) {
   return paginas;
 }
 
-function melhorVault(vaults) {
-  for (const q of QUALIDADES) if (vaults[q]) return { qualidade: q, objectId: vaults[q] };
-  const [qualidade, objectId] = Object.entries(vaults)[0] ?? [];
-  return objectId ? { qualidade, objectId } : null;
+/**
+ * Variantes desta imagem, da melhor para a pior. Nem todas são servidas
+ * publicamente: a ORIGINAL consta do catálogo mas o storageobject devolve 404,
+ * por isso é preciso tentar por ordem e ficar pela primeira que responda.
+ */
+function variantesPorQualidade(vaults) {
+  const ordenadas = QUALIDADES.filter((q) => vaults[q]).map((q) => ({ qualidade: q, objectId: vaults[q] }));
+  for (const [qualidade, objectId] of Object.entries(vaults))
+    if (!QUALIDADES.includes(qualidade)) ordenadas.push({ qualidade, objectId });
+  return ordenadas;
+}
+
+/** Largura x altura lidas do cabeçalho SOF do JPEG. */
+function dimensoesJpeg(buf) {
+  let i = 2;
+  while (i < buf.length - 9) {
+    if (buf[i] !== 0xff) { i++; continue; }
+    const marcador = buf[i + 1];
+    if (marcador >= 0xc0 && marcador <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marcador))
+      return `${buf.readUInt16BE(i + 7)}x${buf.readUInt16BE(i + 5)} px`;
+    i += 2 + buf.readUInt16BE(i + 2);
+  }
+  return '';
 }
 
 async function main() {
@@ -152,23 +171,34 @@ async function main() {
       console.warn(`  imagem ${n}: fora do intervalo (documento tem ${paginas.length})`);
       continue;
     }
-    const escolha = melhorVault(pagina.vaults);
-    if (!escolha) {
+    const opcoes = variantesPorQualidade(pagina.vaults);
+    if (!opcoes.length) {
       console.warn(`  imagem ${n}: sem ficheiro associado`);
       continue;
     }
-    const url = `${origin}/api/storage/storageobject?objectId=${encodeURIComponent(escolha.objectId)}`;
+
     const dest = path.join(outDir, `${String(n).padStart(4, '0')}.jpg`);
-    try {
-      const res = await get(url);
-      const buf = Buffer.from(await res.arrayBuffer());
-      fs.writeFileSync(dest, buf);
-      console.log(
-        `  imagem ${n} (${pagina.nome ?? ''}, ${escolha.qualidade}) -> ${dest}  ${(buf.length / 1024).toFixed(0)} KB`
-      );
-    } catch (err) {
-      console.error(`  imagem ${n}: falhou — ${err.message}`);
+    const recusadas = [];
+    let guardada = false;
+
+    for (const opcao of opcoes) {
+      const url = `${origin}/api/storage/storageobject?objectId=${encodeURIComponent(opcao.objectId)}`;
+      try {
+        const res = await get(url);
+        const buf = Buffer.from(await res.arrayBuffer());
+        fs.writeFileSync(dest, buf);
+        const nota = recusadas.length ? `  (${recusadas.join(', ')} não servida)` : '';
+        console.log(
+          `  imagem ${n} (${pagina.nome ?? ''}, ${opcao.qualidade})  ${dimensoesJpeg(buf)}  ${(buf.length / 1024).toFixed(0)} KB -> ${dest}${nota}`
+        );
+        guardada = true;
+        break;
+      } catch (err) {
+        recusadas.push(`${opcao.qualidade}: ${err.message.replace(/ em https?:.*/, '')}`);
+      }
     }
+
+    if (!guardada) console.error(`  imagem ${n}: falhou — ${recusadas.join('; ')}`);
   }
 }
 
