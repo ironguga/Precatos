@@ -1138,3 +1138,95 @@ Outeiro (1786).
 
 **Não é prova. É a hipótese que sobrevive a tudo o que li.** E aponta para um
 só documento: o Livro 8.º, que existe fisicamente no ABM e não está em linha.
+
+---
+
+# CONFIRMADO — 20 de Outubro de 1754
+
+**Livro 7.º de baptismos dos Canhas, fl. 66 (ID 48627, imagem 134)**
+
+> Em os vinte dias do mes de Outubro de mil e sete centos, e sincoenta e
+> quatro annos, nesta Cappella de Nossa Senhora da Annunciação, freguezia da
+> Senhora da Piedade, o Reverendo Padre **Salvador da Sylva** baptizou e pus os
+> Santos Óleos a **Francisco**, que nasceo a doze do dito mes, **filho legítimo
+> de PEDRO DA SYLVA DE PONTE, e de sua mulher ANTÓNIA DA SYLVA**, naturais, e
+> moradores nesta freguezia **no Lombo do Outeyro**, **neto paterno de PEDRO DA
+> SYLVA DE PONTE já defunto, e de sua mulher MARIA VIEYRA**, e materno de
+> **FRANCISCO GONÇALVES DA ROXA já defunto**, e de sua mulher **Antónia da
+> Sylva**, todos desta freguezia. Foi padrinho, que comigo assignou, Manoel
+> Gonçalves dos Anjos, de que fis este termo. Canhas era ut supra.
+> — O Vig.º Jozeph Glz de Andrade · De Salvador da Sylva
+
+Lido a 3,4× de ampliação, linha a linha. As palavras «Pedro da Sylva de
+Ponte», «Antónia da Sylva», «Lombo do Outeyro», «já defunto» e «Maria Vieyra»
+estão nítidas.
+
+## Porque é que este assento fecha a investigação
+
+Quatro identificadores independentes coincidem de uma vez:
+
+**1 — A mulher e o lugar.** Pedro × **Antónia da Silva**, moradores **no Lombo
+do Outeiro**: o mesmo casal e o mesmo sítio dos três assentos de casamento dos
+filhos (Out 1786, Nov 1789, 1791).
+
+**2 — Os pais.** «Neto paterno de **Pedro da Sylva de Ponte** e de sua mulher
+**Maria Vieyra**» — exactamente os avós paternos que o assento de **8 Dez 1748**
+declara para a filha Maria: «neta paterna de Pedro da Sylva de Ponte e de sua
+mulher Maria Pitta». **O mesmo casal, em dois documentos independentes, a seis
+anos de distância.**
+
+**3 — O sogro.** «Neto materno de **Francisco Gonçalves da Rocha**» — e o
+assento de 1748 dá **Catarina Gonçalves** como filha de **Francisco Gonsalves
+da Rocha**. **As duas mulheres de Pedro eram irmãs.** Um viúvo que casa com a
+cunhada é caso banal, e explica a dispensa de afinidade em primeiro grau que
+estes livros registam noutros casos.
+
+**4 — A cronologia.** Pedro da Sylva de Ponte, o pai, é padrinho vivo a 9 Jan
+1751 (Livro 6.º, fl. 140v) e está «já defunto» a 20 Out 1754. A mulher, **Maria
+Vieyra**, morre a **23 Dez 1757** — viúva, o que explica o assento de óbito lhe
+chamar apenas «Maria Vieyra Pitta», sem «mulher de» nem «viúva de» — e deixa
+por testamenteiro «**seu filho Pedro Pitta**».
+
+## A alternância dos apelidos, resolvida
+
+O mesmo homem aparece como **Pedro da Silva Pitta** (1748), **Pedro da Sylva de
+Ponte** (1754) e **Pedro Pitta** (1757, 1786). Não é confusão do arquivo: é o
+costume da freguesia, documentado dezenas de vezes nestes livros — o filho toma
+metade do nome do pai e metade do da mãe, e cada pároco usa uma das metades.
+Aqui: **da Silva de Ponte** do pai, **Pitta** da mãe.
+
+## A linha, agora
+
+    António Correa × Maria de Ponte    Francisco Pitta × Maria Rodrigues
+                    ↓                              ↓
+       Pedro da Sylva de Ponte × Maria Vieyra Pitta   († ele a. 1754, ela 23 Dez 1757)
+                    ↓
+    PEDRO DA SILVA PITTA / DA SYLVA DE PONTE — Lombo do Outeiro
+       × (1) Catarina Gonçalves   f. de Francisco Gonçalves da Rocha
+              └ Maria, bapt. 8 Dez 1748
+       × (2) Antónia da Silva     f. de Francisco Gonçalves da Rocha — irmã da 1.ª
+              ├ Francisco, bapt. 20 Out 1754   ← NOVO
+              ├ Francisca Pitta, casa Out 1786
+              ├ João Pitta, casa Nov 1789
+              └ José da Silva Pitta × Maria Gomes, casa 1791
+                    ↓
+       António Pitta × Sabina Rosa (1835) → João Pitta × Júlia Maria Henriques
+       (1871) → José Maria Pitta × Maria Teresa Corbani → Nair Pitta (1918)
+       → Verquinia Teresa Gregório (1957) → Luiz Gustavo Ferro (1979)
+
+**Onze gerações, todas por documento primário.**
+
+## Filhos novos de Pedro
+
+**Francisco**, nascido a 12 de Outubro de 1754 e baptizado a 20, na Capela de
+Nossa Senhora da Anunciação — irmão inteiro de Francisca, João e José, e
+meio-irmão da Maria de 1748.
+
+## Nota sobre o meu método
+
+Este assento estava a menos de cem imagens daquelas que eu tinha varrido em
+primeiro lugar. Não o encontrei antes por três razões, todas minhas: procurei
+«Pitta» nas margens quando devia ter procurado também «Pedro»; varri a faixa
+de identificadores 41000-43000 quando os livros da paróquia se estendem até
+aos 49 mil; e tomei a falha do motor de busca do Archeevo por ausência de
+acervo. Fica registado.
