@@ -1,0 +1,115 @@
+=== campos que a API expõe numa descrição (41778) ===
+  Dimensions: 1 liv.: 257 f. (256 f. num. e rub.)
+  LangMaterial: Português.
+  ScopeContent: Atente-se:
+em alguns registos existem pequenas árvores genealógicas de parentesco dos dispensados;
+f. 1-20 - contêm registos de casamentos celebrados na ermida 
+  PhysTech: f. com registos de leitura prejudicada devido ao mau estado de conservação dos fólios: 75-79, 87, 89, 90, 103 e 158.
+f. manchadas pelo repasse e acidez da tinta
+  PhysLoc: D2/B1/E7/PE/497
+  StorageThumbnailID: vault://THUMB/A6204D0BAE162DCEBA100D8E9CA9E4A1
+  StorageDisseminationID: vault://DISSEMINATION/5DF6AEA4074EB101C17C4F789F9F3DAC
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1754-01-09
+  UnitTitle: Livro 5.º de registo de casamentos dos Canhas (1754/1793)
+  UnitDateFinal: 1793-11-28
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: DC
+  CompleteUnitId: PT/ABM/PPTS01/002/00005
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 00005
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 1512
+  Created: 2016-09-19T11:35:30.56
+  Modified: 2026-09-07T23:08:14.097
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD41778
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 41778
+  Parent: 5137
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+=== 63 descrições dos Canhas entre 43000 e 60000 ===
+    ID  CÓDIGO                        DATAS                   DIG  TÍTULO
+ 47511  PT/ABM/PPTS01                1592..1911        Paróquia dos Canhas
+ 48627  PT/ABM/PPTS01/001/00008      1751-06-25..1765-01-30        Livro 7.º de registo de baptismos dos Canhas (1751/1765)
+ 49116  PT/ABM/PPTS01/001/00053      1894..1894        Livro de registo de baptismos dos Canhas do ano de 1894
+ 49157  PT/ABM/PPTS01/001/00054      1895..1895        Livro de registo de baptismos dos Canhas do ano de 1895
+ 49117  PT/ABM/PPTS01/001/00055      1896..1896        Livro de registo de baptismos dos Canhas do ano de 1896
+ 49126  PT/ABM/PPTS01/001/00056      1897..1897        Livro de registo de baptismos dos Canhas do ano de 1897
+ 49127  PT/ABM/PPTS01/001/00057      1898..1898        Livro de registo de baptismos dos Canhas do ano de 1898
+ 49119  PT/ABM/PPTS01/001/00058      1899..1899        Livro de registo de baptismos dos Canhas do ano de 1899
+ 49160  PT/ABM/PPTS01/001/00059      1900..1900        Livro de registo de baptismos dos Canhas do ano de 1900
+ 49094  PT/ABM/PPTS01/001/00060      1901..1901        Livro de registo de baptismos dos Canhas do ano de 1901
+ 49118  PT/ABM/PPTS01/001/00061      1902..1902        Livro de registo de baptismos dos Canhas do ano de 1902
+ 49120  PT/ABM/PPTS01/001/00062      1903..1903        Livro de registo de baptismos dos Canhas do ano de 1903
+ 49161  PT/ABM/PPTS01/001/00063      1904..1904        Livro de registo de baptismos dos Canhas do ano de 1904
+ 49162  PT/ABM/PPTS01/001/00064      1905..1905        Livro de registo de baptismos dos Canhas do ano de 1905
+ 48649  PT/ABM/PPTS01/001/00065      1906..1906        Livro de registo de baptismos dos Canhas do ano de 1906
+ 46407  PT/ABM/PPTS01/001/00066      1907..1907        Livro de registo de baptismos dos Canhas do ano de 1907
+ 45252  PT/ABM/PPTS01/001/00067      1908..1908        Livro de registo de baptismos dos Canhas do ano de 1908
+ 45192  PT/ABM/PPTS01/001/00068      1909..1909        Livro de registo de baptismos dos Canhas do ano de 1909
+ 46332  PT/ABM/PPTS01/001/00069      1910..1910        Livro de registo de baptismos dos Canhas do ano de 1910
+ 48650  PT/ABM/PPTS01/001/00070      1911..1911        Livro de registo de baptismos dos Canhas do ano de 1911
+ 48626  PT/ABM/PPTS01/002/00002      1640-01-15..1691-05-28        Livro 2.º de registo de casamentos dos Canhas (1640/1691)
+ 49121  PT/ABM/PPTS01/002/00043      1894..1894        Livro de registo de casamentos dos Canhas do ano de 1894
+ 49122  PT/ABM/PPTS01/002/00044      1895..1895        Livro de registo de casamentos dos Canhas do ano de 1895
+ 49123  PT/ABM/PPTS01/002/00045      1896..1896        Livro de registo de casamentos dos Canhas do ano de 1896
+ 49153  PT/ABM/PPTS01/002/00046      1897..1897        Livro de registo de casamentos dos Canhas do ano de 1897
+ 49142  PT/ABM/PPTS01/002/00047      1898..1898        Livro de registo de casamentos dos Canhas do ano de 1898
+ 49163  PT/ABM/PPTS01/002/00048      1899..1899        Livro de registo de casamentos dos Canhas do ano de 1899
+ 49164  PT/ABM/PPTS01/002/00049      1900..1900        Livro de registo de casamentos dos Canhas do ano de 1900
+ 49165  PT/ABM/PPTS01/002/00050      1901..1901        Livro de registo de casamentos dos Canhas do ano de 1901
+ 49166  PT/ABM/PPTS01/002/00051      1902..1902        Livro de registo de casamentos dos Canhas do ano de 1902
+ 49167  PT/ABM/PPTS01/002/00052      1903..1903        Livro de registo de casamentos dos Canhas do ano de 1903
+ 49168  PT/ABM/PPTS01/002/00053      1904..1904        Livro de registo de casamentos dos Canhas do ano de 1904
+ 49169  PT/ABM/PPTS01/002/00054      1905..1905        Livro de registo de casamentos dos Canhas do ano de 1905
+ 49171  PT/ABM/PPTS01/002/00055      1906..1906        Livro de registo de casamentos dos Canhas do ano de 1906
+ 49181  PT/ABM/PPTS01/002/00056      1907..1907        Livro de registo de casamentos dos Canhas do ano de 1907
+ 49182  PT/ABM/PPTS01/002/00057      1908..1908        Livro de registo de casamentos dos Canhas do ano de 1908
+ 49183  PT/ABM/PPTS01/002/00058      1909..1909        Livro de registo de casamentos dos Canhas do ano de 1909
+ 49184  PT/ABM/PPTS01/002/00059      1910..1910        Livro de registo de casamentos dos Canhas do ano de 1910
+ 49185  PT/ABM/PPTS01/002/00060      1911..1911        Livro de registo de casamentos dos Canhas do ano de 1911
+ 48628  PT/ABM/PPTS01/003/00004      1720-04-30..1749-01-05        Livro 4.º de registo de óbitos dos Canhas (1720/1749)
+ 49079  PT/ABM/PPTS01/003/00045      1894..1894        Livro de registo de óbitos dos Canhas do ano de 1894
+ 49080  PT/ABM/PPTS01/003/00046      1895..1895        Livro de registo de óbitos dos Canhas do ano de 1895
+ 49060  PT/ABM/PPTS01/003/00047      1896..1896        Livro de registo de óbitos dos Canhas do ano de 1896
+ 49081  PT/ABM/PPTS01/003/00048      1897..1897        Livro de registo de óbitos dos Canhas do ano de 1897
+ 49075  PT/ABM/PPTS01/003/00049      1898..1898        Livro de registo de óbitos dos Canhas do ano de 1898
+ 49076  PT/ABM/PPTS01/003/00050      1899..1899        Livro de registo de óbitos dos Canhas do ano de 1899
+ 49077  PT/ABM/PPTS01/003/00051      1900..1900        Livro de registo de óbitos dos Canhas do ano de 1900
+ 49172  PT/ABM/PPTS01/003/00052      1901..1901        Livro de registo de óbitos dos Canhas do ano de 1901
+ 49173  PT/ABM/PPTS01/003/00053      1902..1902        Livro de registo de óbitos dos Canhas do ano de 1902
+ 49174  PT/ABM/PPTS01/003/00054      1903..1903        Livro de registo de óbitos dos Canhas do ano de 1903
+ 49059  PT/ABM/PPTS01/003/00055      1904..1904        Livro de registo de óbitos dos Canhas do ano de 1904
+ 49061  PT/ABM/PPTS01/003/00056      1905..1905        Livro de registo de óbitos dos Canhas do ano de 1905
+ 49187  PT/ABM/PPTS01/003/00057      1906..1906        Livro de registo de óbitos dos Canhas do ano de 1906
+ 49188  PT/ABM/PPTS01/003/00058      1907..1907        Livro de registo de óbitos dos Canhas do ano de 1907
+ 49189  PT/ABM/PPTS01/003/00059      1908..1908        Livro de registo de óbitos dos Canhas do ano de 1908
+ 49191  PT/ABM/PPTS01/003/00060      1909..1909        Livro de registo de óbitos dos Canhas do ano de 1909
+ 49190  PT/ABM/PPTS01/003/00061      1910..1910        Livro de registo de óbitos dos Canhas do ano de 1910
+ 49186  PT/ABM/PPTS01/003/00062      1911..1911        Livro de registo de óbitos dos Canhas do ano de 1911
+ 44110  PT/ABM/PPTS01/005/000001     1643-08-10..1643-08-10        Rol de crismados dos Canhas (1643)
+ 44113  PT/ABM/PPTS01/005/000003     1685-08-30..1685-08-30        Rol de crismados dos Canhas (1685)
+ 44112  PT/ABM/PPTS01/005/000004     1691-08-06..1691-08-07        Rol de crismados dos Canhas (1691)
+ 44108  PT/ABM/PPTS01/005/000006     1732-08-04..1732-08-05        Rol de crismados dos Canhas (1732)
+ 44109  PT/ABM/PPTS01/005/000007     1742-09-01..1742-09-01        Rol de crismados dos Canhas (1742)
