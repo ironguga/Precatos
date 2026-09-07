@@ -39,7 +39,7 @@ jobs:
 
       - name: Mapear os livros da paróquia dos Canhas
         continue-on-error: true
-        run: node scripts/arquivo-abm-livros.mjs
+        run: node scripts/arquivo-abm-livros.mjs 41700 41870
 
       - name: Baixar imagens
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
