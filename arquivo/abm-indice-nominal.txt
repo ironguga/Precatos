@@ -1,0 +1,172 @@
+=== forma de uma descrição de assento (163946) ===
+  Dimensions: 1 f.
+  LangMaterial: Português.
+  ScopeContent: Outras informações: 
+Casou com Manuel Pereira, em 13.02.1920, no Posto número dois do Registo Civil dos Canhas, Ponta do Sol, reg. n.º 88. Enviuvou em 01.04.1971. Faleceu em 20.07.1983, nos Canhas, P
+  PhysLoc: Liv. 7283, f. 20-20 v.º
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","M
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1897-03-28
+  UnitTitle: Registo de batismo n.º 53: Ana. Pai: José Pita; Mãe: Francisca Pita
+  UnitDateFinal: 1897-03-28
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: D
+  CompleteUnitId: PT/ABM/PPTS01/001/00056/000053
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 000053
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 129
+  Created: 2017-04-12T10:24:27.6
+  Modified: 2026-06-30T22:15:02.16
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 2
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD163946
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 163946
+  Parent: 49126
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+=== busca: Pedro da Silva Pitta ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: Pedro Pitta Canhas ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: "Pedro da Silva Pitta" ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: Pitta Canhas batismo ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: Silva Pitta Canhas ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: Antónia da Silva Pitta Canhas ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
+
+=== busca: Catarina Gonçalves Pitta Canhas ===
+  descriptions/search: 30 itens
+     2832822 PT/ABM/AAC                  Augusto Maria Camacho
+     2833148 PT/ABM/AAC/00001            Álbum fotográfico
+     2833149 PT/ABM/AAC/00001/000001     Retrato de Augusto Maria Camacho, sua esposa Maria Joana Jardim e quatro filhas, em local não identificado, na Ilha da Madeira
+     2833150 PT/ABM/AAC/00001/000002     Vista da cidade do Funchal
+     2833151 PT/ABM/AAC/00001/000003     Vista do porto e da baía do Funchal
+     2833152 PT/ABM/AAC/00001/000004     Vista da cidade e da baía do Funchal
+     2833153 PT/ABM/AAC/00001/000005     Vista da cidade e da baía do Funchal
+     2833155 PT/ABM/AAC/00001/000006     Entrada da cidade do Funchal (atual avenida Zarco), Freguesia da Sé, Concelho do Funchal
+     2833163 PT/ABM/AAC/00001/000007     Teatro D. Maria Pia (atual Teatro Municipal Baltasar Dias) e jardim Municipal, Freguesia da Sé, Concelho do Funchal
+     2833168 PT/ABM/AAC/00001/000008     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833169 PT/ABM/AAC/00001/000009     Lago do Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833170 PT/ABM/AAC/00001/000010     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833171 PT/ABM/AAC/00001/000011     Jardim Municipal do Funchal, Freguesia de São Pedro (atual Freguesia da Sé), Concelho do Funchal
+     2833173 PT/ABM/AAC/00001/000012     Praça da Constituição (atual avenida Arriaga), Freguesia da Sé, Concelho do Funchal
+     2833174 PT/ABM/AAC/00001/000013     Nave da Sé do Funchal, Freguesia da Sé, Concelho do Funchal
