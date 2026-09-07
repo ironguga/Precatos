@@ -456,3 +456,50 @@ Alvos secundários, por ordem:
 4. **42393** (óbitos 1783–1814) — a morte do próprio **Pedro da Silva Pitta**,
    vivo ainda em Nov 1789.
 5. **42455** e **42493** (baptismos 1765–1790) — os filhos mais novos de Pedro.
+
+---
+
+# Terceiro filho de Francisco da Silva Pitta e Laura dos Santos
+
+**1763, fl. 65v (imagem 131)** — margem: "Sebastião V.ra com An.ta dos S.tos Pitta"
+> ...assisti ao matrimonio que contrahio Sebastião Vieira, filho legítimo de
+> João Vieira e de sua segunda mulher Izabel..., com **Antónia dos Santos,
+> filha legítima de FRANCISCO DA SYLVA PITTA e de sua mulher LAURA DOS
+> SANTOS**, naturais desta freguezia.
+
+Lido a 3,4× de ampliação; a filiação não deixa dúvida. Cruza com o assento de
+25 Out 1787 (fl. 214), onde casa **Sebastiana Pitta, filha de Sebastião Vieira
+e de sua mulher Antónia Pitta** — a filha deste casal.
+
+## Os filhos do casal, por ordem de casamento
+
+| Filho | Casa | Fólio | Com |
+|---|---|---|---|
+| Francisco da Sylva Pitta | 23 Set 1754 | 9 | Michaela da Sylva |
+| Antónia dos Santos Pitta | 1763 | 65v | Sebastião Vieira |
+| António João Pitta | 14 Set 1770 | 100v | Catharina da Sylva, **no Outeiro** |
+
+O casal casou a 6 Nov 1730 (Livro 3.º, fl. 95). O primeiro filho nasceria em
+1731 ou 1732. Pelo costume onomástico português, o filho mais velho recebia o
+nome do avô paterno — que aqui é **Pedro** (Pedro da Sylva de Ponte). Nenhum
+dos três filhos documentados se chama Pedro, e o primeiro deles só casa em
+1754. **Um irmão mais velho chamado Pedro teria casado antes de Janeiro de
+1754 — isto é, no Livro 4.º de casamentos, que é justamente o que falta.**
+
+Não é prova. É a hipótese a bater, e agora tem forma verificável: o baptismo
+está no Livro 5.º de baptismos (1725–1743), que está em linha.
+
+## Aviso contra o meu próprio argumento
+
+O Outeiro **não é exclusivo de uma só casa Pitta**. O assento de 11 Nov 1788,
+fl. 221 (imagem 442), mostra outra:
+> Francisco Pitta viúvo de Maria dos Santos, filho de **João Pitta e de sua
+> mulher Anna da Sylva**, com Maria Gonçalves da Conceição... moradores os
+> Contraentes **no Outeiro**.
+
+É o mesmo homem que casara a 18 Set 1754 (fl. 8) declarando-se neto paterno de
+Manoel Fernandes Pitta e Maria Rodrigues. Ou seja: em 1788 viviam no Outeiro
+pelo menos duas casas Pitta sem parentesco varonil provado entre si, além da
+de Pedro. **O lugar reforça a hipótese A, não a demonstra.** O que continua
+exclusivo da casa de Pedro da Sylva de Ponte é o apelido composto "da Silva
+Pitta" — e mesmo esse é usado também pelo Alferes Manoel da Sylva Pitta.
