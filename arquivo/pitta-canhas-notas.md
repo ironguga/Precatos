@@ -1380,3 +1380,64 @@ varrer.
 O **Livro 2.º misto de óbitos (1639–1678)** está catalogado e tem **zero
 páginas digitalizadas**. É o terceiro livro dos Canhas nessa condição, com o
 8.º de baptismos (1765–1780) e os róis de crismados de 1732 e 1742.
+
+---
+
+# A décima primeira geração — 15 de Janeiro de 1676
+
+**Livro 2.º de casamentos dos Canhas, fl. 47 (ID 48626, imagem 96)** — margem:
+«Fr.co Pita co Antonia»
+
+> Em os 15 dias do mes de Janeiro de 1676, nesta Igreja de N.ª S.ª da Piedade,
+> corridos os banhos sem haver impedimento, na forma do Sagrado Concilio
+> Tridentino e Constituição deste Bispado, eu **Sebastião Marques**, Vigário
+> nesta dita freguezia, os recebi, e dei as bênçãos a **FRANCISCO PITA, filho
+> de DIOGO FERNANDES PITA e de sua mulher INES ROIZ**, com **ANTÓNIA VIEYRA,
+> filha de SIMÃO VIEYRA e de sua mulher [Isabel], já defuntos**, ambos desta
+> freguezia.
+
+Lido a 6× de ampliação com subtracção de fundo. «Diogo» lê-se com o *g*
+característico; «Fr.es Pita» e «Ines Roiz» estão nítidos.
+
+## Porque é identificável
+
+O assento de **Fev 1757** (Livro 5.º de casamentos, fl. 24v) declara que
+Antónia Vieyra Pitta é «**neta paterna de Francisco Pitta e de sua mulher
+Antónia Vieyra**». **É este casamento de 1676.** Logo os pais desse Francisco
+Pitta ficam documentados: **Diogo Fernandes Pita × Ines Rodrigues**, geração de
+cerca de 1650 — a **décima primeira geração** da paróquia.
+
+E confirma-se a casa do Valle em cinco gerações seguidas:
+
+    Diogo Fernandes Pita × Ines Rodrigues              (c. 1650)
+        └ Francisco Pitta × Antónia Vieyra             (casam 15 Jan 1676)
+            ├ Francisco Pitta do Valle × Anna da Trindade
+            │    ├ Antónia Vieyra Pitta (casa Fev 1757)
+            │    └ Francisco Pitta (casa c. 1769)
+            └ João Pitta do Valle × Izabel da Sylva
+                 └ Luiza da Sylva (casa Jan 1755)
+
+## O que isto ainda não prova — e digo-o
+
+O assento de **6 Nov 1730** dá a Maria Roiz Pitta, mulher de Pedro da Sylva de
+Ponte, os pais «**Francisco Pitta e Maria Rodrigues**» — não Antónia Vieyra.
+
+Duas leituras, e não escolho:
+1. **O mesmo homem, casado duas vezes** — Maria Rodrigues e Antónia Vieyra. A
+   cronologia consente: Maria Roiz Pitta nasceria por volta de 1680, e um
+   primeiro casamento antes de 1676 encaixa. Nesse caso **Diogo Fernandes Pita
+   e Ines Rodrigues são a décima primeira geração da linha directa**.
+2. **Dois Franciscos Pitta diferentes**, o do Valle e o outro. Nesta freguesia
+   há Pitta que se repetem de nome sem parentesco varonil, como o assento de
+   Romé Fernandes Pitta (1760) demonstrou.
+
+**Fica HIPÓTESE.** O que decide é o primeiro casamento de Francisco Pitta com
+Maria Rodrigues, que estaria neste mesmo livro antes de 1676 — imagens 1-95,
+por varrer.
+
+## Nota onomástica
+
+«**Diogo** Fernandes Pita» (1676) e «**Domingos** Fernandes Pitta» (declarado
+no assento de 29 Jan 1697 como pai de João Pitta) são nomes distintos mas
+próximos, e ambos «Fernandes Pita» da mesma geração e freguesia. Podem ser
+irmãos, ou o mesmo homem em duas leituras do abreviado «D.º». **Não os fundo.**
