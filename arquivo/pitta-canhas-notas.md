@@ -1441,3 +1441,191 @@ por varrer.
 no assento de 29 Jan 1697 como pai de João Pitta) são nomes distintos mas
 próximos, e ambos «Fernandes Pita» da mesma geração e freguesia. Podem ser
 irmãos, ou o mesmo homem em duas leituras do abreviado «D.º». **Não os fundo.**
+
+---
+
+# A décima geração, lida no próprio assento — 6 de Novembro de 1730
+
+Até agora a décima geração vivia nesta caderneta como afirmação: «o assento de
+1730 declara António Correa e Maria de Ponte». **A transcrição não estava cá.**
+Fui buscá-la.
+
+Datação do Livro 3.º de casamentos (ID 41777), medida e não estimada:
+**imagem = 2 × fólio + 2**. Imagem 190 = fl. 94 (Set/Out 1730), imagem 192 =
+fl. 95 (Nov 1730). O assento de 6 Nov 1730 está portanto em **fl. 94v,
+imagem 191**, e não em fl. 95 como eu escrevera.
+
+**6 Nov 1730, Livro 3.º de casamentos, fl. 94v (imagem 191)** — margem:
+«Fran.co Pitta / Laura dos S.tos»
+
+> «Em os 6 dias do mes de 9bro de 1730 assisti ao matrimonio que entre si
+> contrahirão **Fran.co Roiz Pitta, filho legítimo de P.º da Sylva de Ponte
+> e de sua m.er M.ª Roiz Pitta**, cujo noivo he netto por p.te **paterna de
+> Ant.º Correa e de sua m.er M.ª de Ponte**, e por parte **materna de
+> Fran.co Pitta e de sua m.er M.ª Roiz**, com **Laura dos Santos filha de
+> M.el Barretto de Mel e de sua m.er Felicia dos Santos**, cuja noiva he
+> netta por p.te paterna de … Barroza, e p.te materna de M.el Frz Rocha e de
+> sua m.er Izabel Dias, todos [desta freguezia]…»
+
+Li a linha dos avós paternos a **12×**, isolada: o apelido está escrito
+**C-o-r-r-e-a**, com o duplo r e o a final claros. Não é «Geral», não é
+«Perreira». **Fica CONFIRMADO POR DOCUMENTO PRIMÁRIO, e agora com a
+transcrição na mão e não por memória de uma leitura anterior:**
+
+    António Correa × Maria de Ponte        Francisco Pitta × Maria Rodrigues
+                    ↓                                      ↓
+        Pedro da Sylva de Ponte      ×      Maria Roiz Pitta
+
+## O assento de 1725 não ajuda, e digo-o
+
+**11 Out 1725, Livro 3.º, fl. 79 (imagem 160)** — margem «Joam Roiz / M.ª Pita»
+> «…eu **António Miguel de Faria**, Vigário desta Parochial Igreja de Nossa
+> Sr.ª da Piedade dos Canhas … assisti ao matrimonio que entre si celebrarão
+> por palavras de presente **Joam Roiz, f.º de Manoel [Roiz] Torneiro e de sua
+> mulher Maria da Conceição**, e **Maria Pita, f.ª de Pedro da S.ª da Ponte e
+> de sua mulher Maria Pita**, desta freguezia, todos moradores nesta
+> freguezia. Forão presentes o **Alferes Joam Beringer de Andrade** e o
+> **Cap.ᵃᵒ Pedro Roiz da Canha**…»
+
+**Este assento não dá avoengas.** Eu contava com ele como segunda atestação
+independente da décima geração; não é. A décima geração assenta num só
+documento — o de 1730 — e é preciso dizê-lo assim.
+
+---
+
+# Duas casas Pitta que se juntam: fólio 95 do Livro 3.º
+
+Na mesma folha seguinte àquela, um assento que eu não tinha e que sobe uma
+geração inteira noutro ramo Pitta.
+
+**20 Nov 1730, Livro 3.º de casamentos, fl. 95 (imagem 192)** — margem
+«Joaõ Frz Miz / Izabel Vr.ª»
+
+> «Em os 20 dias do mes de 9bro de 1730, eu o P.e **Manoel Roiz Ranthoja**, de
+> licença do M.to R.do P.e Vig.º desta Igr.ª de N. S. da Piedade dos Canhas,
+> assisti ao matrimonio que entre si contrahirão **Joam Fr.z M[art]iz, filho
+> de Manoel Fr.z M[art]iz e de sua mulher Ignacia Roiz, neto p.ª p.te paterna
+> de Fran.co M[art]iz Latinha e de sua mulher Apolonia Fr.z, e p.ª p.te
+> materna de Gaspar Roiz e de sua mulher Maria das Neves**, com **Izabel
+> V[iey]r.ª Pita, filha de MANOEL ROIZ PITTA e de sua mulher MARIA VIEYRA,
+> neta p.ª p.te paterna de DIOGO FR[ANDE]S PITTA e de sua mulher IZABEL ROIZ,
+> e p.ª p.te materna de JOAM HENRIQUES e de sua mulher MARIA VIEYRA**, todos
+> desta freguezia…»
+
+O que isto fecha:
+
+1. **Manoel Rodrigues Pitta × Maria Vieyra** — o casal que três assentos de
+   casamento (1755, 1757, 1759) davam como avós maternos, e cuja morte a 23
+   Mar 1757 eu já tinha documentado — passa a ter **pais**:
+   **Diogo Fernandes Pitta × Izabel Rodrigues**.
+2. E o assento de **15 Jan 1676** (Livro 2.º, fl. 47, imagem 96) dá
+   **Francisco Pita, filho de DIOGO FERNANDES PITA e de sua mulher Ines Roiz**.
+   Diogo Fernandes Pitta é, nos dois assentos, o mesmo nome próprio, o mesmo
+   apelido composto e a mesma freguezia; a mulher é «Ines Roiz» num e «Izabel
+   Roiz» no outro. São as duas leituras possíveis do mesmo tipo de abreviatura
+   e podem ser a mesma mulher — **mas não as fundo sem um terceiro assento.**
+   Se forem, **Francisco Pitta do Valle e Manoel Rodrigues Pitta eram irmãos**,
+   e as duas maiores casas Pitta dos Canhas do século XVIII descendem de um só
+   homem. **Fica MUITO PROVÁVEL, não CONFIRMADO.**
+3. **João Henriques × Maria Vieyra** entram na árvore por documento. É a
+   primeira vez que o apelido **Henriques** — um dos ramos que o dossiê manda
+   priorizar — aparece ligado à casa Pitta dos Canhas por assento e não por
+   suposição. (Nada o liga, por enquanto, aos Henriques de que descende Júlia
+   Maria Henriques, casada em 1871; não faço a ponte.)
+
+**8 Nov 1730, mesma folha (imagem 192)** — margem «M.el de Ponte / M.ª Roiz»
+> «…contrahirão **Manoel de Ponte de Azevedo, f.º de Jozeph Fr.ª [de Ontra] e
+> de sua m.er M.ª de Ponte, netto a parte paterna de JOAM FR[ANDE]S e de sua
+> m.er M.ª DE PONTE, e por p.te materna de ANT.º ROIZ GERAL e de sua m.er
+> M.ª DE PONTE**, com **M.ª Roiz, filha de Joam Fr. Sapateiro, natural do Arco
+> da Calheta, e de sua m.er Izabel Roiz**…»
+
+Registo-o porque **é a armadilha**: há nos Canhas, na mesma geração, um
+**António [Rodrigues/Fernandes] Geral casado com uma Maria de Ponte**. Nome
+próprio igual, mulher de nome igual ao da nossa décima geração. **Não é o
+nosso**: o assento de 1730 escreve **Correa**, e Correa não é Geral. Deixo o
+aviso escrito para que ninguém — eu incluído — os confunda mais tarde.
+
+---
+
+# Livro 2.º de casamentos (1640–1691) — varredura, e o que ela deu
+
+## Onde acabam os casamentos
+
+**A imagem 147 abre «Título de N. S. …» e o que se segue são testamentos,
+contas e róis da confraria, não assentos.** Os casamentos ocupam portanto as
+**imagens 1 a 146**, e não 1-165 como eu estimara. Corrijo.
+
+## O que li nesta campanha
+
+**Por margem:** imagens 2-29, 60-83, 91-127, 145-146.
+**Por corpo, duas páginas de cada vez a 3× com normalização local:** imagens
+84-100 — a faixa que a cronologia indica para o casamento de António Correa.
+
+## Assentos novos, transcritos
+
+**5 Nov 1679, fl. 53v (imagem 107)** — margem «Ant.º da Silva / co Catherina /
+de ponte»
+> «Em os 5 dias do mes de Novembro de 1679, na Igr.ª de Nossa Sr.ª da Piedade,
+> corridos os banhos conforme ordena o Sagrado Concílio Tridentino, sem haver
+> impedimento algum, que só de 4.º grão de consanguinidade em que forão
+> dispensados pelo Sr. Núncio Apostólico, eu **Sebastião Marques**, Vigário
+> deste dito lugar, os recebi e dei as bênçãos a **Antonio da Silva, filho de
+> Manoel Lopes de Azevedo e de sua mother Maria da Trindade**, com
+> **Catherina de Ponte, filha de ANTÓNIO FR[ANDE]S GERAL e de sua mother
+> MARIA DE PONTE**, todos [desta freguezia], que forão presentes Bartholomeu
+> Lopes…»
+
+**9 Jan 1673, fl. 43 (imagem 87)**
+> «…dei as bênçãos a **Fr.co Rodrigues, filho de Sim.º Dias defunto e de sua
+> m.er … de Azevedo**, com **M.ª de Ponte, filha de Ant.º Fr.z Geral e de sua
+> m.er M.ª de Ponte**, meus freguezes…»
+
+Duas filhas do mesmo casal Geral × de Ponte, a casar em 1673 e 1679. É a casa
+com que o nosso António Correa não se confunde.
+
+**28 Out 1675, fl. 47 (imagem 93)** — margem «João Pestana / Marinha Correa»
+> «…a **Joam [Pestana], f.º de Ant.º Pestana e de sua m.er M.ª P.ª já defunta,
+> da freguezia de S. Vicente**, com **Marinha Correa, f.ª de FRAN.co CORREA
+> G[ONÇALVE]S e de sua m.er [Ca]tharina, meus freguezes**…»
+
+**Terceira casa Correa documentada nos Canhas**, além da de Manoel Correa ×
+… Álvares (assento de 8 Nov 1688). Nenhuma delas é ainda a do nosso António.
+
+**20 Out 1675, fl. 46v (imagem 92)**
+> «…dispensados no 3.º e 4.º grão … a **Manoel da Silva, filho de M.el da
+> Ponte Pacheco e de sua m.er Maria Fernandes**, com **[Maria] P.ª Vieira,
+> filha de Manoel de Ponte e de sua m.er Barbara V.ra já defuntos**…»
+
+Interessa pelo mecanismo, não pelas pessoas: aqui um filho de **de Ponte**
+sai **da Silva**. O apelido composto «da Silva de Ponte» que Pedro carrega
+forma-se exactamente assim nesta freguezia, e não obriga a que o pai se
+chamasse Silva.
+
+## O negativo, e é grande
+
+Nas imagens 84-100 lidas **pelo corpo** — anos de 1672 a 1676, que é onde a
+cronologia põe o casamento de António Correa com Maria de Ponte — estão
+dezassete assentos e **nenhum deles é o dele**. Os noivos são: Salvador
+Garcia da Silva, Domingos Frz, Diogo Glz, Salvador Roiz, Manoel Roiz,
+Baltazar Gomes, o da Silva de 20 Nov 1675, Manoel Afonso Antunes, Jorge de
+Andrade, Roque Glz, Fran.co Gomes, Manoel Dias Braga, Joam Roiz, Amaro Roiz,
+Sebastião P.z, Fran.co [Quego], Manoel da Silva, M.el g.z, Joam Pestana,
+Fran.co Roiz e **Francisco Pita** (15 Jan 1676, com Antónia Vieyra).
+
+Nas margens das imagens 60-83 (c. 1662-1671) e 101-127 (1676-1684) também não
+aparece. **A conclusão honesta é que o casamento de António Correa com Maria
+de Ponte não está nas imagens 60-127 do Livro 2.º dos Canhas.**
+
+Restam três explicações, e não escolho nenhuma sem documento:
+1. está nas imagens 30-59 (c. 1646-1662) — a faixa que falta varrer, e que
+   exigiria que Pedro tivesse nascido antes de 1665;
+2. casaram noutra freguezia (Ponta do Sol, Arco da Calheta, Tábua, Campanário,
+   S. Vicente — todas aparecem neste livro como naturalidade de noivos);
+3. o assento existe e a margem não o nomeia, e a página escapou-me.
+
+## O tecto, sem se mexer
+
+**António Correa × Maria de Ponte** e **Francisco Pitta × Maria Rodrigues**,
+c. 1650-1670, declarados no assento de 6 Nov 1730 e agora transcritos do
+original. **Não subo daqui sem documento.**
