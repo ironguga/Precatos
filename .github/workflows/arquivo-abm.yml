@@ -21,8 +21,8 @@ on:
         required: false
 
 env:
-  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41777' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '1,20,60,100,140,180,220,260,300,340,380,420,460,500' }}
+  ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/42119' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '1,40,80,120,160,200,240,280,320,360,400,440,480,520,560,600' }}
 
 jobs:
   baixar:
@@ -39,7 +39,7 @@ jobs:
 
       - name: Mapear os livros da paróquia dos Canhas
         continue-on-error: true
-        run: node scripts/arquivo-abm-livros.mjs 41500 42120
+        run: node scripts/arquivo-abm-livros.mjs 42120 42260
 
       - name: Baixar imagens
         run: |
