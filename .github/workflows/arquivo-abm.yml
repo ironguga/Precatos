@@ -14,6 +14,7 @@ on:
       - 'scripts/arquivo-abm-indexados.mjs'
       - 'scripts/arquivo-abm-canhas.mjs'
       - 'scripts/arquivo-abm-sondar.mjs'
+      - 'scripts/arquivo-abm-notarial.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -27,7 +28,7 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  ABM_LIVROS: '42119:1-300 42580:1-283'
+  ABM_LIVROS: ''
 
 jobs:
   baixar:
@@ -48,6 +49,19 @@ jobs:
 
       # O levantamento exaustivo vai para um ficheiro comitado na branch: o
       # ambiente do agente não alcança nem o artefacto nem o log do run.
+      - name: Procurar séries notariais e judiciais
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-notarial.mjs | tee arquivo/abm-notarial.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-notarial.txt
+          git diff --cached --quiet || {
+            git commit -m 'Busca de séries notariais e judiciais que nomeiem os Pitta'
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME"
+          }
+
       - name: Sondar o que está mesmo digitalizado
         continue-on-error: true
         run: |
