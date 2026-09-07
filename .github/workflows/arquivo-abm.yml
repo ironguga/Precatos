@@ -9,6 +9,7 @@ on:
     paths:
       - '.github/workflows/arquivo-abm.yml'
       - 'scripts/arquivo-abm-download.mjs'
+      - 'scripts/arquivo-abm-probe-hires.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -32,6 +33,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+
+      - name: Procurar variante de maior resolução
+        continue-on-error: true
+        run: node scripts/arquivo-abm-probe-hires.mjs "$ABM_URL"
 
       - name: Baixar imagens
         run: node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
