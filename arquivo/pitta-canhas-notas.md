@@ -876,3 +876,34 @@ Os troços por ler no corpo são as imagens **101-120, 131-150, 161-180,
   um quarto filho do casal, além de Anna Maria (1734), Antónia e Jacinta.
 - **img 314** — Maria, filha de M.el Vieira e **Clara Pitta**.
 - **img 247** — Maria, filha de Francisco da Sylva e **Maria Pitta**.
+
+## Pedro da Sylva de Ponte vivo em Janeiro de 1751
+
+**9 Jan 1751, Livro 6.º de baptismos, fl. 140v (imagem 277)** — baptismo de
+Manoel, filho de João de Lessa e Joanna de Crasto:
+> «…foi padrinho **Pedro da S.ª de Ponte**, de que fis este termo, era ut
+> supra.» — e a linha da marca: **«Pedro ✝ da S.ª de Ponte»**
+
+Lido a 3,4× de ampliação. Assina de cruz: iletrado.
+
+Importa por três razões:
+
+1. **Fixa o homem no tempo.** Casou por volta de 1700-1705 (os filhos casam em
+   1725 e 1730), logo nasceu por volta de 1675-1685 e teria 66 a 76 anos em
+   1751. Compatível.
+2. **Ou não é ele.** Um filho homónimo — Pedro da Sylva de Ponte, pelo nome do
+   pai — explicaria igualmente bem o assento. E **é exactamente esse filho que
+   a hipótese B precisa**: um homem que carrega «da Silva de Ponte» do pai e
+   «Pitta» da mãe, e a quem os assentos chamam ora uma coisa ora outra.
+3. **O nome sobrevive na freguesia até 1801**, quando outro «P.º da S.ª de
+   Ponte» leva um testamento e assina de cruz (Livro 7.º de óbitos, fl. 188).
+   São pelo menos dois homens com este nome, a cinquenta anos de distância.
+
+Não decido qual. Fica documentado que o nome está vivo nos Canhas em 1751 —
+o ano exacto em que Pedro da Silva Pitta já era, ou estava prestes a ser,
+homem casado.
+
+## Cobertura acrescentada
+
+Lidos no corpo os fólios 128, 132, 136, 140 e 142 (imagens 251-291) do Livro
+6.º. Nenhum filho de um Pedro.
