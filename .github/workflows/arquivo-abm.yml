@@ -15,6 +15,7 @@ on:
       - 'scripts/arquivo-abm-canhas.mjs'
       - 'scripts/arquivo-abm-sondar.mjs'
       - 'scripts/arquivo-abm-fontes-externas.mjs'
+      - 'scripts/arquivo-abm-indice-nominal.mjs'
       - 'scripts/arquivo-abm-notarial.mjs'
   workflow_dispatch:
     inputs:
@@ -50,6 +51,23 @@ jobs:
 
       # O levantamento exaustivo vai para um ficheiro comitado na branch: o
       # ambiente do agente não alcança nem o artefacto nem o log do run.
+      - name: Interrogar o índice nominal do ABM
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-indice-nominal.mjs > arquivo/abm-indice-nominal.txt 2>&1 || true
+          cat arquivo/abm-indice-nominal.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-indice-nominal.txt
+          git diff --cached --quiet || {
+            git commit -m 'Índice nominal do ABM: o que devolve para os nomes da linha'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Procurar em genealogias publicadas e fóruns
         continue-on-error: true
         run: |
