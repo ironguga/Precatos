@@ -24,7 +24,9 @@ on:
 
 env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
-  ABM_PAGINAS: ${{ github.event.inputs.paginas || '1' }}
+  ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
+  # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
+  ABM_LIVROS: '41111:1-520'
 
 jobs:
   baixar:
@@ -70,12 +72,44 @@ jobs:
         continue-on-error: true
         run: node scripts/arquivo-abm-indexados.mjs
 
+      # ABM_LIVROS: lista "id:páginas" separada por espaços. Cada livro vai para
+      # a sua pasta e é comitado à parte, para o run não se perder todo se um
+      # livro falhar.
+      - name: Baixar e comitar os livros pedidos
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for par in $ABM_LIVROS; do
+            id="${par%%:*}"; pags="${par#*:}"
+            echo "=== livro $id, páginas $pags ==="
+            rm -rf imagens && mkdir -p imagens
+            if ! node scripts/arquivo-abm-download.mjs \
+                 "https://arquivo-abm.madeira.gov.pt/viewer/descriptions/$id" \
+                 "$pags" --out imagens; then
+              echo "livro $id falhou; sigo para o próximo"
+              continue
+            fi
+            destino="arquivo/abm-$id"
+            mkdir -p "$destino"
+            cp imagens/*.jpg "$destino"/ 2>/dev/null || { echo "sem imagens"; continue; }
+            git add -f "$destino"
+            git diff --cached --quiet && { echo 'nada de novo'; continue; }
+            git commit -m "Imagens da descrição ABM $id"
+            for tentativa in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && \
+                git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** tentativa))
+            done
+          done
+
       - name: Baixar imagens
+        if: env.ABM_PAGINAS != ''
         run: |
           echo "ABM_ID=$(echo "$ABM_URL" | grep -oE 'descriptions/[0-9]+' | cut -d/ -f2)" >> "$GITHUB_ENV"
           node scripts/arquivo-abm-download.mjs "$ABM_URL" "$ABM_PAGINAS" --out imagens
 
       - uses: actions/upload-artifact@v4
+        if: env.ABM_PAGINAS != ''
         with:
           name: imagens-canhas-casamentos
           path: imagens/
@@ -84,6 +118,7 @@ jobs:
       # Também comita as imagens na branch: o artefacto vive em armazenamento
       # que o ambiente do agente não alcança, mas o git sim.
       - name: Comitar as imagens na branch
+        if: env.ABM_PAGINAS != ''
         run: |
           destino="arquivo/abm-$ABM_ID"
           mkdir -p "$destino"
