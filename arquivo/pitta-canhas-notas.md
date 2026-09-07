@@ -73,18 +73,46 @@ reaparecem em 1.5 (c. 1790) como pais dos noivos. O livro fecha sobre si mesmo.
 
 ## 2. HIPÓTESE — não confirmada
 
-**Pedro da Silva Pitta seria filho de João Pitta e Anna da Sylva**, logo irmão
-de Jozeph Pitta (1.3) e neto de Manoel Fernandes Pitta.
+Duas hipóteses concorrentes, ambas por confirmar:
 
-Sustentação (indiciária, não probatória):
-- o apelido "da Silva Pitta" explica-se por João Pitta ter casado com Anna **da
-  Sylva** — os filhos tomariam o apelido materno antes do paterno;
-- Pedro deu ao filho mais velho o nome **João**, padrão de nome do avô paterno;
-- mesma freguesia, mesma geração, mesmo sítio.
+**(A) — a mais forte, aberta pelo assento 1.7.** O casal **Pedro da Sylva de
+Ponte × Maria Pitta** produz, pela regra onomástica, filhos de apelido
+composto **"da Silva Pitta"** — e é essa exatamente a forma do nome do seu
+antepassado. Reforça-o o facto de **Francisco da Sylva Pitta** aparecer a
+assinar nesse mesmo assento (1760): é o único portador documentado do apelido
+composto na geração anterior, logo candidato a irmão ou pai de Pedro. E o nome
+de baptismo "Pedro" repetir-se-ia do avô Pedro da Sylva de Ponte, como era uso.
+
+**(B) — a anterior.** Pedro seria filho de João Pitta e Anna da Sylva (1.3),
+irmão de Jozeph Pitta. Explica o "da Silva" pela mãe e o filho chamado João
+pelo avô, mas não explica a forma composta já fixada como apelido.
 
 **Teste que a confirma ou derruba:** o assento de casamento do próprio Pedro,
 que dirá "filho legitimo de …". Deve estar entre ~1758 e ~1765, ou seja
 fólios 26–70, imagens 52–140.
+
+### 1.6 Felippe da Sylva × Ritta Pitta — 29 Jul 1756, fl. 21 (imagem 43)
+
+Ritta: filha legítima de **João Pitta** e **Magdalena da Sylva**, **neta paterna
+de DOMINGOS FERNANDES PITTA e Maria Vieyra**, neta materna de Manoel Rodrigues
+Jardim e Izabel Rodrigues.
+
+Consequência: há **dois João Pitta distintos** — um filho de *Domingos*
+Fernandes Pitta (casado com Magdalena da Sylva) e outro filho de *Manoel*
+Fernandes Pitta (casado com Anna da Sylva, ver 1.3).
+
+### 1.7 Manoel Rodrigues × Jacinta Pitta — 24 Jan 1760, fl. 40 (imagem 80)
+
+Jacinta: filha legítima de **João Rodrigues Carneiro** e **Maria Pitta**; neta
+paterna de Manoel Fernandes Carneiro e Maria da Conceição; **neta materna de
+PEDRO DA SYLVA DE PONTE e de sua molher MARIA PITTA**.
+Testemunha que assina: **FRANCISCO DA SYLVA PITTA**.
+
+### 1.8 Francisco da Sylva × Sebastianna Pitta — 10 Jan 1765, fl. 71 (imagem 142)
+
+Sebastianna: filha de **João Rodrigues Carneiro** e **Maria Pitta** — irmã de
+Jacinta (1.7). Noivo viúvo de Francisca da Sylva, filho de Manoel da Sylva e
+Magdalena Gonçalves. Dispensados em 3.º com 4.º grau de consanguinidade.
 
 ## 3. Rede Pitta dos Canhas identificada (1750–1791)
 
@@ -97,10 +125,21 @@ Manoel Jozé Pitta · Magdalena Pitta · Maria Roza Pitta
 
 ## 4. Cobertura da varredura
 
-Margens lidas: imagens 46–77, 88–111, 452–467.
-Por ler: 38–45, 78–87, 112–143, 468–500.
-Não encontrado até agora: o casamento de **Pedro da Silva Pitta × Antónia**, e
-o casamento de **José da Silva Pitta × Maria Gomes** (1791).
+Margens lidas: **imagens 38–143** (fólios 19–71, anos 1756–1765) e 452–467.
+Escala validada por três marcas de ano escritas no próprio livro: "1756" na
+fl. 19, "1762" na fl. 61, "1765" na fl. 71.
+
+**O casamento de Pedro da Silva Pitta NÃO está entre 1756 e 1765.** Como as
+imagens 145–155 (fl. 72–77, 1765–66) também já foram lidas assento a assento
+sem o encontrar, restam três explicações, por ordem de probabilidade:
+
+1. Pedro casou **antes de 1756** → livro de **casamentos dos Canhas 1743–1754**
+   (ainda não aberto). É a hipótese mais forte.
+2. Pedro casou **noutra freguesia**, a da noiva — Ponta do Sol é a candidata.
+3. Pedro casou entre 1766 e 1770 → fólios 78–100, imagens 156–200 (por ler).
+
+Também não encontrado: o casamento de **José da Silva Pitta × Maria Gomes**
+(1791), que o dossiê dá como localizado no ABM.
 
 ## 5. Homónimos a NÃO ligar
 
