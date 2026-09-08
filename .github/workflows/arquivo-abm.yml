@@ -23,6 +23,7 @@ on:
       - 'scripts/arquivo-abm-itens-canhas.mjs'
       - 'scripts/arquivo-abm-pais.mjs'
       - 'scripts/arquivo-abm-assentos.mjs'
+      - 'scripts/arquivo-abm-mapa.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -199,7 +200,25 @@ jobs:
             done
           }
 
+      - name: Mapear as faixas de identificadores do arquivo
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-mapa.mjs 1 620000 400 > arquivo/abm-mapa.txt 2> >(tail -3 >&2) || true
+          tail -40 arquivo/abm-mapa.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-mapa.txt
+          git diff --cached --quiet || {
+            git commit -m 'Mapa das faixas de identificadores: que fundo vive em que intervalo'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Baixar as imagens ao nivel do assento
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
