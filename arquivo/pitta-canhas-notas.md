@@ -2960,3 +2960,102 @@ versionados neste repositório**; o `npm i -D playwright` alterava-os, e a minha
 `git pull --rebase` recusar-se a correr. Corrigido com
 `git checkout -- package.json package-lock.json` antes do *commit*. Fica escrito
 porque foi o meu erro, não do arquivo.
+
+---
+
+# 14 de Novembro de 1622 — a décima segunda geração
+
+O senhor foi ao FamilySearch com o telemóvel, chegou ao **filme 1103859 /
+DGS 8041803**, «Casamentos 1592-1691 (com óbitos)» dos Canhas — que é o
+**Livro 1.º** que o ABM cataloga com o identificador 2195 e para o qual serve
+**zero páginas** — e **descarregou** as imagens 34, 36, 38 e 40 em resolução
+plena: **~5 780 × 4 300 px**, cerca de oito vezes o que o arquivo entrega em
+linha. É por isso que este assento se lê.
+
+## O assento
+
+**Imagem 38 do filme — fólio 31 v.º do livro** (o número «32» vem circulado no
+canto da página da direita; a foliação antiga escreve «173»).
+
+Margem: «**M.el Correa / Fran.ca Lopes**»
+
+> «Nos **ca[do]rze dias do mes de No[vemb]ro de seis centos [e vinte] e dous
+> annos**, depois de serem corridos os bannos na forma do Concillio
+> Triden|tino, a **M.[an]el [Correa]**, **filho de M.[ano]el CORREA, difunto,
+> da freguesia [de …]**, depois esposais, [recebi] **co[m] FRAN.ca LOPES,
+> filha de M.[ano]el R[oi]z difunto e de sua mulher [VIT]ORIA RO[I]Z**, meus
+> freguezes, e não lhes saindo impedi|mento, os recebi eu **Balthesior Aluares
+> de Araujo**, vigairo nesta [igreja] de N.ª S.ª **da Piedade**, os recebi à
+> porta della; t[estemunhas] presentes **P.º Henriques de Lumichana** e
+> **B[al]t[esa]r Henriques**, [Ma]noel […] e outros mais. Comigo assinarão,
+> dia e era acima. **Balthesior Aluares de Araujo**.»
+
+## Porque é que sei que é este e não outro
+
+Não é leitura de sobrenome, é encaixe de quatro coisas independentes:
+
+1. **O índice nominal do ABM** dá `PT/ABM/PPTS01/002/00001/000084`, **1622**,
+   «Registo de casamento: **Manuel Correia c.c. Francisca Lopes**» — descrição
+   **170550**. E o campo `PhysLoc` dessa descrição diz **«Liv. 476, f. 31 v.º»**.
+   A imagem 38 traz «32» circulado na página da direita: a da esquerda é o
+   **31 v.º**. Bate ao fólio.
+2. **O assento seguinte, 85**, é «**Afonso Henriques c.c. Ana Barreto**», 1623.
+   É exactamente o primeiro assento da **página da direita** da mesma imagem 38
+   — margem «Affonso Henriq[ues]», corpo «…a Affonso Enriq[ues] … com Anna
+   Barreto…», datado de **6 de Fevereiro de seiscentos e vinte e três**.
+3. **A imagem 40** — dois fólios adiante — traz três assentos de **1624** e, no
+   pé da página, a nota de visitação «**Vista em vizita a 9 de f.º de 624**».
+   Uma imagem por fólio, e a série corre 1619 → 1622 → 1623 → 1624.
+4. **O assento de 26 de Novembro de 1657** já lido diz que António Correa era
+   «**f.º de M.el CORREA def.to e de sua legítima mulher FRAN.ca LOPES**».
+   É este casal, e este é o casamento deles.
+
+## Uma correcção à minha primeira leitura
+
+Li primeiro «de seis centos **e dous**» e cheguei a dar o ano como 1602. Estava
+errado: **este escrivão abrevia «vinte»** e comprime-o entre «centos» e «e
+dous». Vê-se melhor no assento da página ao lado, onde o mesmo grupo de traços
+está seguido de «tres» e a data tem de ser 1623. A sequência de fólios e o
+índice do ABM fecham a questão: **1622**.
+
+## O que isto acrescenta à árvore
+
+| Geração | Casal | Prova |
+|---|---|---|
+| 11 | Manoel Correa × Francisca Lopes | **casamento 14 Nov 1622**, L.1.º ass. 84, f. 31 v.º |
+| **12** | **Manoel Correa**, *já defunto em 1622*, «da freguesia [de …]» | declarado neste assento |
+| **12** | **Manoel R[oi]z**, *defunto*, × **[Vit]ória Ro[i]z** | declarados neste assento |
+
+São **doze gerações**, todas por documento primário.
+
+## O que fica por ler, e é honesto dizê-lo
+
+- **A freguesia de origem do Correa velho.** A palavra existe, está inteira, e
+  não a fixo: sete letras com duas hastes altas, terminadas por um traço de
+  preenchimento até à margem. Tentei quatro processamentos — normalização
+  local, autocontraste directo, binarização por percentil, e ampliações até
+  22× — e o microfilme (é uma «**CÓPIA EM MAL CONDIÇÃO**», di-lo a própria
+  etiqueta fotografada) não dá mais. **Importa**, porque é a pista de onde
+  vieram os Correa; e é a mesma pergunta que persigo para os Pita.
+- **Se «R[oi]z» é Rodrigues ou Lopes** no pai da noiva. A abreviatura do pai e
+  a da mãe têm o mesmo desenho de base; a da mãe lê-se «Ro[i]z» com folga.
+  Pela onomástica dos Canhas — metade do nome de cada progenitor — «Francisca
+  **Lopes**» pedia um Lopes entre os pais, o que aconselha prudência. Deixo as
+  duas por resolver, marcadas.
+
+## E uma porta que se abriu ao verificar isto
+
+Ao confirmar o fólio pelo campo `PhysLoc`, dei com o que procurei durante
+campanhas inteiras: **a descrição 170550 traz `StorageDisseminationID`
+próprio** — `vault://DISSEMINATION/5AFF753A4DE9273E82EA2D2BBD95F10B` — e
+`HasPublishedFiles: true`. Ou seja:
+
+> **O Livro 1.º não serve páginas, mas serve assentos.** O que `/digitalobjects`
+> nega ao livro (2195 → lista vazia), a API entrega assento a assento pela
+> descrição de cada registo.
+
+Isto derruba o item 1 do pedido ao Arquivo e abre, em princípio, todo o Livro
+1.º — e possivelmente os **baptismos da Ponta do Sol de 1614-1641** (44085),
+que estão exactamente no mesmo estado: `digital=true`, zero páginas. É lá que
+deve estar o baptizado de **Diogo Fernandes Pita**. Escrevi
+`scripts/arquivo-abm-assentos.mjs` para o fazer e liguei-o ao workflow.
