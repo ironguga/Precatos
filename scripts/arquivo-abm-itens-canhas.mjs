@@ -45,7 +45,8 @@ for (let i = de; i <= ate; i += lote) {
     const d = rs[k];
     if (!d) continue;
     const cod = d.CompleteUnitId ?? '';
-    if (!/PPTS01/.test(cod)) continue;
+    const filtro = process.env.ABM_CODIGO ? new RegExp(process.env.ABM_CODIGO) : /PPTS01/;
+    if (!filtro.test(cod)) continue;
     achados.push({
       id: ids[k],
       cod,
