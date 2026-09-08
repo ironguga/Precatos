@@ -394,7 +394,31 @@ jobs:
       # ABM_LIVROS: lista "id:páginas" separada por espaços. Cada livro vai para
       # a sua pasta e é comitado à parte, para o run não se perder todo se um
       # livro falhar.
+      - name: Procurar o Livro 1.o de baptismos da Ponta do Sol
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # 44085 e o Livro 2.o de baptismos (1614/1641). O Livro 1.o, se existir,
+          # cobre os anos 1590 — e e la que estaria o baptizado de Diogo Fernandes
+          # Pita, que nomeia os pais dele. Sonda-se a vizinhanca do identificador.
+          node scripts/arquivo-abm-mapa.mjs 44070 44120 1 > arquivo/abm-baptismos-pontadosol.txt 2>/dev/null || true
+          cat arquivo/abm-baptismos-pontadosol.txt
+          echo '--- estado de cada um ---'
+          node scripts/arquivo-abm-sondar.mjs 44084 44083 44082 44081 44080 44100 44101 >> arquivo/abm-baptismos-pontadosol.txt 2>&1 || true
+          tail -12 arquivo/abm-baptismos-pontadosol.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-baptismos-pontadosol.txt
+          git diff --cached --quiet || {
+            git commit -m 'Os livros de baptismos da Ponta do Sol e o que cada um serve'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Ver que variantes o catalogo declara para o folio 75
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
