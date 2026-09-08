@@ -40,7 +40,8 @@ env:
   # Livro 1.o de casamentos (1592-1639) e Livro 4.o (1743-1754), o que faltava.
   # Ultima tentativa ao Livro 1.o (2195) e os indices notariais.
   # Ponta do Sol: baptismos 1614-1641 e casamentos 1565-1652; Arco da Calheta 1598-1641.
-  ABM_LIVROS: '44085:1-300 48721:1-300 41661:1-250'
+  # Ponta do Sol: baptismos 1614-1641 (44085) e casamentos 1565-1652 (48721).
+  ABM_LIVROS: '44085:1-320 48721:1-320'
 
 jobs:
   baixar:
@@ -163,6 +164,7 @@ jobs:
           }
 
       - name: Indice nominal das freguesias vizinhas
+        if: false
         continue-on-error: true
         env:
           ABM_CODIGO: 'PPTS03|PCLT01|PCLT03|PPTS02'
