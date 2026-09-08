@@ -1,0 +1,154 @@
+
+===== 2195 =====
+  Dimensions: 1 liv.: 80 f.
+  LangMaterial: Português.
+  ScopeContent: Atente-se:
+f. 1-50 - contêm registos de casamentos;
+f. 51-79 v.º - contêm registos de óbitos;
+f. 9-9 v.º - contêm relação de casamentos celebrados nesta freguesia e que não constam deste Liv. 1. Uma nota do Padre Belchior refere ter encontrado as "pessoas abaixo nomeadas posta em mea folha de papel 
+  Note: Seguiu-se a foliação a lápis.
+  PhysTech: f. com registos de leitura prejudicada pela acidez da tinta e do restauro inadequado: 46 v.º, 47 e 48.
+  PhysLoc: D2/B1/E7/PC/476
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1592-11-17
+  UnitTitle: Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
+  UnitDateFinal: 1639-10-30
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: DC
+  CompleteUnitId: PT/ABM/PPTS01/002/00001
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 00001
+  AssociationCount: 0
+  AllowTextualContentInference: true
+  ViewCount: 2089
+  Created: 2012-04-09T00:00:00
+  Modified: 2026-09-08T13:08:02.557
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: false
+  HasAudiovisualRecord: false
+  Barcode: UD2195
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 2195
+  Parent: 5137
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 44085 =====
+  Dimensions: 1 liv.: 146 f. (141 f. num.)
+  LangMaterial: Português.
+  ScopeContent: Atente-se:
+f. 4 - contém registos de baptismo, datados de Março de  1641;
+f. 132 v.º - contém registo riscado pelo pároco;
+f. 1-3 - contêm róis de crismados.
+  Note: F. em branco: 24 v.º-25.
+  RelatedMaterial: PPTS03/5/434-A
+  PhysTech: Mau estado de conservação
+Acidez da tinta.
+Ataque biológico.
+Falta de encolagem.
+Fragilidade do suporte. f. rasgada: 129.
+Manchas de humidade.
+Folha solta.
+  PhysLoc: D2/B1/E6/PE/434
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1614-10-14
+  UnitTitle: Livro 2.º de registo de baptismos da Ponta do Sol (1614/1641)
+  UnitDateFinal: 1641-03-31
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: DC
+  CompleteUnitId: PT/ABM/PPTS03/001/00002
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 00002
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 1085
+  Created: 2006-01-01T00:00:00
+  Modified: 2026-09-08T14:09:07.54
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD44085
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 44085
+  Parent: 53013
+  RootParent: 631371
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 48721 =====
+  Dimensions: 1 liv.: 136 f. num.
+  LangMaterial: Português.
+  Note: F. em falta: 1-3, 49 e 79.
+  PhysTech: F. manchadas e amareladas pela humidade, na quase totalidade do livro.
+F. perfuradas pelo repasse e acidez da tinta, na quase totalidade do livro.
+  AccessRestrict: Comunicação parcial ou diferida.
+  PhysLoc: D2/B1/E7/PB/454
+  StorageThumbnailID: vault://THUMB/82CECD36F330AA5234DB7C73411C2781
+  StorageDisseminationID: vault://DISSEMINATION/8EC8D1BDA0F2A7FBE8910C37055D553A
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1565-09-30
+  UnitTitle: Livro 1.º de registo de casamentos da Ponta do Sol (1565/1652)
+  UnitDateFinal: 1652-11-25
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: DC
+  CompleteUnitId: PT/ABM/PPTS03/002/00001
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 00001
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 6816
+  Created: 2006-07-02T00:00:00
+  Modified: 2026-09-08T14:09:09.837
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD48721
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 48721
+  Parent: 51147
+  RootParent: 631371
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false

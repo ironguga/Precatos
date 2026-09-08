@@ -1,0 +1,58 @@
+
+===== 170550 =====
+  PT/ABM/PPTS01/002/00001/000084  1622
+  Registo de casamento: Manuel Correia c.c. Francisca Lopes
+  PhysLoc: Liv. 476, f. 31 v.º   Parent: 2195
+  dissem          176296 bytes  971x1370  -> arquivo/assentos/170550-dissem.jpg
+  thumb             4531 bytes  128x181  -> arquivo/assentos/170550-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      176296 bytes  971x1370  -> arquivo/assentos/170550-do0-dissem.jpg
+
+===== 170549 =====
+  PT/ABM/PPTS01/002/00001/000083  1622
+  Registo de casamento: Álvaro Dias c.c. Maria André
+  PhysLoc: Liv. 476, f. 31   Parent: 2195
+  dissem          162165 bytes  971x1370  -> arquivo/assentos/170549-dissem.jpg
+  thumb             4500 bytes  128x181  -> arquivo/assentos/170549-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      162165 bytes  971x1370  -> arquivo/assentos/170549-do0-dissem.jpg
+
+===== 170551 =====
+  PT/ABM/PPTS01/002/00001/000085  1623
+  Registo de casamento: Afonso Henriques c.c. Ana Barreto
+  PhysLoc: Liv. 476, f. 32   Parent: 2195
+  dissem          185107 bytes  971x1370  -> arquivo/assentos/170551-dissem.jpg
+  thumb             4954 bytes  128x181  -> arquivo/assentos/170551-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      185107 bytes  971x1370  -> arquivo/assentos/170551-do0-dissem.jpg
+
+===== 170161 =====
+  PT/ABM/PPTS01/002/00002/000007  1641
+  Registo de casamento: Diogo Fernandes Pita c.c. Inês Rodrigues
+  PhysLoc: Liv. 477, f. 2   Parent: 48626
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      107422 bytes  668x980  -> arquivo/assentos/170161-do0-dissem.jpg
+
+===== 169595 =====
+  PT/ABM/PPTS01/002/00003/000092  1700
+  Registo de casamento: Pedro da Silva c.c. Maria Vieira Pita
+  PhysLoc: Liv. 495, f. 18   Parent: 41777
+  dissem          183875 bytes  1004x1412  -> arquivo/assentos/169595-dissem.jpg
+  thumb             4513 bytes  128x180  -> arquivo/assentos/169595-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      183875 bytes  1004x1412  -> arquivo/assentos/169595-do0-dissem.jpg
+
+===== 169383 =====
+  PT/ABM/PPTS01/002/00004/000077  1748
+  Registo de casamento: Pedro da Silva de Ponte c.c. Antónia da Silva
+  PhysLoc: Liv. 496, f. 26 v.º   Parent: 2206
+  dissem          184110 bytes  1030x1479  -> arquivo/assentos/169383-dissem.jpg
+  thumb             4523 bytes  128x184  -> arquivo/assentos/169383-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      184110 bytes  1030x1479  -> arquivo/assentos/169383-do0-dissem.jpg
