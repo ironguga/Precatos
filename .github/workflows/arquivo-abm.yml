@@ -176,6 +176,9 @@ jobs:
           npx playwright install --with-deps chromium >/dev/null 2>&1 || true
           node scripts/familysearch-navegador.mjs > arquivo/familysearch.txt 2>&1 || true
           cat arquivo/familysearch.txt
+          # o npm deixa package.json/lock e node_modules por versionar, e isso
+          # fazia o 'pull --rebase' recusar-se a correr. Limpo antes de comitar.
+          rm -rf node_modules package.json package-lock.json
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/familysearch.txt
