@@ -174,7 +174,29 @@ jobs:
             done
           }
 
+      - name: Varrer os assentos das freguesias PPTS02 a PPTS09
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # A Ponta do Sol e PPTS03: os seus assentos nao estao no intervalo ja
+          # varrido (200000-340000, que so deu PPTS02). Alarga-se a busca, e
+          # pede-se ao mesmo tempo o nome de cada fundo paroquial.
+          ABM_CODIGO='PPTS0[2-9]' node scripts/arquivo-abm-itens-canhas.mjs 340000 470000 > arquivo/abm-itens-vizinhas2.txt 2> >(tail -5 >&2) || true
+          wc -l arquivo/abm-itens-vizinhas2.txt
+          node scripts/arquivo-abm-pais.mjs 47511 47512 47513 47514 47515 > arquivo/abm-fundos.txt 2>&1 || true
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-itens-vizinhas2.txt arquivo/abm-fundos.txt
+          git diff --cached --quiet || {
+            git commit -m 'Assentos das freguesias vizinhas noutro intervalo de identificadores'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Baixar as imagens ao nivel do assento
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
