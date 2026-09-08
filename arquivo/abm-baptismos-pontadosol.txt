@@ -1,0 +1,72 @@
+=== mapa 44070-44120, passo 1 ===
+  44070  —
+  44071  PT/ABM/PFUN10/001/00002              DC 1543  Livro 2.º de registo de baptismos da Sé (1543/1549)
+  44072  PT/ABM/JST/A/004/00032               DC 1869  Testamento de Feliciana Ludovina Bettencourt, filha de André Nicolau e
+  44073  PT/ABM/PFUN10/001/00023              DC 1736  Livro 22.º de registo de baptismos da Sé (1736/1746)
+  44074  PT/ABM/PFUN04/001/00045              DC 1898  Livro de registo de baptismos de Santa Maria Maior do ano de 1898
+  44075  —
+  44076  —
+  44077  PT/ABM/PCML03/005/000015             D  1775  Rol de crismados do Estreito de Câmara de Lobos do ano de 1775
+  44078  PT/ABM/PMCH04/005/00003              DC 1783  Róis de crismados do Porto da Cruz (1783/1790)
+  44079  —
+  44080  —
+  44081  —
+  44082  PT/ABM/PCML03/005/000019             D  1814  Rol de crismados do Estreito de Câmara de Lobos do ano de 1814
+  44083  —
+  44084  —
+  44085  PT/ABM/PPTS03/001/00002              DC 1614  Livro 2.º de registo de baptismos da Ponta do Sol (1614/1641)
+  44086  —
+  44087  —
+  44088  PT/ABM/PRBR04/005/000008             D  1762  Rol de crismados na paróquia da Tabua (1762)
+  44089  PT/ABM/JST/A/004/00036               DC 1911  Procuração que fazem José Sotero Silva, capitão, e sua consorte D. Mar
+  44090  PT/ABM/PFUN04/001/00043              DC 1896  Livro de registo de baptismos de Santa Maria Maior do ano de 1896
+  44091  —
+  44092  PT/ABM/PCML03/003/00002              DC 1562  Livro 2.º (misto) de registo de óbitos do Estreito de Câmara de Lobos 
+  44093  PT/ABM/PCML03/005/000009             D  1691  Rol de crismados do Estreito de Câmara de Lobos do ano de 1691
+  44094  —
+  44095  —
+  44096  —
+  44097  —
+  44098  PT/ABM/PCML01/003/00001              DC 1581  Livro 1.º e 2.º (cópia) de registo de óbitos de Câmara de Lobos (1581/
+  44099  —
+  44100  —
+  44101  PT/ABM/PPTS03/001/00003              DC 1641  Livro 3.º de registo de baptismos da Ponta do Sol ([1641]/1677)
+  44102  —
+  44103  —
+  44104  —
+  44105  —
+  44106  —
+  44107  —
+  44108  PT/ABM/PPTS01/005/000006             D  1732  Rol de crismados dos Canhas (1732)
+  44109  PT/ABM/PPTS01/005/000007             D  1742  Rol de crismados dos Canhas (1742)
+  44110  PT/ABM/PPTS01/005/000001             D  1643  Rol de crismados dos Canhas (1643)
+  44111  PT/ABM/PRBR01/001/00004              DC 1690  Livro 4.º de registo de baptismos do Campanário (1690/1721)
+  44112  PT/ABM/PPTS01/005/000004             D  1691  Rol de crismados dos Canhas (1691)
+  44113  PT/ABM/PPTS01/005/000003             D  1685  Rol de crismados dos Canhas (1685)
+  44114  —
+  44115  —
+  44116  PT/ABM/PRBR01/005/00002              DC 1691  Róis de crismados do Campanário (1691/1714)
+  44117  —
+  44118  —
+  44119  PT/ABM/PRBR02/005/00001              DC 1575  Róis de crismados da Ribeira Brava (1575/1685)
+  44120  —
+
+=== faixas por prefixo ===
+  PT/ABM/PFUN10          44071 –   44073  (2 sondas)
+  PT/ABM/JST             44072 –   44089  (2 sondas)
+  PT/ABM/PFUN04          44074 –   44090  (2 sondas)
+  PT/ABM/PCML03          44077 –   44093  (4 sondas)
+  PT/ABM/PMCH04          44078 –   44078  (1 sondas)
+  PT/ABM/PPTS03          44085 –   44101  (2 sondas)
+  PT/ABM/PRBR04          44088 –   44088  (1 sondas)
+  PT/ABM/PCML01          44098 –   44098  (1 sondas)
+  PT/ABM/PPTS01          44108 –   44113  (5 sondas)
+  PT/ABM/PRBR01          44111 –   44116  (2 sondas)
+  PT/ABM/PRBR02          44119 –   44119  (1 sondas)
+44084  digital=?     representations=200 nós=0     digitalobjects=200 páginas=0     ?
+44083  digital=?     representations=200 nós=0     digitalobjects=200 páginas=0     ?
+44082  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Rol de crismados do Estreito de Câmara de Lobos do ano de 1814
+44081  digital=?     representations=200 nós=0     digitalobjects=200 páginas=0     ?
+44080  digital=?     representations=200 nós=0     digitalobjects=200 páginas=0     ?
+44100  digital=?     representations=200 nós=0     digitalobjects=200 páginas=0     ?
+44101  digital=true  representations=200 nós=443   digitalobjects=200 páginas=441   Livro 3.º de registo de baptismos da Ponta do Sol ([1641]/1677)
