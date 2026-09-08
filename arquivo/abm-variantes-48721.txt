@@ -1,0 +1,28 @@
+livro 48721: 267 páginas
+
+===== página 143  (075.jpg) =====
+  Length: 157059
+  OriginalURL: vault://ORIGINAL/497028441981BA1B3011001ED8950928
+  DisseminationURL: vault://DISSEMINATION/2FDB4B09315CCCB4DC8AB4B779CEE1B5
+  ThumbnailURL: vault://THUMB/480753A4F98855E35F7FD7A469DF8368
+  → OriginalURL: HTTP 404
+  → DisseminationURL: 139534 bytes  721x1107
+  → ThumbnailURL: 6637 bytes  128x197
+
+===== página 144  (075v.jpg) =====
+  Length: 168288
+  OriginalURL: vault://ORIGINAL/3A98B09CC169D7E2CFBD549138085583
+  DisseminationURL: vault://DISSEMINATION/09868513A174C5A8E073EBA010003519
+  ThumbnailURL: vault://THUMB/AF95D41611ED02C55B79EB36F0C7CFB3
+  → OriginalURL: HTTP 404
+  → DisseminationURL: 148273 bytes  730x1101
+  → ThumbnailURL: 7010 bytes  128x193
+
+===== página 142  (074v.jpg) =====
+  Length: 157427
+  OriginalURL: vault://ORIGINAL/7D4D074172F1B4EF266EBC0264E750D7
+  DisseminationURL: vault://DISSEMINATION/3893CD4C4BD5E563B5243B3539F506EE
+  ThumbnailURL: vault://THUMB/BF40D62EF924FAF3FC238981B9B993AF
+  → OriginalURL: HTTP 404
+  → DisseminationURL: 138921 bytes  703x1104
+  → ThumbnailURL: 6855 bytes  128x201
