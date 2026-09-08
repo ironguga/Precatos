@@ -24,6 +24,7 @@ on:
       - 'scripts/arquivo-abm-pais.mjs'
       - 'scripts/arquivo-abm-assentos.mjs'
       - 'scripts/arquivo-abm-mapa.mjs'
+      - 'scripts/arquivo-abm-variantes.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -53,7 +54,7 @@ env:
   # O assento de Diogo Fernandes Pita de 1616 esta no folio 75; com uma imagem
   # por pagina, cai por volta da imagem 150. Baixa-se 140-166, e 14-26 para
   # calibrar pelos folios 9 e 11 dos assentos 22 e 33.
-  ABM_LIVROS: '48721:140-166,14-26'
+  ABM_LIVROS: ''
   # Assentos servidos por descricao: o Livro 1.o (2195) nao serve paginas,
   # mas 170550 — Manuel Correia c.c. Francisca Lopes, 1622, f. 31 v.o — traz
   # StorageDisseminationID proprio. 170161 e o Diogo Fernandes Pita de 1641.
@@ -393,6 +394,22 @@ jobs:
       # ABM_LIVROS: lista "id:páginas" separada por espaços. Cada livro vai para
       # a sua pasta e é comitado à parte, para o run não se perder todo se um
       # livro falhar.
+      - name: Ver que variantes o catalogo declara para o folio 75
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-variantes.mjs 48721 143 144 142 | tee arquivo/abm-variantes-48721.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-variantes-48721.txt
+          git diff --cached --quiet || {
+            git commit -m 'Variantes declaradas para o folio 75 da Ponta do Sol'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Baixar e comitar os livros pedidos
         run: |
           git config user.name 'github-actions[bot]'
