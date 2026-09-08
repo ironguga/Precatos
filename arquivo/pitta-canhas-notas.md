@@ -2658,3 +2658,55 @@ dá-lhe por mulher **Anna da Conceição**, o de 1748 dá **Antónia da Sylva**;
 casou duas vezes, e as duas irmãs são de leitos diferentes. Um viúvo que casa
 com a cunhada dois meses depois de lhe nascer a filha, porque a mãe morreu no
 parto ou logo a seguir. **Não sobra conflito nenhum.**
+
+---
+
+# A varredura das freguesias vizinhas — duas excluídas por documento
+
+O mesmo instrumento que resolveu os Canhas — o varrimento dos identificadores
+90 000 a 200 000 à procura de descrições **ao nível do assento** — aplicado
+agora às freguesias vizinhas devolveu **13 740 descrições**. Mas só de duas
+paróquias:
+
+| Fundo | Freguesia | Descrições |
+|---|---|---|
+| PCLT01/002 | **Arco da Calheta**, casamentos | 4 838 |
+| PCLT03/001 | **Estreito da Calheta**, baptismos | 4 894 |
+| PCLT03/002 | Estreito da Calheta, casamentos | 4 008 |
+| PPTS03 | **Ponta do Sol** | **0** |
+| PPTS02 | Madalena do Mar | **0** |
+
+**A Ponta do Sol e a Madalena do Mar não estão indexadas ao nível do assento**
+nesse intervalo de identificadores — ou estão noutro, que não varri.
+
+## O que o índice exclui
+
+Procurei «Pita» nos 13 740 registos:
+
+- **Arco da Calheta:** o primeiro casamento Pita de todo o fundo é de **1771**
+  — «Manuel Pita c.c. Maria Josefa de Jesus». Depois há 1782, 1793, 1805,
+  1819, e os do século XIX. **Nenhum antes de 1771.**
+- **Estreito da Calheta:** os Pita aparecem só nos baptismos do século XIX
+  (a partir de 1868, quase todos filhos de Agostinho António Teixeira e
+  Francisca Isidra Pita).
+
+**Diogo Fernandes Pita, que casa nos Canhas em Janeiro de 1641, não vem de
+nenhuma destas duas freguesias.** É um negativo, mas é um negativo por
+documento, e reduz o campo.
+
+## O que resta, e já está em disco
+
+A **Ponta do Sol** — que era a freguesia-mãe de que os Canhas foram curato — é
+a candidata que sobra. Baixei o **Livro 1.º de registo de casamentos da Ponta
+do Sol (PT/ABM/PPTS03/002/00001, ID 48721), 1565–1652, 267 imagens.** É onde
+cairia o casamento dos pais de Diogo, por volta de 1595-1615.
+
+Comecei a varrê-lo. Escala medida: as **imagens 145-149 trazem o ano de 1617**
+no cabeçalho dos fólios 76-78 — a janela certa. **É um livro difícil:** 708 px
+de largura, tinta muito repassada, e as notas marginais são finas e verticais.
+Dá para ler os pares de nomes, mas devagar.
+
+O **Livro 2.º de baptismos da Ponta do Sol (1614-1641, ID 44085)** — que seria
+o baptismo do próprio Diogo — foi pedido no mesmo lote e **devolveu zero
+imagens**. Fica por confirmar se é falha da descarga ou se não está
+digitalizado.
