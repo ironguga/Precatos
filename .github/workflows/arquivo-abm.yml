@@ -22,6 +22,7 @@ on:
       - 'scripts/arquivo-abm-notas.mjs'
       - 'scripts/arquivo-abm-itens-canhas.mjs'
       - 'scripts/arquivo-abm-pais.mjs'
+      - 'scripts/arquivo-abm-resolucao.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -41,7 +42,7 @@ env:
   # Ultima tentativa ao Livro 1.o (2195) e os indices notariais.
   # Ponta do Sol: baptismos 1614-1641 e casamentos 1565-1652; Arco da Calheta 1598-1641.
   # Ponta do Sol: baptismos 1614-1641 (44085) e casamentos 1565-1652 (48721).
-  ABM_LIVROS: '44085:1-320 44101:1-320'
+  ABM_LIVROS: ''
 
 jobs:
   baixar:
@@ -162,7 +163,25 @@ jobs:
             done
           }
 
+      - name: Testar resolucao, variantes e outros repositorios
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-resolucao.mjs > arquivo/abm-resolucao.txt 2>&1 || true
+          cat arquivo/abm-resolucao.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-resolucao.txt
+          git diff --cached --quiet || {
+            git commit -m 'Teste de resolucao das imagens, variantes e outros repositorios'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Indice nominal da Ponta do Sol noutros intervalos
+        if: false
         continue-on-error: true
         env:
           ABM_CODIGO: 'PPTS03|PPTS02'
