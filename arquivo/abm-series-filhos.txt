@@ -1,0 +1,120 @@
+
+===== descrição 51147 =====
+  PT/ABM/PPTS03/002  Registo de casamentos
+  /api/descriptions/51147/children -> 404
+  /api/descriptions/51147/childs -> 404
+  /api/descriptions/51147/descendants -> 404
+  /api/descriptions/children?parentId=51147 -> 400
+  /api/descriptions/tree?id=51147 -> 500
+  /api/descriptions/51147/tree -> 404
+  /api/descriptions?parent=51147 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
+
+===== descrição 50976 =====
+  PT/ABM/PCLT03/002  Registo de casamentos
+  /api/descriptions/50976/children -> 404
+  /api/descriptions/50976/childs -> 404
+  /api/descriptions/50976/descendants -> 404
+  /api/descriptions/children?parentId=50976 -> 400
+  /api/descriptions/tree?id=50976 -> 500
+  /api/descriptions/50976/tree -> 404
+  /api/descriptions?parent=50976 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
+
+===== descrição 51153 =====
+  PT/ABM/PCLT07/001  Registo de baptismos
+  /api/descriptions/51153/children -> 404
+  /api/descriptions/51153/childs -> 404
+  /api/descriptions/51153/descendants -> 404
+  /api/descriptions/children?parentId=51153 -> 400
+  /api/descriptions/tree?id=51153 -> 500
+  /api/descriptions/51153/tree -> 404
+  /api/descriptions?parent=51153 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
+
+===== descrição 51894 =====
+  PT/ABM/PCLT07/002/00001  Livro 2.º de registo de casamentos da Ponta do Pargo (1664/1730)
+  /api/descriptions/51894/children -> 404
+  /api/descriptions/51894/childs -> 404
+  /api/descriptions/51894/descendants -> 404
+  /api/descriptions/children?parentId=51894 -> 400
+  /api/descriptions/tree?id=51894 -> 500
+  /api/descriptions/51894/tree -> 404
+  /api/descriptions?parent=51894 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
+
+===== descrição 48721 =====
+  PT/ABM/PPTS03/002/00001  Livro 1.º de registo de casamentos da Ponta do Sol (1565/1652)
+  /api/descriptions/48721/children -> 404
+  /api/descriptions/48721/childs -> 404
+  /api/descriptions/48721/descendants -> 404
+  /api/descriptions/children?parentId=48721 -> 400
+  /api/descriptions/tree?id=48721 -> 500
+  /api/descriptions/48721/tree -> 404
+  /api/descriptions?parent=48721 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
+
+===== descrição 48722 =====
+  PT/ABM/PPTS03/002/00002  Livro 2.º de registo de casamentos da Ponta do Sol (1652/1690)
+  /api/descriptions/48722/children -> 404
+  /api/descriptions/48722/childs -> 404
+  /api/descriptions/48722/descendants -> 404
+  /api/descriptions/children?parentId=48722 -> 400
+  /api/descriptions/tree?id=48722 -> 500
+  /api/descriptions/48722/tree -> 404
+  /api/descriptions?parent=48722 -> 200, 10 entradas
+       631115  PT/ABM/WHS/F/012/00002         1915-03-31..1917-06-16  Registo de análises laboratoriais à laboração sacarina da Fábrica do Torreão e da Fábrica Lemos (safras de 1915, 1916 e 1917)
+       670109  PT/ABM/WHS/F/012/00001         1909-10-11..1909-12-09  Processo de certidão em que a firma William Hinton & Sons, fabricante de açúcar de cana sacarina na ilha da Madeira, solicita à Delegação de Saúde do Funchal, que certifique "o resultado da análise a que se procedeu no Laboratório de Higiene, das amostras de açúcar colhidas ultimamente na sua Fábrica do Torreão, pela autoridade sanitária do concelho do Funchal"
+      1029523  PT/ABM/WHS/F/012               1909..1917  Registo de análises laboratoriais às fábricas do Torreão e Lemos
+       562905  PT/ABM/WHS/F/011/00001         1909-02-26..1909-04-01  Registo da pesagem da cana sacarina do ano de 1909 (liv. 1.º)
+      1029522  PT/ABM/WHS/F/011               1909..1909  Registo da pesagem da cana sacarina
+       633599  PT/ABM/WHS/F/010/00001         1907-02-05..1913-02-01  Registo do peso do açúcar de melaço estrangeiro (liv. 2.º) 
+      1029519  PT/ABM/WHS/F/010               1907..1913  Registo do peso do açúcar de melaço estrangeiro
+       633024  PT/ABM/WHS/F/009/00002         1910-05-01..1912-03-04  Registo do peso do açúcar saído das centrífugas e do açúcar ensacado da laboração da cana sacarina (liv. 5.º)
+       631230  PT/ABM/WHS/F/009/00001         1907-03-06..1909-08-28  Registo do peso do açúcar saído das centrífugas e ensacado (liv. 4.º)
+      1029518  PT/ABM/WHS/F/009               1907..1912  Registo da pesagem de açúcar saído das centrífugas e ensacado
