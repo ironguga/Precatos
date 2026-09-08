@@ -1863,3 +1863,67 @@ livro mais antigo de todos, a quarenta imagens de sítios que eu já tinha
 aberto. A margem dava o nome próprio da criança — a única coisa de que eu
 precisava — e eu tinha varrido esse mesmo campo noutro livro, em 1725-1743,
 para procurar o Pedro errado.
+
+## Fecho do candidato da imagem 89 do Livro 3.º
+
+A imagem 89 do Livro 3.º de casamentos era, desde a campanha anterior, «o
+único candidato que não consigo excluir, e não consigo lê-la». Reli-a agora
+com normalização local. **Lê-se, e não é ele.** A folha tem três assentos:
+
+- **[1712], margem «P.º da S[ilva] com Izabel dos [Anjos]»** — a noiva chama-se
+  Izabel, não Maria. **Excluído.**
+- **18 Out 1712** — «a **Joam da Sylva da [Ponte]**… com **Izabel Roiz, f.ª de
+  Manoel Coelho e de sua mulher Marcia […]**». Vigário **Jozé da Sylva de
+  Santiago**.
+- **Jan 1713** — «a Manoel d'Á[vila]… com **Margarida Glz, f.ª de Manoel Glz
+  Junqueira e de sua m.er Vitorina Glz**».
+
+## E os outros «Pedro» do Livro 3.º, relidos
+
+- **imagem 8, 21 Jul 1693** — «a **Pedro Fr[nande]s**, filho desta freguezia,
+  … com **M.ª Gonçalves, filha de João Pereira Cordovo e de sua m.er Izabel
+  Gomes já defunta**». Vigário Sebastião Marques.
+- **imagem 29, 12 Jan 1698** — «a **P.[edro] Roiz, f.º de Fr.co Roiz** … com
+  **M.ª Roiz, f.ª de Sebastião Roiz e de Catherina Roiz**, da freguezia de
+  N. Sr.ª da Luz». Vigário **Manoel Gomes Jardim**.
+- **imagem 34** — «P.º da Silva com Magdalena dos Prazeres».
+
+**Nenhum é o casamento de Pedro da Sylva de Ponte com Maria Roiz Pitta.**
+Com as imagens 3-18 agora lidas e as 19-90 revarridas com o tratamento novo,
+o Livro 3.º está esgotado para este efeito de 1692 a 1712.
+
+## Onde está, então, o casamento
+
+Sabendo agora que Pedro nasceu em **1673**, o casamento cai entre 1695 e 1710
+— dentro do que já varri. Restam três explicações, e não escolho nenhuma:
+
+1. O assento existe no Livro 3.º e **não tem nota marginal** (há folhas assim),
+   pelo que só uma leitura de corpo, folha a folha, das imagens 19-90 o
+   encontraria.
+2. Casaram na freguezia da noiva, se ela não era dos Canhas. As freguesias
+   vizinhas com livros de casamentos em linha para essa década são poucas — o
+   levantamento em `arquivo/abm-casamentos-antigos.txt` diz quais.
+3. O assento não sobreviveu.
+
+## Levantamento novo: os livros anteriores a 1745 de todas as freguesias
+
+Varridos os identificadores 39000-52000 e filtrados os livros de casamentos e
+baptismos com data inicial anterior a 1745: **94 livros**, de 25 fundos
+paroquiais. Os da região interessam directamente:
+
+| ID | Código | Datas | Livro |
+|---|---|---|---|
+| 48721 | PPTS03/002/00001 | 1565–1652 | 1.º casamentos da **Ponta do Sol** |
+| 48722 | PPTS03/002/00002 | 1652–1690 | 2.º casamentos da Ponta do Sol |
+| 44101 | PPTS03/001/00003 | 1641–1677 | 3.º baptismos da Ponta do Sol |
+| 41661 | PCLT01/002/00001 | 1598–1641 | 1.º casamentos do **Arco da Calheta** |
+| 48247 | PCLT01/002/00003 | 1704–1743 | 3.º casamentos do Arco da Calheta |
+| 41894 | PPTS02/002/00001 | 1590–1626 | 1.º casamentos da **Madalena do Mar** |
+| 51894 | PCLT07/002/00001 | 1664–1730 | 2.º casamentos da **Ponta do Pargo** |
+| 48685 | PCLT06/002/00003 | 1734–1783 | 4.º casamentos do **Paul do Mar** |
+
+**O que falta e conta:** o livro de casamentos da **Ponta do Sol** que cobre
+1690-1730 não aparece neste levantamento — só as séries-mãe
+(**PPTS03/002, ID 51147**, «Registo de casamentos 1565-1911») aparecem, o que
+significa que os volumes dessa década ou têm identificadores fora do intervalo
+varrido, ou não estão descritos ao nível do livro. **É o próximo alvo.**
