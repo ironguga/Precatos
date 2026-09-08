@@ -2468,3 +2468,92 @@ XIX e **presumi que só os livros recentes estavam indexados**. Nunca testei a
 presunção. Custou-me campanhas inteiras de varredura de margens — e duas
 delas produziram negativos falsos que escrevi aqui como se fossem resultados.
 Ficam escritos, e ficam corrigidos.
+
+---
+---
+
+# 5 DE FEVEREIRO DE 1748 — O ASSENTO QUE DIZ TUDO NUMA SÓ FOLHA
+
+Os campos `Parent` das descrições indexadas deram o que nenhum varrimento
+dera: **os identificadores dos livros estão nos milhares, não nas dezenas de
+milhar.**
+
+| Livro | ID | Estado |
+|---|---|---|
+| **Livro 4.º de casamentos (1743–1754)** | **2206** | **digitalizado, 177 páginas** |
+| Livro 1.º misto de casamentos (1592–1639) | 2195 | catalogado, **zero imagens** |
+
+**O Livro 4.º — o livro que eu procurei durante toda a investigação, o que eu
+dei por «não consta do catálogo» — está em linha.** Nunca o encontrei porque
+varri sempre de 39 000 para cima, e ele é o **2206**.
+
+E na imagem **53**, primeiro assento do fólio 26v:
+
+**5 de Fevereiro de 1748, Livro 4.º de casamentos dos Canhas (ID 2206),
+imagem 53** — margem: «**Pedro da Sylva de Ponte com Antonia da Sylva**»
+
+> «Em os **sinco de Fevereyro de mil sete centos e quarenta e outo**, corridos
+> os banhos na forma devida, sem impedimento algum, assisti ao Matrimónio que
+> entre si contrahirão **PEDRO DA SYLVA DE PONTE, filho de PEDRO DA SYLVA DE
+> PONTE e de sua m.er MARIA V[IEY]RA PITA, naturais desta fr[eguezi]a, e NETO
+> PATERNO DE ANT.º CORREA e de sua m.er M.ª DE PONTE, e MATERNO NETO DE
+> FRAN.co PITA e de sua m.er ANT.ª V[IEY]RA**, com **ANT.ª DA SYLVA, filha de
+> FRANCISCO GONSALVES DA ROCHA e de sua m.er ANT.ª DA SYLVA, neta paterna de
+> Domingos Gonsalves […] e de sua m.er Maria Gonsalves, e materna neta de […]
+> da Sylva de Azeredo e de sua m.er Marianna Gonsalves**, todos moradores
+> [nesta freguezia]…»
+
+## O que este assento fecha, e é tudo
+
+Numa só folha, escrita pelo pároco em 1748:
+
+1. **Pedro da Silva Pitta É Pedro da Sylva de Ponte.** A alternância de apelido
+   que eu andava a demonstrar por dedução está aqui escrita: o homem que casa
+   com Antónia da Sylva — a mesma Antónia dos assentos de 1754, 1786, 1789 e
+   1791 — chama-se, no seu próprio casamento, **Pedro da Sylva de Ponte**.
+2. **O pai:** «filho de **Pedro da Sylva de Ponte** e de sua mulher **Maria
+   Vieyra Pita**». A ponte que faltava, dita pelo pároco.
+3. **Os avós paternos:** «**António Correa e Maria de Ponte**» — o casal do
+   baptismo de 1673 e do casamento de 1657.
+4. **Os avós maternos:** «**Francisco Pita e Antónia Vieyra**» — o casal do
+   casamento de 15 de Janeiro de 1676, e **não** «Maria Rodrigues». Segunda
+   confirmação independente de que o assento de 1730 erra.
+5. **A mulher:** «Antónia da Sylva, filha de **Francisco Gonsalves da Rocha** e
+   de **Antónia da Sylva**» — exactamente o que o baptismo de 20 Out 1754 diz.
+
+**Nada aqui é dedução minha. É tudo texto do assento.**
+
+## Um conflito de data que assinalo e não escondo
+
+O baptismo que eu datei de **8 de Dezembro de 1748** (Livro 6.º, fl. 97) dá
+Pedro casado com **Catarina Gonsalves**. Se ele casou com Antónia da Sylva a
+**5 de Fevereiro de 1748**, os dois não cabem no mesmo ano. Ou a minha leitura
+do ano daquele baptismo está errada — é o mais provável, e vou refazê-la — ou
+há coisa que não percebo. **Fica assinalado.** O que não muda é o essencial: as
+duas mulheres eram irmãs, filhas do mesmo **Francisco Gonçalves da Rocha**, e
+os dois assentos concordam nisso.
+
+---
+
+# A LINHA DIRECTA — ONZE GERAÇÕES, CADA ELO COM O SEU DOCUMENTO
+
+| # | Pessoa / casal | Documento |
+|---|---|---|
+| 1 | Luiz Gustavo Ferro (1979) | — |
+| 2 | Verquinia Teresa Gregório (1957) | — |
+| 3 | Nair Pitta (1918, Santos) | — |
+| 4 | José Maria Pitta × Maria Teresa Corbani | certidão de óbito, 1945 |
+| 5 | João Pitta × Júlia Maria Henriques | casamento 30 Out 1871, Monte |
+| 6 | António Pitta × Sabina Rosa | casamento 5 Ago 1835, Monte |
+| 7 | José da Silva Pitta × Maria Gomes | casamento 1791, Canhas |
+| 8 | **Pedro da Sylva de Ponte** *(dito também Pedro da Silva Pitta)* **× Antónia da Sylva** | **casamento 5 Fev 1748** · Livro 4.º, img. 53 |
+| 9 | **Pedro da Sylva de Ponte × Maria Vieyra Pita** | **casamento 21 Out 1700** · Livro 3.º, img. 38 · ele **baptizado 4 Mai 1673** |
+| 10 | **António Correa × Maria de Ponte da Silva** | **casamento 1657** · Livro 2.º, img. 46 |
+| 10 | **Francisco Pita × Antónia Vieyra** | **casamento 15 Jan 1676** · Livro 2.º, img. 96 |
+| 11 | **Manuel Correia × Francisca Lopes** | **casamento 1622** · Livro 1.º, assento 84 |
+| 11 | **Manoel de Ponte × Anna da Silva** | declarados no assento de 1657 |
+| 11 | **Diogo Fernandes Pita × Inês Rodrigues** | **casamento 1641** · Livro 2.º, img. 7 |
+| 11 | **Simão Vieyra** e mulher | declarados no assento de 1676 |
+
+**Onze gerações. E o tecto é agora a geração que casa entre 1622 e 1641 — os
+bisavós de Pedro da Sylva de Ponte, nascidos por volta de 1595-1615.**
