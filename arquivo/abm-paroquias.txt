@@ -1,0 +1,331 @@
+=== mapa 47400-47700, passo 1 ===
+  47400  —
+  47401  PT/ABM/JST/C-A/003/000003            D  1973  Folhas intituladas "Clode Folium" dirigidas e organizadas pela família
+  47402  PT/ABM/JST/B-B/006/000001            D        Álbuns de coleção de motivos de Heráldica Portuguesa (alguns da Casa R
+  47403  —
+  47404  —
+  47405  —
+  47406  —
+  47407  —
+  47408  —
+  47409  —
+  47410  —
+  47411  —
+  47412  —
+  47413  PT/ABM/JST/C/010-004/000001          D  1988  Carta de António Cannavial a José de Sainz-Trueva remetendo dados reun
+  47414  —
+  47415  —
+  47416  —
+  47417  —
+  47418  —
+  47419  —
+  47420  —
+  47421  —
+  47422  —
+  47423  PT/ABM/JST/C-C/006-001/00023         DC 1966  Programas de concertos promovidos pela Sociedade de Concertos da Madei
+  47424  —
+  47425  —
+  47426  —
+  47427  —
+  47428  —
+  47429  PT/ABM/JST/C-C/006-003/00001         DC 1955  Programas de concertos promovidos pela Delegação do Funchal da Pró-Art
+  47430  —
+  47431  —
+  47432  PT/ABM/JST/C-C/006-001/00005         DC 1948  Programas de concertos promovidos pela Sociedade de Concertos da Madei
+  47433  —
+  47434  —
+  47435  —
+  47436  —
+  47437  —
+  47438  —
+  47439  —
+  47440  —
+  47441  —
+  47442  —
+  47443  —
+  47444  PT/ABM/GCFUN01/Z/H/00350             UI       Processos de concessão de passaportes - n.º 01 a 92
+  47445  —
+  47446  —
+  47447  —
+  47448  —
+  47449  —
+  47450  —
+  47451  —
+  47452  —
+  47453  —
+  47454  —
+  47455  —
+  47456  —
+  47457  —
+  47458  —
+  47459  —
+  47460  —
+  47461  —
+  47462  —
+  47463  —
+  47464  —
+  47465  —
+  47466  PT/ABM/JST/E/002-013/000002          D        Carta da escritora Isabel Aguiar Barcelos a José de Sainz-Trueva remet
+  47467  —
+  47468  —
+  47469  —
+  47470  —
+  47471  —
+  47472  PT/ABM/JST/B/002-004/000001          D  2001  Carta de [?] Bettencourt da Câmara a José de Sainz-Trueva colocando qu
+  47473  PT/ABM/PFUN05                        F  1569  Paróquia de Santo António
+  47474  —
+  47475  —
+  47476  —
+  47477  —
+  47478  —
+  47479  —
+  47480  —
+  47481  PT/ABM/PFUN02/002/00005              DC 1819  Livro (cópia) de registo de casamentos do Monte (1819/1825)
+  47482  —
+  47483  —
+  47484  —
+  47485  PT/ABM/PFUN02/003/00002              DC 1801  Livro 2.º de registo de óbitos do Monte (1801/1811)
+  47486  PT/ABM/PFUN10/001/00024              DC 1746  Livro 23.º de registo de baptismos da Sé (1746/1754)
+  47487  —
+  47488  —
+  47489  —
+  47490  —
+  47491  —
+  47492  —
+  47493  —
+  47494  —
+  47495  —
+  47496  PT/ABM/PCLT06                        F  1684  Paróquia do Paul do Mar
+  47497  —
+  47498  —
+  47499  PT/ABM/JST/C/005/000004              D  2006  Cópia de panfleto satírico-político intitulado "A Borage" contendo rim
+  47500  PT/ABM/JST/F/002-002/00001           DC 1911  Postais de beldades da "Belle Époque"
+  47501  PT/ABM/PCLT01                        F  1592  Paróquia do Arco da Calheta
+  47502  PT/ABM/PCLT03                        F  1596  Paróquia do Estreito da Calheta
+  47503  PT/ABM/PCLT04                        F  1571  Paróquia da Fajã da Ovelha
+  47504  PT/ABM/PCLT08                        F  1814  Paróquia dos Prazeres
+  47505  —
+  47506  PT/ABM/PCML01                        F  1570  Paróquia de Câmara de Lobos
+  47507  PT/ABM/PCML03                        F  1562  Paróquia do Estreito de Câmara de Lobos
+  47508  —
+  47509  PT/ABM/PMCH03                        F  1622  Paróquia de Machico
+  47510  —
+  47511  PT/ABM/PPTS01                        F  1592  Paróquia dos Canhas
+  47512  —
+  47513  —
+  47514  PT/ABM/PPMZ02                        F  1572  Paróquia do Porto do Moniz
+  47515  PT/ABM/JST/C-B/001/00008             DC 1919  Correspondência trocada entre empresas francesas de aparelhos de evapo
+  47516  —
+  47517  PT/ABM/PPMZ03                        F  1726  Paróquia da Ribeira da Janela
+  47518  —
+  47519  PT/ABM/JST/C-B/001/00015             DC 1946  Cartas de Avelino Cabral a João Higino Ferraz, ambos funcionários da C
+  47520  PT/ABM/PSVC01                        F  1790  Paróquia da Boaventura
+  47521  PT/ABM/PSCR04                        F  1541  Paróquia de Gaula
+  47522  PT/ABM/PSTN02                        F  1542  Paróquia do Faial
+  47523  —
+  47524  PT/ABM/JST/F/006/00002               DC       Coleção de fotografias de bordados da Madeira da empresa "OPUS Casa de
+  47525  PT/ABM/PFUN02                        F  1673  Paróquia do Monte
+  47526  —
+  47527  PT/ABM/PFUN04                        F  1803  Paróquia de Santa Maria Maior
+  47528  PT/ABM/PFUN06                        F  1568  Paróquia de São Gonçalo
+  47529  PT/ABM/PFUN08                        F  1568  Paróquia de São Pedro
+  47530  —
+  47531  PT/ABM/JST/C/001/000015              D        Documentos notariais e patrimoniais da "Quinta da Cova", no Monte, con
+  47532  PT/ABM/JST/E/004/00001               DC 1962  Postais enviados a José Sainz-Trueva com autógrafos de escritores
+  47533  PT/ABM/JST/F/002-001/00001           DC       Postais relativos a ruas do Funchal, eventos e festividades, transport
+  47534  PT/ABM/JST/C-B/001/00011             DC 1923  Correspondência trocada entre Virgile Miroir Malvezin, da Usine Labora
+  47535  —
+  47536  —
+  47537  —
+  47538  —
+  47539  —
+  47540  PT/ABM/PCLT04/005/000002             D  1699  Rol de crismados da Fajã da Ovelha (1699)
+  47541  —
+  47542  —
+  47543  —
+  47544  PT/ABM/PCML01/002/00060              DC 1911  Livro de registo de casamentos de Câmara de Lobos do ano de 1911
+  47545  PT/ABM/PCML01/004/00002              DC 1795  Livro de registo dos índices alfabéticos de Câmara de Lobos do ano (17
+  47546  PT/ABM/PCML03/005/000014             D  1775  Rol de crismados do Estreito de Câmara de Lobos do ano de 1775
+  47547  PT/ABM/PCML03/005/000013             D  1763  Rol de crismados do Estreito de Câmara de Lobos do ano de 1763
+  47548  —
+  47549  —
+  47550  —
+  47551  PT/ABM/PPTS02/005/00003              DC 1685  Róis de crismados da Madalena do Mar (1685/1710)
+  47552  PT/ABM/PRBR02/005/00002              DC 1714  Róis de crismados da Ribeira Brava (1714/1742)
+  47553  —
+  47554  —
+  47555  PT/ABM/PSVC03/002/00014              DC 1839  Livro 15.º de registo de casamentos de São Vicente (1839/1846)
+  47556  —
+  47557  —
+  47558  —
+  47559  —
+  47560  PT/ABM/PSCR02/003/00046              DC 1900  Livro de registo de óbitos da Camacha do ano de 1900
+  47561  —
+  47562  —
+  47563  —
+  47564  —
+  47565  —
+  47566  —
+  47567  —
+  47568  —
+  47569  —
+  47570  —
+  47571  —
+  47572  —
+  47573  —
+  47574  —
+  47575  —
+  47576  —
+  47577  —
+  47578  —
+  47579  —
+  47580  —
+  47581  —
+  47582  —
+  47583  —
+  47584  —
+  47585  —
+  47586  —
+  47587  —
+  47588  —
+  47589  —
+  47590  —
+  47591  —
+  47592  —
+  47593  —
+  47594  —
+  47595  —
+  47596  —
+  47597  —
+  47598  —
+  47599  —
+  47600  —
+  47601  —
+  47602  —
+  47603  —
+  47604  —
+  47605  —
+  47606  —
+  47607  —
+  47608  —
+  47609  —
+  47610  —
+  47611  —
+  47612  —
+  47613  —
+  47614  —
+  47615  PT/ABM/PFUN02/003/00055              DC 1909  Livro de registo de óbitos do Monte do ano de 1909
+  47616  —
+  47617  —
+  47618  —
+  47619  —
+  47620  —
+  47621  —
+  47622  —
+  47623  —
+  47624  —
+  47625  —
+  47626  —
+  47627  —
+  47628  —
+  47629  —
+  47630  —
+  47631  —
+  47632  —
+  47633  —
+  47634  —
+  47635  —
+  47636  —
+  47637  PT/ABM/PFUN02/001/00050              DC 1894  Livro de registo de baptismos do Monte do ano de 1894
+  47638  —
+  47639  —
+  47640  —
+  47641  —
+  47642  —
+  47643  —
+  47644  —
+  47645  —
+  47646  —
+  47647  —
+  47648  PT/ABM/PFUN04/001/00044              DC 1897  Livro de registo de baptismos de Santa Maria Maior do ano de 1897
+  47649  —
+  47650  —
+  47651  —
+  47652  —
+  47653  —
+  47654  —
+  47655  —
+  47656  —
+  47657  —
+  47658  —
+  47659  —
+  47660  PT/ABM/PFUN03/003/00057              DC 1909  Livro de registo de óbitos de Santa Luzia do ano de 1909
+  47661  —
+  47662  PT/ABM/PFUN03/001/00052              DC 1897  Livro de registo de baptismos de Santa Luzia do ano de 1897
+  47663  —
+  47664  —
+  47665  —
+  47666  —
+  47667  PT/ABM/PFUN02/002/00043              DC 1895  Livro de registo de casamentos do Monte do ano de 1895
+  47668  —
+  47669  PT/ABM/PFUN02/001/00055              DC 1899  Livro de registo de baptismos do Monte do ano de 1899
+  47670  —
+  47671  —
+  47672  PT/ABM/PFUN02/001/00051              DC 1895  Livro de registo de baptismos do Monte do ano de 1895
+  47673  —
+  47674  —
+  47675  PT/ABM/PFUN02/001/00052              DC 1896  Livro de registo de baptismos do Monte do ano de 1896
+  47676  PT/ABM/PFUN02/002/00056              DC 1908  Livro de registo de casamentos do Monte do ano de 1908
+  47677  PT/ABM/PFUN02/001/00053              DC 1897  Livro de registo de baptismos do Monte do ano de 1897
+  47678  —
+  47679  —
+  47680  PT/ABM/PFUN02/001/00067              DC 1911  Livro de registo de baptismos do Monte do ano de 1911
+  47681  PT/ABM/JST/D/006/00001               DC 1982  Documentos relativos à publicação Monarquia Portuguesa
+  47682  PT/ABM/PFUN03/001/00057              DC 1902  Livro de registo de baptismos de Santa Luzia do ano de 1902
+  47683  —
+  47684  PT/ABM/PFUN02/001/00056              DC 1900  Livro de registo de baptismos do Monte do ano de 1900
+  47685  —
+  47686  PT/ABM/PFUN02/001/00059              DC 1903  Livro de registo de baptismos do Monte do ano de 1903
+  47687  —
+  47688  —
+  47689  PT/ABM/PFUN02/002/00042              DC 1894  Livro de registo de casamentos do Monte do ano de 1894
+  47690  —
+  47691  PT/ABM/PFUN02/001/00060              DC 1904  Livro de registo de baptismos do Monte do ano de 1904
+  47692  —
+  47693  —
+  47694  —
+  47695  PT/ABM/PFUN03/001/00056              DC 1901  Livro de registo de baptismos de Santa Luzia do ano de 1901
+  47696  —
+  47697  —
+  47698  PT/ABM/PFUN02/001/00061              DC 1905  Livro de registo de baptismos do Monte do ano de 1905
+  47699  —
+  47700  —
+
+=== faixas por prefixo ===
+  PT/ABM/JST             47401 –   47681  (18 sondas)
+  PT/ABM/GCFUN01         47444 –   47444  (1 sondas)
+  PT/ABM/PFUN05          47473 –   47473  (1 sondas)
+  PT/ABM/PFUN02          47481 –   47698  (17 sondas)
+  PT/ABM/PFUN10          47486 –   47486  (1 sondas)
+  PT/ABM/PCLT06          47496 –   47496  (1 sondas)
+  PT/ABM/PCLT01          47501 –   47501  (1 sondas)
+  PT/ABM/PCLT03          47502 –   47502  (1 sondas)
+  PT/ABM/PCLT04          47503 –   47540  (2 sondas)
+  PT/ABM/PCLT08          47504 –   47504  (1 sondas)
+  PT/ABM/PCML01          47506 –   47545  (3 sondas)
+  PT/ABM/PCML03          47507 –   47547  (3 sondas)
+  PT/ABM/PMCH03          47509 –   47509  (1 sondas)
+  PT/ABM/PPTS01          47511 –   47511  (1 sondas)
+  PT/ABM/PPMZ02          47514 –   47514  (1 sondas)
+  PT/ABM/PPMZ03          47517 –   47517  (1 sondas)
+  PT/ABM/PSVC01          47520 –   47520  (1 sondas)
+  PT/ABM/PSCR04          47521 –   47521  (1 sondas)
+  PT/ABM/PSTN02          47522 –   47522  (1 sondas)
+  PT/ABM/PFUN04          47527 –   47648  (2 sondas)
+  PT/ABM/PFUN06          47528 –   47528  (1 sondas)
+  PT/ABM/PFUN08          47529 –   47529  (1 sondas)
+  PT/ABM/PPTS02          47551 –   47551  (1 sondas)
+  PT/ABM/PRBR02          47552 –   47552  (1 sondas)
+  PT/ABM/PSVC03          47555 –   47555  (1 sondas)
+  PT/ABM/PSCR02          47560 –   47560  (1 sondas)
+  PT/ABM/PFUN03          47660 –   47695  (4 sondas)
