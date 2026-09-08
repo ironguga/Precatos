@@ -8,8 +8,9 @@ está apurado e verificado contra o próprio catálogo do ABM.*
 Caminho dos Álamos, n.º 35, 9020-121 Funchal
 `abm@madeira.gov.pt` · formulário em `arquivo-abm.madeira.gov.pt`
 
-**Assunto:** Pedido de reprodução de **três assentos** — dois livros
-catalogados sem imagens em linha e um fólio danificado
+**Assunto:** Pedido de reprodução de **três assentos** e de **um ficheiro que
+o Arquivo já possui** — dois livros catalogados sem imagens em linha, um fólio
+danificado, e a variante ORIGINAL de uma imagem
 
 ---
 
@@ -92,6 +93,43 @@ problema, pelo que não é falha do meu lado.)
 **Pedido concreto:** reprodução dos assentos de baptismo de crianças de nome
 **Diogo** entre 1612 e 1622, ou — se for mais simples para o Arquivo — do
 livro inteiro, que tem apenas a cobertura de 27 anos.
+
+## 4 · A variante ORIGINAL de uma imagem que já está em linha
+
+**Cota:** PT/ABM/PPTS01/002/00002 (Livro 2.º de casamentos dos Canhas)
+**Ficheiro:** `PT-ABM-PPTS01-2-477_002.jpg` e vizinhos — a **imagem 7** da
+sequência, que contém o assento de 21 de Janeiro de 1641 do ponto 2 acima.
+
+**Porquê, e porque é o pedido mais fácil dos quatro:** o vosso catálogo
+publica, para cada página, três variantes e os respectivos identificadores:
+
+```
+RepresentationID: 865406      FileID: 3820328
+OriginalURL:      vault://ORIGINAL/B561D655D3F71837584A38A64C062580
+DisseminationURL: vault://DISSEMINATION/DE4E76807C4128F2B56520765F4663D0
+Length: 329711                Digest: MD5 B561D655D3F71837584A38A64C062580
+```
+
+A **DISSEMINATION**, que é a que o visualizador serve, tem **107 422 bytes** e
+mede **668×980 px**. A **ORIGINAL** tem **329 711 bytes** — cerca de **1,7× em
+resolução linear**. É essa diferença que pode devolver a leitura da filiação
+que na cópia servida caiu numa mancha de humidade.
+
+**Situação:** o ficheiro existe (o catálogo declara-lhe o tamanho e o MD5), mas
+nenhum endereço público o serve. Testei sistematicamente vinte e duas formas —
+`storage/storageobject` com o `objectId` da ORIGINAL, com e sem *encode*;
+`storage/download`; `storage/file`; o hash sozinho; `representations/865406` e
+os seus `/file`, `/download`, `/original`; `digitalobjects/3820328` e
+`files/3820328` com os mesmos sufixos; `download?representationId=` e
+`download?fileId=`; e `vault://MASTER/…` e `vault://PRESERVATION/…`. Todas
+devolvem 404 ou 400, e `&type=ORIGINAL` é ignorado (devolve a DISSEMINATION).
+Os parâmetros de tamanho — `width`, `size`, `maxSize`, `scale`, `quality` — são
+igualmente ignorados.
+
+**Pedido concreto:** o envio do ficheiro `vault://ORIGINAL/B561D655D3F71837
+584A38A64C062580` (e, se possível, das páginas vizinhas do mesmo livro). Não é
+uma reprodução a fazer: é uma cópia de um ficheiro que já está no vosso
+repositório.
 
 ---
 

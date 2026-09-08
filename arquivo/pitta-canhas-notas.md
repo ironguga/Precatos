@@ -2768,3 +2768,62 @@ ano e põe a janela de 1600-1620 nas imagens **101-159**.
 Varridas por margem, até agora, as imagens **100-155**: **nenhum Pita**. É
 cobertura parcial e de fiabilidade média — digo-o assim porque neste livro a
 margem falha, e um negativo por margem aqui não vale o que valia nos Canhas.
+
+---
+
+# A imagem de melhor resolução existe — e o arquivo não a serve
+
+Antes de dar o tecto por fechado fui ver se as imagens podiam vir maiores. O
+registo de cada página declara **três variantes**:
+
+```
+RepresentationID: 865406            FileID: 3820328
+OriginalURL:      vault://ORIGINAL/B561D655D3F71837584A38A64C062580
+DisseminationURL: vault://DISSEMINATION/DE4E76807C4128F2B56520765F4663D0
+ThumbnailURL:     vault://THUMB/55EBC32CE8F7B4C9B997392AA2BF4E49
+Length:           329711            Digest: MD5 B561D655D3F71837584A38A64C062580
+```
+
+**A ORIGINAL tem 329 711 bytes. A DISSEMINATION, que é a que eu descarrego,
+tem 107 422 e mede 668×980.** Três vezes o peso — algo como 1,7× em resolução
+linear, ou seja **cerca de 1 150 px de largura**. À escala a que li o assento
+de 1641, isso pode ser a diferença entre uma mancha e um nome.
+
+## Vinte e duas formas de endereço, e nenhuma a serve
+
+| Forma | Resposta |
+|---|---|
+| `storage/storageobject?objectId=vault://ORIGINAL/…` | **404** |
+| idem sem *encode*, `storage/download`, `storage/file` | **404** |
+| `storageobject?objectId=<hash>` | **404** |
+| `representations/865406`, `/file`, `/download`, `/original` | **404** |
+| `digitalobjects/3820328`, `/download`, `/file` | **404** |
+| `files/3820328`, `/download` | **404** |
+| `download?representationId=`, `download?fileId=` | **400** |
+| `storageobject?objectId=<DISSEMINATION>&type=ORIGINAL` | 200 — **devolve a DISSEMINATION** |
+| `vault://MASTER/…`, `vault://PRESERVATION/…` | **400** |
+| *(controlo)* `vault://DISSEMINATION/…` | 200, 668×980 |
+
+Também: os parâmetros de tamanho (`width`, `size`, `maxSize`, `scale`,
+`quality`) são **ignorados** — a DISSEMINATION vem sempre a 668×980, byte por
+byte igual.
+
+E os dois livros sem imagens respondem, aos três endpoints, exactamente isto:
+
+```
+/api/descriptions/2195/representations   -> 200, []
+/api/descriptions/2195/digitalobjects    -> 200, []
+/api/descriptions/44085/representations  -> 200, []
+/api/descriptions/44085/digitalobjects   -> 200, []
+```
+
+Lista vazia, não erro. **Não há nada por descobrir do lado de fora.**
+
+## O que isto muda no pedido ao ABM
+
+Muda para melhor, e por isso vale a pena. O quarto item do pedido deixa de ser
+uma reprodução a fazer e passa a ser **um ficheiro que o Arquivo já tem**: a
+variante ORIGINAL da imagem 7 do Livro 2.º de casamentos dos Canhas, cujo MD5
+e cujo tamanho o próprio catálogo publica. É o pedido mais barato dos quatro e
+é o que pode resolver a filiação de Diogo Fernandes Pita sem ninguém ir à
+estante.
