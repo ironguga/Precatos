@@ -1927,3 +1927,116 @@ paroquiais. Os da região interessam directamente:
 (**PPTS03/002, ID 51147**, «Registo de casamentos 1565-1911») aparecem, o que
 significa que os volumes dessa década ou têm identificadores fora do intervalo
 varrido, ou não estão descritos ao nível do livro. **É o próximo alvo.**
+
+---
+
+# Depois do baptismo: o que se confirmou, o que se enfraqueceu
+
+## A terceira interface partida da API do ABM
+
+Pedi ao *runner* os volumes das séries de casamentos das freguesias vizinhas.
+O endpoint de filhos não existe em nenhuma das seis formas que tentei
+(`/children`, `/childs`, `/descendants`, `/tree`, …: 404, 400 ou 500), e
+`GET /api/descriptions?parent=<id>` **responde 200 e devolve sempre os mesmos
+dez registos** — livros de pesagem de açúcar da fábrica William Hinton & Sons
+— seja qual for o `parent` que se lhe passe. É o mesmo defeito da busca por
+texto, que devolve sempre o mesmo álbum de fotografias. **Três interfaces de
+consulta deste catálogo estão partidas**; só o varrimento por identificador dá
+resultados fiáveis, e é por isso que este trabalho é feito assim.
+
+Consequência prática: os volumes de casamentos da **Ponta do Sol** posteriores
+a 1690 não são alcançáveis por esta via. A série existe
+(**PT/ABM/PPTS03/002, ID 51147**, «Registo de casamentos 1565-1911») e do
+intervalo 39000-52000 só saíram os Livros 1.º (1565-1652, ID 48721) e 2.º
+(1652-1690, ID 48722). O 3.º está fora do intervalo varrido ou não está
+descrito ao nível do livro.
+
+## O nome próprio da noiva de 1657 — lê-se, e é Maria
+
+Voltei à imagem 46 do Livro 2.º de casamentos com normalização local e
+percentis apertados. A linha lê-se: «…e de sua legítima mulher **Fran.ca
+Lopes**, com **M.ª de S.ª da Silva**, f.ª de M.el de Ponte…». O nome do meio
+não o fixo — «de S.ª» tanto pode ser Sá, Santa ou Silva. **O nome próprio é
+Maria.**
+
+## E o documento que me obriga a travar
+
+Na mesma varredura, à imagem 81:
+
+**16 de Novembro de 1671, Livro 2.º de casamentos** — margem «Ant.º V.ra com
+M.ª da S.ª»
+> «Em os 16 dias do mes de Novembro de 1671, eu o P.e Vig.º **Ant.º da Sylva**,
+> corridos os banhos conforme o Sagrado Conc. Trid. e Constituições do
+> Bispado, os recebi e dei as bênçãos a **Ant.º V[iey]ra, filho de Joam
+> V[iey]ra e de Beatriz Lopes**, com **MARIA DA SYLVA, filha de MANOEL DE
+> PONTE e de sua molher […]**, ambos desta freguezia. Testemunhas: o Capitão
+> Joam Frz de Linhares…»
+
+Uma **segunda** «Maria da Sylva, filha de Manoel de Ponte» — e esta casa em
+1671 com um Vieyra, não com um Correa. Ou Manoel de Ponte teve duas filhas com
+o mesmo nome próprio (acontece, mas é raro em duas vivas ao mesmo tempo), ou
+há dois Manoel de Ponte na freguezia, ou eu leio mal uma das duas.
+
+**Baixo por isso a minha confiança na identificação de 1657.** Continua a ser
+o único António Correa que casa nos Canhas em todo o período varrido, e a
+noiva continua a ser filha de um de Ponte — mas o argumento «filha de Manoel
+de Ponte» perdeu força, porque não é exclusivo. **Fica HIPÓTESE, e mais fraca
+do que eu a dei há uma hora.** Digo-o porque é o que o documento manda.
+
+---
+
+# O casal Pitta × Maria Roiz, apanhado em 1673
+
+Na mesma folha de anos em que nasceu Pedro:
+
+**9 de Julho de 1673, Livro 2.º de baptismos, fl. 100 (imagem 202)** — margem
+«M.el»
+> «Em os 9 dias do mes de Julho de 1673, nesta [Igreja de] Nossa S.ra da
+> Piedade dos Canhas, eu **Sebastião Marques**, [Vigário] della, Baptizei sob
+> condição… e pus os Santos Óleos a **MANOEL, filho de […] PITA e de sua
+> m.er M.ª ROIZ, meus freguezes**, e foi padrinho **[…] Figueira de Chaves**.»
+
+**O nome próprio do pai está destruído** — a margem direita da folha, onde ele
+cai, tem uma mancha de humidade que comeu a tinta, e a 13× não há lá nada para
+ler. Fica assim: a 9 de Julho de 1673 havia nos Canhas um casal **«[…] Pita ×
+Maria Roiz»** a baptizar um filho.
+
+**Porque é que isto importa muito:** o assento de 6 Nov 1730 dá a Maria Roiz
+Pitta, mulher de Pedro da Sylva de Ponte, os pais **Francisco Pitta e Maria
+Rodrigues**. Este é o primeiro documento que apanha um casal Pitta × Maria
+Roiz nos Canhas — e apanha-o exactamente no ano em que Pedro nasce, com a
+filha deles a nascer na mesma década. **Se o pai for Francisco, a décima
+geração materna fica documentada em vida e não só por dedução.**
+
+E há mais: **Francisco Pita casa com Antónia Vieyra a 15 de Janeiro de 1676** —
+*depois* deste baptismo. Se for o mesmo homem, Maria Roiz era a primeira
+mulher e Antónia Vieyra a segunda, e então **Diogo Fernandes Pita e Ines
+Rodrigues**, pais de Francisco pelo assento de 1676, seriam a undécima geração
+da linha directa. **É a hipótese mais consequente que resta em aberto, e não a
+posso decidir com a folha rasgada.**
+
+## Outros assentos novos desta varredura
+
+**6 Set 1673, imagem 203** — «a **M.[anoel]**, filho de **Ignacio […] Vieyra**
+e de sua mulher **Izabel Roiz Pita**, meus freguezes». Mais uma casa Pitta por
+via feminina.
+
+**c. 1703, Livro 3.º de baptismos, fl. 122 (imagem 240)**
+> «…Baptizei… a **António**, nascido a […] do corrente, **filho de MANOEL DA
+> SYLVA DE PONTE e de sua mulher MARIA ROIZ DA SYLVA**; foi padrinho **Simão
+> da Sylva de Freitas**, morador desta freguezia.»
+
+Um segundo «da Sylva de Ponte» nos Canhas, da geração de Pedro e a baptizar
+filhos ao mesmo tempo que ele. **Pode ser irmão de Pedro** — o apelido
+composto é o mesmo e a cronologia bate. **Não o ligo**: nenhum documento diz
+que o é, e o dossiê proíbe exactamente este passo.
+
+**12 Jan 1670, Livro 2.º de casamentos, imagem 80** — a casa Henriques dos
+Canhas, que interessa a outro ramo do dossiê:
+> «…eu o P.e **Ant.º da Sylva Barretto**, Cura desta… dei as bênçãos a **JOÃO
+> HENRIQUES, filho de AFONSO HENRIQUES e de sua molher ANNA BARBOSA**, com
+> **MARIA DOS RAMOS, filha de João Roiz e de sua molher Maria dos Ramos**,
+> ambos freguezes desta Igr.ª.»
+
+(Nada liga estes Henriques dos Canhas aos Henriques do Monte de que descende
+Júlia Maria Henriques, casada em 1871. Registo-os, não os junto.)
