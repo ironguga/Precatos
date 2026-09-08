@@ -1,0 +1,45 @@
+2828  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Róis de crismados
+2827  digital=true  representations=200 nós=35    digitalobjects=200 páginas=33    Livro de registo de casamentos do Caniço do ano de 1885
+2829  digital=true  representations=200 nós=23    digitalobjects=200 páginas=21    Livro de registo de óbitos do Curral das Freiras do ano de 1881
+
+===== 2828 =====
+  Dimensions: 4 liv.
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1643
+  UnitTitle: Róis de crismados
+  UnitDateFinal: 1774
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: SR
+  CompleteUnitId: PT/ABM/PPTS01/005
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 005
+  AssociationCount: 0
+  AllowTextualContentInference: true
+  ViewCount: 425
+  Created: 2012-06-11T00:00:00
+  Modified: 2026-09-08T17:38:21.687
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 0
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: false
+  HasAudiovisualRecord: false
+  Barcode: UD2828
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 2828
+  Parent: 47511
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
