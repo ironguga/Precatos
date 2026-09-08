@@ -19,6 +19,7 @@ on:
       - 'scripts/arquivo-abm-notarial.mjs'
       - 'scripts/arquivo-abm-casamentos-antigos.mjs'
       - 'scripts/arquivo-abm-filhos.mjs'
+      - 'scripts/arquivo-abm-notas.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -131,6 +132,23 @@ jobs:
           git add -f arquivo/abm-casamentos-antigos.txt
           git diff --cached --quiet || {
             git commit -m 'Levantamento dos livros de casamentos e baptismos anteriores a 1745'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Procurar os livros de notas dos tabeliaes
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-notas.mjs 30000 60000 > arquivo/abm-notas-tabeliaes.txt 2> >(tail -5 >&2) || true
+          wc -l arquivo/abm-notas-tabeliaes.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-notas-tabeliaes.txt
+          git diff --cached --quiet || {
+            git commit -m 'Livros de notas e series judiciais anteriores a 1800'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
