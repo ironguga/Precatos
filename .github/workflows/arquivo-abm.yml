@@ -24,6 +24,7 @@ on:
       - 'scripts/arquivo-abm-pais.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
+      - 'scripts/arquivo-abm-externas2.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -168,13 +169,13 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-original.mjs > arquivo/abm-resolucao.txt 2>&1 || true
-          cat arquivo/abm-resolucao.txt
+          node scripts/arquivo-abm-externas2.mjs > arquivo/abm-externas2.txt 2>&1 || true
+          cat arquivo/abm-externas2.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -f arquivo/abm-resolucao.txt
+          git add -f arquivo/abm-externas2.txt
           git diff --cached --quiet || {
-            git commit -m 'Teste de resolucao das imagens, variantes e outros repositorios'
+            git commit -m 'Busca dos nomes certos fora do arquivo'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
