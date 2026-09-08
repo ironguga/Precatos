@@ -37,7 +37,8 @@ env:
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
   # Livro 4.º de óbitos (1720-1749): faltam as imagens 201-292.
   # Indice dos livros de notas n.o 1 a 30 (399 paginas) e n.o 1 a 8 (163).
-  ABM_LIVROS: ''
+  # Livro 1.o de casamentos (1592-1639) e Livro 4.o (1743-1754), o que faltava.
+  ABM_LIVROS: '2206:1-400 2195:1-300'
 
 jobs:
   baixar:
@@ -110,11 +111,10 @@ jobs:
           }
 
       - name: Sondar o que está mesmo digitalizado
-        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-sondar.mjs 42092 42081 41773 48628 42119 | tee arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-sondar.mjs 2195 2206 2196 2197 2198 47511 | tee arquivo/abm-canhas-sonda.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-canhas-sonda.txt
@@ -142,6 +142,7 @@ jobs:
           }
 
       - name: Descobrir o identificador do Livro 1.o de casamentos
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
