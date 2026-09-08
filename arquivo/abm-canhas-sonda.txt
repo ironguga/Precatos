@@ -1,5 +1,6 @@
-42092  digital=true  representations=200 nós=269   digitalobjects=200 páginas=267   Livro 2.º de registo de baptismos dos Canhas (1639/1680)
-42081  digital=true  representations=200 nós=95    digitalobjects=200 páginas=93    Livro 1.º de registo de baptismos dos Canhas ([1593]/[1639])
-41773  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Livro 2.º misto de registo de óbitos dos Canhas (1639/1678)
-48628  digital=true  representations=200 nós=294   digitalobjects=200 páginas=292   Livro 4.º de registo de óbitos dos Canhas (1720/1749)
-42119  digital=true  representations=200 nós=298   digitalobjects=200 páginas=296   Livro 3.º de registo de baptismos dos Canhas (1680/1708)
+2195  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
+2206  digital=true  representations=200 nós=179   digitalobjects=200 páginas=177   Livro 4.º de registo de casamentos dos Canhas (1743/1754)
+2196  digital=true  representations=200 nós=17    digitalobjects=200 páginas=15    Livro de registo de casamentos do Jardim do Mar do ano de 1870
+2197  digital=true  representations=200 nós=35    digitalobjects=200 páginas=33    Livro de registo de casamentos do Caniço do ano de 1883
+2198  digital=true  representations=200 nós=17    digitalobjects=200 páginas=15    Livro de registo de casamentos do Jardim do Mar do ano de 1872
+47511  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Paróquia dos Canhas
