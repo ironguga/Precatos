@@ -1,0 +1,1637 @@
+=== mapa 1-620000, passo 400 ===
+      1  —
+    401  —
+    801  —
+   1201  PT/ABM/PRBR04/002/00040              DC 1893  Livro de registo de casamentos da Tabua do ano de 1893
+   1601  PT/ABM/PMCH02/002/00020              DC 1876  Livro de registo de casamentos do Caniçal do ano de 1876
+   2001  PT/ABM/PPST01/001/00030              DC 1867  Livro de registo de baptismos do Porto Santo do ano de 1867
+   2401  PT/ABM/CMSTN/C/009                   SR 1957  Correspondência recebida e expedida com a Direção Geral de Espetáculos
+   2801  —
+   3201  —
+   3601  PT/ABM/PFUN07/003                    SR 1581  Registo de óbitos
+   4001  PT/ABM/PPMZ04/001/00039              DC 1888  Livro de registo de baptismos do Seixal do ano de 1888
+   4401  PT/ABM/JST/B/002-012                 SSR 1988  Silvano de Freitas Branco, 2.º visconde do Porto da Cruz
+   4801  PT/ABM/PCLT05/001/00031              DC 1889  Livro de registo de baptismos do Jardim do Mar do ano de 1889
+   5201  PT/ABM/PCML03/003/00026              DC 1877  Livro de registo de óbitos do Estreito de Câmara de Lobos do ano de 18
+   5601  —
+   6001  PT/ABM/PPTS01/003/00034              DC 1883  Livro de registo de óbitos dos Canhas do ano de 1883
+   6401  —
+   6801  —
+   7201  PT/ABM/JGDAFUN-SEC/D-A/001/00012     DC 1967  Contas de gerência (1967)
+   7601  —
+   8001  PT/ABM/CMFUN/I-A/00001               DC 1836  Copiador de ofícios recebidos pelo Comando do Batalhão da Guarda Nacio
+   8401  —
+   8801  —
+   9201  —
+   9601  —
+  10001  —
+  10401  PT/ABM/PSTN01/003/00007              DC 1862  Livro de registo de óbitos do Arco de São Jorge do ano de 1862
+  10801  —
+  11201  —
+  11601  —
+  12001  —
+  12401  PT/ABM/CMFUN/E-A/010/00024           DC 1885  Registo de mandados de despesa (1885)
+  12801  —
+  13201  —
+  13601  —
+  14001  —
+  14401  —
+  14801  —
+  15201  —
+  15601  —
+  16001  —
+  16401  —
+  16801  —
+  17201  —
+  17601  —
+  18001  —
+  18401  —
+  18801  —
+  19201  —
+  19601  —
+  20001  —
+  20401  —
+  20801  —
+  21201  —
+  21601  —
+  22001  —
+  22401  —
+  22801  —
+  23201  —
+  23601  —
+  24001  —
+  24401  —
+  24801  —
+  25201  —
+  25601  —
+  26001  —
+  26401  —
+  26801  —
+  27201  —
+  27601  —
+  28001  —
+  28401  —
+  28801  —
+  29201  —
+  29601  —
+  30001  —
+  30401  —
+  30801  —
+  31201  —
+  31601  PT/ABM/PPTS02/003/00003              DC 1801  Livro 5.º de registo de óbitos da Madalena do Mar (1801/1825)
+  32001  —
+  32401  —
+  32801  —
+  33201  —
+  33601  —
+  34001  —
+  34401  —
+  34801  —
+  35201  PT/ABM/CMFUN/N-D-A/00001             DC 1858  Mapa dos cadáveres sepultados
+  35601  —
+  36001  —
+  36401  PT/ABM/CMFUN/L-C/046/00004           DC 1897  Teatro D. Maria Pia (1897)
+  36801  PT/ABM/JGDAFUN-SEC/A/003/00053       DC 1967  Notas de serviço expedidas (1969-1979)
+  37201  —
+  37601  PT/ABM/LJM/B-E/053                   SR 1963  Pautas de frequência dos alunos
+  38001  PT/ABM/CRCFUN/003/00173              DC 1953  Registo de óbitos do Funchal do ano de 1953 (n.º 801 a 1200)
+  38401  PT/ABM/PFUN07/001/00050              DC 1893  Livro de registo de baptismos de São Martinho do ano de 1893
+  38801  —
+  39201  —
+  39601  —
+  40001  PT/ABM/PCLT05/003/00038              DC 1896  Livro de registo de óbitos do Jardim do Mar do ano de 1896
+  40401  —
+  40801  —
+  41201  —
+  41601  —
+  42001  —
+  42401  PT/ABM/DSIEV/F/001-001/0009          UI 1959  Processos de licenciamento de instalações elétricas industriais (n.º 8
+  42801  PT/ABM/PMCH01/003/00035              DC 1892  Livro de registo de óbitos de Água de Pena do ano de 1892
+  43201  —
+  43601  —
+  44001  PT/ABM/PFUN03/001/00012              DC 1837  Livro 12.º de registo de baptismos de Santa Luzia (1837/1850)
+  44401  —
+  44801  —
+  45201  PT/ABM/IPC/I/022                     SR 1955  Boletins estatísticos da indústria de laticínios
+  45601  —
+  46001  —
+  46401  PT/ABM/PCML01/001/00071              DC 1910  Livro de registo de baptismos de Câmara de Lobos do ano de 1910
+  46801  PT/ABM/JST/F/001-006/00003           DC       Fotos a cores do príncipe de Croy e da princesa de Croy-Solre, da nobr
+  47201  PT/ABM/JST/C/005/00001               DC 1983  Exemplares originais dos folhetos artesanais intitulados "Lixo" e "Car
+  47601  —
+  48001  PT/ABM/PFUN04/001/00052              DC 1905  Livro de registo de baptismos de Santa Maria Maior do ano de 1905
+  48401  —
+  48801  PT/ABM/PMCH03/002/00047              DC 1895  Livro de registo de casamentos de Machico do ano de 1895
+  49201  PT/ABM/PPTS02/001/00053              DC 1903  Livro de registo de baptismos da Madalena do Mar do ano de 1903
+  49601  PT/ABM/PPMZ04/003/00004              DC 1787  Livro 5.º de registo de óbitos do Seixal (1787/1822)
+  50001  —
+  50401  PT/ABM/PSCR03/002/00057              DC 1909  Livro de registo de casamentos do Caniço do ano de 1909
+  50801  —
+  51201  —
+  51601  PT/ABM/PSVC02/002/00052              DC 1896  Livro de registo de casamentos da Ponta Delgada do ano de 1896
+  52001  —
+  52401  PT/ABM/CMSTN/E/001                   SR 1948  Processos de transgressão das posturas municipais (1948-1951)
+  52801  —
+  53201  —
+  53601  —
+  54001  —
+  54401  PT/ABM/CMFUN/E-A/001/00030           DC 1746  Receita e despesa dos foros e rendas para o ano de 1746
+  54801  PT/ABM/CMFUN/N-D-F/001               SR 1864  Termos de sepultamento
+  55201  PT/ABM/CMFUN/Q-A/001/00034           DC 1765  Receita e despesa dos lázaros e expostos para o ano 1765
+  55601  —
+  56001  PT/ABM/LPC/B-A/001                   SR 1943  Correspondência recebida e expedida
+  56401  PT/ABM/AFR/A/002                     SR 1895  Manuscritos
+  56801  PT/ABM/FPS                           F  1872  Florival de Passos
+  57201  PT/ABM/JGDAFUN-SEC/C/016             SR 1953  Comunicações recebidas da Direção das Obras Públicas informando ocorrê
+  57601  —
+  58001  PT/ABM/ICEFUN/K/002/00001            DC 1920  Registo de correspondência expedida
+  58401  PT/ABM/CRCRBR/008/00004              DC 1917  Extratos de registos de óbitos da Ribeira Brava do ano de 1917 (n.º 1 
+  58801  PT/ABM/LJM/B-A/036/00007             DC 1972  Copiadores de correspondência expedida para diversas entidades (1972)
+  59201  —
+  59601  PT/ABM/CMFUN/L-D/124                 SR 1949  Rua do Jasmineiro
+  60001  PT/ABM/CMFUN/L-D/131/00002           DC 1927  Rua dos Arrependidos (1927-1928)
+  60401  PT/ABM/LJM/B-E/047/00014             DC 1959  Boletins de inscrição em exame de admissão aos liceus (1959)
+  60801  —
+  61201  —
+  61601  PT/ABM/LJM/B-B/013/00007             DC 1975  Termos de posse de pessoal docente e não docente (1975)
+  62001  PT/ABM/JGDAFUN-SEC/A/001/00035       DC 1940  Atas das sessões da Comissão Executiva/Administrativa (1940-1941)
+  62401  —
+  62801  —
+  63201  —
+  63601  PT/ABM/ENP/C/007-025                 SSR 1966  Fotografias da 4.ª ed. de Ilhas de Zargo, inédita, revista e aumentada
+  64001  PT/ABM/ENP/C/007-005/23-154          D        Cogumelos Ganaderma Silveirae e Cyclomyces Maderensis (Museu do Seminá
+  64401  PT/ABM/ENP/C/007-009/24-287          D  1940  Pedra de moinho de vento do Porto Santo
+  64801  PT/ABM/CMFUN/L-D/161/00101           DC 1940  Rua da Figueira Preta
+  65201  PT/ABM/ENP/C/007-018/27-70           D  1970  Base de pedra de cruz de madeira fossilizada, com dedicatória do minia
+  65601  PT/ABM/JGDAFUN-SEC/B/005/00006       DC 1962  Registo de editais e anúncios (1962-1970)
+  66001  PT/ABM/JGDAFUN-SEC/B-B/001/00003     DC 1951  Reclamações resultantes de empreitadas de obras públicas (1951-1952)
+  66401  PT/ABM/CMFUN/L-D/040/00002           DC 1931  Caminho da Quinta dos Reis (1931)
+  66801  PT/ABM/JGDAFUN-SEC/C/005-001/00009   DC 1949  Professores do ensino primário oficial (1949-1978)
+  67201  PT/ABM/JGDAFUN-SEC/D-B/002/00035     DC 1930  Contas correntes com as despesas orçamentais (1930-1931)
+  67601  PT/ABM/JGDAFUN-SEC/D-B/021/00009     DC 1944  Registo da receita eventual (mod. 8) (1944)
+  68001  PT/ABM/JPC-A/D-D/004/000001          D  2006  Diploma de renovação de certificado de membro honorário do Rotary Club
+  68401  —
+  68801  —
+  69201  PT/ABM/JGDAFUN-SEC/D-C/001-031/00007 DC 1936  Confraria do Santíssimo Sacramento da Freguesia do Porto da Cruz (ano 
+  69601  PT/ABM/JGDAFUN-SEC/D-D/009/00013     DC 1966  Movimento de fundos entre a Tesouraria e a Caixa Económica Portuguesa 
+  70001  PT/ABM/CMFUN/L-C/006/00003           DC       Capela do Corpo Santo (s.d.)
+  70401  —
+  70801  —
+  71201  —
+  71601  PT/ABM/DSIEV/G-A/005-001/00110       DC 1946  Bradford
+  72001  PT/ABM/DSIEV/G-A/005-001/00461       DC 1935  Minerva (proc. 424)
+  72401  —
+  72801  PT/ABM/ACB/E/001/000013              D        Retrato de grupo (corpo inteiro) no exterior do Palácio Nacional de Qu
+  73201  —
+  73601  PT/ABM/VIC/O-A/004-012/000005        D        Ruínas e torre da igreja do Convento de São Francisco, Freguesia de Sã
+  74001  PT/ABM/VIC/N-C/013/000006            D        Paisagem sobre um vale e ribeira em local não identificado, na Ilha da
+  74401  PT/ABM/PER/G-A/005/000002            D        Avenida Gonçalves Zarco (atual avenida Zarco), Freguesia da Sé, Concel
+  74801  PT/ABM/PER/M-A/001-004/000003        D        Janela da casa de João Esmeraldo, denominada "Casa Colombo", colocada 
+  75201  —
+  75601  PT/ABM/PPMZ01/001/00018/000010       D  1872  Registo de batismo n.º 10: António. Pai: Francisco Rodrigues Lucas; Mã
+  76001  PT/ABM/PPMZ01/001/00055/000016       D  1909  Registo de batismo n.º 16: Manuel. Pai: Manuel da Costa e Câmara Júnio
+  76401  —
+  76801  —
+  77201  —
+  77601  PT/ABM/DSIEV/E/003/00140             DC 1936  Oficina de ferreiraria, Sé, rua do Anadia, 7 (proc. n.º 353)
+  78001  PT/ABM/DSIEV/G-A/005-001/00742       DC 1957  Vespina
+  78401  —
+  78801  PT/ABM/PMCH01/001/00024/000001       D  1880  Registo de batismo n.º 1: Luísa. Pai: José de Sousa de Jesus; Mãe: Mar
+  79201  PT/ABM/PMCH01/001/00038/000016       D  1894  Registo de batismo n.º 16: José. Pai: Manuel Carvalho; Mãe: Amélia de 
+  79601  PT/ABM/PMCH01/001/00049/000012       D  1905  Registo de batismo n.º 12: João. Pai: Manuel Rodrigues; Mãe: Frederica
+  80001  PT/ABM/PCLT01/001/00016/000081       D  1861  Registo de batismo n.º 81: Pedro. Pai: Pedro de Gouveia; Mãe: Maria de
+  80401  PT/ABM/PCLT01/001/00020/000001       D  1865  Registo de batismo n.º 1: Joaquim. Pai: Francisco Rodrigues Teixeira; 
+  80801  PT/ABM/PCLT01/001/00023/000033       D  1868  Registo de batismo n.º 33: Francisco. Pai: José Rodrigues Teixeira; Mã
+  81201  PT/ABM/PCLT01/001/00026/000057       D  1871  Registo de batismo n.º 57: João. Pai: Manuel Gonçalves Perrigil; Mãe: 
+  81601  PT/ABM/PCLT01/001/00029/000082       D  1874  Registo de batismo n.º 82: Adelaide. Pai: Amaro de Sousa Jardim; Mãe: 
+  82001  PT/ABM/PCLT01/001/00032/000094       D  1877  Registo de batismo n.º 94: João. Pai: Faustino Martins; Mãe: Antónia d
+  82401  PT/ABM/PCLT01/001/00035/000082       D  1880  Registo de batismo n.º 82: Domingos. Pai: Francisco José Ferreira; Mãe
+  82801  PT/ABM/PCLT01/001/00038/000049       D  1883  Registo de batismo n.º 49: Manuell. Pai: João Rodrigues Ferreira; Mãe:
+  83201  PT/ABM/PCLT01/001/00041/000064       D  1886  Registo de batismo n.º 64: Carolina. Pai: Manuel Gonçalves Teixeira; M
+  83601  PT/ABM/PCLT01/001/00044/000121       D  1889  Registo de batismo n.º 121: Francisco. Pai: António Rodrigues Carreira
+  84001  PT/ABM/PCLT01/001/00047/000102       D  1892  Registo de batismo n.º 102: Luzia. Pai: João Francisco Rodrigues; Mãe:
+  84401  PT/ABM/PCLT01/001/00050/000074       D  1895  Registo de batismo n.º 74: Joaquina. Pai: António Ponte Lira; Mãe: Aug
+  84801  PT/ABM/PCLT01/001/00053/000005       D  1898  Registo de batismo n.º 5: Augusta. Pai: Manuel Rodrigues Teixeira; Mãe
+  85201  PT/ABM/PCLT01/001/00055/000085       D  1900  Registo de batismo n.º 85: José. Pai: Francisco Rodrigues Mendes; Mãe:
+  85601  PT/ABM/PCLT01/001/00057/000092       D  1902  Registo de batismo n.º 92: João. Pai: João de Leça; Mãe: Carolina de J
+  86001  PT/ABM/PCLT01/001/00059/000133       D  1904  Registo de batismo n.º 133: Brás. Pai: António de Freitas; Mãe: Emília
+  86401  PT/ABM/PCLT01/001/00061/000175       D  1906  Registo de batismo n.º 175: Maria. Pai: Manuel José de Gouveia; Mãe: C
+  86801  PT/ABM/PCLT01/001/00064/000037       D  1909  Registo de batismo n.º 37: Maria da Luz. Pai: António Vieira; Mãe: Car
+  87201  PT/ABM/PSTN01/001/00006/000014       D  1860  Registo de batismo n.º 14: Maria. Pai: Incógnito; Mãe: Antónia Joaquin
+  87601  PT/ABM/PSTN01/001/00024/000016       D  1878  Registo de batismo n.º 16: João. Pai: João Teixeira; Mãe: Maria Franci
+  88001  PT/ABM/PSTN01/001/00040/000015       D  1894  Registo de batismo n.º 15: Manuel. Pai: Manuel Pereira Camacho; Mãe: A
+  88401  PT/ABM/PSTN01/001/00056/000009       D  1910  Registo de batismo n.º 9: Maria. Pai: Manuel dos Reis; Mãe: Maria Luís
+  88801  PT/ABM/PSVC01/001/00011/000070       D  1862  Registo de batismo n.º 70: Maria. Pai: António de Abreu; Mãe: Maria Fe
+  89201  PT/ABM/PSVC01/001/00016/000022       D  1867  Registo de batismo n.º 22: Maria. Pai: João de Aguiar; Mãe: Maria Augu
+  89601  PT/ABM/PSVC01/001/00020/000065       D  1871  Registo de batismo n.º 65: Manuel. Pai: José de Gouveia; Mãe: Quitéria
+  90001  PT/ABM/PSVC01/001/00025/000067       D  1876  Registo de batismo n.º 67: Virgínia. Pai: Manuel António de Freitas; M
+  90401  PT/ABM/PSVC01/001/00028/000072       D  1879  Registo de batismo n.º 72: Maria. Pai: Incógnito; Mãe: Quitéria Perpét
+  90801  PT/ABM/PSVC01/001/00032/000066       D  1883  Registo de batismo n.º 66: Domingos. Pai: José Ferreira; Mãe: Quitéria
+  91201  PT/ABM/PSVC01/001/00037/000069       D  1888  Registo de batismo n.º 69: Manuel. Pai: Manuel Girardo de Andrade; Mãe
+  91601  PT/ABM/PSVC01/001/00043/000055       D  1894  Registo de batismo n.º 55: José. Pai: Manuel de França Cabois; Mãe: Ma
+  92001  PT/ABM/PSVC01/001/00048/000086       D  1899  Registo de batismo n.º 86: Maria. Pai: Incógnito; Mãe: Júlia de Jesus
+  92401  PT/ABM/PSVC01/001/00053/000065       D  1904  Registo de batismo n.º 65: João. Pai: Ângelo Rodrigues de Freitas; Mãe
+  92801  PT/ABM/PSVC01/001/00056/000032       D  1907  Registo de batismo n.º 32: Maria. Pai: Manuel Faustino da Silva; Mãe: 
+  93201  PT/ABM/VIC/O-B/001/00002/000003      D        Escultura de Nosso Senhor dos Passos do Convento de Santa Clara, Fregu
+  93601  PT/ABM/AMBAM/B-B/003/00007           DC 1958  Correspondência estabelecida com a Direcção Geral da Contabilidade Púb
+  94001  PT/ABM/PMCH01/002/00001/000099       D  1742  Registo de casamento: António de Sousa c.c. Luzia do Amor Divino
+  94401  PT/ABM/PMCH01/002/00017/000008       D  1874  Registo de casamento n.º 8: Lucas de Mendonça c.c. Maria do Espírito S
+  94801  PT/ABM/PCLT01/002/00016/000016       D  1868  Registo de casamento n.º 16: António Fernandes Jardim c.c. Perpétua de
+  95201  PT/ABM/PCLT01/002/00024/000029       D  1876  Registo de casamento n.º 29: António Gonçalves c.c. Joana de Jesus
+  95601  PT/ABM/PCLT01/002/00039/000003       D  1891  Registo de casamento n.º 3: António Martins da Silva c.c. Virgínia de 
+  96001  PT/ABM/PCLT01/002/00007/000014       D  1845  Registo de casamento: Luís de Sousa Jardim c.c. Antónia de Jesus
+  96401  PT/ABM/PCLT01/002/00006/000140       D  1827  Registo de casamento: José Gonçalves da Pedreira c.c. Joaquina Rosa do
+  96801  PT/ABM/PCLT01/002/00005/000173       D  1790  Registo de casamento: Francisco Pestana c.c. Antónia Maria de Jesus
+  97201  PT/ABM/PCLT01/002/00005/000574       D  1810  Registo de casamento: João Domingos de Sousa c.c. Ana Inácia de Menese
+  97601  PT/ABM/PCLT01/002/00004/000160       D  1751  Registo de casamento: António dos Santos c.c. Maria da Ascensão
+  98001  PT/ABM/PCLT01/002/00003/000078       D  1708  Registo de casamento: Manuel da Silva c.c. Francisca do Rosário
+  98401  PT/ABM/PCLT01/002/00003/000479       D  1742  Registo de casamento: João Gonçalves de Lira c.c. Maria Josefa
+  98801  PT/ABM/PCLT01/002/00002/000246       D  1671  Registo de casamento: Tomé Escórcio de Mendonça c.c. Maria Cabral, D.
+  99201  PT/ABM/PCLT01/002/00045/000011       D  1897  Registo de casamento n.º 11: Manuel Agostinho de Freitas c.c. Gerarda 
+  99601  PT/ABM/PSTN01/002/00006/000002       D  1862  Registo de casamento n.º 2: Manuel Pacheco c.c. Humiliana Rosa de Jesu
+ 100001  PT/ABM/PSTN01/002/00002/000266       D  1807  Registo de casamento: Manuel dos Santos c.c. Tomásia Maria
+ 100401  PT/ABM/PSTN01/002/00001/000053       D  1697  Registo de casamento: Manuel Gonçalves Brasão c.c. Madalena Martins Ba
+ 100801  PT/ABM/PSVC01/002/00023/000007       D  1881  Registo de casamento n.º 7: João Gomes Martinho Júnior c.c. Maria Emíl
+ 101201  PT/ABM/PSVC01/002/00001/000219       D  1851  Registo de casamento: Manuel de Aguiar c.c. Eduarda Francisca
+ 101601  PT/ABM/PSVC01/002/00050/000018       D  1908  Registo de casamento n.º 18: João Gomes Pereira c.c. Francisca Ribeiro
+ 102001  —
+ 102401  PT/ABM/ISAPM/B/006/00003             DC 1981  Correspondência estabelecida com a Direção-Geral do Ensino Superior - 
+ 102801  PT/ABM/DDEFUN/F/003-019/0006         UI 1964  Processos de matrícula do ensino particular 1964/1965
+ 103201  PT/ABM/DDEFUN/F/007/0001             UI 1965  Registo de matrículas e de transferências do ensino oficial e particul
+ 103601  PT/ABM/PER/G-A/007/000001            D  1928  Caminho de Santo António, junto à igreja de Santo António, Freguesia d
+ 104001  PT/ABM/PCLT02/001/00026/000087       D  1860  Registo de batismo n.º 86: Francisco. Pai: Manuel de Sousa Caldeira; M
+ 104401  PT/ABM/PCLT02/001/00031/000013       D  1865  Registo de batismo n.º 13: José. Pai: Francisco Rodrigues; Mãe: Maria 
+ 104801  PT/ABM/PCLT02/001/00035/000017       D  1869  Registo de batismo n.º 17: João. Pai: José Gonçalves Farinha; Mãe: Jos
+ 105201  PT/ABM/PCLT02/001/00038/000047       D  1872  Registo de batismo n.º 47: João. Pai: João Homem Ferreira; Mãe: Isabel
+ 105601  PT/ABM/PCLT02/001/00042/000087       D  1876  Registo de batismo n.º 87: Maria. Pai: Incógnito; Mãe: Isabel Gonçalve
+ 106001  PT/ABM/PCLT02/001/00046/000052       D  1880  Registo de batismo n.º 52: Maria. Pai: António Pereira; Mãe: Maria da 
+ 106401  PT/ABM/PCLT02/001/00049/000029       D  1883  Registo de batismo n.º 29: Isabel. Pai: João Rodrigues Capelo; Mãe: Ma
+ 106801  PT/ABM/PCLT02/001/00053/000026       D  1887  Registo de batismo n.º 26: Antónia. Pai: António Mendes de Sousa; Mãe:
+ 107201  PT/ABM/PCLT02/001/00056/000031       D  1890  Registo de batismo n.º 31: Augusta. Pai: Francisco António Ferreira; M
+ 107601  PT/ABM/PCLT02/001/00059/000121       D  1893  Registo de batismo n.º 121: Francisco. Pai: Manuel Gonçalves Ferreira;
+ 108001  PT/ABM/PCLT02/001/00063/000110       D  1897  Registo de batismo n.º 110: Maria. Pai: Francisco Mendes Ribeiro; Mãe:
+ 108401  PT/ABM/PCLT02/001/00066/000127       D  1900  Registo de batismo n.º 127: Antónia. Pai: Luís de Ponte Farinha; Mãe: 
+ 108801  PT/ABM/PCLT02/001/00068/000150       D  1902  Registo de batismo n.º 150: Manuel. Pai: João Fernandes Velosa; Mãe: F
+ 109201  PT/ABM/PCLT02/001/00071/000049       D  1905  Registo de batismo n.º 49: Manuel. Pai: João Gomes Pequenesa; Mãe: Mar
+ 109601  PT/ABM/PCLT02/001/00074/000029       D  1908  Registo de batismo n.º 29: Maria. Pai: Manuel Fernandes de Sousa; Mãe:
+ 110001  PT/ABM/PCLT02/001/00076/000173       D  1910  Registo de batismo n.º 173: José. Pai: Manuel Rodrigues de Abreu; Mãe:
+ 110401  PT/ABM/PSCR02/001/00017/000035       D  1865  Registo de batismo n.º 35: José. Pai: António Teixeira; Mãe: Rita do R
+ 110801  PT/ABM/PSCR02/001/00023/000030       D  1871  Registo de batismo n.º 30: Belmira. Pai: João Fernandes; Mãe: Eulália 
+ 111201  PT/ABM/PSCR02/001/00028/000049       D  1876  Registo de batismo n.º 49: Antónia. Pai: José de Sá; Mãe: Maria de Jes
+ 111601  PT/ABM/PSCR02/001/00033/000094       D  1881  Registo de batismo n.º 94: António. Pai: José Gonçalves; Mãe: Jacinta 
+ 112001  PT/ABM/PSCR02/001/00037/000037       D  1885  Registo de batismo n.º 37: Maria. Pai: Januário Ferreira; Mãe: Antónia
+ 112401  PT/ABM/PSCR02/001/00041/000028       D  1889  Registo de batismo n.º 28: Maria. Pai: António Policarpo de Freitas; M
+ 112801  PT/ABM/PSCR02/001/00044/000050       D  1892  Registo de batismo n.º 50: António. Pai: José Baptista; Mãe: Maria Bap
+ 113201  PT/ABM/PSCR02/001/00047/000101       D  1895  Registo de batismo n.º 101: António. Pai: António Teixeira; Mãe: Maria
+ 113601  PT/ABM/PSCR02/001/00050/000122       D  1898  Registo de batismo n.º 122: Joana. Pai: Manuel de Jesus de Antas e Alm
+ 114001  PT/ABM/PSCR02/001/00053/000029       D  1901  Registo de batismo n.º 29: Maria. Pai: António de Quintal; Mãe: Isabel
+ 114401  PT/ABM/PSCR02/001/00056/000034       D  1904  Registo de batismo n.º 34: Carolina. Pai: João de Gouveia; Mãe: Ludovi
+ 114801  PT/ABM/PSCR02/001/00059/000069       D  1907  Registo de batismo n.º 69: Agostinho. Pai: João Teixeira de Jesus; Mãe
+ 115201  PT/ABM/PSCR02/001/00061/000100       D  1909  Registo de batismo n.º 100: Manuel. Pai: Domingos Julião de Gouveia; M
+ 115601  —
+ 116001  —
+ 116401  PT/ABM/CFF/B/002/0001/000103         D  1965  Automóvel de competição Ford Anglia, do piloto José Jorge de Castro na
+ 116801  PT/ABM/VIC/E-A/003                   SR       Esgrima
+ 117201  PT/ABM/DEPTS/C/002/0008              UI 1974  Registo diário de frequência
+ 117601  PT/ABM/VIC/D-D/015/000014            D  1964  Residencial Colombo na rua da Carreira, Freguesia de São Pedro, Concel
+ 118001  PT/ABM/VIC/O-B/003/000001            D  1966  Cadeira de design moderno no exterior do edifício da Alfândega do Func
+ 118401  PT/ABM/VIC/D-B/001-008/000001        D  1930  Edifício do estabelecimento de bordados Madeira Art Hand Embroidery Co
+ 118801  PT/ABM/MCR/B/002/000002              D  1956  Carta de J. Janon, professor de francês, dirigida a Suzanne referindo 
+ 119201  PT/ABM/PER/C-D/028                   SR       Reid's Mount Park Hotel
+ 119601  —
+ 120001  —
+ 120401  PT/ABM/DSIEV/A-D/003/00027           DC 1966  Registo de requerimentos entrados (liv. 26)
+ 120801  PT/ABM/VIC/T-C/005/000007            D  1938  Automóvel na avenida do Infante, Freguesia de São Pedro (atual fregues
+ 121201  —
+ 121601  PT/ABM/DEPTS/D/007/0143              UI 1958  Maria Beatriz Baltazar Dionísio
+ 122001  PT/ABM/DSIEV/G-B/002/00052           DC 1971  Registo de processos de cartas de condução (liv. 49, cartas n.º 20090 
+ 122401  PT/ABM/DSIEV/G-B/004/00084           UI 1936  Processos de cartas de condução (cartas M-1900 a M-1925)
+ 122801  —
+ 123201  PT/ABM/PSCR02/002/00003/000171       D  1813  Registo de casamento: António de Sousa c.c. Joaquina Maria
+ 123601  PT/ABM/PSCR02/002/00020/000019       D  1874  Registo de casamento n.º 19: António de Freitas c.c. Maria da Encarnaç
+ 124001  PT/ABM/PSCR02/002/00040/000003       D  1894  Registo de casamento n.º 3: José de Quintal Calisto c.c. Maria de Jesu
+ 124401  PT/ABM/PSCR02/002/00052/000013       D  1906  Registo de casamento n.º 13: Manuel Gregório Gonçalves c.c. Maria de N
+ 124801  PT/ABM/PCLT02/002/00025/000028       D  1873  Registo de casamento n.º 28: António João da Silva c.c. Joana Gonçalve
+ 125201  PT/ABM/PCLT02/002/00043/000001       D  1891  Registo de casamento n.º 1: Francisco de Andrade c.c. Maria Carolina d
+ 125601  PT/ABM/PCLT02/002/00010/000073       D  1827  Registo de casamento: Valentim Sardinha c.c. Ana Joaquina da Silva
+ 126001  PT/ABM/PCLT02/002/00010/000472       D  1846  Registo de casamento: António Rodrigues Ramalho c.c. Victória Maria de
+ 126401  PT/ABM/PCLT02/002/00008/000148       D  1804  Registo de casamento: António da Silva c.c. Antónia Joaquina
+ 126801  PT/ABM/PCLT02/002/00008/000284       D  1810  Registo de casamento: João Serrão c.c. Francisca Joaquina de Jesus
+ 127201  PT/ABM/PCLT02/002/00006/000145       D  1782  Registo de casamento: José Homem c.c. Maria de Jesus
+ 127601  PT/ABM/PCLT02/002/00005/000315       D  1769  Registo de casamento: Manuel Alves Corujo c.c. Antónia da Assunção
+ 128001  PT/ABM/PCLT02/002/00047/000023       D  1895  Registo de casamento n.º 23: António Perestrelo da Câmara c.c. Antónia
+ 128401  PT/ABM/PCML01/001/00021/000078       D  1860  Registo de batismo n.º 76: Maria. Pai: Daniel da Câmara; Mãe: Rita Ros
+ 128801  PT/ABM/PCML01/001/00022/000181       D  1861  Registo de batismo n.º 181: Maria. Pai: João Pedro; Mãe: Constantina A
+ 129201  PT/ABM/PCML01/002/00031/000024       D  1882  Registo de casamento n.º 24: Manuel Gomes c.c. Joana da Silva
+ 129601  PT/ABM/PCML01/001/00025/000039       D  1864  Registo de batismo n.º 39: Manuel. Pai: Manuel de Sousa; Mãe: Luísa Ro
+ 130001  PT/ABM/PCML01/001/00026/000065       D  1865  Registo de batismo n.º 65: Augusta. Pai: João José Teles; Mãe: Joaquin
+ 130401  PT/ABM/PCML01/002/00023/000004       D  1874  Registo de casamento n.º 4: Manuel de Sá c.c. Ludovina Augusta da Enca
+ 130801  PT/ABM/PCML01/002/00027/000040       D  1878  Registo de casamento n.º 40: João Gonçalves dos Santos c.c. Maria Amél
+ 131201  PT/ABM/PCML01/001/00029/000022       D  1868  Registo de batismo n.º 22: José. Pai: José Rodrigues de Aguiar; Mãe: A
+ 131601  PT/ABM/PCML01/001/00030/000210       D  1869  Registo de batismo n.º 209: José. Pai: José da Silva; Mãe: Maria Augus
+ 132001  PT/ABM/PCML01/001/00031/000190       D  1870  Registo de batismo n.º 190: José. Pai: Manuel Figueira de Chaves; Mãe:
+ 132401  PT/ABM/PCML01/002/00007/000007       D  1840  Registo de casamento: António Fernandes Barradas c.c. Maria Rosa da Si
+ 132801  PT/ABM/PCML01/001/00032/000037       D  1871  Registo de batismo n.º 37: Maria. Pai: Manuel de Sousa; Mãe: Joana Ros
+ 133201  PT/ABM/PCML01/002/00007/000406       D  1854  Registo de casamento: Silvestre da Câmara c.c. Vitorina de Jesus
+ 133601  PT/ABM/PCML01/001/00034/000179       D  1873  Registo de batismo n.º 179: Joaquim. Pai: José Rodrigues dos Santos; M
+ 134001  PT/ABM/PCML01/001/00035/000106       D  1874  Registo de batismo n.º 106: Victorina. Pai: Francisco de Barros Júnior
+ 134401  PT/ABM/PCML01/002/00005/000195       D  1806  Registo de casamento: António Rodrigues Dinis c.c. Feliciana Joaquina
+ 134801  PT/ABM/PCML01/001/00036/000287       D  1875  Registo de batismo n.º 286: Jesuína. Pai: Manuel Gomes Henriques; Mãe:
+ 135201  PT/ABM/PCML01/002/00005/000595       D  1819  Registo de casamento: João Pinto de Faria c.c. Maria Joaquina
+ 135601  PT/ABM/PCML01/001/00038/000026       D  1877  Registo de batismo n.º 26: João. Pai: Manuel de Sá; Mãe: Victorina Ros
+ 136001  PT/ABM/PCML01/002/00004/000323       D  1774  Registo de casamento: António Francisco c.c. Ana Maria Escórcio
+ 136401  PT/ABM/PCML01/001/00039/000244       D  1878  Registo de batismo n.º 244: Maria. Pai: Jacinto Amâncio Gonçalves da C
+ 136801  PT/ABM/PCML01/002/00004/000724       D  1796  Registo de casamento: António Fernandes Barradas c.c. Ana Vitorina de 
+ 137201  PT/ABM/PCML01/001/00041/000182       D  1880  Registo de batismo n.º 182: Hermínia. Pai: Francisco Gonçalves de Frei
+ 137601  PT/ABM/PCML01/001/00042/000132       D  1881  Registo de batismo n.º 132: Francisco. Pai: Manuel de Freitas; Mãe: Ma
+ 138001  PT/ABM/PCML01/002/00002/000242       D  1682  Registo de casamento: André Gomes c.c. Maria Ferreira
+ 138401  PT/ABM/PCML01/002/00002/000441       D  1707  Registo de casamento: Amaro da Silva c.c. Constança do Espírito Santo
+ 138801  PT/ABM/PCML01/002/00002/000641       D  1725  Registo de casamento: Gaspar Rodrigues c.c. Francisca [...]
+ 139201  PT/ABM/PCML01/001/00045/000161       D  1884  Registo de batismo n.º 161: Manuel. Pai: Manuel Gonçalves de Jesus; Mã
+ 139601  PT/ABM/PCML01/001/00046/000064       D  1885  Registo de batismo n.º 64: José. Pai: António Ferreira; Mãe: Maria Ter
+ 140001  PT/ABM/PCML01/001/00046/000244       D  1885  Registo de batismo n.º 244: Adelaide. Pai: Jacinto João da Silva; Mãe:
+ 140401  PT/ABM/PCML01/001/00047/000191       D  1886  Registo de batismo n.º 191: Constância. Pai: João Soares de Abreu; Mãe
+ 140801  PT/ABM/PCML01/001/00048/000022       D  1887  Registo de batismo n.º 22: Bernardo. Pai: João Rodrigues Xavier; Mãe: 
+ 141201  PT/ABM/PCML01/001/00049/000154       D  1888  Registo de batismo n.º 154: Maria. Pai: José da Silva de Ornelas; Mãe:
+ 141601  PT/ABM/PCML01/002/00060/000041       D  1911  Registo de casamento n.º 41: José Nunes Gomes de Faria  c.c. Hilda Gon
+ 142001  PT/ABM/PCML01/001/00051/000120       D  1890  Registo de batismo n.º 120: Francisco. Pai: Francisco de Barros; Mãe: 
+ 142401  PT/ABM/PCML01/001/00052/000216       D  1891  Registo de batismo n.º 216: António. Pai: Francisco Gomes; Mãe: Silvin
+ 142801  PT/ABM/PCML01/001/00054/000082       D  1893  Registo de batismo n.º 82: Adelaide. Pai: Manuel de Freitas; Mãe: Jesu
+ 143201  PT/ABM/PCML01/001/00055/000199       D  1894  Registo de batismo n.º 199: Felicidade. Pai: Francisco Luís Barreto de
+ 143601  PT/ABM/PCML01/001/00056/000260       D  1895  Registo de batismo n.º 260: João. Pai: João Figueira César Henriques; 
+ 144001  PT/ABM/PCML01/001/00058/000192       D  1897  Registo de batismo n.º 192: Jaime. Pai: João Joaquim Ferreira; Mãe: Ca
+ 144401  PT/ABM/PCML01/001/00059/000164       D  1898  Registo de batismo n.º 164: António. Pai: António Gonçalves de Sousa; 
+ 144801  PT/ABM/PCML01/001/00060/000243       D  1899  Registo de batismo n.º 243: Clara. Pai: Augusto Pinto da Silva; Mãe: A
+ 145201  PT/ABM/PCML01/001/00061/000014       D  1900  Registo de batismo n.º 14: Filomena. Pai: António Fernandes Júnior; Mã
+ 145601  PT/ABM/PCML01/001/00062/000052       D  1901  Registo de batismo n.º 52: Maria. Pai: João Figueira dos Santos; Mãe: 
+ 146001  PT/ABM/PCML01/001/00064/000271       D  1903  Registo de batismo n.º 271: Jorge. Pai: Manuel Pereira; Mãe: Maria Aug
+ 146401  PT/ABM/PCML01/001/00065/000046       D  1904  Registo de batismo n.º 46: António. Pai: António Ferreira; Mãe: Maria 
+ 146801  PT/ABM/PCML01/001/00066/000078       D  1905  Registo de batismo n.º 78: Agostinho. Pai: Agostinho Gonçalves Henriqu
+ 147201  PT/ABM/PCML01/001/00067/000061       D  1906  Registo de batismo n.º 61: Eva. Pai: Jorge da Silva; Mãe: Maria Rosa d
+ 147601  PT/ABM/PCML01/001/00068/000121       D  1907  Registo de batismo n.º 121: Francisco. Pai: Francisco Ferreira; Mãe: M
+ 148001  PT/ABM/PCML01/001/00069/000334       D  1908  Registo de batismo n.º 334: Manuel. Pai: Manuel dos Santos; Mãe: Maria
+ 148401  PT/ABM/PCML01/001/00071/000176       D  1910  Registo de batismo n.º 176: Maria. Pai: João Gomes Figueira; Mãe: Silv
+ 148801  PT/ABM/PCML01/001/00072/000045       D  1911  Registo de batismo n.º 45: Maria. Pai: António de Freitas Vasconcelos;
+ 149201  PT/ABM/PRBR01/001/00013/000033       D  1860  Registo de batismo n.º 33: Maria. Pai: João Nepomuceno de Macedo; Mãe:
+ 149601  PT/ABM/PRBR01/001/00018/000051       D  1865  Registo de batismo n.º 51: Manuel. Pai: António Martins; Mãe: Ana de J
+ 150001  PT/ABM/PRBR01/001/00023/000033       D  1870  Registo de batismo n.º 33: Manuel. Pai: Francisco de Abreu; Mãe: Luísa
+ 150401  PT/ABM/PRBR01/001/00027/000053       D  1874  Registo de batismo n.º 53: Maria. Pai: Gregório Gonçalves; Mãe: Maria 
+ 150801  PT/ABM/PRBR01/001/00031/000025       D  1878  Registo de batismo n.º 25: Maria. Pai: Manuel da Silva; Mãe: Maria Júl
+ 151201  PT/ABM/PRBR01/001/00034/000112       D  1881  Registo de batismo n.º 112: António. Pai: José de Abreu; Mãe: Andresa 
+ 151601  PT/ABM/PRBR01/001/00038/000081       D  1885  Registo de batismo n.º 81: Manuel. Pai: António Rodrigues; Mãe: Lizard
+ 152001  PT/ABM/PRBR01/001/00042/000071       D  1889  Registo de batismo n.º 71: José. Pai: Manuel Fernandes; Mãe: Luísa de 
+ 152401  PT/ABM/PRBR01/001/00045/000086       D  1892  Registo de batismo n.º 86: Júlia. Pai: Manuel Rodrigues; Mãe: Maria Lu
+ 152801  PT/ABM/PRBR01/001/00049/000102       D  1896  Registo de batismo n.º 102: Augusta. Pai: João Rodrigues; Mãe: Luísa d
+ 153201  PT/ABM/PRBR01/001/00052/000112       D  1899  Registo de batismo n.º 113: Maria. Pai: José de Andrade; Mãe: Luísa  d
+ 153601  PT/ABM/PRBR01/001/00055/000042       D  1902  Registo de batismo n.º 42: Joaquim. Pai: Francisco Rodrigues; Mãe: Hel
+ 154001  PT/ABM/PRBR01/001/00058/000064       D  1905  Registo de batismo n.º 64: Maria. Pai: António de Sousa; Mãe: Luísa Au
+ 154401  PT/ABM/PRBR01/001/00061/000072       D  1908  Registo de batismo n.º 72: José. Pai: José Fernandes; Mãe: Maria de Je
+ 154801  PT/ABM/PRBR01/001/00064/000038       D  1911  Registo de batismo n.º 38: António. Pai: Manuel Pereira; Mãe: Joana de
+ 155201  PT/ABM/PRBR01/002/00024/000025       D  1878  Registo de casamento n.º 25: António Soares Júnior c.c. Umbelina de Je
+ 155601  PT/ABM/PRBR01/002/00005/000030       D  1803  Registo de casamento: José de Abreu c.c. Isabel Joaquina
+ 156001  PT/ABM/PRBR01/002/00005/000474       D  1825  Registo de casamento: Francisco José c.c. Francisca Maria
+ 156401  PT/ABM/PRBR01/002/00004/000060       D  1752  Registo de casamento: André Gomes c.c. Bárbara Josefa
+ 156801  PT/ABM/PRBR01/002/00004/000460       D  1791  Registo de casamento: Manuel Pinto c.c. Cosma Maria
+ 157201  PT/ABM/PRBR01/002/00003/000110       D  1714  Registo de casamento: António Moniz de Meneses c.c. Isabel Pestana
+ 157601  PT/ABM/PRBR01/002/00002/000131       D  1661  Registo de casamento: António Rodrigues c.c. Maria Dias
+ 158001  PT/ABM/PRBR01/002/00043/000011       D  1897  Registo de casamento n.º 11: Manuel Gonçalves Júnior c.c. Maria de Jes
+ 158401  PT/ABM/PMCH02/001/00024/000002       D  1880  Registo de batismo n.º 2: Francisco António. Pai: Manuel de Aveiro; Mã
+ 158801  PT/ABM/PMCH02/001/00053/000021       D  1909  Registo de batismo n.º 21: Manuel. Pai: João Vieira; Mãe: Maria Rosa d
+ 159201  PT/ABM/PPTS01/001/00019/000061       D  1860  Registo de batismo n.º 61: Maria. Pai: José Gonçalves Rocha; Mãe: Mari
+ 159601  PT/ABM/PPTS01/001/00022/000052       D  1863  Registo de batismo n.º 52: Agostinho. Pai: Manuel Pereira; Mãe: Maria 
+ 160001  PT/ABM/PPTS01/001/00026/000017       D  1867  Registo de batismo n.º 17: Manuel. Pai: António de Leça; Mãe: Ana da S
+ 160401  PT/ABM/PPTS01/001/00029/000047       D  1870  Registo de batismo n.º 47: Maria. Pai: António de Castro; Mãe: Antónia
+ 160801  PT/ABM/PPTS01/001/00032/000126       D  1873  Registo de batismo n.º 126: Maria. Pai: Manuel Pita; Mãe: Luísa da Sil
+ 161201  PT/ABM/PPTS01/001/00035/000098       D  1876  Registo de batismo n.º 98: Vicência. Pai: Francisco Gonçalves da Levad
+ 161601  PT/ABM/PPTS01/001/00038/000112       D  1879  Registo de batismo n.º 112: Antónia. Pai: Manuel Gonçalves Rocha; Mãe:
+ 162001  PT/ABM/PPTS01/001/00041/000087       D  1882  Registo de batismo n.º 87: José. Pai: Manuel Pereira Júnior; Mãe: Ana 
+ 162401  PT/ABM/PPTS01/001/00044/000068       D  1885  Registo de batismo n.º 68: Maria. Pai: António Fernandes; Mãe: Maria d
+ 162801  PT/ABM/PPTS01/001/00047/000094       D  1888  Registo de batismo n.º 94: Antónia. Pai: José Vieira do Salão; Mãe: An
+ 163201  PT/ABM/PPTS01/001/00050/000116       D  1891  Registo de batismo n.º 116: Agostinho. Pai: António Fernandes; Mãe: An
+ 163601  PT/ABM/PPTS01/001/00053/000154       D  1894  Registo de batismo n.º 154: Manuel. Pai: João de Andrade; Mãe: Juliana
+ 164001  PT/ABM/PPTS01/001/00056/000107       D  1897  Registo de batismo n.º 107: João. Pai: Joaquim Gonçalves Pita; Mãe: An
+ 164401  PT/ABM/PPTS01/001/00059/000138       D  1900  Registo de batismo n.º 138: João. Pai: José Rodrigues da Silva; Mãe: J
+ 164801  PT/ABM/PPTS01/001/00061/000076       D  1902  Registo de batismo n.º 76: João. Pai: João Gonçalves da Fontes; Mãe: J
+ 165201  PT/ABM/PPTS01/001/00063/000057       D  1904  Registo de batismo n.º 57: Augusto. Pai: Amaro da Silva Diogo; Mãe: Lu
+ 165601  PT/ABM/PPTS01/001/00066/000121       D  1907  Registo de batismo n.º 121: Manuel. Pai: Anastácio da Silva; Mãe: Isab
+ 166001  PT/ABM/PPTS01/001/00068/000154       D  1909  Registo de batismo n.º 154: Agostinha. Pai: Francisco da Silva Parreir
+ 166401  PT/ABM/PPTS01/002/00014/000005       D  1865  Registo de casamento n.º 5: António Vieira c.c. Maria da Silva
+ 166801  PT/ABM/PPTS01/002/00028/000026       D  1879  Registo de casamento n.º 26: António Rodrigues Bonito c.c. Maria de Le
+ 167201  PT/ABM/PPTS01/002/00008/000468       D  1841  Registo de casamento: João Gonçalves das Fontes c.c. Joaquina Vieira
+ 167601  PT/ABM/PPTS01/002/00008/000162       D  1832  Registo de casamento: José Gonçalves Teixeira c.c. Josefa da Silva
+ 168001  PT/ABM/PPTS01/002/00007/000377       D  1820  Registo de casamento: António da Silva c.c. Maria de Leça
+ 168401  PT/ABM/PPTS01/002/00006/000178       D  1802  Registo de casamento: Francisco da Silva Lobo c.c. Ana da Silva
+ 168801  PT/ABM/PPTS01/002/00005/000267       D  1770  Registo de casamento: Manuel de Abreu c.c. Maria da Silva
+ 169201  PT/ABM/PPTS01/002/00005/000667       D  1789  Registo de casamento: João Pestana c.c. Luzia Rosa
+ 169601  PT/ABM/PPTS01/002/00003/000098       D  1701  Registo de casamento: João Vieira c.c. Isabel Henriques
+ 170001  PT/ABM/PPTS01/002/00003/000498       D  1732  Registo de casamento: Gaspar da Silva c.c. Luísa Maria de Gouveia
+ 170401  PT/ABM/PPTS01/002/00002/000246       D  1683  Registo de casamento: Manuel da Silva c.c. Andresa Correia
+ 170801  PT/ABM/PPTS01/002/00048/000027       D  1899  Registo de casamento n.º 27: José Gomes Camacho c.c. Francisca Vieira
+ 171201  PT/ABM/PCLT03/001/00018/000021       D  1861  Registo de batismo n.º 21: Francisco. Pai: João de Canha; Mãe: Maria d
+ 171601  PT/ABM/PCLT03/001/00023/000001       D  1866  Registo de batismo n.º 1: Joaquina. Pai: Francisco Gonçalves Vieira; M
+ 172001  PT/ABM/PCLT03/001/00028/000061       D  1871  Registo de batismo n.º 61: Joaquina. Pai: Manuel Gonçalves Branco Júni
+ 172401  PT/ABM/PCLT03/001/00033/000028       D  1876  Registo de batismo n.º 28: Antónia. Pai: Manuel Gonçalves Neto; Mãe: L
+ 172801  PT/ABM/PCLT03/001/00037/000031       D  1880  Registo de batismo n.º 31: Maria. Pai: Manuel José Vieira; Mãe: Maria 
+ 173201  PT/ABM/PCLT03/001/00041/000073       D  1884  Registo de batismo n.º 73: Luísa. Pai: Luís Correia; Mãe: Maria Pereir
+ 173601  PT/ABM/PCLT03/001/00046/000018       D  1889  Registo de batismo n.º 18: Adelaide. Pai: Henrique Perestrelo de Franç
+ 174001  PT/ABM/PCLT03/001/00050/000077       D  1893  Registo de batismo n.º 77: Justina. Pai: Agostinho Sardinha de Ponte; 
+ 174401  PT/ABM/PCLT03/001/00053/000109       D  1896  Registo de batismo n.º 109: Guilhermina. Pai: Manuel Nunes Pereira; Mã
+ 174801  PT/ABM/PCLT03/001/00057/000033       D  1900  Registo de batismo n.º 33: Luísa. Pai: Manuel Francisco de Meneses; Mã
+ 175201  PT/ABM/PCLT03/001/00061/000118       D  1904  Registo de batismo n.º 118: Isabel. Pai: Manuel de Agrela Helena; Mãe:
+ 175601  PT/ABM/PCLT03/001/00064/000060       D  1907  Registo de batismo n.º 60: Maria. Pai: Domingos Correia Branco; Mãe: J
+ 176001  PT/ABM/PCLT03/001/00067/000109       D  1910  Registo de batismo n.º 109: António. Pai: Júlio Nunes Pereira; Mãe: Is
+ 176401  PT/ABM/PCLT03/002/00029/000005       D  1881  Registo de casamento n.º 5: Augusto de Sousa c.c. Maria de Jesus
+ 176801  PT/ABM/PCLT03/002/00007/000174       D  1834  Registo de casamento: Inácio Lopes c.c. Maria Joaquina do Sacramento
+ 177201  PT/ABM/PCLT03/002/00004/000258       D  1765  Registo de casamento: José Pereira Serrão c.c. Josefa Teixeira
+ 177601  PT/ABM/PCLT03/002/00006/000167       D  1815  Registo de casamento: Manuel Gonçalves Vieira c.c. Maria Josefa de Jes
+ 178001  PT/ABM/PCLT03/002/00005/000250       D  1798  Registo de casamento: António Teixeira c.c. Ana Maria
+ 178401  PT/ABM/PCLT03/002/00003/000056       D  1709  Registo de casamento: Domingos Rodrigues c.c. Catarina de Sena
+ 178801  PT/ABM/PCLT03/002/00003/000456       D  1738  Registo de casamento: António Rodrigues c.c. Maria da Ressurreição
+ 179201  PT/ABM/PCLT03/002/00002/000681       D  1696  Registo de casamento: André Vieira c.c. Maria Sardinha
+ 179601  PT/ABM/PCLT03/002/00002/000512       D  1681  Registo de casamento: Ambrósio Nunes c.c. Ana Francisca
+ 180001  PT/ABM/PCLT03/002/00053/000017       D  1905  Registo de casamento n.º 17: António Sardinha Duarte c.c. Maria de Jes
+ 180401  PT/ABM/PSTN02/001/00019/000036       D  1864  Registo de batismo n.º 36: Carolina. Pai: António Teixeira Rosa; Mãe: 
+ 180801  PT/ABM/PSTN02/001/00023/000088       D  1868  Registo de batismo n.º 88: Joaquina. Pai: Manuel de Freitas "Meirinho"
+ 181201  PT/ABM/PSTN02/001/00027/000109       D  1872  Registo de batismo n.º 109: António. Pai: Manuel da Silva Vieira; Mãe:
+ 181601  PT/ABM/PSTN02/001/00031/000064       D  1876  Registo de batismo n.º 64: Manuel. Pai: Manuel de Freitas; Mãe: Emília
+ 182001  PT/ABM/PSTN02/001/00035/000079       D  1880  Registo de batismo n.º 79: Ana. Pai: José de Freitas Caires; Mãe: Ana 
+ 182401  PT/ABM/PSTN02/001/00039/000048       D  1884  Registo de batismo n.º 48: Bernardina. Pai: Manuel de Freitas Candelár
+ 182801  PT/ABM/PSTN02/001/00043/000030       D  1888  Registo de batismo n.º 30: José. Pai: João de Freitas Adrião; Mãe: Mar
+ 183201  PT/ABM/PSTN02/001/00047/000054       D  1892  Registo de batismo n.º 54: Ricardo. Pai: Incógnito; Mãe: Ana Maria Fer
+ 183601  PT/ABM/PSTN02/001/00051/000002       D  1896  Registo de batismo n.º 2: Carolina. Pai: José de Freitas; Mãe: Antónia
+ 184001  PT/ABM/PSTN02/001/00055/000029       D  1900  Registo de batismo n.º 29: João. Pai: João de Freitas Caires; Mãe: Ade
+ 184401  PT/ABM/PSTN02/001/00058/000051       D  1903  Registo de batismo n.º 51: Maria. Pai: Manuel Correia; Mãe: Maria Fern
+ 184801  PT/ABM/PSTN02/001/00061/000105       D  1906  Registo de batismo n.º 105: Maria. Pai: Abel Catanho da Silva; Mãe: Ad
+ 185201  PT/ABM/PSTN02/001/00064/000088       D  1909  Registo de batismo n.º 88: António. Pai: António Ferreira Cabral; Mãe:
+ 185601  PT/ABM/PCML03/001/00018/000039       D  1861  Registo de batismo n.º 39: Maria. Pai: José Vieira; Mãe: Vicência Rosa
+ 186001  PT/ABM/PCML03/001/00021/000119       D  1864  Registo de batismo n.º 118: João. Pai: João Gomes de Abreu; Mãe: Isabe
+ 186401  PT/ABM/PCML03/001/00024/000011       D  1867  Registo de batismo n.º 11: Vitorina. Pai: João de Sousa; Mãe: Maria Pe
+ 186801  PT/ABM/PCML03/001/00027/000098       D  1870  Registo de batismo n.º 97: Victoria. Pai: Francisco José; Mãe: Carolin
+ 187201  PT/ABM/PCML03/001/00029/000146       D  1872  Registo de batismo n.º 146: Maria. Pai: Incógnito; Mãe: Juliana Rosa
+ 187601  PT/ABM/PCML03/001/00031/000040       D  1874  Registo de batismo n.º 40: António. Pai: Manuel Rodrigues; Mãe: Rosa P
+ 188001  PT/ABM/PCML03/001/00033/000072       D  1876  Registo de batismo n.º 72: João. Pai: Incógnito; Mãe: Francisca de Orn
+ 188401  PT/ABM/PCML03/001/00035/000138       D  1878  Registo de batismo n.º 138: Augusta. Pai: Manuel Figueira Júnior; Mãe:
+ 188801  PT/ABM/PCML03/001/00038/000010       D  1881  Registo de batismo n.º 10: António. Pai: António João; Mãe: Rosenda Pe
+ 189201  PT/ABM/PCML03/001/00040/000152       D  1883  Registo de batismo n.º 152: Antónia. Pai: Victorino Francisco de Abreu
+ 189601  PT/ABM/PCML03/001/00043/000023       D  1886  Registo de batismo n.º 23: Antónia. Pai: Francisco Vicente de Jesus; M
+ 190001  PT/ABM/PCML03/001/00045/000123       D  1888  Registo de batismo n.º 123: João. Pai: João de Andrade Júnior; Mãe: Ca
+ 190401  PT/ABM/PCML03/001/00048/000153       D  1891  Registo de batismo n.º 153: Manuel. Pai: Alfredo Figueira da Silva; Mã
+ 190801  PT/ABM/PCML03/001/00051/000129       D  1894  Registo de batismo n.º 129: João. Pai: Lourenço de Jesus; Mãe: Luísa d
+ 191201  PT/ABM/PCML03/001/00053/000048       D  1896  Registo de batismo n.º 48: Macário. Pai: Incógnito; Mãe: Ana Ferreira
+ 191601  PT/ABM/PCML03/001/00055/000028       D  1898  Registo de batismo n.º 28: Carlos. Pai: Sérgio Gomes; Mãe: Maria José
+ 192001  PT/ABM/PCML03/001/00057/000079       D  1900  Registo de batismo n.º 79: João. Pai: José da Costa; Mãe: Luísa de Jes
+ 192401  PT/ABM/PCML03/001/00059/000081       D  1902  Registo de batismo n.º 81: Manuel. Pai: Joaquim de Barros; Mãe: Jacint
+ 192801  PT/ABM/PCML03/001/00060/000062       D  1903  Registo de batismo n.º 62: Manuel. Pai: Joaquim Fernandes; Mãe: Maria 
+ 193201  PT/ABM/PCML03/001/00062/000024       D  1905  Registo de batismo n.º 24: Firmina. Pai: António Pestana Medeiros; Mãe
+ 193601  PT/ABM/PCML03/001/00064/000228       D  1907  Registo de batismo n.º 228: Cecília. Pai: Francisco Gomes Figueira; Mã
+ 194001  PT/ABM/PCML03/001/00065/000150       D  1908  Registo de batismo n.º 150: Luís. Pai: Manuel da Costa Júnior; Mãe: Ad
+ 194401  PT/ABM/PCML03/001/00067/000152       D  1910  Registo de batismo n.º 152: António. Pai: Jacinto Gomes Serrão; Mãe: V
+ 194801  PT/ABM/PCML03/002/00017/000035       D  1867  Registo de casamento n.º 35: José Gomes c.c. Júlia de Jesus
+ 195201  PT/ABM/PCML03/002/00027/000040       D  1877  Registo de casamento n.º 40: Boaventura da Câmara c.c. Maria da Silva
+ 195601  PT/ABM/PCML03/002/00040/000017       D  1890  Registo de casamento n.º 17: Francisco de Azevedo c.c. Carolina August
+ 196001  PT/ABM/PCML03/002/00009/000248       D  1838  Registo de casamento: António Gomes Figueira c.c. Maria da Luz do Espí
+ 196401  PT/ABM/PCML03/002/00009/000648       D  1854  Registo de casamento: António Joaquim de Abreu c.c. Maria Carlota
+ 196801  PT/ABM/PCML03/002/00007/000245       D  1815  Registo de casamento: Gregório Rodrigues c.c. Antónia de Jesus
+ 197201  PT/ABM/PCML03/002/00006/000159       D  1779  Registo de casamento: João de Abreu c.c. Ana Maria da Ressurreição
+ 197601  PT/ABM/PCML03/002/00006/000559       D  1799  Registo de casamento: António Gomes c.c. Francisca da Rosa
+ 198001  PT/ABM/PCML03/002/00005/000234       D  1751  Registo de casamento: Manuel de Freitas c.c. Maria de Jesus
+ 198401  PT/ABM/PCML03/002/00004/000156       D  1709  Registo de casamento: Manuel de Castro c.c. Antónia de Jesus
+ 198801  PT/ABM/PCML03/002/00008/000182       D  1827  Registo de casamento: Francisco Gomes c.c. Sebastiana Rosa
+ 199201  PT/ABM/PCML03/002/00001/000048       D  1580  Registo de casamento: Francisco Fernandes c.c. Madalena Dias
+ 199601  PT/ABM/PCML03/002/00053/000005       D  1903  Registo de casamento: Manuel António de Barros c.c. Victória Augusta d
+ 200001  —
+ 200401  PT/ABM/PMCH03/001/00028/000083       D  1862  Registo de batismo n.º 416: Joaquim. Pai: Francisco Ferreira de Vares;
+ 200801  PT/ABM/PMCH03/001/00030/000046       D  1864  Registo de batismo n.º 46: Manuel. Pai: José Ferreira; Mãe: Joaquina d
+ 201201  PT/ABM/PMCH03/001/00032/000155       D  1866  Registo de batismo n.º 155: Maria. Pai: Manuel de Gouveia; Mãe: Teresa
+ 201601  PT/ABM/PMCH03/001/00035/000052       D  1869  Registo de batismo n.º 52: António. Pai: Manuel Pestana; Mãe: Ludovina
+ 202001  PT/ABM/PMCH03/001/00037/000142       D  1871  Registo de batismo n.º 142: Manuel. Pai: João de Castro; Mãe: Maria de
+ 202401  PT/ABM/PMCH03/001/00039/000154       D  1873  Registo de batismo n.º 154: José. Pai: João Rodrigues de Oliveira; Mãe
+ 202801  PT/ABM/PMCH03/001/00041/000152       D  1875  Registo de batismo n.º 152: António. Pai: João Venâncio de Ornelas Per
+ 203201  PT/ABM/PMCH03/001/00044/000020       D  1878  Registo de batismo n.º 20: João. Pai: Manuel de Gouveia; Mãe: Francisc
+ 203601  PT/ABM/PMCH03/001/00046/000184       D  1880  Registo de batismo n.º 184: Augusta. Pai: Manuel de Freitas de Meneses
+ 204001  PT/ABM/PMCH03/001/00048/000114       D  1882  Registo de batismo n.º 114: Jaime. Pai: Incógnito; Mãe: Guilhermina Am
+ 204401  PT/ABM/PMCH03/001/00050/000113       D  1884  Registo de batismo n.º 113: Manuel. Pai: Manuel Nunes; Mãe: Maria de J
+ 204801  PT/ABM/PMCH03/001/00052/000139       D  1886  Registo de batismo n.º 139: Virgínia. Pai: Manuel Ribeiro; Mãe: Maria 
+ 205201  PT/ABM/PMCH03/001/00054/000038       D  1888  Registo de batismo n.º 38: Maria. Pai: Pedro do Rosário; Mãe: Carlota 
+ 205601  PT/ABM/PMCH03/001/00056/000126       D  1890  Registo de batismo n.º 126: Eugénia. Pai: Manuel Pestana; Mãe: Jacinta
+ 206001  PT/ABM/PMCH03/001/00059/000067       D  1893  Registo de batismo n.º 67: Gabriel. Pai: Manuel de Olim Marote; Mãe: S
+ 206401  PT/ABM/PMCH03/001/00060/000108       D  1894  Registo de batismo n.º 108: Maria. Pai: Justino Ribeiro; Mãe: Maria Ro
+ 206801  PT/ABM/PMCH03/001/00062/000063       D  1896  Registo de batismo n.º 63: Augusta. Pai: Francisco de Mendonça; Mãe: H
+ 207201  PT/ABM/PMCH03/001/00064/000106       D  1898  Registo de batismo n.º 106: António. Pai: José Teixeira de Freitas; Mã
+ 207601  PT/ABM/PMCH03/001/00065/000173       D  1899  Registo de batismo n.º 173: Luís. Pai: Luís Rodrigues; Mãe: Maria de J
+ 208001  PT/ABM/PMCH03/001/00067/000185       D  1901  Registo de batismo n.º 185: Arsénia. Pai: José da Costa; Mãe: Maria de
+ 208401  PT/ABM/PMCH03/001/00068/000107       D  1902  Registo de batismo n.º 107: Cristina. Pai: Joaquim de Abreu; Mãe: Virg
+ 208801  PT/ABM/PMCH03/001/00070/000015       D  1904  Registo de batismo n.º 15: Alberto. Pai: José Evaristo Vieira de Freit
+ 209201  PT/ABM/PMCH03/001/00071/000128       D  1905  Registo de batismo n.º 128: Maria. Pai: Manuel Vieira Branco; Mãe: Amé
+ 209601  PT/ABM/PMCH03/001/00072/000227       D  1906  Registo de batismo n.º 227: Adelaide. Pai: José de Abreu; Mãe: Maria R
+ 210001  PT/ABM/PMCH03/001/00074/000127       D  1908  Registo de batismo n.º 127: Manuel. Pai: António do Nascimento; Mãe: V
+ 210401  PT/ABM/PMCH03/001/00075/000285       D  1909  Registo de batismo n.º 285: Isabel. Pai: José Alves; Mãe: Virgínia de 
+ 210801  PT/ABM/PMCH03/001/00076/000272       D  1910  Registo de batismo n.º 272: António. Pai: Joaquim Nunes de Viveiros; M
+ 211201  PT/ABM/PMCH03/002/00009/000261       D  1814  Registo de casamento: José Rodrigues c.c. Filipa da Silva
+ 211601  PT/ABM/PMCH03/002/00010/000005       D  1829  Registo de casamento: Manuel de Gouveia c.c. Basília da Silva
+ 212001  PT/ABM/PMCH03/002/00010/000409       D  1841  Registo de casamento: Albino Lomelino da Câmara c.c. Rufina Amélia Fer
+ 212401  PT/ABM/PMCH03/002/00011/000333       D  1857  Registo de casamento: Miguel Alves c.c. Leonor Joaquina
+ 212801  PT/ABM/PMCH03/002/00008/000293       D  1802  Registo de casamento: José Álvares c.c. Eduarda Maria
+ 213201  PT/ABM/PMCH03/002/00007/000306       D  1779  Registo de casamento: João da Silva c.c. Ana Maria de Jesus
+ 213601  PT/ABM/PMCH03/002/00006/000070       D  1749  Registo de casamento: Domingos da Silva Moniz c.c. Maria do Rosário e 
+ 214001  PT/ABM/PMCH03/002/00004/000025       D  1710  Registo de casamento: Jerónimo Dias Barreto c.c. Maria de Sousa da Cos
+ 214401  PT/ABM/PMCH03/002/00005/000148       D  1735  Registo de casamento: Manuel Farinha c.c. Helena da Silva
+ 214801  PT/ABM/PMCH03/002/00003/000165       D  1694  Registo de casamento: Manuel de Mendonça c.c. Isabel Calaça
+ 215201  PT/ABM/PMCH03/002/00002/000202       D  1667  Registo de casamento: Manuel de Vasconcelos c.c. Maria Boria da Silva
+ 215601  PT/ABM/PMCH03/002/00039/000004       D  1887  Registo de casamento: Francisco Franco c.c. Maria de Jesus
+ 216001  PT/ABM/PMCH03/002/00023/000029       D  1871  Registo de casamento: António Pedro da Costa c.c. Leocádia Adelina do 
+ 216401  PT/ABM/PMCH03/002/00036/000021       D  1884  Registo de casamento: João Fernandes c.c. Violante de Jesus
+ 216801  PT/ABM/PMCH03/002/00046/000013       D  1894  Registo de casamento: João Maria de Jesus c.c. Isabel Maria de Jesus
+ 217201  PT/ABM/PMCH03/002/00054/000004       D  1902  Registo de casamento: António Vieira c.c. Virgínia Rosa
+ 217601  PT/ABM/PMCH03/002/00062/000024       D  1910  Registo de casamento: José Franco c.c. Augusta de Meneses
+ 218001  PT/ABM/PSCR02/002/00005/000152       D  1853  Registo de casamento: José de Gouveia c.c. Antónia de Caires
+ 218401  PT/ABM/PCLT04/001/00017/000070       D  1862  Registo de batismo n.º 70: Isabel. Pai: Nicolau Pereira de Couto; Mãe:
+ 218801  PT/ABM/PCLT04/001/00022/000049       D  1867  Registo de batismo n.º 49: Juliana. Pai: Incógnito; Mãe: Antónia Rodri
+ 219201  PT/ABM/PCLT04/001/00027/000049       D  1872  Registo de batismo n.º 49: Manuel. Pai: Manuel Sardinha Meirinho Júnio
+ 219601  PT/ABM/PCLT04/001/00032/000026       D  1877  Registo de batismo n.º 26: Maria. Pai: João Ferreira da Silva; Mãe: La
+ 220001  PT/ABM/PCLT04/001/00036/000063       D  1881  Registo de batismo n.º 63: Maria. Pai: Manuel Gomes Rodrigues; Mãe: Pa
+ 220401  PT/ABM/PCLT04/001/00041/000044       D  1886  Registo de batismo n.º 44: Antónia. Pai: António do Nascimento; Mãe: M
+ 220801  PT/ABM/PCLT04/001/00045/000060       D  1890  Registo de batismo n.º 60: António. Pai: Manuel Fernandes Bento; Mãe: 
+ 221201  PT/ABM/PCLT04/001/00050/000030       D  1895  Registo de batismo n.º 30: João. Pai: Manuel Gonçalves da Costa; Mãe: 
+ 221601  PT/ABM/PCLT04/001/00055/000012       D  1900  Registo de batismo n.º 12: Georgina. Pai: Manuel Alves; Mãe: Rosa de J
+ 222001  PT/ABM/PCLT04/001/00060/000068       D  1905  Registo de batismo n.º 68: Eugénio. Pai: Domingos Gonçalves Agostinho;
+ 222401  PT/ABM/PCLT04/001/00065/000034       D  1910  Registo de batismo n.º 34: Isabel. Pai: António Fernandes Capitão; Mãe
+ 222801  PT/ABM/PCLT04/002/00026/000012       D  1878  Registo de casamento: João Gonçalves Baeta c.c. Maria de Sousa
+ 223201  PT/ABM/PCLT04/002/00007/000101       D  1837  Registo de casamento: João Gonçalves Reis c.c. Isabel Correia
+ 223601  PT/ABM/PCLT04/002/00005/000116       D  1776  Registo de casamento: Manuel Gomes c.c. Isabel Rodrigues
+ 224001  PT/ABM/PCLT04/002/00006/000183       D  1828  Registo de casamento: Domingos Ferreira da Silva c.c. Antónia Correia 
+ 224401  PT/ABM/PCLT04/002/00005/000617       D  1814  Registo de casamento: António Gomes Rebelo c.c. Isabel Correia
+ 224801  PT/ABM/PCLT04/002/00004/000346       D  1762  Registo de casamento: João de Agrela c.c. Antónia Gomes
+ 225201  PT/ABM/PCLT04/002/00001/000015       D  1579  Registo de casamento: Estêvão Rodrigues c.c. Isabel Fernandes
+ 225601  PT/ABM/PCLT04/002/00003/000293       D  1713  Registo de casamento: João Rodrigues c.c. Maria Correia
+ 226001  PT/ABM/PCLT04/002/00058/000002       D  1910  Registo de casamento: José Rodrigues Bairos c.c. Rosa de Jesus
+ 226401  PT/ABM/PCLT05/001/00032/000006       D  1890  Registo de batismo n.º 6: Manuel. Pai: Manuel Rodrigues de França; Mãe
+ 226801  PT/ABM/PCLT05/002/00033/000002       D  1891  Registo de casamento: José Pereira da Silva c.c. Ana de Jesus Gomes
+ 227201  PT/ABM/PPTS02/001/00019/000009       D  1869  Registo de batismo n.º 9: Joana. Pai: Francisco Rodrigues Beltrão; Mãe
+ 227601  PT/ABM/PPTS02/001/00029/000012       D  1879  Registo de batismo n.º 12: Alexandre. Pai: Francisco Fernandes de Leça
+ 228001  PT/ABM/PPTS02/001/00038/000023       D  1888  Registo de batismo n.º 23: Eugénia. Pai: Manuel Nunes de Barros; Mãe: 
+ 228401  PT/ABM/PPTS02/001/00049/000027       D  1899  Registo de batismo n.º 27: Carolina. Pai: Incógnito; Mãe: Úrsula Maria
+ 228801  PT/ABM/PPTS02/001/00057/000007       D  1907  Registo de batismo n.º 7: José. Pai: José de Aguiar; Mãe: Rosa do Carm
+ 229201  PT/ABM/PPTS02/002/00025/000003       D  1878  Registo de casamento: João Rodrigues Terra Boa c.c. Rosa do Nascimento
+ 229601  PT/ABM/PPTS02/002/00005/000025       D  1773  Registo de casamento: António de Leça c.c. Hilária Maria
+ 230001  PT/ABM/PPTS02/002/00004/000176       D  1756  Registo de casamento: João da Silva "o Fole" c.c. Maria Correia
+ 230401  PT/ABM/PSCR04/001/00018/000038       D  1861  Registo de batismo n.º 38: Manuel. Pai: Manuel Teixeira da Paixão; Mãe
+ 230801  PT/ABM/PSCR04/001/00025/000039       D  1868  Registo de batismo n.º 39: Francisco. Pai: José de Andrade; Mãe: Luzia
+ 231201  PT/ABM/PSCR04/001/00031/000039       D  1874  Registo de batismo n.º 39: Manuel. Pai: José Vieira de Gouveia; Mãe: R
+ 231601  PT/ABM/PSCR04/001/00036/000008       D  1879  Registo de batismo n.º 8: Nicolau. Pai: António de Freitas, «Bibi»; Mã
+ 232001  PT/ABM/PSCR04/001/00041/000012       D  1884  Registo de batismo n.º 12: José. Pai: João da Mata; Mãe: Carlota de Go
+ 232401  PT/ABM/PSCR04/001/00045/000080       D  1888  Registo de batismo n.º 80: Rosalina. Pai: António Gonsalves Neto; Mãe:
+ 232801  PT/ABM/PSCR04/001/00050/000058       D  1893  Registo de batismo n.º 58: Isabel. Pai: António Teixeira de Vasconcelo
+ 233201  PT/ABM/PSCR04/001/00054/000006       D  1897  Registo de batismo n.º 6: Maria. Pai: João de Freitas; Mãe: Cristina d
+ 233601  PT/ABM/PSCR04/001/00057/000086       D  1900  Registo de batismo n.º 86: José. Pai: José da Cunha; Mãe: Maria Nunes
+ 234001  PT/ABM/PSCR04/001/00060/000002       D  1903  Registo de batismo n.º 2: Maria. Pai: Pedro Correia; Mãe: Justina Rosa
+ 234401  PT/ABM/PSCR04/001/00063/000121       D  1906  Registo de batismo n.º 121: Adelaide. Pai: João Joaquim de Freitas; Mã
+ 234801  PT/ABM/PSCR04/001/00066/000045       D  1909  Registo de batismo n.º 45: Elisa. Pai: Martinho da Mata; Mãe: Maria de
+ 235201  PT/ABM/PSCR04/002/00009/000128       D  1837  Registo de casamento: José Gomes c.c. Rosa Vieira
+ 235601  PT/ABM/PSCR04/002/00008/000264       D  1817  Registo de casamento: João Martins c.c. Quitéria Rosa
+ 236001  PT/ABM/PSCR04/002/00006/000039       D  1719  Registo de casamento: Manuel de Nóbrega c.c. Maria de Freitas de Mendo
+ 236401  PT/ABM/PSCR04/002/00004/000088       D  1666  Registo de casamento: Inácio de Freitas c.c. Jerónima da Mata
+ 236801  PT/ABM/PSCR04/002/00022/000004       D  1871  Registo de casamento: Bernardino Rodrigues c.c. Emiliana da Encarnação
+ 237201  PT/ABM/PSCR04/002/00046/000018       D  1895  Registo de casamento: Manuel Vieira Talasca c.c. Maria da Mata
+ 237601  —
+ 238001  PT/ABM/PSVC02/002/00046/000017       D  1890  Registo de casamento: José Fernandes c.c. Arsénia Anastácia de Jesus
+ 238401  PT/ABM/PSVC02/002/00005/000054       D  1694  Registo de casamento: Domingos Mendes c.c. Isabel Rodrigues
+ 238801  PT/ABM/PSVC02/002/00005/000451       D  1672  Registo de casamento: Pedro Pestana c.c. Isabel Gomes
+ 239201  PT/ABM/PSVC02/002/00009/000299       D  1741  Registo de casamento: António Caldeira c.c. Ana Gomes
+ 239601  PT/ABM/PSVC02/002/00012/000298       D  1800  Registo de casamento: Luís António Gomes de Andrade c.c. Josefa Maria 
+ 240001  PT/ABM/PSVC02/002/00011/000483       D  1773  Registo de casamento: Manuel Carvalho c.c. Maria Rosa
+ 240401  PT/ABM/PSVC02/002/00015/000197       D  1838  Registo de casamento: Manuel de Jesus c.c. Maria de Jesus
+ 240801  PT/ABM/PSVC02/002/00013/000213       D  1809  Registo de casamento: Manuel Marques de Andrade c.c. Maria Francisca
+ 241201  PT/ABM/PSVC02/002/00014/000152       D  1823  Registo de casamento: António de França Ribeiro c.c. Joana Pestana Qui
+ 241601  PT/ABM/PSVC02/002/00060/000005       D  1904  Registo de casamento: António Fernandes de Andrade c.c. Maria Isabel d
+ 242001  PT/ABM/PSVC02/001/00032/000005       D  1867  Registo de batismo n.º 5: António. Pai: Incógnito; Mãe: Maria Francisc
+ 242401  PT/ABM/PSVC02/001/00040/000010       D  1875  Registo de batismo n.º 10: Antónia. Pai: José Fernandes Teixeira; Mãe:
+ 242801  PT/ABM/PSVC02/001/00047/000058       D  1882  Registo de batismo n.º 58: Maria. Pai: José Joaquim Fernando; Mãe: Luí
+ 243201  PT/ABM/PSVC02/001/00056/000042       D  1891  Registo de batismo n.º 42: António. Pai: José Justiniano Ferraz; Mãe: 
+ 243601  PT/ABM/PSVC02/001/00064/000062       D  1899  Registo de batismo n.º 62: Teodora. Pai: António Francisco Júnior; Mãe
+ 244001  PT/ABM/PSVC02/001/00071/000043       D  1906  Registo de batismo n.º 43: Rosa. Pai: José Rodrigues Júnior; Mãe: Mari
+ 244401  PT/ABM/PCLT06/001/00011/000040       D  1863  Registo de batismo n.º 40: Manuel. Pai: Manuel de Jesus Júnior; Mãe: M
+ 244801  PT/ABM/PCLT06/001/00020/000020       D  1872  Registo de batismo n.º 20: João. Pai: Lino Gonçalves; Mãe: Gerarda Ros
+ 245201  PT/ABM/PCLT06/001/00029/000003       D  1881  Registo de batismo n.º 3: Maria. Pai: João Gonçalves; Mãe: Arsénia Amá
+ 245601  PT/ABM/PCLT06/001/00037/000044       D  1889  Registo de batismo n.º 44: Tomás. Pai: António Rodrigues; Mãe: Lizarda
+ 246001  PT/ABM/PCLT06/001/00045/000001       D  1897  Registo de batismo n.º 1: Maria. Pai: Luís Albuquerque de França; Mãe:
+ 246401  PT/ABM/PCLT06/001/00051/000027       D  1903  Registo de batismo n.º 27: Norberto. Pai: Felisberto Ferreira; Mãe: Ma
+ 246801  PT/ABM/PCLT06/001/00057/000050       D  1909  Registo de batismo n.º 50: Maria. Pai: Manuel de Andrade; Mãe: Júlia C
+ 247201  PT/ABM/PCLT06/002/00005/000013       D  1855  Registo de casamento: Francisco Nunes c.c. Antónia de Jesus do Nascime
+ 247601  PT/ABM/PCLT06/002/00001/000304       D  1769  Registo de casamento: Sebastião Gonçalves c.c. Ana Rosa
+ 248001  PT/ABM/PCLT06/002/00050/000011       D  1904  Registo de casamento: António da Silva c.c. Maria José da Silva
+ 248401  PT/ABM/PFUN02/001/00020/000010       D  1864  Registo de batismo n.º 10: Maria. Pai: Francisco Figueira da Silva; Mã
+ 248801  PT/ABM/PFUN02/001/00024/000061       D  1868  Registo de batismo n.º 61: Clara. Pai: Paulino Rodrigues; Mãe: Januári
+ 249201  PT/ABM/PFUN02/001/00029/000002       D  1873  Registo de batismo n.º 2: Augusta. Pai: Francisco de Mendonça; Mãe: An
+ 249601  PT/ABM/PFUN02/001/00032/000093       D  1876  Registo de batismo n.º 93: Sofia. Pai: Maurício Pereira; Mãe: Joaquina
+ 250001  PT/ABM/PFUN02/001/00036/000033       D  1880  Registo de batismo n.º 33: Manuel. Pai: Manuel Vieira Martins; Mãe: Ma
+ 250401  PT/ABM/PFUN02/001/00041/000073       D  1885  Registo de batismo n.º 73: Manuel. Pai: José João de Freitas; Mãe: Mar
+ 250801  PT/ABM/PFUN02/001/00044/000004       D  1888  Registo de batismo n.º 4: José. Pai: Manuel de Mendonça; Mãe: Virgínia
+ 251201  PT/ABM/PFUN02/001/00048/000029       D  1892  Registo de batismo n.º 29: Luzia. Pai: João José dos Passos; Mãe: Mari
+ 251601  PT/ABM/PFUN02/001/00051/000117       D  1895  Registo de batismo n.º 117: Alfredo. Pai: António Marques Caldeira; Mã
+ 252001  PT/ABM/PFUN02/001/00055/000022       D  1899  Registo de batismo n.º 22: Ramiro. Pai: João de Freitas; Mãe: Luzia de
+ 252401  PT/ABM/PFUN02/001/00058/000108       D  1902  Registo de batismo n.º 108: Maria. Pai: João Gomes Fernandes Júnior; M
+ 252801  PT/ABM/PFUN02/001/00061/000022       D  1905  Registo de batismo n.º 22: Gabriel. Pai: Joaquim Saldanha; Mãe: August
+ 253201  PT/ABM/PFUN02/001/00063/000097       D  1907  Registo de batismo n.º 97: Amadeu. Pai: António de Freitas; Mãe: Maria
+ 253601  PT/ABM/PFUN02/001/00066/000067       D  1910  Registo de batismo n.º 67: Maria. Pai: Manuel Vieira Martins; Mãe: Mat
+ 254001  PT/ABM/PFUN02/002/00006/000202       D  1841  Registo de casamento: Manuel dos Ramos c.c. Apolónia de Freitas
+ 254401  PT/ABM/PFUN02/002/00004/000157       D  1820  Registo de casamento: António Gomes c.c. Teresa de Jesus
+ 254801  PT/ABM/PFUN02/002/00003/000153       D  1805  Registo de casamento: Luís Gomes c.c. Inácia Joaquina
+ 255201  PT/ABM/PFUN02/002/00002/000294       D  1761  Registo de casamento: Manuel José c.c. Maria do Rosário
+ 255601  PT/ABM/PFUN02/002/00001/000060       D  1686  Registo de casamento: Domingos de Oliveira c.c. Domingas dos Santos
+ 256001  PT/ABM/PFUN02/002/00019/000016       D  1871  Registo de casamento: Manuel Gomes de Melim c.c. Joaquina Gomes
+ 256401  PT/ABM/PFUN02/002/00038/000004       D  1890  Registo de casamento: José Fernandes c.c. Maria de Jesus
+ 256801  PT/ABM/PFUN02/002/00054/000009       D  1906  Registo de casamento: Manuel Cristóvão Fernandes c.c. Maria Bela Gonça
+ 257201  PT/ABM/PCLT07/001/00016/000036       D  1863  Registo de batismo n.º 36: Manuel. Pai: Incógnito; Mãe: Maria de Sousa
+ 257601  PT/ABM/PCLT07/001/00020/000018       D  1867  Registo de batismo n.º 18: Júlia. Pai: Francisco Lopes; Mãe: Antónia M
+ 258001  PT/ABM/PCLT07/001/00025/000081       D  1872  Registo de batismo n.º 81: Felisberto. Pai: Manuel Gonçalves Duarte; M
+ 258401  PT/ABM/PCLT07/001/00031/000065       D  1878  Registo de batismo n.º 65: Manuel. Pai: Agostinho de Agrela; Mãe: Antó
+ 258801  PT/ABM/PCLT07/001/00036/000001       D  1883  Registo de batismo n.º 1: Maria. Pai: Agostinho Rodrigues Lourenço; Mã
+ 259201  PT/ABM/PCLT07/001/00040/000034       D  1887  Registo de batismo n.º 34: Eugénio. Pai: Francisco Gonçalves Julião; M
+ 259601  PT/ABM/PCLT07/001/00045/000079       D  1892  Registo de batismo n.º 79: Manuel. Pai: Manuel Luís de Gouveia; Mãe: R
+ 260001  PT/ABM/PCLT07/001/00050/000067       D  1897  Registo de batismo n.º 67: Antónia. Pai: Manuel Augusto Fernandes; Mãe
+ 260401  PT/ABM/PCLT07/001/00054/000078       D  1901  Registo de batismo n.º 78: António. Pai: Guilhermino de Gouveia; Mãe: 
+ 260801  PT/ABM/PCLT07/001/00059/000010       D  1906  Registo de batismo n.º 10: Manuel. Pai: Pedro Lopes Caldeira; Mãe: Ant
+ 261201  PT/ABM/PCLT07/001/00063/000027       D  1910  Registo de batismo n.º 27: Maria. Pai: António Gonçalves de Gouveia; M
+ 261601  PT/ABM/PCLT07/002/00025/000012       D  1879  Registo de casamento: Francisco Afonso c.c. Luísa Mendes
+ 262001  PT/ABM/PCLT07/002/00005/000270       D  1849  Registo de casamento: António Dias c.c. Maria de Jesus
+ 262401  PT/ABM/PCLT07/002/00004/000037       D  1804  Registo de casamento: Nicolau Gonçalves c.c. Andresa Rodrigues
+ 262801  PT/ABM/PCLT07/002/00004/000437       D  1830  Registo de casamento: José Gonçalves de Azevedo c.c. Josefa de Gouveia
+ 263201  PT/ABM/PCLT07/002/00003/000363       D  1802  Registo de casamento: Manuel Fernandes Pombo c.c. Rosa Maria
+ 263601  PT/ABM/PCLT07/002/00001/000111       D  1676  Registo de casamento: Pedro Afonso Geraldes c.c. Madalena Francisca
+ 264001  PT/ABM/PCLT07/002/00040/000008       D  1894  Registo de casamento: Manuel de Gouveia c.c. Júlia Jardim de Gouveia
+ 264401  PT/ABM/PMCH04/001/00019/000007       D  1860  Registo de batismo n.º 7: Manuel. Pai: José de Freitas da Silva; Mãe: 
+ 264801  PT/ABM/PMCH04/001/00023/000054       D  1864  Registo de batismo n.º 54: Lucrecia. Pai: Teodoro Augusto de Freitas; 
+ 265201  PT/ABM/PMCH04/001/00026/000025       D  1867  Registo de batismo n.º 25: António. Pai: Firminio Dias; Mãe: Francisca
+ 265601  PT/ABM/PMCH04/001/00030/000051       D  1871  Registo de batismo n.º 51: Maria. Pai: João Vieira Barcelos Júnior; Mã
+ 266001  PT/ABM/PMCH04/001/00033/000100       D  1874  Registo de batismo n.º 100: Maria. Pai: José de Freitas Silva; Mãe: Ma
+ 266401  PT/ABM/PMCH04/001/00036/000073       D  1877  Registo de batismo n.º 73: José. Pai: José Justiniano Spínola; Mãe: Ca
+ 266801  PT/ABM/PMCH04/001/00040/000106       D  1881  Registo de batismo n.º 106: Maria. Pai: José Teixeira da Trindade; Mãe
+ 267201  PT/ABM/PMCH04/001/00043/000026       D  1884  Registo de batismo n.º 26: João. Pai: Paulo de Freitas Silva; Mãe: Mar
+ 267601  PT/ABM/PMCH04/001/00046/000105       D  1887  Registo de batismo n.º 105: Maria. Pai: António de Abreu; Mãe: Emília 
+ 268001  PT/ABM/PMCH04/001/00049/000113       D  1890  Registo de batismo n.º 113: Eugénio. Pai: João Martins; Mãe: Luzia Aug
+ 268401  PT/ABM/PMCH04/001/00018/000012       D  1859  Registo de batismo: Maria. Pai: José de Nóbrega Júnior; Mãe: Augusta M
+ 268801  PT/ABM/PMCH04/001/00055/000003       D  1896  Registo de batismo n.º 3: Virgínia. Pai: João Joaquim de Freitas; Mãe:
+ 269201  PT/ABM/PMCH04/001/00058/000075       D  1899  Registo de batismo n.º 75: António. Pai: José de Abreu; Mãe: Maria Car
+ 269601  PT/ABM/PMCH04/001/00061/000144       D  1902  Registo de batismo n.º 144: António. Pai: João Marcelino da Costa; Mãe
+ 270001  PT/ABM/PMCH04/001/00063/000089       D  1904  Registo de batismo n.º 89: Manuel. Pai: António Rodrigues Teixeira; Mã
+ 270401  PT/ABM/PMCH04/001/00066/000069       D  1907  Registo de batismo n.º 69: Maria. Pai: João Marques Gonçalves; Mãe: Fr
+ 270801  PT/ABM/PMCH04/001/00068/000042       D  1909  Registo de batismo n.º 42: António. Pai: Francisco Pedro de Gouveia; M
+ 271201  PT/ABM/PMCH04/002/00007/000091       D  1852  Registo de casamento: Anacleto Gomes c.c. Luzia Joaquina
+ 271601  PT/ABM/PMCH04/002/00006/000273       D  1831  Registo de casamento: Joaquim Teixeira c.c. Joana Rosa Guilhermina
+ 272001  PT/ABM/PMCH04/002/00005/000014       D  1807  Registo de casamento: João Correia da Silva c.c. Francisca Ludovina de
+ 272401  PT/ABM/PMCH04/002/00004/000092       D  1790  Registo de casamento: José de Freitas Gomes c.c. Felícia Maria
+ 272801  PT/ABM/PMCH04/002/00003/000050       D  1755  Registo de casamento: José de Atouguia c.c. Maria Marques
+ 273201  PT/ABM/PMCH04/002/00003/000445       D  1784  Registo de casamento: António de Freitas Correia c.c. Antónia Maria de
+ 273601  PT/ABM/PMCH04/002/00002/000372       D  1738  Registo de casamento: João Ferreira Drumond Henriques, Capitão c.c. Ma
+ 274001  PT/ABM/PMCH04/002/00001/000267       D  1664  Registo de casamento: Pedro Baptista Spínola c.c. Paula, D.
+ 274401  PT/ABM/PMCH04/002/00018/000023       D  1870  Registo de casamento: João António de Abreu c.c. Maria Augusta de Gouv
+ 274801  PT/ABM/PMCH04/002/00034/000033       D  1886  Registo de casamento: João Rebelo c.c. Maria Augusta da Encarnação
+ 275201  PT/ABM/PMCH04/002/00047/000035       D  1899  Registo de casamento: João Gomes Teixeira c.c. Maria da Paixão
+ 275601  PT/ABM/PPMZ02/002/00009/000007       D  1860  Registo de casamento: Francisco Ferreira Ferro c.c. Antónia de Sousa
+ 276001  PT/ABM/PPMZ02/002/00036/000007       D  1887  Registo de casamento: António Rodrigues Lambaz c.c. Luísa de Ponte
+ 276401  PT/ABM/PPMZ02/002/00007/000214       D  1843  Registo de casamento: Manuel de França da Câmara c.c. Inácia de Jesus
+ 276801  PT/ABM/PPMZ02/002/00006/000270       D  1825  Registo de casamento: António Fernandes de Lima c.c. Inácia Rodrigues
+ 277201  PT/ABM/PPMZ02/002/00005/000278       D  1788  Registo de casamento: Manuel dos Ramos c.c. Ana Quitéria de Sousa
+ 277601  PT/ABM/PPMZ02/002/00004/000033       D  1728  Registo de casamento: Francisco Duarte c.c. Maria Rodrigues
+ 278001  PT/ABM/PPMZ02/002/00004/000434       D  1766  Registo de casamento: Miguel Sardinha c.c. Maria Fernandes
+ 278401  PT/ABM/PPMZ02/002/00002/000313       D  1709  Registo de casamento: José Gomes c.c. Maria de Sá
+ 278801  PT/ABM/PPMZ02/001/00018/000046       D  1861  Registo de batismo n.º 46: Justina. Pai: Francisco Alves dos Santos; M
+ 279201  PT/ABM/PPMZ02/001/00023/000036       D  1866  Registo de batismo n.º 36: Maria. Pai: Incógnito; Mãe: Maria da Concei
+ 279601  PT/ABM/JAS/N-B/003/000006            D        Carro de bois em local não identificado
+ 280001  PT/ABM/PPMZ02/001/00031/000064       D  1874  Registo de batismo n.º 64: Francisca. Pai: João de Lima; Mãe: Francisc
+ 280401  PT/ABM/PPMZ02/001/00036/000045       D  1879  Registo de batismo n.º 45: Francisca. Pai: António Rodrigues Rocha; Mã
+ 280801  PT/ABM/PPMZ02/001/00040/000067       D  1883  Registo de batismo n.º 67: Maria. Pai: António Gonçakves da Costa; Mãe
+ 281201  PT/ABM/PPMZ02/001/00045/000041       D  1888  Registo de batismo n.º 41: Rosa. Pai: Manuel Rodrigues Caroto; Mãe: Ge
+ 281601  —
+ 282001  PT/ABM/PPMZ02/001/00054/000079       D  1897  Registo de batismo n.º 79: Filomena. Pai: Vicente Torres; Mãe: Luísa J
+ 282401  PT/ABM/PPMZ02/001/00059/000068       D  1902  Registo de batismo n.º 68: Manuel. Pai: Lúcio Gonçalves Lambais; Mãe: 
+ 282801  PT/ABM/PPMZ02/001/00063/000027       D  1906  Registo de batismo n.º 27: Aurelina. Pai: Francisco António de Gouveia
+ 283201  PT/ABM/PPMZ02/001/00068/000020       D  1911  Registo de batismo n.º 20: José. Pai: Manuel Fernandes Gorgulho; Mãe: 
+ 283601  PT/ABM/PPST01/001/00025/000035       D  1862  Registo de batismo n.º 35: Maria. Pai: José Francisco "o Zaque"; Mãe: 
+ 284001  PT/ABM/PPST01/001/00030/000030       D  1867  Registo de batismo n.º 30: José. Pai: João António Roaz; Mãe: Guilherm
+ 284401  PT/ABM/PPST01/001/00035/000022       D  1872  Registo de batismo n.º 22: José. Pai: Manuel Gomes da Luz; Mãe: Maria 
+ 284801  PT/ABM/PPST01/001/00039/000047       D  1876  Registo de batismo n.º 47: Maria. Pai: José do Rosário Coelho; Mãe: Te
+ 285201  PT/ABM/PPST01/001/00043/000075       D  1880  Registo de batismo n.º 75: João. Pai: João Baptista; Mãe: Maria da Pie
+ 285601  PT/ABM/PPST01/001/00048/000055       D  1885  Registo de batismo n.º 55: Maria. Pai: Manuel Pestana; Mãe: Maria Ferr
+ 286001  PT/ABM/PPST01/001/00052/000014       D  1889  Registo de batismo n.º 14: Silvana. Pai: Manuel Pedro de Melim; Mãe: L
+ 286401  PT/ABM/PPST01/001/00056/000053       D  1893  Registo de batismo n.º 53: Gonçalo. Pai: José Teixeira de Mendonça; Mã
+ 286801  PT/ABM/PPST01/001/00060/000014       D  1897  Registo de batismo n.º 14: Georgina. Pai: José de Oliveira; Mãe: Josef
+ 287201  PT/ABM/PPST01/001/00063/000056       D  1900  Registo de batismo n.º 56: José. Pai: Martiniano do Carmo; Mãe: Maria 
+ 287601  PT/ABM/PPST01/001/00067/000036       D  1904  Registo de batismo n.º 36: José. Pai: Manuel José de Mendonça; Mãe: Ma
+ 288001  PT/ABM/PPST01/001/00071/000040       D  1908  Registo de batismo n.º 40: Henrique. Pai: João José de Freitas; Mãe: M
+ 288401  PT/ABM/PPST01/001/00001/000031       D  1616  Registo de batismo: João. Pai: [...]; Mãe: Luzia Ferreira
+ 288801  PT/ABM/PPST01/001/00003/000058       D  1654  Registo de batismo: Pedro. Pai: Manuel de Vasconcelos de Arruda; Mãe: 
+ 289201  PT/ABM/PPST01/001/00004/000016       D  1658  Registo de batismo: Manuel. Pai: Pedro Fernandes Flor; Mãe: Filipa de 
+ 289601  PT/ABM/PPST01/001/00005/000040       D  1692  Registo de batismo: Beatriz. Pai: Luís de Castro; Mãe: Beatriz de Góis
+ 290001  PT/ABM/PPST01/001/00005/000239       D  1701  Registo de batismo: Manuel. Pai: Incógnito; Mãe: Maria Escórcio
+ 290401  PT/ABM/PPST01/001/00006/000341       D  1728  Registo de batismo: Matias. Pai: Alexandre de Vasconcelos de Faria; Mã
+ 290801  PT/ABM/PPST01/001/00007/000007       D  1737  Registo de batismo: Filipe. Pai: António de Brito; Mãe: Beatriz de Gói
+ 291201  PT/ABM/PPST01/001/00008/000277       D  1753  Registo de batismo: Luzia. Pai: João Correia; Mãe: Filipa de Brito
+ 291601  PT/ABM/PPST01/001/00008/000638       D  1763  Registo de batismo: Maria. Pai: Incógnito; Mãe: Incógnita
+ 292001  PT/ABM/PPST01/001/00009/000163       D  1776  Registo de batismo: Sebastião. Pai: Sebastião Pedro Drumond, Capitão; 
+ 292401  PT/ABM/PPST01/001/00009/000071       D  1773  Registo de batismo: Pedro. Pai: Pedro Gomes; Mãe: Doroteia Escórcio
+ 292801  PT/ABM/PPST01/001/00010/000155       D  1790  Registo de batismo: Francisco. Pai: António Teixeira de Velosa; Mãe: I
+ 293201  PT/ABM/PPST01/001/00011/000378       D  1803  Registo de batismo: Joaquim. Pai: Francisco de Vasconcelos Oliveira; M
+ 293601  PT/ABM/PPST01/001/00019/000097       D  1837  Registo de batismo: Francisca. Pai: António João da Silva; Mãe: Maria 
+ 294001  PT/ABM/PPST01/001/00013/000161       D  1815  Registo de batismo: Fernando. Pai: Manuel Timóteo; Mãe: Joana Rosa de 
+ 294401  PT/ABM/PPST01/001/00015/000026       D  1821  Registo de batismo: Maria. Pai: António Pestana de Vasconcelos; Mãe: Q
+ 294801  PT/ABM/PPST01/001/00016/000246       D  1827  Registo de batismo: Manuel. Pai: Duarte Teixeira de Vasconcelos; Mãe: 
+ 295201  PT/ABM/PPST01/001/00017/000130       D  1830  Registo de batismo: João. Pai: Lourenço de Oliveira; Mãe: Maria Escórc
+ 295601  PT/ABM/PPST01/001/00018/000324       D  1837  Registo de batismo: Francisco. Pai: Lourenço de Oliveira; Mãe: Maria d
+ 296001  PT/ABM/PPST01/001/00020/000480       D  1844  Registo de batismo: Maria. Pai: João Francisco de Oliveira; Mãe: Joana
+ 296401  PT/ABM/PPST01/001/00021/000143       D  1848  Registo de batismo: João. Pai: João Pestana de Velosa; Mãe: Sebastiana
+ 296801  PT/ABM/PPST01/001/00021/000083       D  1848  Registo de batismo: Maria. Pai: Rufino de Vasconcelos Drumond; Mãe: Jo
+ 297201  PT/ABM/PPST01/001/00022/000030       D  1853  Registo de batismo: Cândido. Pai: Manuel de Melim; Mãe: Fortunata de F
+ 297601  PT/ABM/PPST01/002/00003/000173       D  1673  Registo de casamento: Manuel Escórcio de Vasconcelos c.c. Maria de Vas
+ 298001  PT/ABM/PPST01/002/00015/000022       D  1864  Registo de casamento: Cesário da Silva de Ornelas c.c. Jesuína Augusta
+ 298401  PT/ABM/PPST01/002/00040/000007       D  1889  Registo de casamento: José de Faria c.c. Claudina de Faria
+ 298801  PT/ABM/PPST01/002/00006/000162       D  1809  Registo de casamento: Domingos Coelho de Sousa c.c. Margarida de Vasco
+ 299201  PT/ABM/PPST01/002/00007/000011       D  1816  Registo de casamento: Sebastião José de Melim c.c. Quintina Escórcio
+ 299601  PT/ABM/PPST01/002/00009/000154       D  1840  Registo de casamento: João António Telo c.c. Joana Manly
+ 300001  PT/ABM/PPST01/002/00050/000003       D  1899  Registo de casamento n.º 3: Roque Escórcio de Mendonça c.c. Maria de M
+ 300401  PT/ABM/PCLT08/001/00006/000005       D  1863  Registo de batismo n.º 5: António. Pai: Manuel de Ponte Jardim; Mãe: J
+ 300801  PT/ABM/PCLT08/001/00016/000035       D  1873  Registo de batismo n.º 35: Manuel. Pai: Manuel Gonçalves Sequeira; Mãe
+ 301201  PT/ABM/PCLT08/001/00026/000018       D  1883  Registo de batismo n.º 18: João. Pai: Manuel Sardinha Caromba; Mãe: Is
+ 301601  PT/ABM/PCLT08/001/00050/000020       D  1907  Registo de batismo n.º 20: Isabel. Pai: Francisco Gomes da Silva; Mãe:
+ 302001  PT/ABM/PCLT08/002/00028/000007       D  1886  Registo de casamento: Manuel Gomes Sebastião c.c. Rosa de Jesus da Enc
+ 302401  PT/ABM/PCML04/001/00015/000009       D  1871  Registo de batismo n.º 9: Manuel. Pai: João Pinto; Mãe: Luísa da Encar
+ 302801  PT/ABM/PCML04/001/00028/000001       D  1884  Registo de batismo n.º 1: António. Pai: José Soares; Mãe: Maria de Jes
+ 303201  PT/ABM/PCML04/001/00042/000010       D  1898  Registo de batismo n.º 10: Maria. Pai: António de Aguiar; Mãe: Alexand
+ 303601  PT/ABM/PCML04/001/00052/000002       D  1908  Registo de batismo n.º 2: João. Pai: Agostinho Fernandes Barradas; Mãe
+ 304001  PT/ABM/PCML04/002/00048/000001       D  1904  Registo de casamento: Manuel de Jesus c.c. Hermínia de Jesus
+ 304401  PT/ABM/PRBR02/001/00022/000017       D  1862  Registo de batismo n.º 17: Matilde. Pai: António Francisco; Mãe: Maria
+ 304801  PT/ABM/PRBR02/001/00025/000061       D  1865  Registo de batismo n.º 61: Manuel. Pai: Francisco de Sousa; Mãe: Maria
+ 305201  PT/ABM/PRBR02/001/00028/000058       D  1868  Registo de batismo n.º 58: António. Pai: João José de Macedo; Mãe: Sil
+ 305601  PT/ABM/PRBR02/001/00031/000021       D  1871  Registo de batismo n.º 21: Gregório. Pai: Gregório de Freitas; Mãe: Jo
+ 306001  PT/ABM/PRBR02/001/00033/000100       D  1873  Registo de batismo n.º 100: Sabina. Pai: Fortunato Oliveira da Câmara;
+ 306401  PT/ABM/PRBR02/001/00036/000097       D  1876  Registo de batismo n.º 97: Rosa. Pai: Manuel Rodrigues Ferreira; Mãe: 
+ 306801  PT/ABM/PRBR02/001/00038/000138       D  1878  Registo de batismo n.º 138: Ludovina. Pai: Manuel António de Faria Jún
+ 307201  PT/ABM/PRBR02/001/00041/000009       D  1881  Registo de batismo n.º 9: Ana. Pai: Manuel Gomes; Mãe: Maria de Jesus
+ 307601  PT/ABM/PRBR02/001/00043/000101       D  1883  Registo de batismo n.º 101: Joaquim. Pai: Manuel do Nascimento; Mãe: J
+ 308001  PT/ABM/PRBR02/001/00046/000081       D  1886  Registo de batismo n.º 81: Daniel. Pai: Francisco da Silva; Mãe: Luísa
+ 308401  PT/ABM/PRBR02/001/00048/000114       D  1888  Registo de batismo n.º 114: Maria. Pai: Daniel Francisco; Mãe: Maria d
+ 308801  PT/ABM/PRBR02/001/00051/000074       D  1891  Registo de batismo n.º 74: Georgina. Pai: Quirino de Abreu Serrão; Mãe
+ 309201  PT/ABM/PRBR02/001/00053/000121       D  1893  Registo de batismo n.º 121: Manuel. Pai: Porfírio Pereira; Mãe: Maria 
+ 309601  PT/ABM/PRBR02/001/00056/000051       D  1896  Registo de batismo n.º 51: Manuel. Pai: Teodoro Gomes; Mãe: Maria de J
+ 310001  PT/ABM/PRBR02/001/00058/000043       D  1898  Registo de batismo n.º 43: Manuel. Pai: José Vicente; Mãe: Helena de J
+ 310401  PT/ABM/PRBR02/001/00061/000036       D  1901  Registo de batismo n.º 36: Manuel. Pai: João de Faria; Mãe: Luísa da E
+ 310801  PT/ABM/PRBR02/001/00063/000085       D  1903  Registo de batismo n.º 85: João. Pai: Manuel Fernandes; Mãe: Antónia d
+ 311201  PT/ABM/PRBR02/001/00065/000173       D  1905  Registo de batismo n.º 173: Maria. Pai: Agostinho da Silva; Mãe: Maria
+ 311601  PT/ABM/PRBR02/001/00067/000168       D  1907  Registo de batismo n.º 168: António. Pai: Manuel Fernandes Chilra; Mãe
+ 312001  PT/ABM/PRBR02/001/00068/000092       D  1908  Registo de batismo n.º 92: Joana. Pai: Manuel de Andrade (Cacareu); Mã
+ 312401  PT/ABM/PRBR02/001/00070/000241       D  1910  Registo de batismo n.º 241: António. Pai: Manuel Gomes; Mãe: Virgínia 
+ 312801  PT/ABM/PRBR02/002/00020/000017       D  1870  Registo de casamento: Manuel da Silva dos Santos c.c. Maria José da Si
+ 313201  PT/ABM/PRBR02/002/00034/000007       D  1884  Registo de casamento: Manuel de Andrade c.c. Maria de Jesus
+ 313601  PT/ABM/PRBR02/002/00007/000110       D  1833  Registo de casamento: Francisco José c.c. Ana Maria
+ 314001  PT/ABM/PRBR02/002/00006/000165       D  1807  Registo de casamento: Manuel de Andrade c.c. Ana de Jesus
+ 314401  PT/ABM/PRBR02/002/00006/000565       D  1823  Registo de casamento: Manuel Ferreira c.c. Francisca Rosa
+ 314801  PT/ABM/PRBR02/002/00005/000237       D  1790  Registo de casamento: José Caetano de Macedo c.c. Ana Maria Joaquina d
+ 315201  PT/ABM/PRBR02/002/00004/000221       D  1750  Registo de casamento: João de Abreu c.c. Maria de Abreu de Macedo
+ 315601  PT/ABM/PRBR02/002/00003/000170       D  1720  Registo de casamento: Manuel de Abreu de Macedo c.c. Isabel de Abreu
+ 316001  PT/ABM/PRBR02/002/00002/000298       D  1662  Registo de casamento: Francisco Rodrigues c.c. Maria Nunes
+ 316401  PT/ABM/PRBR02/002/00001/000116       D  1574  Registo de casamento: Salvador Gonçalves c.c. Inês Fernandes
+ 316801  PT/ABM/PRBR02/002/00047/000003       D  1897  Registo de casamento: Damásio da Câmara c.c. Maria de Jesus
+ 317201  PT/ABM/PRBR02/002/00057/000023       D  1907  Registo de casamento: João Francisco c.c. Francisca de Jesus
+ 317601  PT/ABM/PPMZ03/001/00020/000004       D  1872  Registo de batismo n.º 4: Manuel. Pai: Pedro António da Câmara; Mãe: F
+ 318001  PT/ABM/PPMZ03/001/00035/000014       D  1887  Registo de batismo n.º 14: Manuel. Pai: Daniel de Ponte; Mãe: Maria do
+ 318401  PT/ABM/PPMZ03/001/00053/000007       D  1905  Registo de batismo n.º 7: Maria. Pai: João Pereira; Mãe: Antónia Luísa
+ 318801  PT/ABM/PPMZ03/002/00003/000091       D  1827  Registo de casamento: Francisco Gonçalves Roda c.c. Inácia de Jesus
+ 319201  PT/ABM/PPMZ03/002/00002/000022       D  1742  Registo de casamento: Manuel Ferreira de Sousa c.c. Maria de Gouveia
+ 319601  PT/ABM/PSCR05/001/00024/000024       D  1862  Registo de batismo n.º 24: Joaquina. Pai: José de Gouveia; Mãe: Maria 
+ 320001  PT/ABM/PSCR05/001/00027/000050       D  1865  Registo de batismo n.º 50: Constantina. Pai: António de Freitas; Mãe: 
+ 320401  PT/ABM/PSCR05/001/00031/000016       D  1869  Registo de batismo n.º 16: Rosa. Pai: João de Sousa; Mãe: Maria Pestan
+ 320801  PT/ABM/PSCR05/001/00034/000068       D  1872  Registo de batismo n.º 68: António. Pai: José Teixeira; Mãe: Maria de 
+ 321201  PT/ABM/PSCR05/001/00037/000050       D  1875  Registo de batismo n.º 50: Manuel. Pai: João Teixeira; Mãe: Rosa Maria
+ 321601  PT/ABM/PSCR05/001/00040/000025       D  1878  Registo de batismo n.º 25: Antónia. Pai: José Teixeira; Mãe: Maria de 
+ 322001  PT/ABM/PSCR05/001/00043/000121       D  1881  Registo de batismo n.º 121: António. Pai: Manuel Vieira Júnior; Mãe: C
+ 322401  PT/ABM/PSCR05/001/00045/000016       D  1883  Registo de batismo n.º 16: Isabel. Pai: Manuel de Freitas; Mãe: Maria 
+ 322801  PT/ABM/PSCR05/001/00048/000051       D  1886  Registo de batismo n.º 51: João. Pai: João Nunes; Mãe: Maria de Gouvei
+ 323201  PT/ABM/PSCR05/001/00051/000153       D  1889  Registo de batismo n.º 153: José. Pai: João de Freitas; Mãe: Cristina 
+ 323601  PT/ABM/PSCR05/001/00053/000114       D  1891  Registo de batismo n.º 114: António. Pai: António Nunes; Mãe: Maria da
+ 324001  PT/ABM/PSCR05/001/00055/000159       D  1893  Registo de batismo n.º 159: Rosa. Pai: Domingos Ferreira; Mãe: Rosa Ma
+ 324401  PT/ABM/PSCR05/001/00057/000098       D  1895  Registo de batismo n.º 98: Marciana. Pai: Manuel Rodrigues; Mãe: Maria
+ 324801  PT/ABM/PSCR05/001/00059/000075       D  1897  Registo de batismo n.º 75: Francisco. Pai: António Alves Ferro; Mãe: M
+ 325201  PT/ABM/PSCR05/001/00060/000237       D  1898  Registo de batismo n.º 237: Maria. Pai: João Fernandes; Mãe: Isabel do
+ 325601  PT/ABM/PSCR05/001/00062/000017       D  1900  Registo de batismo n.º 17: Maria. Pai: Amâncio Vieira; Mãe: Cristina d
+ 326001  PT/ABM/PSCR05/001/00063/000103       D  1901  Registo de batismo n.º 103: João. Pai: José Sebastião de Freitas; Mãe:
+ 326401  PT/ABM/PSCR05/001/00065/000036       D  1903  Registo de batismo n.º 36: Manuel. Pai: Manuel Vieira Coelho; Mãe: Ros
+ 326801  PT/ABM/PSCR05/001/00066/000150       D  1904  Registo de batismo n.º 150: Maria. Pai: Manuel de Gouveia; Mãe: Virgín
+ 327201  PT/ABM/PSCR05/001/00068/000169       D  1906  Registo de batismo n.º 169: João. Pai: João Gonçalves; Mãe: Joaquina R
+ 327601  PT/ABM/PSCR05/001/00069/000075       D  1907  Registo de batismo n.º 75: Felicidade. Pai: Manuel de Freitas; Mãe: Li
+ 328001  PT/ABM/PSCR05/001/00071/000128       D  1909  Registo de batismo n.º 128: Clementina. Pai: António Alves de Sousa; M
+ 328401  PT/ABM/PSCR05/001/00072/000216       D  1910  Registo de batismo n.º 216: José. Pai: Manuel de Freitas; Mãe: Efigéni
+ 328801  PT/ABM/PSCR05/002/00011/000292       D  1859  Registo de casamento: António Rodrigues c.c. Maria de Freitas
+ 329201  PT/ABM/PSCR05/002/00008/000115       D  1779  Registo de casamento: José Nunes c.c. Guiomar de Freitas
+ 329601  PT/ABM/PSCR05/002/00007/000062       D  1730  Registo de casamento: Manuel Vieira c.c. Catarina de Freitas
+ 330001  PT/ABM/PSCR05/002/00006/000261       D  1721  Registo de casamento: Manuel de Araújo c.c. Apolónia da Silva
+ 330401  PT/ABM/PSCR05/002/00004/000136       D  1659  Registo de casamento: Francisco Manuel Moniz c.c. Maria Correia, D.
+ 330801  PT/ABM/PSCR05/002/00003/000311       D  1641  Registo de casamento: Francisco Martins c.c. Maria Bela
+ 331201  PT/ABM/PSCR05/002/00044/000048       D  1892  Registo de casamento: Manuel Vieira Cardoso c.c. Jesuína de Gouveia
+ 331601  PT/ABM/PSCR05/002/00026/000023       D  1874  Registo de casamento: Manuel de Faria Júnior c.c. Maria Isabel Fernand
+ 332001  PT/ABM/PSCR05/002/00040/000011       D  1888  Registo de casamento: José Joaquim de Freitas c.c. Zeferina dos Santos
+ 332401  PT/ABM/PSCR05/002/00053/000018       D  1901  Registo de casamento: António de Freitas c.c. Joana Nunes
+ 332801  PT/ABM/PSCR05/002/00062/000026       D  1910  Registo de casamento: Manuel Rodrigues c.c. Maria de Almada
+ 333201  —
+ 333601  —
+ 334001  PT/ABM/PFUN03/001/00016/000096       D  1861  Registo de batismo n.º 96: João. Pai: João Ferreira; Mãe: Ana do Nasci
+ 334401  PT/ABM/PFUN03/001/00020/000077       D  1865  Registo de batismo n.º 77: Joaquim. Pai: Joaquim Rodrigues; Mãe: Maria
+ 334801  PT/ABM/PFUN03/001/00024/000083       D  1869  Registo de batismo n.º 83: Joana. Pai: Incógnito; Mãe: Incógnita
+ 335201  PT/ABM/PFUN03/001/00027/000074       D  1872  Registo de batismo n.º 74: Maria. Pai: Victoliano Teixeira de Mendonça
+ 335601  PT/ABM/PFUN03/001/00030/000021       D  1875  Registo de batismo n.º 21: António. Pai: Domingos Tomás Rodrigues; Mãe
+ 336001  PT/ABM/PFUN03/001/00033/000094       D  1878  Registo de batismo n.º 94: Palmira. Pai: João José Zacarias; Mãe: Mari
+ 336401  PT/ABM/PFUN03/001/00036/000040       D  1881  Registo de batismo n.º 40: Maria. Pai: Manuel da Silva; Mãe: Virgínia 
+ 336801  PT/ABM/PFUN03/001/00040/000084       D  1885  Registo de batismo n.º 84: Óscar. Pai: Manuel Pereira; Mãe: Amélia da 
+ 337201  PT/ABM/PFUN03/001/00043/000126       D  1888  Registo de batismo n.º 126: Aristides. Pai: Manuel Homem de Gouveia; M
+ 337601  PT/ABM/PFUN03/001/00046/000023       D  1891  Registo de batismo n.º 23: Adelaide. Pai: Marceliano de Jesus Pires; M
+ 338001  PT/ABM/PFUN03/001/00049/000058       D  1894  Registo de batismo n.º 58: Maria. Pai: Rodolfo Augusto de Freitas Esme
+ 338401  PT/ABM/PFUN03/001/00052/000055       D  1897  Registo de batismo n.º 55: Georgina. Pai: João Basílio Júnior; Mãe: Cr
+ 338801  PT/ABM/PFUN03/001/00054/000146       D  1899  Registo de batismo n.º 146: Manuel. Pai: José da Silva; Mãe: Isabel do
+ 339201  PT/ABM/PFUN03/001/00057/000084       D  1902  Registo de batismo n.º 84: Manuel. Pai: Manuel António Pereira; Mãe: E
+ 339601  PT/ABM/PFUN03/001/00060/000144       D  1905  Registo de batismo n.º 144: Blandina. Pai: João da Silva; Mãe: Ermelin
+ 340001  PT/ABM/PFUN03/001/00062/000160       D  1907  Registo de batismo n.º 160: Mário. Pai: Jordão José da Cruz; Mãe: Mari
+ 340401  PT/ABM/PFUN03/001/00065/000067       D  1910  Registo de batismo n.º 67: Eduardo. Pai: Manuel Rodrigues Ribeiro; Mãe
+ 340801  PT/ABM/PFUN03/002/00002/000209       D  1792  Registo de casamento: António da Silva c.c. Mariana Caetana das Neves
+ 341201  PT/ABM/PFUN03/002/00001/000334       D  1760  Registo de casamento: José Gomes Jardim c.c. Josefa das Neves
+ 341601  PT/ABM/PFUN03/002/00004/000019       D  1811  Registo de casamento: António de Abreu c.c. Rosa de Jesus
+ 342001  PT/ABM/PFUN03/002/00004/000415       D  1823  Registo de casamento: João José de Sousa c.c. Carolina Leonor
+ 342401  PT/ABM/PFUN03/002/00005/000251       D  1839  Registo de casamento: António Gomes Romão c.c. Maria Luísa
+ 342801  PT/ABM/PFUN03/002/00006/000234       D  1854  Registo de casamento: José de Castro c.c. Filipa Augusta
+ 343201  PT/ABM/PFUN03/002/00015/000028       D  1867  Registo de casamento: José Duarte c.c. Maria dos Passos e Freitas
+ 343601  PT/ABM/PFUN03/002/00033/000010       D  1885  Registo de casamento: Agostinho de Abreu de Sousa c.c. Maria de Jesus
+ 344001  PT/ABM/PFUN03/002/00044/000042       D  1896  Registo de casamento: José de Gouveia c.c. Júlia de Freitas
+ 344401  PT/ABM/PFUN03/002/00053/000021       D  1905  Registo de casamento: José Varela c.c. Maria Henriqueta Pereira
+ 344801  PT/ABM/PFUN04/001/00006/000394       D  1851  Registo de batismo: João. Pai: António Gonsalves; Mãe: Marcelina Rosa
+ 345201  PT/ABM/PFUN04/001/00006/000868       D  1854  Registo de batismo: Maria. Pai: Manuel Joaquim Pereira; Mãe: Maria Cla
+ 345601  PT/ABM/PFUN04/001/00006/001275       D  1857  Registo de batismo: Guilhermina. Pai: Francisco António; Mãe: Rita do 
+ 346001  PT/ABM/PFUN04/001/00006/001165       D  1856  Registo de batismo: Rosa. Pai: Manuel Gomes; Mãe: Mécia Rosa
+ 346401  PT/ABM/PFUN04/001/00007/000127       D  1860  Registo de batismo n.º 127: Amélia. Pai: Francisco João; Mãe: Maria Câ
+ 346801  PT/ABM/PFUN04/001/00010/000093       D  1863  Registo de batismo n.º 93: Maria. Pai: António Ferreira; Mãe: Maria de
+ 347201  PT/ABM/PFUN04/001/00012/000105       D  1865  Registo de batismo n.º 105: Pedro. Pai: Manuel da Ressurreição; Mãe: M
+ 347601  PT/ABM/PFUN04/001/00014/000115       D  1867  Registo de batismo n.º 115: José. Pai: Incógnito; Mãe: Antónia Rosa
+ 348001  PT/ABM/PFUN04/001/00017/000136       D  1870  Registo de batismo n.º 136: Emília. Pai: António de Freitas; Mãe: Joan
+ 348401  PT/ABM/PFUN04/001/00019/000088       D  1872  Registo de batismo n.º 88: Augusto. Pai: Romão Eleutério Gomes; Mãe: M
+ 348801  PT/ABM/PFUN04/001/00021/000149       D  1874  Registo de batismo n.º 149: Caetano. Pai: António João de Moura; Mãe: 
+ 349201  PT/ABM/PFUN04/001/00023/000065       D  1876  Registo de batismo n.º 65: Helena. Pai: Incógnito; Mãe: Guilhermina Au
+ 349601  PT/ABM/PFUN04/001/00025/000147       D  1878  Registo de batismo n.º 147: Maria. Pai: Francisco Ferreira da Silva; M
+ 350001  PT/ABM/PFUN04/001/00027/000007       D  1880  Registo de batismo n.º 7: Ricardo. Pai: José Rodrigues; Mãe: Joaquina 
+ 350401  PT/ABM/PFUN04/001/00029/000050       D  1882  Registo de batismo n.º 50: Jesuína. Pai: Francisco Moniz; Mãe: Maria d
+ 350801  PT/ABM/PFUN04/001/00031/000153       D  1884  Registo de batismo n.º 153: Luís. Pai: João Luís de Nóbrega; Mãe: Caro
+ 351201  PT/ABM/PFUN04/001/00033/000060       D  1886  Registo de batismo n.º 60: Maria. Pai: José Alves; Mãe: Silvina Constâ
+ 351601  PT/ABM/PFUN04/001/00035/000114       D  1888  Registo de batismo n.º 114: José. Pai: João Gonçalves dos Santos; Mãe:
+ 352001  PT/ABM/PFUN04/001/00036/000110       D  1889  Registo de batismo n.º 110: Francisco. Pai: Manuel Fernandes; Mãe: Mar
+ 352401  PT/ABM/PFUN04/001/00038/000102       D  1891  Registo de batismo n.º 102: Joaquim. Pai: Incógnito; Mãe: Maria de Jes
+ 352801  PT/ABM/PFUN04/001/00040/000132       D  1893  Registo de batismo n.º 132: Leonel. Pai: João Joaquim Marques; Mãe: Ma
+ 353201  PT/ABM/PFUN04/001/00001/000160       D  1805  Registo de batismo: Pedro. Pai: João Pedro; Mãe: Maria do Carmo
+ 353601  PT/ABM/PFUN04/001/00002/000054       D  1807  Registo de batismo: Gertrudes. Pai: Manuel Lopes; Mãe: Sebastiana Quit
+ 354001  PT/ABM/PFUN04/001/00003/000185       D  1813  Registo de batismo: João. Pai: Filipe de Santiago; Mãe: Gerarda dos Sa
+ 354401  PT/ABM/PFUN04/001/00003/000091       D  1812  Registo de batismo: António. Pai: Manuel Ferreira; Mãe: Catarina Rosa
+ 354801  PT/ABM/PFUN04/001/00003/000574       D  1816  Registo de batismo: Maria. Pai: João Vieira; Mãe: Domingas do Rozário
+ 355201  —
+ 355601  —
+ 356001  —
+ 356401  PT/ABM/PFUN04/001/00005/000934       D  1848  Registo de batismo: Adelaide. Pai: Luís Brozoni; Mãe: Roberta Félix
+ 356801  PT/ABM/PFUN04/001/00005/000552       D  1845  Registo de batismo: António. Pai: Manuel Correia; Mãe: Maria Rosa
+ 357201  PT/ABM/PFUN04/001/00041/000007       D  1894  Registo de batismo n.º 7: José. Pai: António Fernandes; Mãe: Maria Zef
+ 357601  PT/ABM/PFUN04/001/00043/000165       D  1896  Registo de batismo n.º 165: Carlos. Pai: Abel da Câmara; Mãe: Alexandr
+ 358001  PT/ABM/PFUN04/001/00044/000155       D  1897  Registo de batismo n.º 155: Palmira. Pai: José Fernandes; Mãe: Maria G
+ 358401  PT/ABM/PFUN04/001/00046/000068       D  1899  Registo de batismo n.º 68: António. Pai: André Victor do Rego; Mãe: He
+ 358801  PT/ABM/PFUN04/001/00048/000012       D  1901  Registo de batismo n.º 12: Fany. Pai: José Joaquim Mendes; Mãe: Maria 
+ 359201  PT/ABM/PFUN04/001/00049/000183       D  1902  Registo de batismo n.º 183: Maria. Pai: Guilherme de Faria; Mãe: Mique
+ 359601  PT/ABM/PFUN04/001/00050/000020       D  1903  Registo de batismo n.º 20: Isaura. Pai: João de Nóbrega; Mãe: Sara Mar
+ 360001  PT/ABM/PFUN04/001/00052/000023       D  1905  Registo de batismo n.º 23: Manuel. Pai: João da Costa; Mãe: Maria Viei
+ 360401  PT/ABM/PFUN04/001/00053/000077       D  1906  Registo de batismo n.º 77: Eduardo. Pai: José Joaquim; Mãe: Luzia da C
+ 360801  PT/ABM/PFUN04/001/00055/000111       D  1908  Registo de batismo n.º 111: Clara. Pai: António de Gouveia; Mãe: Adela
+ 361201  PT/ABM/PFUN04/001/00056/000241       D  1909  Registo de batismo n.º 241: Elda. Pai: António Gonçalves; Mãe: Zeferin
+ 361601  PT/ABM/PFUN04/001/00058/000027       D  1911  Registo de batismo n.º 27: João. Pai: Guilherme da Silva; Mãe: Claudin
+ 362001  PT/ABM/PFUN04/002/00002/000255       D  1815  Registo de casamento: António de Castro c.c. Maria Joaquina
+ 362401  PT/ABM/PFUN04/002/00003/000162       D  1830  Registo de casamento: José da Ressurreição c.c. Maria Joaquina
+ 362801  PT/ABM/PFUN04/002/00005/000307       D  1855  Registo de casamento: José de Andrade c.c. Bebiana Rosa
+ 363201  PT/ABM/PFUN04/002/00004/000187       D  1841  Registo de casamento: Inácio Machado c.c. Luísa Rosa
+ 363601  PT/ABM/PFUN04/002/00016/000011       D  1870  Registo de casamento: Manuel Vieira c.c. Rosalina Augusta
+ 364001  PT/ABM/PFUN04/002/00025/000033       D  1879  Registo de casamento: José Rodrigues c.c. Virgínia de Jesus
+ 364401  PT/ABM/PFUN04/002/00034/000023       D  1888  Registo de casamento: António Correia c.c. Maria Clementina Rodrigues
+ 364801  PT/ABM/PFUN04/002/00042/000040       D  1896  Registo de casamento: Manuel Teixeira c.c. Ana de Sousa
+ 365201  PT/ABM/PFUN04/002/00049/000050       D  1903  Registo de casamento: José de Abreu c.c. Eulália de Sousa
+ 365601  PT/ABM/PFUN04/002/00056/000021       D  1910  Registo de casamento: Primo de Freitas c.c. Maria de Freitas
+ 366001  PT/ABM/PSTN03/001/00017/000003       D  1863  Registo de batismo n.º 3: Maria. Pai: Francisco António da Costa; Mãe:
+ 366401  PT/ABM/PSTN03/001/00020/000062       D  1866  Registo de batismo n.º 62: Manuel. Pai: Manuel de Freitas; Mãe: Joaqui
+ 366801  PT/ABM/PSTN03/001/00024/000041       D  1870  Registo de batismo n.º 41: João. Pai: Incógnito; Mãe: Lina Augusta da 
+ 367201  PT/ABM/PSTN03/001/00028/000077       D  1874  Registo de batismo n.º 77: Francisco. Pai: Francisco Ferreira de Andra
+ 367601  PT/ABM/PSTN03/001/00032/000049       D  1878  Registo de batismo n.º 49: António. Pai: António Fernandes de Freitas;
+ 368001  PT/ABM/PSTN03/001/00036/000065       D  1882  Registo de batismo n.º 65: Maria. Pai: João de Abreu Serrão; Mãe: Mari
+ 368401  PT/ABM/PSTN03/001/00041/000049       D  1887  Registo de batismo n.º 49: José. Pai: António Marques Caldeira da Asce
+ 368801  PT/ABM/PSTN03/001/00045/000077       D  1891  Registo de batismo n.º 77: Joaquim. Pai: Joaquim da Silva Pereira; Mãe
+ 369201  PT/ABM/PSTN03/001/00049/000046       D  1895  Registo de batismo n.º 46: João. Pai: João Teixeira Dória; Mãe: Leonor
+ 369601  PT/ABM/PSTN03/001/00052/000012       D  1898  Registo de batismo n.º 12: Matilde. Pai: Manuel Ferreira; Mãe: Maria d
+ 370001  PT/ABM/PSTN03/001/00055/000054       D  1901  Registo de batismo n.º 54: Maria. Pai: João Francisco de Mendonça; Mãe
+ 370401  PT/ABM/PSTN03/001/00059/000047       D  1905  Registo de batismo n.º 47: José. Pai: Manuel de Ornelas; Mãe: Juliana 
+ 370801  PT/ABM/PSTN03/001/00062/000014       D  1908  Registo de batismo n.º 14: José. Pai: Manuel Marques de Jesus; Mãe: Lu
+ 371201  PT/ABM/PSTN03/002/00013/000021       D  1866  Registo de casamento: António Francisco de Ornelas c.c. Antónia Maria 
+ 371601  PT/ABM/PSTN03/002/00027/000004       D  1880  Registo de casamento: João Marques de Mendonça c.c. Ana de Jesus
+ 372001  PT/ABM/PSTN03/002/00001/000013       D  1581  Registo de casamento: António do Porto c.c. Ana Caldeira
+ 372401  PT/ABM/PSTN03/002/00001/000245       D  1659  Registo de casamento: Manuel Pereira c.c. Maria do Ó
+ 372801  PT/ABM/PSTN03/002/00002/000059       D  1712  Registo de casamento: José Nunes c.c. Maria das Neves
+ 373201  PT/ABM/PSTN03/002/00002/000453       D  1742  Registo de casamento: Tristão de Velosa Bettencourt c.c. Inácia de Fre
+ 373601  PT/ABM/PSTN03/002/00003/000483       D  1785  Registo de casamento: José Correia c.c. Maria Teles da Cruz
+ 374001  PT/ABM/PSTN03/002/00004/000320       D  1812  Registo de casamento: Manuel Martins Caldeira c.c. Luísa Marques Ferre
+ 374401  PT/ABM/PSTN03/002/00005/000398       D  1829  Registo de casamento: Raimundo Marques c.c. Geralda Rosa
+ 374801  PT/ABM/PSTN03/002/00006/000257       D  1847  Registo de casamento: António Fernandes de Freitas Júnior c.c. Ana Joa
+ 375201  PT/ABM/PSTN03/002/00047/000022       D  1900  Registo de casamento: José Fernandes Luís c.c. Maria de Jesus
+ 375601  PT/ABM/PFUN05/001/00016/001008       D  1856  Registo de batismo: Maria. Pai: Manuel de Abreu; Mãe: Ana de Jesus
+ 376001  PT/ABM/PFUN05/001/00016/001053       D  1856  Registo de batismo: Umbelina. Pai: António Jacinto Lopes Serrão; Mãe: 
+ 376401  PT/ABM/PFUN05/001/00016/000849       D  1854  Registo de batismo: Luísa. Pai: João de Sousa; Mãe: Luísa Rosa
+ 376801  PT/ABM/PFUN05/001/00016/000658       D  1853  Registo de batismo: Maria. Pai: José Gomes Jardim; Mãe: Maria Joaquina
+ 377201  PT/ABM/PFUN05/001/00018/000069       D  1861  Registo de batismo n.º 69: António. Pai: António de Leça; Mãe: Joaquin
+ 377601  PT/ABM/PFUN05/001/00020/000149       D  1863  Registo de batismo n.º 149: Ana. Pai: João de Andrade; Mãe: Maria da C
+ 378001  PT/ABM/PFUN05/001/00023/000075       D  1866  Registo de batismo n.º 75: Claudina. Pai: João Martins Pereira; Mãe: G
+ 378401  PT/ABM/PFUN05/001/00025/000145       D  1868  Registo de batismo n.º 145: Maria. Pai: António de Sousa; Mãe: Helena 
+ 378801  PT/ABM/PFUN05/001/00028/000160       D  1871  Registo de batismo n.º 160: Nuno. Pai: José de Alcântara Camacho; Mãe:
+ 379201  PT/ABM/PFUN05/001/00030/000041       D  1873  Registo de batismo n.º 41: João. Pai: Júlio Joaquim de Oliveira Rodrig
+ 379601  PT/ABM/PFUN05/001/00032/000146       D  1875  Registo de batismo n.º 146: José. Pai: Manuel Gomes Serrão; Mãe: Maria
+ 380001  PT/ABM/PFUN05/001/00033/000128       D  1876  Registo de batismo n.º 128: Isabel. Pai: Manuel Martins Pereira; Mãe: 
+ 380401  PT/ABM/PFUN05/001/00035/000075       D  1878  Registo de batismo n.º 75: Georgina. Pai: João Rodrigues; Mãe: Maria A
+ 380801  PT/ABM/PFUN05/001/00037/000098       D  1880  Registo de batismo n.º 98: Maria. Pai: António Fernandes Velosa; Mãe: 
+ 381201  PT/ABM/PFUN05/001/00039/000094       D  1882  Registo de batismo n.º 94: Manuel. Pai: Manuel Pinto Correia; Mãe: Mar
+ 381601  PT/ABM/PFUN05/001/00040/000060       D  1883  Registo de batismo n.º 60: José. Pai: Manuel Fernandes Pereira; Mãe: M
+ 382001  PT/ABM/PFUN05/001/00042/000057       D  1885  Registo de batismo n.º 57: Maria. Pai: Manuel Correia; Mãe: Luísa do C
+ 382401  PT/ABM/PFUN05/001/00044/000008       D  1887  Registo de batismo n.º 8: Guilhermina. Pai: José Mendes Neves; Mãe: Ma
+ 382801  PT/ABM/PFUN05/001/00046/000182       D  1889  Registo de batismo n.º 182: Manuel. Pai: António João Rodrigues; Mãe: 
+ 383201  PT/ABM/PFUN05/001/00047/000077       D  1890  Registo de batismo n.º 77: Guilhermina. Pai: João Gomes Serrão; Mãe: B
+ 383601  PT/ABM/PFUN05/001/00049/000048       D  1892  Registo de batismo n.º 48: Manuel. Pai: Manuel Rodrigues Major; Mãe: M
+ 384001  PT/ABM/PFUN05/001/00050/000187       D  1893  Registo de batismo n.º 187: Antónia. Pai: António Gomes Pestana; Mãe: 
+ 384401  PT/ABM/PFUN05/001/00010/000814       D  1792  Registo de batismo: Jacinto. Pai: Manuel Rodrigues; Mãe: Luísa de Jesu
+ 384801  PT/ABM/PFUN05/001/00010/000873       D  1792  Registo de batismo: António. Pai: Gaspar Rodrigues de Aguiar; Mãe: Vic
+ 385201  PT/ABM/PFUN05/001/00010/001183       D  1796  Registo de batismo: Maria. Pai: João Figueira; Mãe: Maria dos Santos
+ 385601  PT/ABM/PFUN05/001/00010/000230       D  1785  Registo de batismo: Ana. Pai: Francisco Fernandes Camacho; Mãe: Joana 
+ 386001  PT/ABM/PFUN05/001/00011/000465       D  1805  Registo de batismo: Juliana. Pai: António Gomes Jardim; Mãe: Ana Joaqu
+ 386401  PT/ABM/PFUN05/001/00011/000760       D  1807  Registo de batismo: António. Pai: Francisco Gomes Serrão; Mãe: Quitéri
+ 386801  PT/ABM/PFUN05/001/00011/000218       D  1803  Registo de batismo: António. Pai: António Fernandes Camisa Nova; Mãe: 
+ 387201  PT/ABM/PFUN05/001/00012/001025       D  1818  Registo de batismo: João. Pai: António Fernandes Lucas; Mãe: Inácia de
+ 387601  PT/ABM/PFUN05/001/00012/000072       D  1812  Registo de batismo: Justina. Pai: António de Abreu; Mãe: Antónia Maria
+ 388001  PT/ABM/PFUN05/001/00012/000938       D  1818  Registo de batismo: João. Pai: António Teixeira; Mãe: Quitéria Rosa
+ 388401  PT/ABM/PFUN05/001/00013/000418       D  1822  Registo de batismo: Manuel. Pai: José Martins Pereira; Mãe: Maria de J
+ 388801  PT/ABM/PFUN05/001/00013/001109       D  1827  Registo de batismo: Madalena. Pai: António Fernandes Pimenta; Mãe: Mar
+ 389201  PT/ABM/PFUN05/001/00013/000653       D  1824  Registo de batismo: Antónia. Pai: António Pereira Sardinha; Mãe: Ana J
+ 389601  PT/ABM/PFUN05/001/00013/000968       D  1826  Registo de batismo: João. Pai: Luís Soares de Ornelas; Mãe: Antónia Jo
+ 390001  PT/ABM/PFUN05/001/00013/001911       D  1833  Registo de batismo: Maria. Pai: Manuel da Silva; Mãe: Maria Joaquina
+ 390401  PT/ABM/PFUN05/001/00014/000704       D  1838  Registo de batismo: Francisco. Pai: Incógnito; Mãe: Joaquina de Jesus
+ 390801  PT/ABM/PFUN05/001/00014/000159       D  1834  Registo de batismo: José. Pai: João de Sousa; Mãe: Joana Joaquina Rosa
+ 391201  PT/ABM/PFUN05/001/00014/001245       D  1842  Registo de batismo: Madalena. Pai: Valentim Pereira Rebelo; Mãe: Albin
+ 391601  PT/ABM/PFUN05/001/00014/000438       D  1837  Registo de batismo: Manuel. Pai: Júlio Figueira; Mãe: Joaquina da Conc
+ 392001  PT/ABM/PFUN05/001/00015/000362       D  1845  Registo de batismo: José. Pai: José Rodrigues Cró; Mãe: Antónia Gomes
+ 392401  PT/ABM/PFUN05/001/00015/000248       D  1844  Registo de batismo: Maria. Pai: Francisco da Silva Correia; Mãe: Emere
+ 392801  PT/ABM/PFUN05/001/00051/000220       D  1894  Registo de batismo n.º 220: Antónia. Pai: Manuel Correia; Mãe: Maria d
+ 393201  PT/ABM/PFUN05/001/00053/000009       D  1896  Registo de batismo n.º 9: António. Pai: João Fernandes Camacho; Mãe: F
+ 393601  PT/ABM/PFUN05/001/00054/000090       D  1897  Registo de batismo n.º 90: José. Pai: Manuel Gomes Granito; Mãe: Antón
+ 394001  PT/ABM/PFUN05/001/00055/000132       D  1898  Registo de batismo n.º 132: Guilhermina. Pai: Henrique de Oliveira; Mã
+ 394401  PT/ABM/PFUN05/001/00057/000044       D  1900  Registo de batismo n.º 44: Manuel. Pai: Manuel Fernandes Rebolo; Mãe: 
+ 394801  PT/ABM/PFUN05/001/00058/000309       D  1901  Registo de batismo n.º 309: Martinho. Pai: José Gomes de Faria; Mãe: A
+ 395201  PT/ABM/PFUN05/001/00059/000053       D  1902  Registo de batismo n.º 53: João. Pai: António Rodrigues Cró; Mãe: Mari
+ 395601  PT/ABM/PFUN05/001/00060/000082       D  1903  Registo de batismo n.º 82: António. Pai: António de Freitas; Mãe: Mari
+ 396001  PT/ABM/PFUN05/001/00062/000303       D  1905  Registo de batismo n.º 303: Luís. Pai: José Figueira de Sousa; Mãe: Em
+ 396401  PT/ABM/PFUN05/001/00063/000025       D  1906  Registo de batismo n.º 25: Maria. Pai: João Fernandes Correia; Mãe: Ma
+ 396801  PT/ABM/PFUN05/001/00064/000045       D  1907  Registo de batismo n.º 45: Maria. Pai: Francisco de Leça; Mãe: Silvina
+ 397201  PT/ABM/PFUN05/001/00065/000274       D  1908  Registo de batismo n.º 274: Maria. Pai: João Gomes; Mãe: Maria de Jesu
+ 397601  PT/ABM/PFUN05/001/00066/000325       D  1909  Registo de batismo n.º 325: Maria. Pai: Manuel Fernandes de Castro; Mã
+ 398001  PT/ABM/PFUN05/001/00067/000165       D  1910  Registo de batismo n.º 165: Firmino. Pai: José Franco; Mãe: Virgínia C
+ 398401  PT/ABM/PFUN05/002/00015/000021       D  1867  Registo de casamento: Jacinto de Andrade c.c. Carlota Augusta
+ 398801  PT/ABM/PFUN05/002/00025/000032       D  1877  Registo de casamento: Diogo Figueira Teles c.c. Maria Cândida de Jesus
+ 399201  PT/ABM/PFUN05/002/00035/000004       D  1887  Registo de casamento: Leonardo Rodrigues c.c. Luísa de Jesus
+ 399601  PT/ABM/PFUN05/002/00042/000010       D  1894  Registo de casamento: Januário António de Oliveira Camacho c.c. Olímpi
+ 400001  PT/ABM/PFUN05/002/00005/000042       D  1806  Registo de casamento: José Rodrigues Pereira c.c. Maria de Castro
+ 400401  PT/ABM/PFUN05/002/00053/000025       D  1905  Registo de casamento: José de França Barbosa c.c. Maria de Faria
+ 400801  PT/ABM/PFUN05/002/00005/000117       D  1808  Registo de casamento: António Fernandes Camacho c.c. Lúcia Cândida
+ 401201  PT/ABM/PFUN05/002/00005/000519       D  1822  Registo de casamento: João de Castro c.c. Antónia Maria de Jesus
+ 401601  PT/ABM/PFUN05/002/00004/000363       D  1788  Registo de casamento: Manuel Teixeira c.c. Isabel dos Santos
+ 402001  PT/ABM/PFUN05/002/00006/000145       D  1829  Registo de casamento: João Ferreira c.c. Joaquina de Freitas
+ 402401  PT/ABM/PFUN05/002/00003/000234       D  1740  Registo de casamento: Antão Fernandes c.c. Isabel Maria
+ 402801  PT/ABM/PFUN05/002/00002/000017       D  1693  Registo de casamento: Francisco da Silva c.c. Maria Gomes
+ 403201  PT/ABM/PFUN05/002/00002/000416       D  1731  Registo de casamento: Sebastião Rodrigues c.c. Inácia Francisca
+ 403601  PT/ABM/PFUN05/002/00006/000442       D  1839  Registo de casamento: Joaquim Rodrigues c.c. Francisca Gomes
+ 404001  PT/ABM/PFUN05/002/00006/000843       D  1854  Registo de casamento: Manuel Gomes Camacho c.c. Ludovina Júlia da Silv
+ 404401  PT/ABM/PMCH05/001/00011/000032       D  1868  Registo de batismo n.º 32: Manuel e José. Pai: Gregório Correia; Mãe: 
+ 404801  PT/ABM/PMCH05/001/00020/000024       D  1877  Registo de batismo n.º 24: Manuel. Pai: João Correia; Mãe: Joana de Je
+ 405201  PT/ABM/PMCH05/001/00026/000018       D  1883  Registo de batismo n.º 18: Maria. Pai: José Ferreira de Vares; Mãe: Ma
+ 405601  PT/ABM/PMCH05/001/00033/000028       D  1890  Registo de batismo n.º 28: Manuel. Pai: Manuel de Gouveia Júnior; Mãe:
+ 406001  PT/ABM/PMCH05/001/00038/000053       D  1895  Registo de batismo n.º 53: Rosalina. Pai: Manuel Pires; Mãe: Rosa Luís
+ 406401  PT/ABM/PMCH05/001/00042/000060       D  1899  Registo de batismo n.º 60: Carolina. Pai: António de Freitas; Mãe: Car
+ 406801  PT/ABM/PMCH05/001/00047/000028       D  1904  Registo de batismo n.º 28: Daniel. Pai: João de Gouveia; Mãe: Rosa Aug
+ 407201  PT/ABM/PMCH05/001/00051/000041       D  1908  Registo de batismo n.º 41: António. Pai: José de Sousa; Mãe: Maria Bap
+ 407601  PT/ABM/PMCH05/002/00001/000170       D  1836  Registo de casamento: José Ferreira c.c. Ana de Nóbrega
+ 408001  PT/ABM/PMCH05/002/00027/000007       D  1885  Registo de casamento: José de Gouveia Caramujo c.c. Joana do Espírito 
+ 408401  PT/ABM/PFUN06/001/00015/000007       D  1862  Registo de batismo n.º 7: Francisco. Pai: Francisco Pereira; Mãe: Mari
+ 408801  PT/ABM/PFUN06/001/00020/000063       D  1867  Registo de batismo n.º 63: Elisa. Pai: José de Freitas; Mãe: Maria de 
+ 409201  PT/ABM/PFUN06/001/00026/000023       D  1873  Registo de batismo n.º 23: José. Pai: João da Mota; Mãe: Maria de Jesu
+ 409601  PT/ABM/PFUN06/001/00030/000029       D  1877  Registo de batismo n.º 29: Manuel. Pai: Manuel Fernandes; Mãe: Sabina 
+ 410001  PT/ABM/PFUN06/001/00034/000040       D  1881  Registo de batismo n.º 40: Francisco. Pai: José da Silva; Mãe: Emília 
+ 410401  PT/ABM/PFUN06/001/00037/000106       D  1884  Registo de batismo n.º 106: Rosa. Pai: José Gomes; Mãe: Júlia de Jesus
+ 410801  PT/ABM/PFUN06/001/00041/000101       D  1888  Registo de batismo n.º 101: João. Pai: Domingos de Gouveia; Mãe: Adela
+ 411201  PT/ABM/PFUN06/001/00044/000130       D  1891  Registo de batismo n.º 130: José. Pai: Manuel de Nóbrega; Mãe: Maria d
+ 411601  PT/ABM/PFUN06/001/00048/000002       D  1894  Registo de batismo n.º 2: Manuel. Pai: Manuel Luís; Mãe: Maria José
+ 412001  PT/ABM/PFUN06/001/00051/000053       D  1898  Registo de batismo n.º 53: João. Pai: Manuel Fernandes; Mãe: Maria Per
+ 412401  PT/ABM/PFUN06/001/00055/000082       D  1902  Registo de batismo n.º 82: João. Pai: António Ferreira; Mãe: Jesuína d
+ 412801  PT/ABM/PFUN06/001/00058/000007       D  1905  Registo de batismo n.º 7: Isidoro. Pai: Matias Teixeira; Mãe: Isabel N
+ 413201  PT/ABM/PFUN06/001/00060/000070       D  1907  Registo de batismo n.º 70: Américo. Pai: Alfredo Figueira; Mãe: Maria 
+ 413601  PT/ABM/PFUN06/001/00063/000105       D  1910  Registo de batismo n.º 105: Jesuína. Pai: José Rodrigues; Mãe: Adelaid
+ 414001  PT/ABM/PFUN06/002/00006/000240       D  1819  Registo de casamento: Manuel Nunes c.c. Joaquina Rosa
+ 414401  PT/ABM/PFUN06/002/00003/000005       D  1630  Registo de casamento: Francisco Álvares c.c. Maria de Sousa
+ 414801  PT/ABM/PFUN06/002/00004/000103       D  1741  Registo de casamento: José da Costa c.c. Ana de Freitas
+ 415201  PT/ABM/PFUN06/002/00007/000317       D  1854  Registo de casamento: Manuel Ferreira c.c. Valeriana de Jesus
+ 415601  PT/ABM/PFUN06/002/00030/000004       D  1882  Registo de casamento: Manuel Rodrigues c.c. Rosalina de Gouveia
+ 416001  PT/ABM/PFUN06/002/00047/000019       D  1899  Registo de casamento: Manuel Gonçalves de Oliveira c.c. Maria de Jesus
+ 416401  PT/ABM/PSTN04/001/00016/000018       D  1860  Registo de batismo n.º 18: Francisco. Pai: Jorge Fernandes Bom; Mãe: A
+ 416801  PT/ABM/PSTN04/001/00021/000039       D  1865  Registo de batismo n.º 39: Maria. Pai: António Augusto da Silva; Mãe: 
+ 417201  PT/ABM/PSTN04/001/00026/000015       D  1870  Registo de batismo n.º 15: Maria. Pai: João Francisco de Aragão; Mãe: 
+ 417601  PT/ABM/PSTN04/001/00031/000057       D  1875  Registo de batismo n.º 57: António. Pai: António Fernandes; Mãe: Antón
+ 418001  PT/ABM/PSTN04/001/00036/000048       D  1880  Registo de batismo n.º 48: Damaro. Pai: António Fernandes Teixeira; Mã
+ 418401  PT/ABM/PSTN04/001/00041/000045       D  1885  Registo de batismo n.º 45: Maria. Pai: José Marques Luís; Mãe: Maria R
+ 418801  PT/ABM/PSTN04/001/00046/000071       D  1890  Registo de batismo n.º 71: Maria Teresa. Pai: Manuel Caldeira de Freit
+ 419201  PT/ABM/PSTN04/001/00050/000079       D  1894  Registo de batismo n.º 79: José. Pai: Manuel Joaquim de Freitas; Mãe: 
+ 419601  PT/ABM/PSTN04/001/00055/000031       D  1899  Registo de batismo n.º 31: Guilhermina. Pai: Manuel Rodrigues dos Sant
+ 420001  PT/ABM/PSTN04/001/00059/000070       D  1903  Registo de batismo n.º 70: João. Pai: João Maria Jardim; Mãe: Matilde 
+ 420401  PT/ABM/PSTN04/001/00064/000066       D  1908  Registo de batismo n.º 66: Serafina. Pai: José João de Amim; Mãe: Seba
+ 420801  PT/ABM/PSTN04/002/00014/000015       D  1866  Registo de casamento: Francisco Marques Jardim c.c. Joaquina Rita
+ 421201  PT/ABM/PSTN04/002/00034/000032       D  1886  Registo de casamento: Francisco Marques Caldeira de Mendonça c.c. Mari
+ 421601  PT/ABM/PSTN04/002/00007/000092       D  1849  Registo de casamento: Francisco António Pacheco c.c. Antónia de Jesus
+ 422001  PT/ABM/PSTN04/002/00006/000438       D  1838  Registo de casamento: Francisco Velosa c.c. Josefa Joaquina
+ 422401  PT/ABM/PSTN04/002/00005/000267       D  1809  Registo de casamento: Narciso Mendes c.c. Domingas do Espírito Santo
+ 422801  PT/ABM/PSTN04/002/00004/000171       D  1786  Registo de casamento: Manuel Pacheco c.c. Maria da Encarnação
+ 423201  PT/ABM/PSTN04/002/00003/000334       D  1759  Registo de casamento: José Gonçalves de Gouveia c.c. Antónia Teresa de
+ 423601  PT/ABM/PSTN04/002/00002/000238       D  1691  Registo de casamento: Estêvão Fernandes Arrais c.c. Úrsula Fernandes d
+ 424001  PT/ABM/PSTN04/002/00052/000015       D  1904  Registo de casamento: Manuel Joaquim de Góis c.c. Maria Teresa
+ 424401  PT/ABM/PFUN07/001/00019/000007       D  1862  Registo de batismo n.º 7: Maria. Pai: José Pinto; Mãe: Ana Emília de J
+ 424801  PT/ABM/PFUN07/001/00022/000045       D  1865  Registo de batismo n.º 45: Maria. Pai: João Rodrigues Figueira; Mãe: M
+ 425201  PT/ABM/PFUN07/001/00025/000109       D  1868  Registo de batismo n.º 109: Luís. Pai: João Fernandes Luís; Mãe: Pauli
+ 425601  PT/ABM/PFUN07/001/00028/000074       D  1871  Registo de batismo n.º 74: Matilde. Pai: Anacleto de Abreu; Mãe: Antón
+ 426001  PT/ABM/PFUN07/001/00031/000069       D  1874  Registo de batismo n.º 69: Luísa. Pai: José Gonçalves; Mãe: Maria Augu
+ 426401  PT/ABM/PFUN07/001/00033/000103       D  1876  Registo de batismo n.º 103: Adelaide. Pai: Francisco Rodrigues; Mãe: J
+ 426801  PT/ABM/PFUN07/001/00036/000043       D  1879  Registo de batismo n.º 43: Maria da Conceição. Pai: João Correia; Mãe:
+ 427201  PT/ABM/PFUN07/001/00038/000081       D  1881  Registo de batismo n.º 81: Maria. Pai: João Gonçalves; Mãe: Maria Augu
+ 427601  PT/ABM/PFUN07/001/00040/000171       D  1883  Registo de batismo n.º 171: Georgina. Pai: Manuel Duarte; Mãe: Maria C
+ 428001  PT/ABM/DOP-DSUM/A/001/00019          DC 1973  Copiador de correspondência expedida para diversas entidades (1973)
+ 428401  PT/ABM/PFUN07/001/00045/000119       D  1888  Registo de batismo n.º 119: Maria Augusta. Pai: José João da Silva; Mã
+ 428801  PT/ABM/PFUN07/001/00047/000130       D  1890  Registo de batismo n.º 130: Eugénia. Pai: João Pinto; Mãe: Maria de Je
+ 429201  PT/ABM/PFUN07/001/00049/000018       D  1892  Registo de batismo n.º 18: Agostinha. Pai: José de Abreu; Mãe: Maria R
+ 429601  PT/ABM/PFUN07/001/00051/000140       D  1894  Registo de batismo n.º 140: José. Pai: Francisco Fernandes; Mãe: Júlia
+ 430001  PT/ABM/PFUN07/001/00053/000191       D  1896  Registo de batismo n.º 191: António. Pai: João da Silva; Mãe: Cláudia 
+ 430401  PT/ABM/PFUN07/001/00055/000068       D  1898  Registo de batismo n.º 68: Olívia. Pai: João Gonçalves; Mãe: Virgínia 
+ 430801  PT/ABM/PFUN07/001/00057/000092       D  1900  Registo de batismo n.º 92: Maria. Pai: Domingos Pereira; Mãe: Virgínia
+ 431201  PT/ABM/PFUN07/001/00059/000055       D  1902  Registo de batismo n.º 55: João. Pai: João Gonçalves; Mãe: Maria de Fr
+ 431601  PT/ABM/PFUN07/001/00060/000202       D  1903  Registo de batismo n.º 202: João. Pai: José Pinto; Mãe: Ana dos Santos
+ 432001  PT/ABM/PFUN07/001/00062/000115       D  1905  Registo de batismo n.º 115: Matilde. Pai: João Pinto; Mãe: Matilde de 
+ 432401  PT/ABM/PFUN07/001/00063/000188       D  1906  Registo de batismo n.º 188: José. Pai: José Rodrigues Nunes; Mãe: Cris
+ 432801  PT/ABM/PFUN07/001/00065/000062       D  1908  Registo de batismo n.º 62: Joana. Pai: Francisco Luís; Mãe: Júlia de J
+ 433201  PT/ABM/PFUN07/001/00066/000216       D  1909  Registo de batismo n.º 216: Carlos. Pai: José de Pontes; Mãe: Maria de
+ 433601  PT/ABM/PFUN07/001/00068/000049       D  1911  Registo de batismo n.º 49: João. Pai: José Coelho; Mãe: Maria Augusta
+ 434001  PT/ABM/PFUN07/002/00011/000009       D  1862  Registo de casamento: Justino Gomes c.c. Francisca de Jesus
+ 434401  PT/ABM/PFUN07/002/00035/000027       D  1886  Registo de casamento: José Pinto c.c. Maria Cristina
+ 434801  PT/ABM/PFUN07/002/00046/000003       D  1897  Registo de casamento: José de Gouveia c.c. Maria Augusta
+ 435201  PT/ABM/PFUN07/002/00055/000018       D  1906  Registo de casamento: Manuel da Silva c.c. Adelaide de Freitas
+ 435601  PT/ABM/PFUN07/002/00008/000146       D  1843  Registo de casamento: José Gomes de Gouveia c.c. Cecília da Silva
+ 436001  PT/ABM/PFUN07/002/00007/000114       D  1807  Registo de casamento: António Fernandes Correia c.c. Ana de Jesus
+ 436401  PT/ABM/PFUN07/002/00007/000434       D  1828  Registo de casamento: José da Costa Jardim c.c. Joaquina de Jesus
+ 436801  PT/ABM/PFUN07/002/00005/000104       D  1747  Registo de casamento: Inácio Rabelo c.c. Simoa dos Santos
+ 437201  PT/ABM/PFUN07/002/00004/000223       D  1713  Registo de casamento: Roberto Hely c.c. Francisca Horn Xavier
+ 437601  PT/ABM/PFUN08/002/00005/000075       D  1679  Registo de casamento: João Fernandes c.c. Beatriz Correia
+ 438001  PT/ABM/PFUN08/002/00015/000042       D  1839  Registo de casamento: Francisco Fernandes c.c. Clementina Rosa
+ 438401  PT/ABM/PFUN08/002/00014/000118       D  1825  Registo de casamento: Manuel Pereira dos Santos c.c. Antónia de Jesus
+ 438801  PT/ABM/PFUN08/002/00014/000520       D  1835  Registo de casamento: Manuel José Vieira c.c. Luísa Rosa
+ 439201  PT/ABM/PFUN08/002/00013/000102       D  1820  Registo de casamento: João Gomes Jasmins c.c. Camila Rosa
+ 439601  PT/ABM/PFUN08/002/00012/000328       D  1816  Registo de casamento: Francisco da Silva c.c. Maria Joaquina do Monte
+ 440001  PT/ABM/PFUN08/002/00010/000040       D  1799  Registo de casamento: José Joaquim da Ascensão c.c. Maria de Jesus
+ 440401  PT/ABM/PFUN08/002/00007/000023       D  1761  Registo de casamento: Manuel Rodrigues Alves c.c. Maria Francisca da C
+ 440801  PT/ABM/PFUN08/002/00007/000425       D  1775  Registo de casamento: António José c.c. Josefa de Jesus
+ 441201  PT/ABM/PFUN08/002/00007/000825       D  1789  Registo de casamento: José Gomes c.c. Josefa Maria
+ 441601  PT/ABM/PFUN08/002/00003/000029       D  1611  Registo de casamento: André Gonçalves c.c. Maria Fernandes
+ 442001  PT/ABM/PFUN08/002/00004/000059       D  1651  Registo de casamento: Manuel Vieira de Viveiros c.c. Joana de Vasconce
+ 442401  PT/ABM/PFUN08/002/00001/000067       D  1576  Registo de casamento: Gonçalo Rodrigues c.c. Maria Gonçalves
+ 442801  PT/ABM/PFUN08/002/00006/000454       D  1746  Registo de casamento: Miguel Gomes Jardim c.c. Luzia Gomes Jardim
+ 443201  PT/ABM/PFUN08/002/00016/000385       D  1859  Registo de casamento: Gonçalo António c.c. Lizarda
+ 443601  PT/ABM/PFUN08/002/00027/000026       D  1870  Registo de casamento: José Martins Ribeiro c.c. Bela Felícida de Jardi
+ 444001  PT/ABM/PFUN08/002/00036/000025       D  1879  Registo de casamento: António de Sousa c.c. Carolina Ludovina de Jesus
+ 444401  PT/ABM/PFUN08/002/00044/000017       D  1887  Registo de casamento: Venâncio de Freitas c.c. Virgínia Augusta
+ 444801  PT/ABM/PFUN08/002/00059/000033       D  1902  Registo de casamento: Manuel Gomes c.c. Joana Coelho
+ 445201  PT/ABM/PFUN08/002/00058/000032       D  1901  Registo de casamento: Agostinho de Freitas Abreu c.c. Maria Sabina
+ 445601  PT/ABM/PFUN08/002/00063/000011       D  1906  Registo de casamento: João Martins c.c. Maria Pereira
+ 446001  PT/ABM/PFUN08/002/00067/000027       D  1910  Registo de casamento: João da Silva c.c. Isabel Pereira
+ 446401  PT/ABM/PFUN08/001/00011/001063       D  1763  Registo de batismo: Rita, escrava. Pai: Incógnito; Mãe: Incógnita
+ 446801  PT/ABM/PFUN08/001/00011/000889       D  1761  Registo de batismo: Ana. Pai: Lourenço Martins; Mãe: Maria de Sousa
+ 447201  PT/ABM/PFUN08/001/00011/000480       D  1755  Registo de batismo: Maria. Pai: Nicolau Ferreira; Mãe: Francisca Maria
+ 447601  PT/ABM/PFUN08/001/00012/000593       D  1770  Registo de batismo: João. Pai: João da Costa; Mãe: Teresa Maria
+ 448001  PT/ABM/PFUN08/001/00012/001255       D  1775  Registo de batismo: Joana. Pai: José de Freitas; Mãe: Ana Maria Rosa
+ 448401  PT/ABM/PFUN08/001/00012/001570       D  1777  Registo de batismo: Manuel. Pai: Antonio Ferreira; Mãe: Maria da Ressu
+ 448801  PT/ABM/PFUN08/001/00012/000347       D  1767  Registo de batismo: Bibiana. Pai: João de Freitas; Mãe: Antónia Martin
+ 449201  PT/ABM/PFUN08/001/00013/000219       D  1780  Registo de batismo: Rosa. Pai: Francisco Antonio; Mãe: Ana(?) dos Sant
+ 449601  PT/ABM/PFUN08/001/00014/000291       D  1786  Registo de batismo: Joaquina. Pai: Antonio Manuel; Mãe: Maria do Socor
+ 450001  PT/ABM/PFUN08/001/00014/000464       D  1787  Registo de batismo: Ines. Pai: Manuel José de Freitas; Mãe: Ana Joaqui
+ 450401  PT/ABM/PFUN08/001/00015/000944       D  1794  Registo de batismo: João. Pai: João Joaquim Pestana; Mãe: Ursula Lucia
+ 450801  PT/ABM/PFUN08/001/00015/000245       D  1790  Registo de batismo: Maria. Pai: João José de Ornelas Cabral; Mãe: Isab
+ 451201  PT/ABM/PFUN08/001/00015/001777       D  1800  Registo de batismo: Luísa. Pai: José da Silva; Mãe: Francisca Rosa
+ 451601  PT/ABM/PFUN08/001/00015/000813       D  1794  Registo de batismo: Manuel. Pai: Manuel Ferreira; Mãe: Antonia de Jesu
+ 452001  PT/ABM/PFUN08/001/00015/001471       D  1798  Registo de batismo: Maria Joaquina. Pai: José Rodrigues de Sá; Mãe: An
+ 452401  PT/ABM/PFUN08/001/00015/001509       D  1798  Registo de batismo: João. Pai: João Pedro; Mãe: Ana Joaquina
+ 452801  PT/ABM/PFUN08/001/00016/000108       D  1805  Registo de batismo: Ludevina. Pai: Josefa da Encarnação; Mãe: Maria da
+ 453201  PT/ABM/PFUN08/001/00016/000282       D  1806  Registo de batismo: Juliana. Pai: José Gomes; Mãe: Inácia Joana
+ 453601  PT/ABM/PFUN08/001/00017/000271       D  1810  Registo de batismo: João. Pai: José Gomes; Mãe: Ana da Ascenção
+ 454001  PT/ABM/PFUN08/001/00017/000115       D  1809  Registo de batismo: Maria. Pai: Antonio da Costa; Mãe: Maria da Concei
+ 454401  PT/ABM/PFUN08/001/00017/000837       D  1812  Registo de batismo: Carlota. Pai: Luís José de Abreu; Mãe: Incógnita
+ 454801  PT/ABM/PFUN08/001/00018/000171       D  1813  Registo de batismo: Severina. Pai: José Antonio Patricio; Mãe: Maria d
+ 455201  PT/ABM/PFUN08/001/00018/000449       D  1815  Registo de batismo: Marcelino. Pai: Antonio Rodrigues Rebelo; Mãe: Joa
+ 455601  PT/ABM/PFUN08/001/00020/001131       D  1822  Registo de batismo: José. Pai: Manuel Gomes; Mãe: Juliana Rosa
+ 456001  PT/ABM/PFUN08/001/00020/000601       D  1820  Registo de batismo: Jacinto. Pai: Manuel de Abreu; Mãe: Joaquina Rosa
+ 456401  PT/ABM/PFUN08/001/00020/000676       D  1820  Registo de batismo: António. Pai: Incógnito; Mãe: Incógnita
+ 456801  PT/ABM/PFUN08/001/00021/000324       D  1824  Registo de batismo: Claudina. Pai: Antonio Gonçalves Cunha; Mãe: Rosa 
+ 457201  PT/ABM/PFUN08/001/00022/000202       D  1825  Registo de batismo: João. Pai: Antonio da Costa; Mãe: Rosa de Jesus
+ 457601  PT/ABM/PFUN08/001/00023/000784       D  1830  Registo de batismo: Luísa. Pai: Victorino Antonio; Mãe: Luísa Rosa
+ 458001  PT/ABM/PFUN08/001/00023/000732       D  1830  Registo de batismo: Luís. Pai: Luís José Cabral; Mãe: Doroteia Rosa
+ 458401  PT/ABM/PFUN08/001/00024/000179       D  1831  Registo de batismo: Maria. Pai: João da Silva; Mãe: Rosa Maria
+ 458801  PT/ABM/PFUN08/001/00024/000558       D  1833  Registo de batismo: Emília. Pai: Antonio Joaquim Mesquita Spranger, Mo
+ 459201  PT/ABM/PFUN08/001/00026/000583       D  1852  Registo de batismo: Maria. Pai: Manuel Henriques de Freitas; Mãe: Júli
+ 459601  PT/ABM/PFUN08/001/00026/000146       D  1850  Registo de batismo: Maria. Pai: João Rodrigues Pires; Mãe: Sofia Guilh
+ 460001  PT/ABM/PFUN08/001/00026/001249       D  1856  Registo de batismo: Júlia. Pai: Manuel de Andrade; Mãe: Maria da Conce
+ 460401  PT/ABM/PFUN08/001/00027/000237       D  1858  Registo de batismo: Francisco. Pai: Antonio de Freitas; Mãe: Jesuina R
+ 460801  PT/ABM/PFUN08/001/00028/000054       D  1860  Registo de batismo n.º 54: Maria. Pai: Agostinho José Patrício; Mãe: L
+ 461201  PT/ABM/PFUN08/001/00030/000104       D  1862  Registo de batismo n.º 104: João. Pai: Manuel Luís Falcão; Mãe: Cândid
+ 461601  PT/ABM/PFUN08/001/00033/000057       D  1865  Registo de batismo n.º 57: João. Pai: Arsénio de Oliveira; Mãe: Maria 
+ 462001  PT/ABM/PFUN08/001/00035/000091       D  1867  Registo de batismo n.º 91: Júlia. Pai: Tomás Gonçalves; Mãe: Maria Leo
+ 462401  PT/ABM/PFUN08/001/00038/000050       D  1870  Registo de batismo n.º 50: Leopoldina. Pai: Pedro Neves Ferreira; Mãe:
+ 462801  PT/ABM/PFUN08/001/00040/000033       D  1872  Registo de batismo n.º 33: Júlia. Pai: Julião Rodrigues; Mãe: Virgínia
+ 463201  PT/ABM/PFUN08/001/00042/000144       D  1874  Registo de batismo n.º 144: Augusto. Pai: Incógnito; Mãe: Maria José
+ 463601  PT/ABM/PFUN08/001/00044/000064       D  1876  Registo de batismo n.º 64: Ludovina. Pai: Francisco Rebelo; Mãe: Maria
+ 464001  PT/ABM/PFUN08/001/00046/000176       D  1878  Registo de batismo n.º 176: Luís. Pai: António do Nascimento; Mãe: Luí
+ 464401  PT/ABM/PFUN08/001/00048/000047       D  1880  Registo de batismo n.º 47: Henrique. Pai: Manuel Martins; Mãe: Maria A
+ 464801  PT/ABM/PFUN08/001/00050/000124       D  1882  Registo de batismo n.º 124: Helena. Pai: João Gonçalves Baptista; Mãe:
+ 465201  PT/ABM/PFUN08/001/00052/000021       D  1884  Registo de batismo n.º 21: João. Pai: Manuel Teixeira Mendes; Mãe: Dio
+ 465601  PT/ABM/PFUN08/001/00055/000007       D  1887  Registo de batismo n.º 7: Maria. Pai: João de Aguiar; Mãe: Maria Carol
+ 466001  PT/ABM/PFUN08/001/00056/000184       D  1888  Registo de batismo n.º 184: Augusta. Pai: João Fernandes de Santana; M
+ 466401  PT/ABM/PFUN08/001/00058/000066       D  1890  Registo de batismo n.º 66: Ernesto. Pai: António Fernandes de Castro; 
+ 466801  PT/ABM/PFUN08/001/00060/000157       D  1892  Registo de batismo n.º 157: Leopoldina. Pai: Quirino da Luz; Mãe: Tere
+ 467201  PT/ABM/PFUN08/001/00062/000164       D  1894  Registo de batismo n.º 164: Maximiano. Pai: António Figueira de Barros
+ 467601  PT/ABM/PFUN08/001/00064/000020       D  1896  Registo de batismo n.º 20: Maria. Pai: Silvestre Fernandes; Mãe: Guilh
+ 468001  PT/ABM/PFUN08/001/00066/000067       D  1898  Registo de batismo n.º 67: António. Pai: Vicente Teixeira; Mãe: Luísa 
+ 468401  PT/ABM/PFUN08/001/00068/000144       D  1900  Registo de batismo n.º 144: Hermina. Pai: Manuel Rodrigues; Mãe: Maria
+ 468801  PT/ABM/PFUN08/001/00069/000165       D  1901  Registo de batismo n.º 165: Maria José. Pai: Joaquim João; Mãe: Luísa 
+ 469201  PT/ABM/PFUN08/001/00071/000140       D  1903  Registo de batismo n.º 140: Maria Rita. Pai: João de Abreu Júnior; Mãe
+ 469601  PT/ABM/PFUN08/001/00072/000050       D  1904  Registo de batismo n.º 50: António Rafael. Pai: António Maria Henrique
+ 470001  PT/ABM/PFUN08/001/00073/000120       D  1905  Registo de batismo n.º 120: Arsénia. Pai: César da Silva; Mãe: Virgíni
+ 470401  PT/ABM/PFUN08/001/00075/000215       D  1907  Registo de batismo n.º 215: Joaquim. Pai: Luís Gonçalves Jardim; Mãe: 
+ 470801  PT/ABM/PFUN08/001/00076/000251       D  1908  Registo de batismo n.º 251: Maria da Conceição. Pai: Gabriel de Sousa;
+ 471201  PT/ABM/PFUN08/001/00077/000251       D  1909  Registo de batismo n.º 251: Maria Vanda Conceição. Pai: Cândido Eduard
+ 471601  PT/ABM/PFUN08/001/00079/000066       D  1911  Registo de batismo n.º 66: Juvenal. Pai: José de Freitas; Mãe: Maria G
+ 472001  PT/ABM/PFUN09/001/00016/000046       D  1865  Registo de batismo n.º 46: Manuel. Pai: Manuel Mendes; Mãe: Emília Cân
+ 472401  PT/ABM/PFUN09/001/00022/000043       D  1871  Registo de batismo n.º 43: Maria. Pai: José Ferreira; Mãe: Carlota da 
+ 472801  PT/ABM/PFUN09/001/00027/000028       D  1876  Registo de batismo n.º 28: Manuel. Pai: José Rodrigues de Gouveia; Mãe
+ 473201  PT/ABM/PFUN09/001/00031/000034       D  1880  Registo de batismo n.º 34: Hermínia. Pai: Manuel da Silva; Mãe: Caroli
+ 473601  PT/ABM/PFUN09/001/00035/000063       D  1884  Registo de batismo n.º 63: Maria. Pai: Luís Fernandes Barradas; Mãe: C
+ 474001  PT/ABM/PFUN09/001/00040/000013       D  1889  Registo de batismo n.º 13: Luísa. Pai: Joaquim Gomes; Mãe: Luísa de Je
+ 474401  PT/ABM/PFUN09/001/00044/000021       D  1893  Registo de batismo n.º 21: Maria. Pai: José de Andrade Barata; Mãe: Jo
+ 474801  PT/ABM/PFUN09/001/00059/000096       D  1908  Registo de batismo n.º 96: Américo. Pai: António Ribeiro; Mãe: Virgíni
+ 475201  PT/ABM/PFUN09/002/00013/000008       D  1865  Registo de casamento: João de Andrade c.c. Jacinta de Jesus
+ 475601  PT/ABM/PFUN09/002/00035/000005       D  1887  Registo de casamento: Manuel de Freitas c.c. Maria de Freitas
+ 476001  PT/ABM/PFUN09/002/00006/000058       D  1814  Registo de casamento: José Francisco c.c. Maria de Jesus
+ 476401  PT/ABM/PFUN09/002/00005/000016       D  1786  Registo de casamento: Manuel Rodrigues da Conceição c.c. Josefa Maria
+ 476801  PT/ABM/PFUN09/002/00001/000004       D  1587  Registo de casamento: Gonçalo [...] (f.º de Gonçalo Gonçalves) c.c. Ca
+ 477201  PT/ABM/PFUN09/002/00042/000001       D  1894  Registo de casamento: José Rodrigues c.c. Maria Antónia Martins
+ 477601  PT/ABM/PFUN09/002/00059/000011       D  1911  Registo de casamento: António Gonçalves c.c. Rosa de Jesus Ribeiro
+ 478001  PT/ABM/PFUN10/001/00043/000021       D  1864  Registo de batismo n.º 21: João. Pai: Henrique Augusto Vieira; Mãe: Ma
+ 478401  PT/ABM/PFUN10/001/00047/000038       D  1868  Registo de batismo n.º 38: Augusta. Pai: Incógnito; Mãe: Augusta de Al
+ 478801  PT/ABM/PFUN10/001/00051/000024       D  1872  Registo de batismo n.º 24: António Sebastião. Pai: Augusto Maria Camac
+ 479201  PT/ABM/PFUN10/001/00055/000039       D  1876  Registo de batismo n.º 39: Ludovina. Pai: José António Gonçalves; Mãe:
+ 479601  PT/ABM/PFUN10/001/00059/000061       D  1880  Registo de batismo n.º 61: Maximiano. Pai: Incógnito; Mãe: Maria Rosa 
+ 480001  PT/ABM/PFUN10/001/00063/000089       D  1884  Registo de batismo n.º 89: Maria. Pai: Incógnito; Mãe: Rosa dos Ramos
+ 480401  PT/ABM/PFUN10/001/00067/000055       D  1888  Registo de batismo n.º 55: Maria. Pai: André Ferreira de Andrade; Mãe:
+ 480801  PT/ABM/PFUN10/001/00071/000085       D  1892  Registo de batismo n.º 85: António. Pai: João da Silva; Mãe: Maria de 
+ 481201  PT/ABM/PFUN10/001/00073/000087       D  1894  Registo de batismo n.º 87: Maria. Pai: João de Castro; Mãe: Maria Bapt
+ 481601  PT/ABM/PFUN10/001/00077/000027       D  1898  Registo de batismo n.º 27: José. Pai: José Fernandes Camacho; Mãe: Mad
+ 482001  PT/ABM/PFUN10/001/00080/000087       D  1901  Registo de batismo n.º 87: José. Pai: Incógnito; Mãe: Adelaide Miranda
+ 482401  PT/ABM/PFUN10/001/00083/000088       D  1904  Registo de batismo n.º 88: Leonor. Pai: Incógnito; Mãe: Eva da Câmara
+ 482801  PT/ABM/PFUN10/001/00087/000033       D  1908  Registo de batismo n.º 33: Corina. Pai: Albino Gonçalves de Brito; Mãe
+ 483201  PT/ABM/PFUN10/002/00021/000057       D  1840  Registo de casamento: Francisco de Sá c.c. Ludovina Rosa
+ 483601  PT/ABM/PFUN10/002/00021/000334       D  1849  Registo de casamento: António Marques da Silveira c.c. Arsénia da Pied
+ 484001  PT/ABM/PFUN10/002/00020/000343       D  1836  Registo de casamento: Manuel da Rosa e Silva c.c. Maria Benedita do Mo
+ 484401  PT/ABM/PFUN10/002/00018/000433       D  1817  Registo de casamento: Bento João Veloso c.c. Carlota Damiana de Macedo
+ 484801  PT/ABM/PFUN10/002/00018/000552       D  1820  Registo de casamento: José Gonçalves c.c. Maria de Jesus
+ 485201  PT/ABM/PFUN10/002/00017/000300       D  1799  Registo de casamento: João Gomes c.c. Joana Quitéria
+ 485601  PT/ABM/PFUN10/002/00016/000156       D  1778  Registo de casamento: Francisco Manuel de Vasconcelos c.c. Maria Joaqu
+ 486001  PT/ABM/PFUN10/002/00016/000557       D  1788  Registo de casamento: João Francisco Moniz de Meneses c.c. Antónia Joa
+ 486401  PT/ABM/PFUN10/002/00015/000304       D  1771  Registo de casamento: Joaquim Manuel de França e Andrade c.c. Cecília 
+ 486801  PT/ABM/PFUN10/002/00013/000191       D  1752  Registo de casamento: Francisco Xavier de Faria e Vasconcelos c.c. Ant
+ 487201  PT/ABM/PFUN10/002/00030/000023       D  1867  Registo de casamento: João Martins c.c. Romana Machado Pacheco
+ 487601  PT/ABM/PFUN10/002/00044/000004       D  1881  Registo de casamento: José Vieira c.c. Maria de Jesus Gonçalves
+ 488001  PT/ABM/PFUN10/002/00055/000006       D  1892  Registo de casamento: João Rebelo c.c. Antónia dos Santos
+ 488401  PT/ABM/PFUN10/002/00012/000451       D  1744  Registo de casamento: António Rodrigues Cunha c.c. Francisca Antónia P
+ 488801  PT/ABM/PFUN10/002/00011/000175       D  1706  Registo de casamento: Inácio de Gouveia c.c. Domingas dos Ramos
+ 489201  PT/ABM/PFUN10/002/00011/000582       D  1721  Registo de casamento: Domingos Fernandes c.c. Maria Francisca
+ 489601  PT/ABM/PFUN10/002/00011/000988       D  1732  Registo de casamento: José Vaz c.c. Domingas Francisca da Rosa
+ 490001  PT/ABM/PFUN10/002/00059/000019       D  1896  Registo de casamento: António de Freitas c.c. Maria do Espírito Santo
+ 490401  PT/ABM/PFUN10/002/00069/000008       D  1906  Registo de casamento: Manuel Moniz de Meneses c.c. Francisca de Mendon
+ 490801  PT/ABM/PFUN10/002/00010/000148       D  1679  Registo de casamento: Gaspar de Andrade de Vasconcelos c.c. Antónia Vi
+ 491201  PT/ABM/PFUN10/002/00010/000549       D  1695  Registo de casamento: Lucas Soares c.c. Ana de Santiago e Abreu
+ 491601  PT/ABM/PFUN10/002/00009/000285       D  1623  Registo de casamento: Jorge Correia Bettencourt c.c. Joana de Vasconce
+ 492001  PT/ABM/PFUN10/002/00009/000771       D  1639  Registo de casamento: Pedro Gomes c.c. [...]
+ 492401  PT/ABM/PFUN10/002/00009/001172       D  1660  Registo de casamento: Manuel Lopes de Leão c.c. Maria da Silva
+ 492801  PT/ABM/PFUN10/002/00008/000190       D  1605  Registo de casamento: Diogo Fernandes c.c. Ana Paris
+ 493201  PT/ABM/PFUN10/002/00008/000591       D  1614  Registo de casamento: António Gomes c.c. Domingas Alves
+ 493601  —
+ 494001  —
+ 494401  —
+ 494801  —
+ 495201  —
+ 495601  —
+ 496001  —
+ 496401  PT/ABM/PFUN10/002/00022/000164       D  1859  Registo de casamento: Francisco Rodrigues c.c. Luísa de Jesus
+ 496801  —
+ 497201  —
+ 497601  —
+ 498001  —
+ 498401  —
+ 498801  —
+ 499201  —
+ 499601  PT/ABM/PCML02/001/00008/000017       D  1863  Registo de batismo n.º 17: Carolina. Pai: Manuel Pinto Abreu; Mãe: Mar
+ 500001  PT/ABM/PCML02/001/00018/000008       D  1873  Registo de batismo n.º 8: Clementino. Pai: Manuel Joaquim Rodrigues; M
+ 500401  PT/ABM/PCML02/001/00026/000028       D  1881  Registo de batismo n.º 28: Francisco. Pai: João Fernandes; Mãe: Teresa
+ 500801  PT/ABM/PCML02/001/00033/000051       D  1888  Registo de batismo n.º 51: Manuel. Pai: António Figueira; Mãe: Maria d
+ 501201  PT/ABM/PCML02/001/00041/000040       D  1896  Registo de batismo n.º 40: José. Pai: João Gonçalves; Mãe: Maria de Je
+ 501601  PT/ABM/PCML02/001/00048/000027       D  1903  Registo de batismo n.º 27: João. Pai: António de Canha; Mãe: Antónia d
+ 502001  PT/ABM/PCML02/001/00055/000021       D  1910  Registo de batismo n.º 21: Maria. Pai: José Figueira da Ascensão; Mãe:
+ 502401  PT/ABM/PCML02/002/00038/000002       D  1896  Registo de casamento n.º 2: Augusto Pinto c.c. Emília Clara de Jesus
+ 502801  PT/ABM/PSCR03/001/00019/000020       D  1862  Registo de batismo n.º 20: António. Pai: António de Matos; Mãe: Maria 
+ 503201  PT/ABM/PSCR03/001/00024/000009       D  1867  Registo de batismo n.º 9: João. Pai: António de Nóbrega; Mãe: Maria de
+ 503601  PT/ABM/PSCR03/001/00029/000083       D  1872  Registo de batismo n.º 83: Guilhermina. Pai: Incógnito; Mãe: Justina d
+ 504001  PT/ABM/PSCR03/001/00033/000079       D  1876  Registo de batismo n.º 79: Maria. Pai: Manuel de Caires; Mãe: Maria He
+ 504401  PT/ABM/PSCR03/001/00037/000007       D  1880  Registo de batismo n.º 7: Manuel. Pai: Manuel de Caires; Mãe: Maria He
+ 504801  PT/ABM/PSCR03/001/00041/000047       D  1884  Registo de batismo n.º 47: José. Pai: Manuel Correia; Mãe: Virgínia de
+ 505201  PT/ABM/PSCR03/001/00044/000115       D  1887  Registo de batismo n.º 115: Maria. Pai: Francisco de Gouveia; Mãe: Gui
+ 505601  PT/ABM/PSCR03/001/00048/000047       D  1891  Registo de batismo n.º 47: Manuel. Pai: Alexandre de Quintal; Mãe: Hen
+ 506001  PT/ABM/PSCR03/001/00051/000054       D  1894  Registo de batismo n.º 54: Henrique. Pai: António Joaquim da Silva; Mã
+ 506401  PT/ABM/PSCR03/001/00054/000140       D  1897  Registo de batismo n.º 140: Júlia. Pai: José de Freitas; Mãe: Maria de
+ 506801  PT/ABM/PSCR03/001/00057/000071       D  1900  Registo de batismo n.º 71: Narciso. Pai: Narciso de Andrade; Mãe: Mari
+ 507201  PT/ABM/PSCR03/001/00060/000027       D  1903  Registo de batismo n.º 27: Júlia. Pai: Joaquim Rodrigues; Mãe: Luísa d
+ 507601  PT/ABM/PSCR03/001/00062/000142       D  1905  Registo de batismo n.º 142: José. Pai: João de Caires; Mãe: Rita de Je
+ 508001  PT/ABM/PSCR03/001/00064/000011       D  1907  Registo de batismo n.º 11: Álvaro. Pai: Estêvão Nunes; Mãe: Hermínia d
+ 508401  PT/ABM/PSCR03/001/00067/000040       D  1910  Registo de batismo n.º 40: José. Pai: António de Quintal; Mãe: Virgíni
+ 508801  PT/ABM/PSCR03/002/00007/000021       D  1837  Registo de casamento: António Fernandes c.c. Justina Rosa de Jesus
+ 509201  PT/ABM/PSCR03/002/00006/000084       D  1809  Registo de casamento: Manuel de Nóbrega e Matos c.c. Antónia de Jesus
+ 509601  PT/ABM/PSCR03/002/00005/000285       D  1764  Registo de casamento: Francisco Dias Teixeira c.c. Joana de Matos e Va
+ 510001  PT/ABM/JAS/L/010/000041              D        Retrato de família num quintal de uma casa (corpo inteiro)
+ 510401  PT/ABM/PSCR03/002/00004/000333       D  1725  Registo de casamento: Francisco Rodrigues c.c. Maria de Gouveia Freita
+ 510801  PT/ABM/PSCR03/002/00003/000023       D  1651  Registo de casamento: Manuel de Cairos c.c. Isabel da Mata
+ 511201  PT/ABM/PSCR03/002/00021/000005       D  1873  Registo de casamento n.º 5: Manuel de Gouveia c.c. Henriqueta de Jesus
+ 511601  PT/ABM/PSCR03/002/00039/000002       D  1891  Registo de casamento n.º 2: Manuel de Gouveia Baptista c.c. Justina de
+ 512001  PT/ABM/PSCR03/002/00052/000013       D  1904  Registo de casamento n.º 13: António de Sousa c.c. Perpétua de Caires
+ 512401  PT/ABM/PPMZ04/001/00017/000006       D  1866  Registo de batismo n.º 6: Alípio. Pai: Francisco Gomes; Mãe: Francisca
+ 512801  PT/ABM/PPMZ04/001/00026/000011       D  1875  Registo de batismo n.º 11: António. Pai: António do Nascimento Ribeiro
+ 513201  PT/ABM/PPMZ04/001/00034/000019       D  1883  Registo de batismo n.º 19: Maria. Pai: Profírio Pestana de Castro; Mãe
+ 513601  PT/ABM/PPMZ04/001/00044/000001       D  1893  Registo de batismo n.º 1: João. Pai: Domingos de Lima; Mãe: Maria Caro
+ 514001  PT/ABM/PPMZ04/001/00052/000035       D  1901  Registo de batismo n.º 35: Maria. Pai: Manuel do Espírito Santo; Mãe: 
+ 514401  PT/ABM/PPMZ04/001/00061/000007       D  1910  Registo de batismo n.º 7: João. Pai: Manuel Martinho Ferreira; Mãe: Au
+ 514801  PT/ABM/PPMZ04/002/00002/000110       D  1738  Registo de casamento: Manuel Rodrigues Jardim c.c. Isabel Rodrigues da
+ 515201  PT/ABM/PPMZ04/002/00004/000235       D  1816  Registo de casamento: Leandro Rodrigues da Conceição c.c. Mariana Rosa
+ 515601  PT/ABM/PPMZ04/002/00002/000285       D  1769  Registo de casamento: Manuel de Ponte do Nascimento c.c. Antónia Rosa 
+ 516001  PT/ABM/PPMZ04/002/00052/000003       D  1906  Registo de casamento: Manuel de Castro Teixeira c.c. Maria Rosa da Enc
+ 516401  PT/ABM/PSTN05/001/00012/000013       D  1871  Registo de batismo n.º 13: António. Pai: Manuel Gomes; Mãe: Joaquina d
+ 516801  PT/ABM/PSTN05/001/00025/000008       D  1884  Registo de batismo n.º 8: João. Pai: Pedro Teixeira Cardoso; Mãe: Caro
+ 517201  PT/ABM/PSTN05/001/00035/000031       D  1894  Registo de batismo n.º 31: Rosa. Pai: João Maria de Nóbrega; Mãe: Emíl
+ 517601  PT/ABM/PSTN05/001/00046/000026       D  1905  Registo de batismo n.º 26: Maria. Pai: Manuel Rodrigues Antunes; Mãe: 
+ 518001  PT/ABM/PSTN05/002/00028/000004       D  1887  Registo de casamento: José de Freitas Cardoso c.c. Carolina de Jesus
+ 518401  PT/ABM/PRBR04/001/00012/000008       D  1863  Registo de batismo n.º 8: Justina. Pai: Manuel João; Mãe: Maria de Jes
+ 518801  PT/ABM/VIC/R/001-001/000173          D  1890  Retrato de Amândio da Silva Gavião (meio corpo)
+ 519201  PT/ABM/PRBR04/001/00023/000073       D  1874  Registo de batismo n.º 73: Maria. Pai: Joaquim de Abreu Brás; Mãe: Mar
+ 519601  PT/ABM/PRBR04/001/00028/000051       D  1879  Registo de batismo n.º 51: Francisca. Pai: Francisco Pestana dos Reis;
+ 520001  PT/ABM/PRBR04/001/00033/000065       D  1884  Registo de batismo n.º 65: Antónia. Pai: João de Abreu de Sá; Mãe: Mar
+ 520401  PT/ABM/PRBR04/001/00039/000018       D  1890  Registo de batismo n.º 18: João. Pai: Francisco Gonçalves; Mãe: Ludevi
+ 520801  PT/ABM/PRBR04/001/00044/000014       D  1895  Registo de batismo n.º 14: Maria. Pai: Manuel de Sousa; Mãe: Maria de 
+ 521201  PT/ABM/PRBR04/001/00049/000012       D  1900  Registo de batismo n.º 12: Antónia. Pai: Manuel Correia; Mãe: Maria do
+ 521601  PT/ABM/PRBR04/001/00054/000014       D  1905  Registo de batismo n.º 14: João. Pai: Manuel Gonçalves Júnior; Mãe: Ma
+ 522001  PT/ABM/PRBR04/001/00058/000080       D  1909  Registo de batismo n.º 80: Jacinta. Pai: Manuel Pestana; Mãe: Maria de
+ 522401  PT/ABM/PRBR04/002/00023/000012       D  1876  Registo de casamento: Francisco Pestana dos Reis c.c. Maria de Jesus
+ 522801  PT/ABM/PRBR04/002/00005/000179       D  1835  Registo de casamento: António da Silva c.c. Ana Maria
+ 523201  PT/ABM/PRBR04/002/00004/000226       D  1798  Registo de casamento: António Rodrigues de Gouveia c.c. Maria Rosa dos
+ 523601  PT/ABM/PRBR04/002/00003/000070       D  1727  Registo de casamento: José Ferreira c.c. Antónia Gomes
+ 524001  PT/ABM/PRBR04/002/00003/000459       D  1770  Registo de casamento: António de Abreu de Macedo c.c. Inácia de Jesus
+ 524401  PT/ABM/PRBR04/002/00001/000185       D  1647  Registo de casamento: Francisco Gonçalves Camacho c.c. Domingas Rodrig
+ 524801  PT/ABM/PRBR03/001/00005/000019       D  1860  Registo de batismo n.º 19: Francisco. Pai: José Pestana; Mãe: Maria do
+ 525201  PT/ABM/PRBR03/001/00012/000023       D  1867  Registo de batismo n.º 23: Pedro. Pai: Manuel de Abreu Paulino; Mãe: M
+ 525601  PT/ABM/PRBR03/001/00017/000036       D  1872  Registo de batismo n.º 36: Pedro. Pai: Manuel de Abreu; Mãe: Maria Ros
+ 526001  PT/ABM/PRBR03/001/00022/000013       D  1877  Registo de batismo n.º 13: Ludevina. Pai: José Francisco Pita; Mãe: Ma
+ 526401  PT/ABM/PRBR03/001/00027/000064       D  1882  Registo de batismo n.º 64: José. Pai: Manuel João de Jesus Júnior; Mãe
+ 526801  PT/ABM/PRBR03/001/00033/000023       D  1888  Registo de batismo n.º 23: Manuel. Pai: Jacinto da Câmara; Mãe: Maria 
+ 527201  PT/ABM/PRBR03/001/00039/000012       D  1894  Registo de batismo n.º 12: José. Pai: Alberto Gonçalves; Mãe: Maria da
+ 527601  PT/ABM/PRBR03/001/00045/000052       D  1900  Registo de batismo n.º 52: Maria. Pai: João Gonçalves; Mãe: Emília de 
+ 528001  PT/ABM/PRBR03/001/00051/000035       D  1906  Registo de batismo n.º 35: Inês. Pai: José Pestana de Gouveia; Mãe: Ma
+ 528401  PT/ABM/PRBR03/002/00010/000008       D  1865  Registo de casamento: José da Câmara c.c. Luísa Maria
+ 528801  PT/ABM/PRBR03/002/00004/000017       D  1815  Registo de casamento: José dos Santos c.c. Maria dos Ramos
+ 529201  PT/ABM/PRBR03/002/00003/000039       D  1797  Registo de casamento: Manuel João c.c. Domingas dos Reis
+ 529601  PT/ABM/PRBR03/002/00001/000278       D  1747  Registo de casamento: Gaspar de Abreu c.c. Maria Pestana
+ 530001  PT/ABM/PSVC03/001/00035/000178       D  1861  Registo de batismo n.º 178: João. Pai: João Gomes Correia; Mãe: Caroli
+ 530401  PT/ABM/PSVC03/001/00037/000125       D  1863  Registo de batismo n.º 125: Cândida. Pai: Bento João de Castro; Mãe: M
+ 530801  PT/ABM/PSVC03/001/00039/000156       D  1865  Registo de batismo n.º 156: Maria. Pai: Hilário Sardinha; Mãe: Joana T
+ 531201  PT/ABM/PSVC03/001/00042/000027       D  1868  Registo de batismo n.º 27: Caetano. Pai: Januário Joaquim de Macedo; M
+ 531601  PT/ABM/PSVC03/001/00044/000193       D  1870  Registo de batismo n.º 193: Virgilina. Pai: Francisco Joaquim de Menez
+ 532001  PT/ABM/PSVC03/001/00046/000030       D  1872  Registo de batismo n.º 30: Maria. Pai: José Teixeira de Gouveia; Mãe: 
+ 532401  PT/ABM/PSVC03/001/00048/000083       D  1874  Registo de batismo n.º 83: Teresa. Pai: Joaquim de Andrade; Mãe: Maria
+ 532801  PT/ABM/PSVC03/001/00050/000078       D  1876  Registo de batismo n.º 78: José. Pai: Januário Martins; Mãe: Joaquina 
+ 533201  PT/ABM/PSVC03/001/00052/000164       D  1878  Registo de batismo n.º 164: João. Pai: José Dias de Gouveia; Mãe: Hele
+ 533601  PT/ABM/PSVC03/001/00054/000103       D  1880  Registo de batismo n.º 103: Isabel. Pai: Joaquim António; Mãe: Maria T
+ 534001  PT/ABM/PSVC03/001/00056/000085       D  1882  Registo de batismo n.º 85: Augusta. Pai: Incógnito; Mãe: Antónia de Je
+ 534401  PT/ABM/PSVC03/001/00058/000067       D  1884  Registo de batismo n.º 67: António. Pai: António de Sousa; Mãe: Isabel
+ 534801  PT/ABM/PSVC03/001/00060/000145       D  1886  Registo de batismo n.º 145: Emília. Pai: Manuel Joaquim de França Andr
+ 535201  PT/ABM/PSVC03/001/00061/000123       D  1887  Registo de batismo n.º 123: António. Pai: Joaquim Rodrigues da Silva; 
+ 535601  PT/ABM/PSVC03/001/00063/000075       D  1889  Registo de batismo n.º 75: Maria. Pai: António de Gouveia Brazão Júnio
+ 536001  PT/ABM/PSVC03/001/00065/000145       D  1891  Registo de batismo n.º 145: Manuel. Pai: Gregório de Andrade; Mãe: Mar
+ 536401  PT/ABM/PSVC03/001/00067/000117       D  1893  Registo de batismo n.º 117: José. Pai: Manuel Justino de Ponte
+Manuel
+ 536801  PT/ABM/PSVC03/001/00069/000065       D  1895  Registo de batismo n.º 65: Maria. Pai: Domingos José de Castro; Mãe: M
+ 537201  PT/ABM/PSVC03/001/00071/000028       D  1897  Registo de batismo n.º 28: Augusta. Pai: Manuel de Andrade; Mãe: Maria
+ 537601  PT/ABM/PSVC03/001/00073/000099       D  1899  Registo de batismo n.º 99: João. Pai: Manuel Pestana; Mãe: Maria Felic
+ 538001  PT/ABM/PSVC03/001/00075/000127       D  1901  Registo de batismo n.º 127: Manuel. Pai: Manuel de Andrade; Mãe: Maria
+ 538401  PT/ABM/PSVC03/001/00076/000185       D  1902  Registo de batismo n.º 185: Maria. Pai: Manuel Gil; Mãe: Teresa de Jes
+ 538801  PT/ABM/PSVC03/001/00078/000123       D  1904  Registo de batismo n.º 123: Manuel. Pai: José da Costa; Mãe: Rosalina 
+ 539201  PT/ABM/PSVC03/001/00080/000054       D  1906  Registo de batismo n.º 54: Maria. Pai: Caetano Nunes de Freitas; Mãe: 
+ 539601  PT/ABM/PSVC03/001/00082/000003       D  1908  Registo de batismo n.º 3: Maria. Pai: António Eduardo Mendes; Mãe: Vir
+ 540001  PT/ABM/PSVC03/001/00084/000040       D  1910  Registo de batismo n.º 40: Josefina. Pai: Manuel de Sousa Moraes; Mãe:
+ 540401  PT/ABM/PSVC03/002/00019/000028       D  1864  Registo de casamento: João Gomes Broega c.c. Joaquina de Jesus
+ 540801  PT/ABM/PSVC03/002/00031/000025       D  1876  Registo de casamento: José Fernandes Camacho c.c. Maria Júlia
+ 541201  PT/ABM/PSVC03/002/00044/000007       D  1889  Registo de casamento: Tomás Gomes Pedro c.c. Maria de Jesus
+ 541601  PT/ABM/PSVC03/002/00012/000193       D  1831  Registo de casamento: João Gonçalves Galo c.c. Antónia Rosa
+ 542001  PT/ABM/PSVC03/002/00010/000092       D  1818  Registo de casamento: António Fernandes c.c. Maria de Sousa
+ 542401  PT/ABM/PSVC03/002/00008/000120       D  1809  Registo de casamento: Vicente de França c.c. Maria Pestana
+ 542801  PT/ABM/PSVC03/002/00007/000123       D  1798  Registo de casamento: João Gonçalves c.c. Rosa Maria
+ 543201  PT/ABM/PSVC03/002/00001/000219       D  1633  Registo de casamento: António Gonçalves c.c. Domingas Rodrigues
+ 543601  PT/ABM/PSVC03/002/00002/000004       D  1710  Registo de casamento: Vicente de França c.c. Antónia de Sousa
+ 544001  PT/ABM/PSVC03/002/00002/000579       D  1692  Registo de casamento: António Teixeira Brasão c.c. Catarina Pestana So
+ 544401  PT/ABM/PSVC03/002/00003/000007       D  1716  Registo de casamento: João de Ponte c.c. Antónia Pestana
+ 544801  PT/ABM/PSVC03/002/00003/000404       D  1735  Registo de casamento: Vicente Fernandes c.c. Maria dos Santos
+ 545201  PT/ABM/PSVC03/002/00005/000093       D  1760  Registo de casamento: Caetano de Gouveia c.c. Sebastiana de Gouveia
+ 545601  PT/ABM/PSVC03/002/00062/000020       D  1907  Registo de casamento: António Pestana c.c. Teresa Augusta Barbeito
+ 546001  PT/ABM/PSVC03/002/00056/000027       D  1901  Registo de casamento: Manuel Justino de Ponte c.c. Francisca Joaquina
+ 546401  —
+ 546801  PT/ABM/DOP-DSUM/D/003-004            SSR 1947  Machico
+ 547201  PT/ABM/JAS/B/005/000020              D        Interior do alpendre do Reid's Mount Park Hotel, Freguesia do Monte, C
+ 547601  PT/ABM/JAS/L/005/000001              D        Retrato de D. Eugénia Isabel de Sousa no jardim da Quinta dos Saltos (
+ 548001  —
+ 548401  PT/ABM/JAS/O/001-002/000011          D        Arredores do largo das Babosas em dia de festa, Freguesia do Monte, Co
+ 548801  —
+ 549201  PT/ABM/JAS/N-B/003/000008            D        Carro de bois a transportar ramos de urze em local não identificado
+ 549601  PT/ABM/JFC/B/016/000006              D        Retrato de João Francisco Camacho e um homem num estúdio fotográfico (
+ 550001  PT/ABM/PER/F/004-005/00001/000001    D  1948  Assalto de esgrima no campo do Liceu Jaime Moniz (atual Escola Secundá
+ 550401  —
+ 550801  —
+ 551201  PT/ABM/JAS/P-A/001/000239            D        Retrato de Maria das Dores de Sousa Menezes Bettencourt da Câmara com 
+ 551601  —
+ 552001  —
+ 552401  PT/ABM/JAS/J/003-002/000037          D        Vista parcial da Freguesia do Monte, Concelho do Funchal
+ 552801  —
+ 553201  —
+ 553601  —
+ 554001  —
+ 554401  PT/ABM/ACF/A/010-004/000002          D        Capela e pia batismal da igreja de Santana, Freguesia e Concelho de Sa
+ 554801  —
+ 555201  —
+ 555601  —
+ 556001  —
+ 556401  —
+ 556801  —
+ 557201  PT/ABM/WHS/D/013/00061               DC 1916  Registo do movimento de caixa ímpar (outubro de 1916)
+ 557601  PT/ABM/CMFUN/L-N/018/00025           DC 1975  Documentos diversos relativos a obras públicas municipais (1975-1988)
+ 558001  PT/ABM/PER/A-E/002-001/000240        D  1948  Homenagem à imagem de Nossa Senhora de Fátima junto à igreja de São Vi
+ 558401  PT/ABM/PFUN10/002/00001/000221       D  1544  Registo de casamento: André Vaz c.c. Branca Fernandes
+ 558801  PT/ABM/PFUN10/002/00002/000110       D  1552  Registo de casamento: Manuel Gonçalves c.c. Apolónia Dias
+ 559201  PT/ABM/PFUN10/002/00003/000208       D  1559  Registo de casamento: Gonçalo Alves c.c. Beatriz Afonso
+ 559601  PT/ABM/PFUN10/002/00005/000073       D  1566  Registo de casamento: Amador Afonso c.c. Joana Lopes
+ 560001  PT/ABM/PFUN10/002/00006/000192       D  1575  Registo de casamento: Domingos Fernandes c.c. Beatriz Gonçalves
+ 560401  PT/ABM/PFUN10/002/00006/000591       D  1582  Registo de casamento: Bento Pires c.c. Bárbara Casca
+ 560801  PT/ABM/PFUN10/002/00007/000269       D  1590  Registo de casamento: Manuel António c.c. Ana Varela
+ 561201  PT/ABM/PFUN10/002/00007/000672       D  1600  Registo de casamento: António Vaz c.c. Ana Gonçalves
+ 561601  —
+ 562001  —
+ 562401  —
+ 562801  PT/ABM/DSIEV/G-A/002-002/00010       DC 1928  M-42
+ 563201  PT/ABM/MCR/D/003                     SR 1981  Mensagens de Maria do Carmo Rodrigues
+ 563601  —
+ 564001  PT/ABM/RMG/B-A/003/000052            D        Sala de jogos do palácio do Colégio, Freguesia da Sé, Concelho do Func
+ 564401  —
+ 564801  —
+ 565201  PT/ABM/CRCSTN/003/00054              DC 1962  Registo de óbitos de Santana do ano de 1962 (n.º 1 a 120)
+ 565601  —
+ 566001  PT/ABM/VIC/D-E/009/000001            D  1916  Pisa das uvas num lagar tradicional da "Casa Leacock", Concelho do Fun
+ 566401  —
+ 566801  —
+ 567201  —
+ 567601  PT/ABM/DSIEV/G-A/002-001/00308       DC 1928  M-845
+ 568001  PT/ABM/DSIEV/G-A/002-001/00703       DC 1936  M-1641
+ 568401  —
+ 568801  —
+ 569201  —
+ 569601  PT/ABM/CRCFUN/003/00318              DC 1981  Registo de óbitos do Funchal do ano de 1981 (n.º 1201 a 1500)
+ 570001  —
+ 570401  PT/ABM/VIC/R/001-001/000489          D  1885  Retrato de Lino Augusto de Andrade, à direita, e de Francisco Luís de 
+ 570801  PT/ABM/VIC/R/001-001/001702          D  1887  Retrato de Francisco Clementino de Sousa (busto)
+ 571201  PT/ABM/VIC/R/001-001/002905          D  1888  Retrato de uma mulher (três quartos)
+ 571601  PT/ABM/VIC/R/001-001/000906          D  1886  Retrato de Maria Carolina Trindade de Freitas, esposa de José Joaquim 
+ 572001  PT/ABM/VIC/R/001-001/002074          D  1889  Retrato de Francisco da Silva acompanhado de três mulheres e dois meni
+ 572401  PT/ABM/VIC/R/001-001/002367          D  1890  Retrato de João Ferreira acompanhado de quatro mulheres, dois homens e
+ 572801  PT/ABM/VIC/R/001-001/003168          D  1889  Retrato de uma menina, filha de Francisco de Araújo Barradas (corpo in
+ 573201  PT/ABM/VIC/R/001-001/003384          D  1890  Retrato de José Rodrigues acompanhado de três homens (corpo inteiro)
+ 573601  PT/ABM/VIC/R/001-001/003692          D  1891  Retrato de Manuel de Abreu (corpo inteiro)
+ 574001  —
+ 574401  —
+ 574801  —
+ 575201  —
+ 575601  PT/ABM/VIC/R/001-002/000531          D  1892  Retrato de Maria Rosa (meio corpo)
+ 576001  —
+ 576401  PT/ABM/VIC/R/001-002/001194          D  1894  Retrato de Maria Sofia de Jesus (busto)
+ 576801  —
+ 577201  PT/ABM/VIC/R/001-001/00010/000003    D  1886  Retrato de José Manso de Sousa, filho do escrivão Joaquim Manso de Sou
+ 577601  —
+ 578001  —
+ 578401  —
+ 578801  PT/ABM/VIC/R/001-003/001351          D  1898  Retrato de Joaquina de Jesus de Freitas (três quartos)
+ 579201  PT/ABM/VIC/R/001-003/000542          D  1898  Retrato de Maria Augusta Marques (três quartos)
+ 579601  —
+ 580001  —
+ 580401  —
+ 580801  —
+ 581201  —
+ 581601  —
+ 582001  —
+ 582401  —
+ 582801  —
+ 583201  —
+ 583601  —
+ 584001  —
+ 584401  —
+ 584801  —
+ 585201  —
+ 585601  —
+ 586001  —
+ 586401  —
+ 586801  —
+ 587201  —
+ 587601  —
+ 588001  —
+ 588401  —
+ 588801  —
+ 589201  —
+ 589601  —
+ 590001  —
+ 590401  —
+ 590801  —
+ 591201  —
+ 591601  —
+ 592001  PT/ABM/CMFUN/F-D/001/00036           DC 1831  Finto das freguesias do termo da cidade do Funchal para o ano de 1832
+ 592401  —
+ 592801  —
+ 593201  —
+ 593601  —
+ 594001  —
+ 594401  —
+ 594801  PT/ABM/CCS/B/003-007/000037          D  1920  Paisagem costeira, em local não identificado, na Ilha da Madeira
+ 595201  —
+ 595601  PT/ABM/PHF/L-A/002                   SR       Câmara de Lobos
+ 596001  —
+ 596401  PT/ABM/VIC/R/001-004/000225          D  1901  Retrato de Nazário T. de Vasconcelos (corpo inteiro)
+ 596801  —
+ 597201  PT/ABM/VIC/R/001-004/000512          D  1901  Retrato do menino Guilherme Humberto (corpo inteiro)
+ 597601  PT/ABM/PPTS03/002/00044/000026       D  1892  Registo de casamento n.º 26: Brás Vieira Álvares c.c. Maria Augusta Fe
+ 598001  PT/ABM/PPTS03/002/00021/000028       D  1869  Registo de casamento n.º 28: José da Silva Góis c.c. Joaquina de Jesus
+ 598401  PT/ABM/PPTS03/002/00033/000008       D  1881  Registo de casamento n.º 8: João da Silva Bodião c.c. Maria de Jesus
+ 598801  PT/ABM/PPTS03/002/00011/000330       D  1856  Registo de casamento: António de Abreu de Paulo c.c. Justina de Andrad
+ 599201  PT/ABM/PPTS03/002/00011/000165       D  1848  Registo de casamento: Tomás Rodrigues c.c. Gregória de Jesus
+ 599601  PT/ABM/PPTS03/002/00010/000302       D  1836  Registo de casamento: José Gonçalves do Estreito c.c. Francisca de Jes
+ 600001  PT/ABM/PPTS03/002/00009/000186       D  1821  Registo de casamento: Manuel da Silva de Inácio c.c. Ana Joaquina
+ 600401  PT/ABM/PPTS03/002/00008/000187       D  1809  Registo de casamento: Salvador da Silva c.c. Maria Vieira
+ 600801  PT/ABM/PPTS03/002/00007/000199       D  1800  Registo de casamento: António Teixeira Boginga c.c. Úrsula das Virgens
+ 601201  PT/ABM/PPTS03/002/00006/000345       D  1778  Registo de casamento: Manuel da Silva c.c. Antónia Maria da Silva
+ 601601  PT/ABM/PPTS03/002/00005/000148       D  1759  Registo de casamento: Manuel Dias c.c. Antónia Maria
+ 602001  PT/ABM/PPTS03/002/00003/000018       D  1693  Registo de casamento: Manuel Gonçalves c.c. Maria Rodrigues
+ 602401  PT/ABM/PPTS03/002/00003/000418       D  1726  Registo de casamento: António da Silva c.c. Andresa Pita
+ 602801  PT/ABM/PPTS03/002/00001/000074       D  1576  Registo de casamento: Gaspar Alves c.c. Leonor da Costa
+ 603201  PT/ABM/PPTS03/002/00001/000474       D  1641  Registo de casamento: João Rodrigues c.c. Francisca de Sousa, D.
+ 603601  PT/ABM/PPTS03/002/00053/000023       D  1901  Registo de casamento n.º 23: José da Silva Roque c.c. Francisca de Jes
+ 604001  PT/ABM/VIC/R/001-004/000589          D  1901  Retrato de Carlos V. de Alencastre (meio corpo)
+ 604401  PT/ABM/PPTS03/001/00026/000147       D  1862  Registo de batismo n.º 147: José. Pai: João Rodrigues; Mãe: Maria dos 
+ 604801  PT/ABM/PPTS03/001/00028/000102       D  1864  Registo de batismo n.º 102: Maria. Pai: Jacinto Vieira do Milhão; Mãe:
+ 605201  PT/ABM/PPTS03/001/00030/000144       D  1866  Registo de batismo n.º 144: Nuno. Pai: Incógnito; Mãe: Luísa de Ascens
+ 605601  PT/ABM/PPTS03/001/00032/000051       D  1868  Registo de batismo n.º 51: Vicente. Pai: João da Silva Rocha; Mãe: Jul
+ 606001  PT/ABM/PPTS03/001/00035/000001       D  1871  Registo de batismo n.º 1: João. Pai: Incógnito; Mãe: Ana dos Santos
+ 606401  PT/ABM/PPTS03/001/00037/000159       D  1873  Registo de batismo n.º 159: Francisco. Pai: Manuel Gomes; Mãe: Valenti
+ 606801  PT/ABM/PPTS03/001/00039/000141       D  1875  Registo de batismo n.º 141: Maria. Pai: Francisco Fernandes; Mãe: Caro
+ 607201  PT/ABM/PPTS03/001/00041/000050       D  1877  Registo de batismo n.º 50: José. Pai: Manuel Rodrigues Perdigão; Mãe: 
+ 607601  PT/ABM/PPTS03/001/00043/000054       D  1879  Registo de batismo n.º 54: Manuel. Pai: Francisco Tolentino Gonçalves;
+ 608001  PT/ABM/PPTS03/001/00045/000104       D  1881  Registo de batismo n.º 103: Joaquina. Pai: António Costa "Cabeça"; Mãe
+ 608401  PT/ABM/PPTS03/001/00047/000045       D  1883  Registo de batismo n.º 45: João. Pai: Francisco Rodrigues Pita; Mãe: M
+ 608801  PT/ABM/PPTS03/001/00050/000010       D  1886  Registo de batismo n.º 10: Carolina. Pai: Manuel Ferreira; Mãe: Maria 
+ 609201  PT/ABM/PPTS03/001/00052/000011       D  1888  Registo de batismo n.º 11: Manuel. Pai: João de Sousa Jardim; Mãe: Mar
+ 609601  PT/ABM/PPTS03/001/00054/000135       D  1890  Registo de batismo n.º 135: Eduardo. Pai: Francisco Luís de Andrade; M
+ 610001  PT/ABM/PPTS03/001/00057/000028       D  1893  Registo de batismo n.º 28: José. Pai: Agostinho Vieira Álvares; Mãe: A
+ 610401  PT/ABM/PPTS03/001/00058/000042       D  1894  Registo de batismo n.º 42: Ana. Pai: José Gomes; Mãe: Maria de Jesus
+ 610801  PT/ABM/PPTS03/001/00060/000060       D  1896  Registo de batismo n.º 60: Maria. Pai: João da Silva da Ressurreição; 
+ 611201  PT/ABM/PPTS03/001/00062/000180       D  1898  Registo de batismo n.º 180: Maria. Pai: Victal da Câmara; Mãe: Maria d
+ 611601  PT/ABM/PPTS03/001/00064/000042       D  1900  Registo de batismo n.º 42: Henrique. Pai: Francisco Alves Pita; Mãe: M
+ 612001  PT/ABM/PPTS03/001/00065/000245       D  1901  Registo de batismo n.º 245: José. Pai: Filipe dos Reis; Mãe: Isabel de
+ 612401  PT/ABM/PPTS03/001/00067/000125       D  1903  Registo de batismo n.º 125: Rosa. Pai: João do Monte; Mãe: Carolina de
+ 612801  PT/ABM/PPTS03/001/00069/000225       D  1905  Registo de batismo n.º 225: Maria. Pai: Manuel de Abreu Campanário; Mã
+ 613201  PT/ABM/PPTS03/001/00070/000168       D  1906  Registo de batismo n.º 168: Maria. Pai: Manuel Rodrigues Mosquito; Mãe
+ 613601  PT/ABM/PPTS03/001/00072/000048       D  1908  Registo de batismo n.º 48: Josefa. Pai: Agostinho do Monte; Mãe: Maria
+ 614001  PT/ABM/PPTS03/001/00074/000213       D  1910  Registo de batismo n.º 213: Isabel. Pai: José Pita; Mãe: Isabel de Jes
+ 614401  PT/ABM/VIC/R/001-004/000612          D  1901  Retrato de três meninas (corpo inteiro)
+ 614801  —
+ 615201  —
+ 615601  —
+ 616001  —
+ 616401  —
+ 616801  —
+ 617201  —
+ 617601  —
+ 618001  —
+ 618401  —
+ 618801  —
+ 619201  —
+ 619601  —
+
+=== faixas por prefixo ===
+  PT/ABM/PRBR04           1201 –  524401  (16 sondas)
+  PT/ABM/PMCH02           1601 –  158801  (3 sondas)
+  PT/ABM/PPST01           2001 –  300001  (43 sondas)
+  PT/ABM/CMSTN            2401 –   52401  (2 sondas)
+  PT/ABM/PFUN07           3601 –  437201  (34 sondas)
+  PT/ABM/PPMZ04           4001 –  516001  (12 sondas)
+  PT/ABM/JST              4401 –   47201  (3 sondas)
+  PT/ABM/PCLT05           4801 –  226801  (4 sondas)
+  PT/ABM/PCML03           5201 –  199601  (37 sondas)
+  PT/ABM/PPTS01           6001 –  170801  (31 sondas)
+  PT/ABM/JGDAFUN          7201 –   69601  (11 sondas)
+  PT/ABM/CMFUN            8001 –  592001  (14 sondas)
+  PT/ABM/PSTN01          10401 –  100401  (8 sondas)
+  PT/ABM/PPTS02          31601 –  230001  (10 sondas)
+  PT/ABM/LJM             37601 –   61601  (4 sondas)
+  PT/ABM/CRCFUN          38001 –  569601  (2 sondas)
+  PT/ABM/DSIEV           42401 –  568001  (11 sondas)
+  PT/ABM/PMCH01          42801 –   94401  (6 sondas)
+  PT/ABM/PFUN03          44001 –  344401  (28 sondas)
+  PT/ABM/IPC             45201 –   45201  (1 sondas)
+  PT/ABM/PCML01          46401 –  148801  (53 sondas)
+  PT/ABM/PFUN04          48001 –  365601  (51 sondas)
+  PT/ABM/PMCH03          48801 –  217601  (45 sondas)
+  PT/ABM/PSCR03          50401 –  512001  (24 sondas)
+  PT/ABM/PSVC02          51601 –  244001  (17 sondas)
+  PT/ABM/LPC             56001 –   56001  (1 sondas)
+  PT/ABM/AFR             56401 –   56401  (1 sondas)
+  PT/ABM/FPS             56801 –   56801  (1 sondas)
+  PT/ABM/ICEFUN          58001 –   58001  (1 sondas)
+  PT/ABM/CRCRBR          58401 –   58401  (1 sondas)
+  PT/ABM/ENP             63601 –   65201  (4 sondas)
+  PT/ABM/JPC             68001 –   68001  (1 sondas)
+  PT/ABM/ACB             72801 –   72801  (1 sondas)
+  PT/ABM/VIC             73601 –  614401  (28 sondas)
+  PT/ABM/PER             74401 –  558001  (6 sondas)
+  PT/ABM/PPMZ01          75601 –   76001  (2 sondas)
+  PT/ABM/PCLT01          80001 –   99201  (30 sondas)
+  PT/ABM/PSVC01          88801 –  101601  (14 sondas)
+  PT/ABM/AMBAM           93601 –   93601  (1 sondas)
+  PT/ABM/ISAPM          102401 –  102401  (1 sondas)
+  PT/ABM/DDEFUN         102801 –  103201  (2 sondas)
+  PT/ABM/PCLT02         104001 –  128001  (25 sondas)
+  PT/ABM/PSCR02         110401 –  218001  (18 sondas)
+  PT/ABM/CFF            116401 –  116401  (1 sondas)
+  PT/ABM/DEPTS          117201 –  121601  (2 sondas)
+  PT/ABM/MCR            118801 –  563201  (2 sondas)
+  PT/ABM/PRBR01         149201 –  158001  (23 sondas)
+  PT/ABM/PCLT03         171201 –  180001  (23 sondas)
+  PT/ABM/PSTN02         180401 –  185201  (13 sondas)
+  PT/ABM/PCLT04         218401 –  226001  (20 sondas)
+  PT/ABM/PSCR04         230401 –  237201  (18 sondas)
+  PT/ABM/PCLT06         244401 –  248001  (10 sondas)
+  PT/ABM/PFUN02         248401 –  256801  (22 sondas)
+  PT/ABM/PCLT07         257201 –  264001  (18 sondas)
+  PT/ABM/PMCH04         264401 –  275201  (28 sondas)
+  PT/ABM/PPMZ02         275601 –  283201  (18 sondas)
+  PT/ABM/JAS            279601 –  552401  (8 sondas)
+  PT/ABM/PCLT08         300401 –  302001  (5 sondas)
+  PT/ABM/PCML04         302401 –  304001  (5 sondas)
+  PT/ABM/PRBR02         304401 –  317201  (33 sondas)
+  PT/ABM/PPMZ03         317601 –  319201  (5 sondas)
+  PT/ABM/PSCR05         319601 –  332801  (34 sondas)
+  PT/ABM/PSTN03         366001 –  375201  (24 sondas)
+  PT/ABM/PFUN05         375601 –  404001  (72 sondas)
+  PT/ABM/PMCH05         404401 –  408001  (10 sondas)
+  PT/ABM/PFUN06         408401 –  416001  (20 sondas)
+  PT/ABM/PSTN04         416401 –  424001  (20 sondas)
+  PT/ABM/DOP            428001 –  546801  (2 sondas)
+  PT/ABM/PFUN08         437601 –  471601  (86 sondas)
+  PT/ABM/PFUN09         472001 –  477601  (15 sondas)
+  PT/ABM/PFUN10         478001 –  561201  (48 sondas)
+  PT/ABM/PCML02         499601 –  502401  (8 sondas)
+  PT/ABM/PSTN05         516401 –  518001  (5 sondas)
+  PT/ABM/PRBR03         524801 –  529601  (13 sondas)
+  PT/ABM/PSVC03         530001 –  546001  (41 sondas)
+  PT/ABM/JFC            549601 –  549601  (1 sondas)
+  PT/ABM/ACF            554401 –  554401  (1 sondas)
+  PT/ABM/WHS            557201 –  557201  (1 sondas)
+  PT/ABM/RMG            564001 –  564001  (1 sondas)
+  PT/ABM/CRCSTN         565201 –  565201  (1 sondas)
+  PT/ABM/CCS            594801 –  594801  (1 sondas)
+  PT/ABM/PHF            595601 –  595601  (1 sondas)
+  PT/ABM/PPTS03         597601 –  614001  (41 sondas)
