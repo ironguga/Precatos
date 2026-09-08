@@ -1,58 +1,280 @@
 
-===== 170550 =====
-  PT/ABM/PPTS01/002/00001/000084  1622
-  Registo de casamento: Manuel Correia c.c. Francisca Lopes
-  PhysLoc: Liv. 476, f. 31 v.º   Parent: 2195
-  dissem          176296 bytes  971x1370  -> arquivo/assentos/170550-dissem.jpg
-  thumb             4531 bytes  128x181  -> arquivo/assentos/170550-thumb.jpg
+===== 170530 =====
+  PT/ABM/PPTS01/002/00001/000064  1616
+  Registo de casamento: Agostinho Gonçalves c.c. Maria Delgada
+  PhysLoc: Liv. 476, f. 25   Parent: 2195
+  dissem          167622 bytes  971x1370  -> arquivo/assentos/170530-dissem.jpg
+  thumb             4667 bytes  128x181  -> arquivo/assentos/170530-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      176296 bytes  971x1370  -> arquivo/assentos/170550-do0-dissem.jpg
+  do0-dissem      167622 bytes  971x1370  -> arquivo/assentos/170530-do0-dissem.jpg
 
-===== 170549 =====
-  PT/ABM/PPTS01/002/00001/000083  1622
-  Registo de casamento: Álvaro Dias c.c. Maria André
-  PhysLoc: Liv. 476, f. 31   Parent: 2195
-  dissem          162165 bytes  971x1370  -> arquivo/assentos/170549-dissem.jpg
-  thumb             4500 bytes  128x181  -> arquivo/assentos/170549-thumb.jpg
+===== 170531 =====
+  PT/ABM/PPTS01/002/00001/000065  1616
+  Registo de casamento: Gonçalo Fernandes c.c. Luzia Gonçalves
+  PhysLoc: Liv. 476, f. 25 v.º   Parent: 2195
+  dissem          195962 bytes  971x1370  -> arquivo/assentos/170531-dissem.jpg
+  thumb             5542 bytes  128x181  -> arquivo/assentos/170531-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      162165 bytes  971x1370  -> arquivo/assentos/170549-do0-dissem.jpg
+  do0-dissem      195962 bytes  971x1370  -> arquivo/assentos/170531-do0-dissem.jpg
 
-===== 170551 =====
-  PT/ABM/PPTS01/002/00001/000085  1623
-  Registo de casamento: Afonso Henriques c.c. Ana Barreto
+===== 170532 =====
+  PT/ABM/PPTS01/002/00001/000066  1616
+  Registo de casamento: Bartolomeu da Silva c.c. Maria Fernandes
+  PhysLoc: Liv. 476, f. 25 v.º   Parent: 2195
+  dissem          195962 bytes  971x1370  -> arquivo/assentos/170532-dissem.jpg
+  thumb             5542 bytes  128x181  -> arquivo/assentos/170532-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      195962 bytes  971x1370  -> arquivo/assentos/170532-do0-dissem.jpg
+
+===== 170533 =====
+  PT/ABM/PPTS01/002/00001/000067  1617
+  Registo de casamento: João Martins c.c. Catarina Fernandes
+  PhysLoc: Liv. 476, f. 26   Parent: 2195
+  dissem          174432 bytes  971x1370  -> arquivo/assentos/170533-dissem.jpg
+  thumb             5094 bytes  128x181  -> arquivo/assentos/170533-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      174432 bytes  971x1370  -> arquivo/assentos/170533-do0-dissem.jpg
+
+===== 170534 =====
+  PT/ABM/PPTS01/002/00001/000068  1616
+  Registo de casamento: Gonçalo Gomes c.c. Isabel Pires
+  PhysLoc: Liv. 476, f. 26 v.º   Parent: 2195
+  dissem          158394 bytes  971x1370  -> arquivo/assentos/170534-dissem.jpg
+  thumb             4525 bytes  128x181  -> arquivo/assentos/170534-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      158394 bytes  971x1370  -> arquivo/assentos/170534-do0-dissem.jpg
+
+===== 170535 =====
+  PT/ABM/PPTS01/002/00001/000069  1617
+  Registo de casamento: António Gonçalves c.c. Luzia Gonçalves
+  PhysLoc: Liv. 476, f. 27   Parent: 2195
+  dissem          165479 bytes  971x1370  -> arquivo/assentos/170535-dissem.jpg
+  thumb             4699 bytes  128x181  -> arquivo/assentos/170535-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      165479 bytes  971x1370  -> arquivo/assentos/170535-do0-dissem.jpg
+
+===== 170536 =====
+  PT/ABM/PPTS01/002/00001/000070  1618
+  Registo de casamento: Lourenço Rodrigues c.c. Maria Afonso
+  PhysLoc: Liv. 476, f. 27   Parent: 2195
+  dissem          165479 bytes  971x1370  -> arquivo/assentos/170536-dissem.jpg
+  thumb             4699 bytes  128x181  -> arquivo/assentos/170536-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      165479 bytes  971x1370  -> arquivo/assentos/170536-do0-dissem.jpg
+
+===== 170537 =====
+  PT/ABM/PPTS01/002/00001/000071  1618
+  Registo de casamento: Manuel Rodrigues c.c. Guiomar Rodrigues
+  PhysLoc: Liv. 476, f. 27 v.º   Parent: 2195
+  dissem          181067 bytes  971x1370  -> arquivo/assentos/170537-dissem.jpg
+  thumb             5112 bytes  128x181  -> arquivo/assentos/170537-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      181067 bytes  971x1370  -> arquivo/assentos/170537-do0-dissem.jpg
+
+===== 170538 =====
+  PT/ABM/PPTS01/002/00001/000072  1618
+  Registo de casamento: Simão Fernandes c.c. Maria Rodrigues
+  PhysLoc: Liv. 476, f. 27 v.º   Parent: 2195
+  dissem          181067 bytes  971x1370  -> arquivo/assentos/170538-dissem.jpg
+  thumb             5112 bytes  128x181  -> arquivo/assentos/170538-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      181067 bytes  971x1370  -> arquivo/assentos/170538-do0-dissem.jpg
+
+===== 170539 =====
+  PT/ABM/PPTS01/002/00001/000073  1618
+  Registo de casamento: António Gonçalves Ferreira c.c. Ana Rodrigues
+  PhysLoc: Liv. 476, f. 28   Parent: 2195
+  dissem          157089 bytes  971x1370  -> arquivo/assentos/170539-dissem.jpg
+  thumb             4278 bytes  128x181  -> arquivo/assentos/170539-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      157089 bytes  971x1370  -> arquivo/assentos/170539-do0-dissem.jpg
+
+===== 170540 =====
+  PT/ABM/PPTS01/002/00001/000074  1619
+  Registo de casamento: Jorge Martins c.c. Isabel Gomes
+  PhysLoc: Liv. 476, f. 28 v.º   Parent: 2195
+  dissem          180458 bytes  971x1370  -> arquivo/assentos/170540-dissem.jpg
+  thumb             5075 bytes  128x181  -> arquivo/assentos/170540-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      180458 bytes  971x1370  -> arquivo/assentos/170540-do0-dissem.jpg
+
+===== 170541 =====
+  PT/ABM/PPTS01/002/00001/000075  1619
+  Registo de casamento: Gonçalo Fernandes c.c. Ana Fernandes
+  PhysLoc: Liv. 476, f. 28 v.º   Parent: 2195
+  dissem          180458 bytes  971x1370  -> arquivo/assentos/170541-dissem.jpg
+  thumb             5075 bytes  128x181  -> arquivo/assentos/170541-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      180458 bytes  971x1370  -> arquivo/assentos/170541-do0-dissem.jpg
+
+===== 170542 =====
+  PT/ABM/PPTS01/002/00001/000076  1619
+  Registo de casamento: Manuel de Ponte c.c. Isabel Rodrigues
+  PhysLoc: Liv. 476, f. 29   Parent: 2195
+  dissem          187365 bytes  971x1370  -> arquivo/assentos/170542-dissem.jpg
+  thumb             5195 bytes  128x181  -> arquivo/assentos/170542-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      187365 bytes  971x1370  -> arquivo/assentos/170542-do0-dissem.jpg
+
+===== 170543 =====
+  PT/ABM/PPTS01/002/00001/000077  1619
+  Registo de casamento: João Rodrigues c.c. Ana Gonçalves
+  PhysLoc: Liv. 476, f. 29   Parent: 2195
+  dissem          187365 bytes  971x1370  -> arquivo/assentos/170543-dissem.jpg
+  thumb             5195 bytes  128x181  -> arquivo/assentos/170543-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      187365 bytes  971x1370  -> arquivo/assentos/170543-do0-dissem.jpg
+
+===== 170544 =====
+  PT/ABM/PPTS01/002/00001/000078  1620
+  Registo de casamento: Pedro do Rego de Figueiredo c.c. Iria de Andrade
+  PhysLoc: Liv. 476, f. 29 v.º   Parent: 2195
+  dissem          185672 bytes  971x1370  -> arquivo/assentos/170544-dissem.jpg
+  thumb             5023 bytes  128x181  -> arquivo/assentos/170544-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      185672 bytes  971x1370  -> arquivo/assentos/170544-do0-dissem.jpg
+
+===== 170545 =====
+  PT/ABM/PPTS01/002/00001/000079  1620
+  Registo de casamento: Pedro Martins c.c. Isabel Gonçalves
+  PhysLoc: Liv. 476, f. 29 v.º   Parent: 2195
+  dissem          185672 bytes  971x1370  -> arquivo/assentos/170545-dissem.jpg
+  thumb             5023 bytes  128x181  -> arquivo/assentos/170545-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      185672 bytes  971x1370  -> arquivo/assentos/170545-do0-dissem.jpg
+
+===== 170546 =====
+  PT/ABM/PPTS01/002/00001/000080  1620
+  Registo de casamento: António Gonçalves de Castro c.c. Leonor de Andrade, D.
+  PhysLoc: Liv. 476, f. 30   Parent: 2195
+  dissem          175525 bytes  971x1370  -> arquivo/assentos/170546-dissem.jpg
+  thumb             4636 bytes  128x181  -> arquivo/assentos/170546-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      175525 bytes  971x1370  -> arquivo/assentos/170546-do0-dissem.jpg
+
+===== 170547 =====
+  PT/ABM/PPTS01/002/00001/000081  1621
+  Registo de casamento: Filipe Rodrigues c.c. Maria de Ponte
+  PhysLoc: Liv. 476, f. 30   Parent: 2195
+  dissem          175525 bytes  971x1370  -> arquivo/assentos/170547-dissem.jpg
+  thumb             4636 bytes  128x181  -> arquivo/assentos/170547-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      175525 bytes  971x1370  -> arquivo/assentos/170547-do0-dissem.jpg
+
+===== 170548 =====
+  PT/ABM/PPTS01/002/00001/000082  1621
+  Registo de casamento: Domingos Enes c.c. Isabel Henriques
+  PhysLoc: Liv. 476, f. 30 v.º   Parent: 2195
+  dissem          170967 bytes  971x1370  -> arquivo/assentos/170548-dissem.jpg
+  thumb             4615 bytes  128x181  -> arquivo/assentos/170548-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      170967 bytes  971x1370  -> arquivo/assentos/170548-do0-dissem.jpg
+
+===== 170552 =====
+  PT/ABM/PPTS01/002/00001/000086  1623
+  Registo de casamento: Domingos Gonçalves c.c. Helena Martins
   PhysLoc: Liv. 476, f. 32   Parent: 2195
-  dissem          185107 bytes  971x1370  -> arquivo/assentos/170551-dissem.jpg
-  thumb             4954 bytes  128x181  -> arquivo/assentos/170551-thumb.jpg
+  dissem          185107 bytes  971x1370  -> arquivo/assentos/170552-dissem.jpg
+  thumb             4954 bytes  128x181  -> arquivo/assentos/170552-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      185107 bytes  971x1370  -> arquivo/assentos/170551-do0-dissem.jpg
+  do0-dissem      185107 bytes  971x1370  -> arquivo/assentos/170552-do0-dissem.jpg
 
-===== 170161 =====
-  PT/ABM/PPTS01/002/00002/000007  1641
-  Registo de casamento: Diogo Fernandes Pita c.c. Inês Rodrigues
-  PhysLoc: Liv. 477, f. 2   Parent: 48626
+===== 170553 =====
+  PT/ABM/PPTS01/002/00001/000087  1623
+  Registo de casamento: Francisco Dias c.c. Ana Gonçalves
+  PhysLoc: Liv. 476, f. 32 v.º   Parent: 2195
+  dissem          171574 bytes  971x1370  -> arquivo/assentos/170553-dissem.jpg
+  thumb             4837 bytes  128x181  -> arquivo/assentos/170553-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      107422 bytes  668x980  -> arquivo/assentos/170161-do0-dissem.jpg
+  do0-dissem      171574 bytes  971x1370  -> arquivo/assentos/170553-do0-dissem.jpg
 
-===== 169595 =====
-  PT/ABM/PPTS01/002/00003/000092  1700
-  Registo de casamento: Pedro da Silva c.c. Maria Vieira Pita
-  PhysLoc: Liv. 495, f. 18   Parent: 41777
-  dissem          183875 bytes  1004x1412  -> arquivo/assentos/169595-dissem.jpg
-  thumb             4513 bytes  128x180  -> arquivo/assentos/169595-thumb.jpg
+===== 170554 =====
+  PT/ABM/PPTS01/002/00001/000088  1623
+  Registo de casamento: Sebastião Afonso c.c. Águeda Ferreira
+  PhysLoc: Liv. 476, f. 32 v.º   Parent: 2195
+  dissem          171574 bytes  971x1370  -> arquivo/assentos/170554-dissem.jpg
+  thumb             4837 bytes  128x181  -> arquivo/assentos/170554-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      183875 bytes  1004x1412  -> arquivo/assentos/169595-do0-dissem.jpg
+  do0-dissem      171574 bytes  971x1370  -> arquivo/assentos/170554-do0-dissem.jpg
 
-===== 169383 =====
-  PT/ABM/PPTS01/002/00004/000077  1748
-  Registo de casamento: Pedro da Silva de Ponte c.c. Antónia da Silva
-  PhysLoc: Liv. 496, f. 26 v.º   Parent: 2206
-  dissem          184110 bytes  1030x1479  -> arquivo/assentos/169383-dissem.jpg
-  thumb             4523 bytes  128x184  -> arquivo/assentos/169383-thumb.jpg
+===== 170555 =====
+  PT/ABM/PPTS01/002/00001/000089  1623
+  Registo de casamento: Manuel Fernandes c.c. Catarina Rodrigues
+  PhysLoc: Liv. 476, f. 33   Parent: 2195
+  dissem          179565 bytes  971x1370  -> arquivo/assentos/170555-dissem.jpg
+  thumb             4937 bytes  128x181  -> arquivo/assentos/170555-thumb.jpg
   digitalobjects: 1 nó(s)
   do0-original  HTTP 404
-  do0-dissem      184110 bytes  1030x1479  -> arquivo/assentos/169383-do0-dissem.jpg
+  do0-dissem      179565 bytes  971x1370  -> arquivo/assentos/170555-do0-dissem.jpg
+
+===== 170556 =====
+  PT/ABM/PPTS01/002/00001/000090  1624
+  Registo de casamento: Domingos Rodrigues c.c. Maria Jorge
+  PhysLoc: Liv. 476, f. 33   Parent: 2195
+  dissem          179565 bytes  971x1370  -> arquivo/assentos/170556-dissem.jpg
+  thumb             4937 bytes  128x181  -> arquivo/assentos/170556-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      179565 bytes  971x1370  -> arquivo/assentos/170556-do0-dissem.jpg
+
+===== 170557 =====
+  PT/ABM/PPTS01/002/00001/000091  1624
+  Registo de casamento: Gontardo Martins c.c. Maria Lopes
+  PhysLoc: Liv. 476, f. 33 v.º   Parent: 2195
+  dissem          181359 bytes  971x1370  -> arquivo/assentos/170557-dissem.jpg
+  thumb             4798 bytes  128x181  -> arquivo/assentos/170557-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      181359 bytes  971x1370  -> arquivo/assentos/170557-do0-dissem.jpg
+
+===== 170558 =====
+  PT/ABM/PPTS01/002/00001/000092  1624
+  Registo de casamento: Manuel Gonçalves c.c. Maria Nunes
+  PhysLoc: Liv. 476, f. 33 v.º   Parent: 2195
+  dissem          181359 bytes  971x1370  -> arquivo/assentos/170558-dissem.jpg
+  thumb             4798 bytes  128x181  -> arquivo/assentos/170558-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      181359 bytes  971x1370  -> arquivo/assentos/170558-do0-dissem.jpg
+
+===== 170559 =====
+  PT/ABM/PPTS01/002/00001/000093  1624
+  Registo de casamento: Domingos Gonçalves c.c. Ana Fernandes
+  PhysLoc: Liv. 476, f. 34   Parent: 2195
+  dissem          189752 bytes  971x1370  -> arquivo/assentos/170559-dissem.jpg
+  thumb             4910 bytes  128x181  -> arquivo/assentos/170559-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      189752 bytes  971x1370  -> arquivo/assentos/170559-do0-dissem.jpg
+
+===== 170560 =====
+  PT/ABM/PPTS01/002/00001/000094  1624
+  Registo de casamento: António Rodrigues Ponte c.c. Madalena Rodrigues
+  PhysLoc: Liv. 476, f. 34   Parent: 2195
+  dissem          189752 bytes  971x1370  -> arquivo/assentos/170560-dissem.jpg
+  thumb             4910 bytes  128x181  -> arquivo/assentos/170560-thumb.jpg
+  digitalobjects: 1 nó(s)
+  do0-original  HTTP 404
+  do0-dissem      189752 bytes  971x1370  -> arquivo/assentos/170560-do0-dissem.jpg
