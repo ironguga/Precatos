@@ -2040,3 +2040,88 @@ Canhas, que interessa a outro ramo do dossiê:
 
 (Nada liga estes Henriques dos Canhas aos Henriques do Monte de que descende
 Júlia Maria Henriques, casada em 1871. Registo-os, não os junto.)
+
+---
+
+# O livro que eu tinha em casa e nunca abri
+
+**Livro 4.º de registo de óbitos dos Canhas, 1720–1749 (PT/ABM/PPTS01/003/00004,
+ID 48628), 292 páginas.** Estava descarregado até à página 200 desde uma
+campanha antiga e eu nunca o li. Mandei buscar o resto (já cá está, 292/292) e
+abri-o.
+
+**É um bom livro:** a margem dá o **nome do defunto** e muitas vezes o do
+cônjuge («Catharina Roiz, mulher de M.el Phelipe»), o corpo dá o testamento,
+o testamenteiro e por vezes os filhos. É a ferramenta certa para apanhar a
+décima geração a morrer.
+
+## A lacuna de óbitos, agora medida
+
+Confirmado por varrimento: **não existe no catálogo um Livro 3.º de óbitos dos
+Canhas.** A série 003 salta do 00002 para o 00004.
+
+| Livro | Cobertura | Estado |
+|---|---|---|
+| 2.º misto | 1639–1678 | catalogado, **zero imagens** |
+| — | **1678–1720** | **não existe no catálogo** |
+| 4.º | 1720–1749 | 292 imagens, lido a partir de agora |
+| 5.º | 1749–1771 | 283 imagens, já lido |
+| 7.º | 1783–1814 | 735 imagens, já lido |
+
+Consequência dura: **António Correa e Maria de Ponte, nascidos por volta de
+1630-1640, morreram muito provavelmente entre 1678 e 1720** — dentro do buraco.
+Só escapam a ele se tiverem passado dos 80.
+
+## Assentos lidos nas imagens 2-41 (1720–1725)
+
+**Dezembro de 1721, imagem 25** — margem «**Fran.co Pita**»
+> «Em os […] dias do Mez de Dezembro de 1721 faleceo com todos os Sacramentos,
+> e **testamento aprovado pello Tabelião**, **FRAN[CIS]CO PITA**, do **Bairro
+> da Sylva** nesta [freguezia]… [manda] que sepultassem o seu corpo … deixou
+> […] de Missas rezadas … **Domingos […] e a seu f.º Fran.co**…»
+
+**Um Francisco Pita a morrer nos Canhas em Dezembro de 1721, com testamento
+aprovado por tabelião e um filho Francisco.** A cronologia bate com o marido
+de Maria Rodrigues (nascido por volta de 1645-1650, morto aos 72-76). **Mas o
+assento não nomeia mulher** — o que é próprio de um viúvo — e não diz Maria
+Rodrigues. **Candidato, não prova.** O «Bairro da Sylva» é um lugar novo no
+mapa desta investigação e não é o Valle nem o Outeiro.
+
+**9 de Setembro de 1721, imagem 20** — margem «Fran.co Correa»
+> «…faleceo com todos os Sacramentos e **sem testamento porque morreo de
+> repente**, **FRANCISCO CORREA**… declarou perante testemunhas… deixava a sua
+> alma… **sua molher MARIA VIEIRA**…»
+
+**9 de Junho de 1723, fl. 16 (imagem 37)** — e este abre uma porta nova
+> «Em os nove de Junho de 1723 faleceo com os Sacramentos o **[Padre] JOAM DA
+> SYLVA DE PONTE**, desta freguezia. Fez testamento, em que dispõe o seguinte:
+> **que seu corpo seria sepultado em cova sua, que está na Capella da Igreja
+> da Piedade, QUE FOI DE SEU BISAVÔ PEDRO DA SYLVA DE FIGUEIREDO**, e seu
+> corpo envolto em [hábito]… acompanharam à sepultura os […] e mais dois
+> Padres, e a **Irmandade do Nome de Jesus**… e a **Irmandade das Almas**, de
+> que era irmão, deve alguns annos que não tinha pago a esmola… Deixa se lhe
+> mande dizer seu ofício de sete Nocturnos… **dois trintários de Missas
+> rezadas**…»
+
+Um **clérigo dos Canhas chamado João da Sylva de Ponte**, com **cova própria
+numa capela da igreja paroquial**, herdada do **bisavô Pedro da Sylva de
+Figueiredo**. Isto diz três coisas:
+
+1. O apelido **«da Sylva de Ponte»** nos Canhas não é só de lavradores: há uma
+   casa com capela na igreja e memória do bisavô por escrito. Uma casa assim
+   deixa rasto em genealogias publicadas.
+2. O bisavô chama-se **Pedro da Sylva** — e o nosso Pedro da Sylva de Ponte
+   nasce em 1673, na mesma freguezia, com o mesmo apelido composto.
+3. **Não os ligo.** Nada no assento diz parentesco com o nosso Pedro, e o
+   dossiê proíbe o passo. Mas é a primeira pista que aponta para fora dos
+   livros paroquiais — para os morgados e as genealogias impressas.
+
+**Casas de Ponte apanhadas de passagem:** «Izabel, mulher de **Diogo de
+Ponte**» e «**Diogo de Ponte**, testamento» (c. 1720, imagens 13-14);
+«Beatriz de Ponte» (imagem 32).
+
+## Por varrer
+
+Imagens **42 a 292** deste livro — os anos de **1725 a 1749**. É onde caem, se
+lá caírem, **Maria de Ponte** (mãe de Pedro) e **Maria Rodrigues** (mãe de
+Maria Roiz Pitta).
