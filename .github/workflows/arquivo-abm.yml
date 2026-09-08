@@ -26,6 +26,7 @@ on:
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
       - 'scripts/arquivo-abm-wayback.mjs'
+      - 'scripts/familysearch-catalogo.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -170,13 +171,13 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-wayback.mjs > arquivo/abm-wayback.txt 2>&1 || true
-          cat arquivo/abm-wayback.txt
+          node scripts/familysearch-catalogo.mjs > arquivo/familysearch.txt 2>&1 || true
+          cat arquivo/familysearch.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -f arquivo/abm-wayback.txt
+          git add -f arquivo/familysearch.txt
           git diff --cached --quiet || {
-            git commit -m 'O sitio antigo do ABM no Arquivo.pt, e as fontes madeirenses'
+            git commit -m 'O que se sabe do FamilySearch sem conta: numeros de filme'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
