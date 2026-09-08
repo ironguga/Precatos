@@ -41,7 +41,7 @@ env:
   # Ultima tentativa ao Livro 1.o (2195) e os indices notariais.
   # Ponta do Sol: baptismos 1614-1641 e casamentos 1565-1652; Arco da Calheta 1598-1641.
   # Ponta do Sol: baptismos 1614-1641 (44085) e casamentos 1565-1652 (48721).
-  ABM_LIVROS: '44085:1-320 48721:1-320'
+  ABM_LIVROS: '44085:1-320 44101:1-320'
 
 jobs:
   baixar:
@@ -117,8 +117,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-download.mjs 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/2195' --list 2>&1 | head -40 | tee arquivo/abm-canhas-sonda.txt
-          node scripts/arquivo-abm-sondar.mjs 2195 2199 2200 2201 2202 2203 2204 2205 2207 2208 | tee -a arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-sondar.mjs 44085 44101 48721 48722 51147 44086 44087 44100 44102 | tee arquivo/abm-canhas-sonda.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-canhas-sonda.txt
@@ -163,21 +162,20 @@ jobs:
             done
           }
 
-      - name: Indice nominal das freguesias vizinhas
-        if: false
+      - name: Indice nominal da Ponta do Sol noutros intervalos
         continue-on-error: true
         env:
-          ABM_CODIGO: 'PPTS03|PCLT01|PCLT03|PPTS02'
+          ABM_CODIGO: 'PPTS03|PPTS02'
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-itens-canhas.mjs 90000 200000 > arquivo/abm-itens-vizinhas.txt 2> >(tail -6 >&2) || true
+          node scripts/arquivo-abm-itens-canhas.mjs 200000 340000 > arquivo/abm-itens-vizinhas.txt 2> >(tail -6 >&2) || true
           wc -l arquivo/abm-itens-vizinhas.txt
           grep -i 'pit' arquivo/abm-itens-vizinhas.txt | head -40 || true
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-itens-vizinhas.txt
           git diff --cached --quiet || {
-            git commit -m 'Indice nominal ao nivel do assento das freguesias vizinhas'
+            git commit -m 'Indice nominal da Ponta do Sol noutros intervalos de identificador'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
