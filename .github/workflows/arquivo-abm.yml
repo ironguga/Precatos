@@ -17,6 +17,7 @@ on:
       - 'scripts/arquivo-abm-fontes-externas.mjs'
       - 'scripts/arquivo-abm-indice-nominal.mjs'
       - 'scripts/arquivo-abm-notarial.mjs'
+      - 'scripts/arquivo-abm-casamentos-antigos.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -30,8 +31,7 @@ env:
   ABM_URL: ${{ github.event.inputs.url || 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/41778' }}
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
-  # Lacuna do Livro 3.º de casamentos (1692-1743): imagens 3-15, anos 1692-1695.
-  ABM_LIVROS: '41777:3-15'
+  ABM_LIVROS: ''
 
 jobs:
   baixar:
@@ -117,14 +117,22 @@ jobs:
             git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME"
           }
 
-      - name: Levantar todo o acervo dos Canhas
-        if: false
+      - name: Levantar os livros de casamentos anteriores a 1745
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-canhas.mjs 43000 60000 > arquivo/abm-canhas-acervo-2.txt 2> >(tail -5 >&2) || true
-          tail -80 arquivo/abm-canhas-acervo-2.txt
-          tail -60 arquivo/abm-canhas-acervo.txt
+          node scripts/arquivo-abm-casamentos-antigos.mjs 39000 52000 > arquivo/abm-casamentos-antigos.txt 2> >(tail -5 >&2) || true
+          wc -l arquivo/abm-casamentos-antigos.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-casamentos-antigos.txt
+          git diff --cached --quiet || {
+            git commit -m 'Levantamento dos livros de casamentos e baptismos anteriores a 1745'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
 
       - name: Comitar o levantamento
         if: false
