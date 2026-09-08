@@ -8,8 +8,8 @@ está apurado e verificado contra o próprio catálogo do ABM.*
 Caminho dos Álamos, n.º 35, 9020-121 Funchal
 `abm@madeira.gov.pt` · formulário em `arquivo-abm.madeira.gov.pt`
 
-**Assunto:** Pedido de reprodução de **dois assentos** de casamento da
-paróquia dos Canhas — um livro não digitalizado e um fólio danificado
+**Assunto:** Pedido de reprodução de **três assentos** — dois livros
+catalogados sem imagens em linha e um fólio danificado
 
 ---
 
@@ -22,8 +22,9 @@ dessa paróquia — os três de baptismos anteriores a 1751, os quatro de
 casamentos de 1640 a 1793 e os três de óbitos.
 
 A reconstituição está fechada em **onze gerações**, cada uma com o seu
-documento. **Faltam apenas dois assentos**, e ambos estão identificados com
-precisão no vosso próprio catálogo, ao nível do assento.
+documento. **Faltam três assentos** para chegar à décima segunda, e os três
+estão identificados com precisão — dois deles no vosso próprio catálogo, ao
+nível do assento.
 
 ## 1 · Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
 
@@ -38,10 +39,12 @@ declara o noivo «**Ant.º Correa, f.º de M.el Correa defunto e de sua legítim
 mulher Fran.ca Lopes**». O assento de 1622 dará a filiação de Manuel Correia,
 isto é, a **décima segunda geração**, que é o objectivo do pedido.
 
-**Situação:** a descrição do livro consta do catálogo e os seus 155 assentos
-estão indexados nominalmente — alguém do Arquivo leu o livro —, mas a API de
-disseminação devolve **zero representações digitais** para o identificador
-2195. O livro não está em linha.
+**Situação:** a descrição do livro consta do catálogo, indica «**1 liv.: 80
+f.**», e os seus 155 assentos estão indexados nominalmente — alguém do Arquivo
+leu o livro. Mas o *endpoint* `/api/descriptions/2195/digitalobjects` devolve
+**lista vazia**, e o descarregador, que percorre por ordem as variantes
+ORIGINAL, MASTER, DISSEMINATION e THUMB, não obtém nenhuma. **O livro não está
+em linha.**
 
 **Pedido concreto:** reprodução digital do fólio que contém o assento 84
 (e, se possível, dos fólios imediatamente anterior e seguinte).
@@ -68,6 +71,27 @@ ali nada para ler na cópia digital.
 iluminação rasante / infravermelho, das duas linhas que dão a filiação dos
 noivos. Se a tinta estiver igualmente perdida no original, agradeço que mo
 digam — fica documentado como perda física e não como lacuna de digitalização.
+
+## 3 · Livro 2.º de registo de baptismos da Ponta do Sol (1614/1641)
+
+**Cota:** PT/ABM/PPTS03/001/00002 · **Identificador da descrição:** 44085
+
+**Porquê:** o índice nominal do vosso catálogo mostra que **não há um único
+casamento Pita nos Canhas entre 1592 e 1639** — o primeiro de toda a série é o
+do próprio Diogo Fernandes Pita, em 1641. A família chega à freguezia com ele,
+o que significa que **nasceu noutra parte**. Descartei por documento o Arco da
+Calheta (o primeiro Pita de todo o fundo é de 1771) e o Estreito da Calheta
+(só no século XIX). Resta a **Ponta do Sol**, freguezia-mãe de que os Canhas
+foram curato — e é este o livro que cobre a janela do nascimento dele.
+
+**Situação:** a descrição vem marcada `HasDigitalObjects = true`, mas a API
+devolve **zero páginas**. Está descrito como digitalizado e não serve imagem
+nenhuma. (O Livro 3.º da mesma série, ID 44101, serve 441 páginas sem
+problema, pelo que não é falha do meu lado.)
+
+**Pedido concreto:** reprodução dos assentos de baptismo de crianças de nome
+**Diogo** entre 1612 e 1622, ou — se for mais simples para o Arquivo — do
+livro inteiro, que tem apenas a cobertura de 27 anos.
 
 ---
 
