@@ -1,156 +1,64 @@
 # Pedido ao Arquivo e Biblioteca da Madeira
 
-*Minuta pronta a enviar. Os dados de contacto do requerente estão por
-preencher; tudo o resto — cotas, identificadores, assentos, anos e nomes —
-está apurado e verificado contra o próprio catálogo do ABM.*
-
-**Para:** Arquivo e Biblioteca da Madeira (ABM)
-Caminho dos Álamos, n.º 35, 9020-121 Funchal
-`abm@madeira.gov.pt` · formulário em `arquivo-abm.madeira.gov.pt`
-
-**Assunto:** Pedido de reprodução de **três assentos** e de **um ficheiro que
-o Arquivo já possui** — dois livros catalogados sem imagens em linha, um fólio
-danificado, e a variante ORIGINAL de uma imagem
-
----
+**Para:** abm@madeira.gov.pt
+**Assunto:** Consulta a três assentos paroquiais dos Canhas e da Ponta do Sol
 
 Exmos. Senhores,
 
-No âmbito de uma investigação genealógica sobre a família **Pitta da freguesia
-de Nossa Senhora da Piedade dos Canhas**, concelho da Ponta do Sol, li em
-linha, assento a assento, todos os livros que o vosso Arquivo disponibiliza
-dessa paróquia — os três de baptismos anteriores a 1751, os quatro de
-casamentos de 1640 a 1793 e os três de óbitos.
-
-A reconstituição está fechada em **onze gerações**, cada uma com o seu
-documento. **Faltam três assentos** para chegar à décima segunda, e os três
-estão identificados com precisão — dois deles no vosso próprio catálogo, ao
-nível do assento.
-
-## 1 · Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
-
-**Cota:** PT/ABM/PPTS01/002/00001 · **Identificador da descrição:** 2195
-**Assento pedido:** **PT/ABM/PPTS01/002/00001/000084**, ano de **1622**,
-descrito no vosso catálogo como
-> «Registo de casamento: **Manuel Correia c.c. Francisca Lopes**»
-
-**Porquê:** este casal é, por documento, a undécima geração da linha. O
-assento de 26 de Novembro de 1657 (mesmo fundo, Livro 2.º, assento 000081)
-declara o noivo «**Ant.º Correa, f.º de M.el Correa defunto e de sua legítima
-mulher Fran.ca Lopes**». O assento de 1622 dará a filiação de Manuel Correia,
-isto é, a **décima segunda geração**, que é o objectivo do pedido.
-
-**Situação:** a descrição do livro consta do catálogo, indica «**1 liv.: 80
-f.**», e os seus 155 assentos estão indexados nominalmente — alguém do Arquivo
-leu o livro. Mas o *endpoint* `/api/descriptions/2195/digitalobjects` devolve
-**lista vazia**, e o descarregador, que percorre por ordem as variantes
-ORIGINAL, MASTER, DISSEMINATION e THUMB, não obtém nenhuma. **O livro não está
-em linha.**
-
-**Pedido concreto:** reprodução digital do fólio que contém o assento 84
-(e, se possível, dos fólios imediatamente anterior e seguinte).
-
-## 2 · Livro 2.º de registo de casamentos dos Canhas (1640/1691), assento 7
-
-**Cota:** PT/ABM/PPTS01/002/00002 · **Identificador:** 48626
-**Assento pedido:** **PT/ABM/PPTS01/002/00002/000007**, ano de **1641**,
-descrito no vosso catálogo como
-> «Registo de casamento: **Diogo Fernandes Pita c.c. Inês Rodrigues**»
-
-**Porquê:** este casal é a undécima geração pelo lado Pitta — o assento de
-15 de Janeiro de 1676 (mesmo livro, assento 000203) declara «**Francisco Pita,
-filho de Diogo Fernandes Pita e de sua mulher Ines Roiz**». O assento de 1641
-dará a filiação de Diogo Fernandes Pita.
-
-**Situação:** o livro **está** digitalizado e li o assento na **imagem 7**. O
-texto lê-se até «…recebi a **Diogo F[ernande]s Pitta, f.º de**…» e **aí a
-linha entra numa mancha de humidade na margem direita do fólio que comeu a
-tinta**. Ampliei a 10× com normalização local e subtracção de fundo: não há
-ali nada para ler na cópia digital.
-
-**Pedido concreto:** verificação no **original em papel**, ou reprodução com
-iluminação rasante / infravermelho, das duas linhas que dão a filiação dos
-noivos. Se a tinta estiver igualmente perdida no original, agradeço que mo
-digam — fica documentado como perda física e não como lacuna de digitalização.
-
-## 3 · Livro 2.º de registo de baptismos da Ponta do Sol (1614/1641)
-
-**Cota:** PT/ABM/PPTS03/001/00002 · **Identificador da descrição:** 44085
-
-**Porquê:** o índice nominal do vosso catálogo mostra que **não há um único
-casamento Pita nos Canhas entre 1592 e 1639** — o primeiro de toda a série é o
-do próprio Diogo Fernandes Pita, em 1641. A família chega à freguezia com ele,
-o que significa que **nasceu noutra parte**. Descartei por documento o Arco da
-Calheta (o primeiro Pita de todo o fundo é de 1771) e o Estreito da Calheta
-(só no século XIX). Resta a **Ponta do Sol**, freguezia-mãe de que os Canhas
-foram curato — e é este o livro que cobre a janela do nascimento dele.
-
-**Situação:** a descrição vem marcada `HasDigitalObjects = true`, mas a API
-devolve **zero páginas**. Está descrito como digitalizado e não serve imagem
-nenhuma. (O Livro 3.º da mesma série, ID 44101, serve 441 páginas sem
-problema, pelo que não é falha do meu lado.)
-
-**Pedido concreto:** reprodução dos assentos de baptismo de crianças de nome
-**Diogo** entre 1612 e 1622, ou — se for mais simples para o Arquivo — do
-livro inteiro, que tem apenas a cobertura de 27 anos.
-
-## 4 · A variante ORIGINAL de uma imagem que já está em linha
-
-**Cota:** PT/ABM/PPTS01/002/00002 (Livro 2.º de casamentos dos Canhas)
-**Ficheiro:** `PT-ABM-PPTS01-2-477_002.jpg` e vizinhos — a **imagem 7** da
-sequência, que contém o assento de 21 de Janeiro de 1641 do ponto 2 acima.
-
-**Porquê, e porque é o pedido mais fácil dos quatro:** o vosso catálogo
-publica, para cada página, três variantes e os respectivos identificadores:
-
-```
-RepresentationID: 865406      FileID: 3820328
-OriginalURL:      vault://ORIGINAL/B561D655D3F71837584A38A64C062580
-DisseminationURL: vault://DISSEMINATION/DE4E76807C4128F2B56520765F4663D0
-Length: 329711                Digest: MD5 B561D655D3F71837584A38A64C062580
-```
-
-A **DISSEMINATION**, que é a que o visualizador serve, tem **107 422 bytes** e
-mede **668×980 px**. A **ORIGINAL** tem **329 711 bytes** — cerca de **1,7× em
-resolução linear**. É essa diferença que pode devolver a leitura da filiação
-que na cópia servida caiu numa mancha de humidade.
-
-**Situação:** o ficheiro existe (o catálogo declara-lhe o tamanho e o MD5), mas
-nenhum endereço público o serve. Testei sistematicamente vinte e duas formas —
-`storage/storageobject` com o `objectId` da ORIGINAL, com e sem *encode*;
-`storage/download`; `storage/file`; o hash sozinho; `representations/865406` e
-os seus `/file`, `/download`, `/original`; `digitalobjects/3820328` e
-`files/3820328` com os mesmos sufixos; `download?representationId=` e
-`download?fileId=`; e `vault://MASTER/…` e `vault://PRESERVATION/…`. Todas
-devolvem 404 ou 400, e `&type=ORIGINAL` é ignorado (devolve a DISSEMINATION).
-Os parâmetros de tamanho — `width`, `size`, `maxSize`, `scale`, `quality` — são
-igualmente ignorados.
-
-**Pedido concreto:** o envio do ficheiro `vault://ORIGINAL/B561D655D3F71837
-584A38A64C062580` (e, se possível, das páginas vizinhas do mesmo livro). Não é
-uma reprodução a fazer: é uma cópia de um ficheiro que já está no vosso
-repositório.
+Estou a reconstituir, com base nos vossos registos paroquiais em linha, a
+ascendência da família **Pitta dos Canhas**. Cheguei, por documento, a doze
+gerações. Três pontos concretos ficaram por resolver e nenhum deles se resolve
+com o que o portal serve. Agradeço muito a vossa ajuda em qualquer um.
 
 ---
 
-## Observação que talvez vos seja útil
+## 1. Uma palavra num assento que já li
 
-Durante esta investigação encontrei três interfaces de consulta do vosso
-Archeevo que devolvem sempre o mesmo resultado independentemente do parâmetro:
+**`PT/ABM/PPTS01/002/00001/000084`** — descrição **170550** — *Livro 1.º misto
+de registo de casamentos dos Canhas (1592/1639)*, **Liv. 476, f. 31 v.º**,
+**14 de Novembro de 1622**, «Manuel Correia c.c. Francisca Lopes».
 
-- `GET /api/descriptions/search?q=<termo>` — devolve o mesmo álbum
-  fotográfico (PT/ABM/AAC) para qualquer termo de busca;
-- `GET /api/descriptions?parent=<id>` — devolve sempre os mesmos dez registos
-  (livros de pesagem de açúcar da William Hinton & Sons), qualquer que seja o
-  `parent`;
-- não existe endpoint de descrições-filhas (`/children`, `/descendants`,
-  `/tree` devolvem 404, 400 ou 500).
+O assento diz que o noivo era «**filho de M.el Correa, difunto, da freguesia
+de …**». **É essa última palavra — o nome da freguesia — que peço.**
 
-O acervo está lá e está muito bem indexado — o vosso índice ao nível do
-assento é excelente e foi o que me permitiu fechar a linha. **O que não
-funciona é a busca.** Deixo a observação a título de contributo.
+Tenho a imagem que o portal serve para esta descrição (971×1370) e uma cópia
+do microfilme, e em nenhuma das duas fixo a palavra: são sete letras com duas
+hastes altas, seguidas do traço de preenchimento até à margem. Para mim é a
+pista de onde veio esta família para os Canhas.
+
+## 2. Um assento cuja filiação está numa mancha de humidade
+
+**`PT/ABM/PPTS01/002/00002/000007`** — descrição **170161** — *Livro 2.º*,
+**Liv. 477, f. 2**, **1641**, «Diogo Fernandes Pita c.c. Inês Rodrigues».
+
+É o primeiro Pita que aparece nos Canhas, e a linha da filiação dele caiu
+numa mancha. A imagem em linha (668×980) não a devolve. **Peço uma reprodução
+em resolução superior desta página, ou a leitura da linha da filiação.**
+
+## 3. Um livro que o portal declara digitalizado mas não serve
+
+**`PT/ABM/PPTS03/001/00002`** — descrição **44085** — *Livro 2.º de registo de
+baptismos da Ponta do Sol (1614/1641)*, **Liv. 434**, 146 f.
+
+O catálogo diz `HasDigitalRepresentation: true`, mas `/digitalobjects` devolve
+zero páginas e a descrição não tem descendentes ao nível do assento. **Peço
+saber se as imagens existem e podem ser publicadas** — ou, em alternativa, a
+verificação de um baptizado de **Diogo Fernandes Pita** entre 1614 e 1621.
+
+---
+
+## Uma nota que talvez vos seja útil
+
+Ao trabalhar o vosso catálogo dei com uma incoerência que pode interessar ao
+serviço: o **Livro 1.º de casamentos dos Canhas (descrição 2195)** declara
+`HasDigitalRepresentation: false` e `HasPublishedFiles: false`, e
+`/digitalobjects` devolve lista vazia — pelo que o livro **parece não estar
+digitalizado**. Mas cada uma das suas descrições-filhas ao nível do assento
+tem `StorageDisseminationID` próprio e serve a imagem sem problema. O livro
+está digitalizado; é o registo do livro que não o diz. Talvez valha a pena
+corrigir, porque quem procura pelo livro conclui que não há imagem.
 
 Com os melhores cumprimentos,
 
 **[nome]**
-**[morada]** · **[telefone]** · **[correio electrónico]**
+**[contacto]**

@@ -3059,3 +3059,43 @@ Isto derruba o item 1 do pedido ao Arquivo e abre, em princípio, todo o Livro
 que estão exactamente no mesmo estado: `digital=true`, zero páginas. É lá que
 deve estar o baptizado de **Diogo Fernandes Pita**. Escrevi
 `scripts/arquivo-abm-assentos.mjs` para o fazer e liguei-o ao workflow.
+
+## O que o mecanismo do assento deu, e onde bate no fim
+
+A corrida confirmou tudo e mediu o limite.
+
+**Deu:** as imagens do Livro 1.º, a **971×1370** — contra os 668×980 que o
+portal serve página a página — e são **digitalização do original**, não do
+microfilme. Os campos do catálogo explicam a contradição:
+
+| | livro **2195** | assento **170550** |
+|---|---|---|
+| `HasDigitalRepresentation` | **false** | true |
+| `HasPublishedFiles` | **false** | true |
+| `HasActiveChildren` | **true** | — |
+
+O livro não tem imagem; os filhos dele têm. Vale para todo o Livro 1.º.
+
+**Fechou, por documento, uma das portas:** os **baptismos da Ponta do Sol de
+1614-1641** (44085) têm **`HasActiveChildren: false`**. Não há descrições ao
+nível do assento; não há traseiras. Aquele livro não se lê em linha, ponto.
+
+**E mede-se o alcance do índice nominal dos Canhas:** as 11 910 descrições
+cobrem **os casamentos todos** (série 002, livros 1 a 8) e **os baptismos só
+a partir de 1860** (série 001, livro 19 em diante). **Não há óbitos
+indexados** e não há baptismos anteriores a 1860. É por isso que este
+instrumento me levou aos casamentos de 1622, 1641, 1657, 1676, 1700 e 1748 —
+e não me leva a mais nenhum baptizado antigo.
+
+## Três coisas que os índices dizem, e que valem por si
+
+1. **Não há um único Correa no Livro 1.º antes do assento 84.** Os 83 assentos
+   anteriores, de 1592 a 1622, não trazem nenhum. O primeiro Correa que casa
+   nos Canhas é este — e o assento diz que o pai era «da freguesia de …».
+   **Os Correa também são gente de fora**, tal como os Pita.
+2. **Nem Correa nem Pita casam em PPTS02 entre 1590 e 1640** — verifiquei os
+   43 assentos desse intervalo, um a um.
+3. **Manoel R[oi]z e Vitória Ro[i]z, pais da noiva, não casaram nos Canhas.**
+   O Livro 1.º abre em 1592; para terem uma filha em idade de casar em 1622,
+   casaram antes disso. A décima terceira geração, por esse lado, está **antes
+   do primeiro livro da freguesia** — e portanto fora de alcance documental.
