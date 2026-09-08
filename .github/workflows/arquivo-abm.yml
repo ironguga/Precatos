@@ -18,6 +18,7 @@ on:
       - 'scripts/arquivo-abm-indice-nominal.mjs'
       - 'scripts/arquivo-abm-notarial.mjs'
       - 'scripts/arquivo-abm-casamentos-antigos.mjs'
+      - 'scripts/arquivo-abm-filhos.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -118,6 +119,7 @@ jobs:
           }
 
       - name: Levantar os livros de casamentos anteriores a 1745
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -128,6 +130,23 @@ jobs:
           git add -f arquivo/abm-casamentos-antigos.txt
           git diff --cached --quiet || {
             git commit -m 'Levantamento dos livros de casamentos e baptismos anteriores a 1745'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Listar os volumes das series paroquiais vizinhas
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-filhos.mjs 51147 50976 51153 51894 48721 48722 > arquivo/abm-series-filhos.txt 2>&1 || true
+          wc -l arquivo/abm-series-filhos.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-series-filhos.txt
+          git diff --cached --quiet || {
+            git commit -m 'Volumes das series de casamentos das freguesias vizinhas'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
