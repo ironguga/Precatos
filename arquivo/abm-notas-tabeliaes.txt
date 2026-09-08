@@ -1,0 +1,26 @@
+=== 25 descrições notariais/judiciais anteriores a 1800, IDs 30000-60000 ===
+  56222  PT/ABM/CMFUN/C-A/003-001         1768-05-28..1836-04-06  Registo geral de testamentos
+  56970  PT/ABM/CMFUN/C-A/003-001/00006   1776-06-26..1779-06-21  Testamentos (tomo VI)
+  30502  PT/ABM/CMFUN/C-A/003-001/00007   1779-07-24..1788-04-22  Testamentos (tomo VII)
+  35261  PT/ABM/CMFUN/C-D/001/00002       1754-01-02..1863-04-27  Copiador de escrituras outorgadas com terceiros (liv. 1)
+  54600  PT/ABM/CMFUN/C-D/003/00001       ..  Índice dos livros de notas n.º 1 a 6
+  54654  PT/ABM/CMFUN/C-D/003/00002       ..  Índice dos livros de notas n.º 1 a 8
+  42993  PT/ABM/CMFUN/C-D/003/00003       ..  Índice dos livros de notas n.º 1 a 30
+  52097  PT/ABM/CMSTN/D                   ..  NOTARIADO PRIVATIVO
+  55814  PT/ABM/ENP/C/003/21-101          ..1940  Retrato de Cristóvão Colombo. Com nota "O retrato mais parecido, segundo os italianos, com a vera efígie de C. Colombo"
+  55819  PT/ABM/ENP/C/003/21-105          ..1957  Desenho da urna descoberta na catedral de São Domingos. Com nota de "fotografia remetida pelo Eminentíssimo Sr. Presidente do Conselho de Ministros à Real Academia de História". A urna apresenta-se fechada
+  55820  PT/ABM/ENP/C/003/21-106          ..1957  Desenho da urna descoberta na catedral de São Domingos. Com nota de "fotografia remetida pelo Eminentíssimo Sr. Presidente do Conselho de Ministros à Real Academia de História". A urna apresenta-se aberta
+  59262  PT/ABM/FBPV/004                  ..  Documentos de pendências judiciais
+  36317  PT/ABM/JRE/001/05484             1723..1726  Autos de contas do testamento de Isabel Rodrigues, viúva de Amaro Rodrigues
+  44635  PT/ABM/JST/A/004/000001          1621-01-22..1621-01-22  Escritura de venda a retro que fazem Pêro Souto e sua mulher Inês Portes del Rei a Matias Homem del Rei, cunhado do vendedor, de uma pipa de vinho pelo preço de 35.000 réis
+  44393  PT/ABM/JST/A/004/00001           1551-11-11..1551-11-11  Escritura de aforamento e obrigação que fazem Sebastião Álvares e sua mulher, moradores na Ribeira Brava, a Gonçalo Câmara e sua mulher, moradores no Campanário, de um foro anual no valor de 1000 réis
+  44012  PT/ABM/JST/A/004/00006           1788-05-21..1788-05-29  Escritura de venda que fazem António José de Sousa, alferes, e sua mulher Quitéria Maria, a Miguel Francisco de Abreu, negociante, de uma propriedade de vinhas e árvores de fruto, sita na Meia-Légua, Ribeira Brava
+  43537  PT/ABM/JST/A/004/00007           1790-11-29..1792-12-11  Escritura de venda que faz Alexandre Sauvaire Bettencourt de Freitas, capitão, a Miguel Francisco de Abreu, comerciante, de uma parcela de fazenda na Eira do Barbado, Ribeira Brava
+  47531  PT/ABM/JST/C/001/000015          ..  Documentos notariais e patrimoniais da "Quinta da Cova", no Monte, contendo na capa o título "The Casa Páté" File"
+  39835  PT/ABM/JST/C/001/00002           1655-02-27..1655-02-27  Escritura de foro compacto, retro aberto e obrigação que faz Domingos Rodrigues, de alcunha "gibeira", lavrador, morador no estreito da Calheta, a D. Águeda Rodrigues de metade de um serrado
+  44481  PT/ABM/JST/C/001/00003           1659-01-17..1665  Escritura de venda de retro aberto e obrigação que fazem Francisco de Andrade Sá e sua mulher D. Madalena de Atouguia a Diogo Afonso Aguiar de um serrado de vinhas e árvores de fruto pelo preço de 55.000 réis
+  40085  PT/ABM/JST/C/001/00005           1676-06-06..1676-06-06  Escritura de venda, obrigação e quitação compacta de retro aberto que faz o Capitão Martim da Silva e Meneses, como procurador de sua mulher D. Maria de Andrade, ao morgado e capitão Luís Esmeraldo de Atouguia, de um serrado de vinhas e árvores de fruto, pelo preço de 100.000 réis
+  47213  PT/ABM/JST/C/001/00007           1680-02-03..1680-06-17  Escritura de venda real que faz Francisco Teles de Meneses e sua mulher a António da Silva Barreto, de uma parte de duas lojas situadas na rua da Alfândega, Funchal, pelo preço de 30.000 réis
+  44482  PT/ABM/JST/C/001/00008           1722-07-22..1722-07-22  Treslado do testamento de Nuno Fernandes Cardoso e sua mulher Leonor Dias, no qual se institui o Morgado de São João Latrão
+  46115  PT/ABM/JST/C/002/00003           ..  Cópia de uma escritura de sociedade constante do livro 35 de notas do tabelião Joaquim Manso de Sousa
+  52873  PT/ABM/JST/C/009                 ..1999  Pesquisas e notas sobre assuntos de história da Madeira
