@@ -3099,3 +3099,35 @@ e não me leva a mais nenhum baptizado antigo.
    O Livro 1.º abre em 1592; para terem uma filha em idade de casar em 1622,
    casaram antes disso. A décima terceira geração, por esse lado, está **antes
    do primeiro livro da freguesia** — e portanto fora de alcance documental.
+
+## A palavra da freguesia: o que a comparação já excluiu
+
+Baixei **28 assentos vizinhos** do mesmo Livro 1.º, todos na mão do mesmo
+vigário — Baltesior Álvares de Araújo — e li as passagens onde ele nomeia
+freguesias de fora. Serviu para excluir, que é o que a comparação faz bem:
+
+| Assento | O que lá está escrito |
+|---|---|
+| 170540 | «…difuntos, **da freguesia da Po[nta] / do Sol**…» |
+| 170531 | «…de Margaida de Gois, **da freguesia do S.t[o] …**, vindo de…» |
+| 170539 | «…Maria de Pinho, **da villa da Calheta**…» |
+| 170537 | «…freguezes **desta freguesia da Piedade**…» |
+| 170546 | «…**das […] do […]**…» (leitura por fixar) |
+
+**A Ponta do Sol está excluída por comparação de letra:** este escrivão
+escreve-a «da freguesia da **p**ō do Sol», com um **p de haste descendente**
+bem visível e o «do Sol» a passar para a linha seguinte. A minha palavra
+começa com uma **haste alta de laço** — a mesma forma do «l» de
+«Ba**l**thesior» — e não tem «do Sol» a seguir: tem o traço de preenchimento
+até à margem.
+
+**E é um nome plural e feminino** — vem depois de «da**s**», com o «s» de
+descida que este escrivão usa em «dias», «annos», «mes». Isso exclui de uma
+vez **Ponta do Sol, Calheta, Estreito, Arco, Madalena, Tábua, Ribeira Brava,
+Campanário** — todas singulares — e a própria Piedade dos Canhas.
+
+**O que resta é um topónimo plural feminino**, com sete traços, duas hastes
+altas e um «t» de travessão longo. Não o nomeio. Fica no pedido ao Arquivo,
+onde um arquivista o lê num minuto — e fica escrito aqui exactamente com esta
+incerteza, porque **é um rasto e não um elo**: as doze gerações não dependem
+dele.
