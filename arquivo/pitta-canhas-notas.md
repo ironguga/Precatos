@@ -1629,3 +1629,143 @@ Restam três explicações, e não escolho nenhuma sem documento:
 **António Correa × Maria de Ponte** e **Francisco Pitta × Maria Rodrigues**,
 c. 1650-1670, declarados no assento de 6 Nov 1730 e agora transcritos do
 original. **Não subo daqui sem documento.**
+
+---
+
+# A lacuna que eu tinha em casa, e o que ela guardava
+
+A cópia local do **Livro 3.º de casamentos (1692–1743, ID 41777)** saltava das
+imagens **2 para 16**. Treze imagens — os anos de **1692 a 1697** — nunca
+tinham sido baixadas, e eu tinha varrido «as imagens 19 a 90» convencido de
+que começava aí o livro. Mandei o *runner* buscá-las e li-as todas.
+
+## 17 de Novembro de 1695 — a casa Correa × de Ponte existe
+
+**Livro 3.º de casamentos, imagem 12** — margem «Ant.º Correa / da Silva co /
+M.ª Roiz»
+
+> «Em os **17 dias do mes de Novembro de 1695** annos, nesta Igr.ª de Nossa
+> Sr.ª da Piedade, corridos os banhos conforme manda o Sagrado Conc.º Trid.º,
+> e não haver impedimento algum mais que o de **3.º e hum via de 4.º grão de
+> consanguinidade, em que forão dispensados**, [dei as bênçãos] a **ANT.º
+> CORREA DA SILVA, f.º de FRAN.co CORREA já defunto e de sua m.er MARIA DE
+> PONTE**, com **M.ª ROIZ, f.ª de ROQUE G[ONÇALVE]Z e de sua m.er IZABEL
+> ROIZ**, todos desta freg.ª… Testemunhas: André Roiz [e] Ant.º de Azeredo…»
+
+Duas coisas, e nenhuma é a que eu procurava:
+
+1. Existe nos Canhas, na geração certa, um casal **Correa × Maria de Ponte** —
+   mas o marido chama-se **Francisco**, não António.
+2. O filho desse casal assina-se **«Correa da Silva»**. **O apelido «da Silva»
+   entra nesta casa por documento**, e é o mesmo «da Silva» que Pedro da
+   **Silva** de Ponte carrega.
+
+## 23 de Novembro de 1697 — a terceira casa Correa
+
+**Imagem 18** — margem «Fran.co Correa / co M.ª V.ra»
+> «…os recebi e dei as bênçãos a **FRANCISCO CORREA, filho de MANOEL CORREA
+> de Sanct[iago] já defunto e de sua mulher MARIA VIEIRA**, com **MARIA
+> PEREIRA, filha de MANOEL VIEIRA e de sua mulher Maria de [Barredo]**, meus
+> freguezes…»
+
+## CORRECÇÃO ao assento de 8 de Novembro de 1688
+
+Escrevi acima, na varredura do Livro 2.º, que o noivo de 8 Nov 1688 era
+«[An]tónio Correa». **Não é.** Lido agora o fólio inteiro com normalização
+local, a margem diz «**Joam Correa** co M.ª dos Reis» e o corpo:
+
+> «Em os **8 dias do mes de Novembro de 1688**… não haver impedimento mais
+> que o de **3.º dobrado grao de consanguinidade, em que forão dispensados por
+> Sua Sanctidade**, de minha licença o **P.e Vig.º Sebastião Marques da
+> Calheta** bendisse e recebeu a **JOAM CORREA, filho de M.el Correa defunto
+> e de sua m.er MARIA ÁLVARES**, com **M.ª DOS REIS, filha de Manoel Fr.co
+> Galho defunto e de sua m.er ANNA DO ROZARIO**. Forão presentes o Capitão
+> Fran.co de [La]cerda e o Capitão Luís [Te]lho de Menezes…»
+
+**João**, não António. Corrijo, e a correcção importa: tira da mesa o único
+«António Correa» que eu julgava ter em mãos.
+
+---
+
+# 26 de Novembro de 1657 — o candidato que muda o tecto
+
+Voltei então ao **Livro 2.º de casamentos** e varri a faixa que faltava. Na
+**imagem 46** está o assento que segue. É uma página de tinta esbatida; lê-se
+com normalização local a 5×, e as duas leituras que dou entre parênteses são
+as que não fixo.
+
+**26 de Novembro de 1657, Livro 2.º de casamentos dos Canhas, imagem 46** —
+margem: «**Ant.º Correa** / com M.[…]» (a segunda linha não a leio)
+
+> «Em os **26 d[ias] d[o] mes de Novembro de 1657 annos**, nesta [Igreja de
+> Nossa Senhora] da Piedade dos Canhas, **eu M.el Antunes, Vigário** deste…
+> corridos os banhos na forma [que ordena] o Sagrado Conc[ílio] Trid[entino],
+> **sem haver impedimento algum**, nesta Igreja dei as bên-
+> ções a **ANT.º CORREA, f.º de M.el CORREA def.to e de sua legítima mulher
+> FRAN.ca LOPES**, com **M.ª […] DA SILVA, f.ª de M.el DE PONTE e de sua
+> legítima mulher ANNA DA SILVA**, [defunto]s, todos meus freguezes. [Forão
+> presentes] o Cap.tão M.el Pest[ana]…»
+
+## Porque é que este assento importa, e onde paro
+
+**O que está provado por este documento, e só isto:** a 26 de Novembro de 1657
+casou nos Canhas um **António Correa, filho de Manoel Correa já defunto e de
+Francisca Lopes**, com uma filha de **Manoel de Ponte e de Anna da Silva**.
+
+**O que o torna o melhor candidato que apareceu em toda a investigação para os
+pais de Pedro da Sylva de Ponte:**
+
+1. **O nome do noivo é exactamente o do assento de 1730**: António Correa. Em
+   todos os livros lidos — Livro 2.º de casamentos inteiro, Livro 3.º de 1692
+   a 1743 — **é o único António Correa que casa nos Canhas**. Os outros Correa
+   que casam são João (1688), Francisco (1697) e António Correa da Silva
+   (1695, com Maria Roiz).
+2. **A noiva é filha de um de Ponte.** O assento de 1730 chama à mulher de
+   António Correa «**Maria de Ponte**». Aqui ela é «M.ª […] **da Silva**»,
+   filha de **Manoel de Ponte** e de **Anna da Silva** — isto é, o pároco
+   deu-lhe a metade materna do nome. **Esta freguezia faz isso o tempo todo**,
+   e nesta mesma investigação a mesma mulher aparece como «Maria Roiz Pitta»,
+   «Maria Vieyra Pitta», «Maria Pitta» e «Maria Vieyra de Ponte» em cinco
+   assentos. Uma filha de Manoel de Ponte escrita «Maria de Ponte» em 1730 é
+   a coisa mais natural do mundo.
+3. **O apelido composto encaixa peça a peça.** Pedro chama-se **Pedro da
+   SILVA de PONTE**. A mãe deste assento é uma **da Silva** filha de um **de
+   Ponte** — as duas metades, na ordem certa, na mesma mulher.
+4. **A cronologia fecha, sem folga.** Casados em 1657, um filho nascido por
+   volta de 1660-1670; Pedro casa por volta de 1690-1700 (o casamento não está
+   nem no fim do Livro 2.º nem no princípio do Livro 3.º, ambos agora
+   varridos), os filhos casam em 1725 e 1730, ele é padrinho vivo em Jan 1751
+   e «já defunto» em Out 1754. Morreria com 84 a 94 anos. **É muito, e é o
+   ponto fraco desta hipótese** — digo-o antes que mo digam.
+
+**O que NÃO está provado:** nenhum documento liga este casal a Pedro. O nome
+da noiva não é lido por inteiro. **Fica HIPÓTESE FORTE — a mais forte de toda
+a investigação, e continua a ser hipótese.**
+
+## Se se confirmar, a décima primeira geração é esta
+
+    Manoel Correa × Francisca Lopes        Manoel de Ponte × Anna da Silva
+                   ↓                                      ↓
+        António Correa            ×          Maria [...] da Silva
+                        (casam 26 Nov 1657, Canhas)
+                                  ↓
+                    Pedro da Sylva de Ponte × Maria Roiz Pitta
+
+**Não movo o tecto oficial.** Continua em **António Correa × Maria de Ponte** e
+**Francisco Pitta × Maria Rodrigues**, que é o que o assento de 1730 declara.
+O que este assento de 1657 acrescenta é um rosto documentado para o primeiro
+desses dois casais, e dois nomes acima dele à espera de prova.
+
+## O negativo desta campanha, que também é resultado
+
+- **Livro 3.º de casamentos, imagens 3 a 18 (1692–1697)**: lidas todas. **Não
+  há o casamento de Pedro da Sylva de Ponte.** O único Pedro é o de 21 Jul
+  1693 — «**Pedro Fr[nande]s**… com **M.ª Gonçalves, filha de João Pereira
+  Cordovo e de sua m.er Izabel Gomes já defunta**» —, e não é ele.
+- **Livro 2.º de casamentos, imagens 137 a 146 (1688–1691)**: lidas por
+  margem. Também não está lá.
+- Está portanto varrido, sem o encontrar, **todo o intervalo de 1662 a 1743**
+  nos dois livros de casamentos dos Canhas. Restam duas explicações: casou
+  antes de 1662, ou casou noutra freguezia. A primeira é incompatível com a
+  cronologia dos filhos; **a segunda passa a ser a explicação provável, e
+  aponta para fora do que tenho.**
