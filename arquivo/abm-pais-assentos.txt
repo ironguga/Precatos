@@ -1,0 +1,186 @@
+
+===== 170550 =====
+  Dimensions: 1 f.
+  LangMaterial: Português.
+  PhysLoc: Liv. 476, f. 31 v.º
+  StorageThumbnailID: vault://THUMB/57B648F8D31AC1D567C93BCFB7427429
+  StorageDisseminationID: vault://DISSEMINATION/5AFF753A4DE9273E82EA2D2BBD95F10B
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1622
+  UnitTitle: Registo de casamento: Manuel Correia c.c. Francisca Lopes
+  UnitDateFinal: 1622
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: D
+  CompleteUnitId: PT/ABM/PPTS01/002/00001/000084
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 000084
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 135
+  Created: 2017-04-12T11:31:29.21
+  Modified: 2026-09-08T02:52:48.7
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD170550
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 170550
+  Parent: 2195
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 170161 =====
+  Dimensions: 1 f.
+  LangMaterial: Português.
+  PhysLoc: Liv. 477, f. 2
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1641
+  UnitTitle: Registo de casamento: Diogo Fernandes Pita c.c. Inês Rodrigues
+  UnitDateFinal: 1641
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: D
+  CompleteUnitId: PT/ABM/PPTS01/002/00002/000007
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 000007
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 204
+  Created: 2017-04-12T11:27:44.057
+  Modified: 2026-09-08T02:52:44.183
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD170161
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 170161
+  Parent: 48626
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 169595 =====
+  Dimensions: 1 f.
+  LangMaterial: Português.
+  PhysLoc: Liv. 495, f. 18
+  StorageThumbnailID: vault://THUMB/46E66E030E27B017CBE2522AA51C322F
+  StorageDisseminationID: vault://DISSEMINATION/D33A0EABA74F349C1759CC7F6A800268
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1700
+  UnitTitle: Registo de casamento: Pedro da Silva c.c. Maria Vieira Pita
+  UnitDateFinal: 1700
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: D
+  CompleteUnitId: PT/ABM/PPTS01/002/00003/000092
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 000092
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 137
+  Created: 2017-04-12T11:22:17.1
+  Modified: 2026-09-08T02:52:37.4
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD169595
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 169595
+  Parent: 41777
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 169383 =====
+  Dimensions: 1 f.
+  LangMaterial: Português.
+  PhysLoc: Liv. 496, f. 26 v.º
+  StorageThumbnailID: vault://THUMB/D0BE132D3B62BF61E3643A2DAAB4DE4B
+  StorageDisseminationID: vault://DISSEMINATION/D02551B6D1A27DCFE9CDA505C72BB24F
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1748
+  UnitTitle: Registo de casamento: Pedro da Silva de Ponte c.c. Antónia da Silva
+  UnitDateFinal: 1748
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: D
+  CompleteUnitId: PT/ABM/PPTS01/002/00004/000077
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 000077
+  AssociationCount: 1
+  AllowTextualContentInference: true
+  ViewCount: 90
+  Created: 2017-04-12T11:20:17.077
+  Modified: 2026-09-08T02:52:34.873
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 1
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: true
+  HasAudiovisualRecord: false
+  Barcode: UD169383
+  AllowAddDescendants: false
+  HasPublishedFiles: true
+  ID: 169383
+  Parent: 2206
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
