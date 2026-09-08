@@ -25,6 +25,7 @@ on:
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
+      - 'scripts/arquivo-abm-wayback.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -169,13 +170,13 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-externas2.mjs > arquivo/abm-externas2.txt 2>&1 || true
-          cat arquivo/abm-externas2.txt
+          node scripts/arquivo-abm-wayback.mjs > arquivo/abm-wayback.txt 2>&1 || true
+          cat arquivo/abm-wayback.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -f arquivo/abm-externas2.txt
+          git add -f arquivo/abm-wayback.txt
           git diff --cached --quiet || {
-            git commit -m 'Busca dos nomes certos fora do arquivo'
+            git commit -m 'O sitio antigo do ABM no Arquivo.pt, e as fontes madeirenses'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
