@@ -1,6 +1,16 @@
+Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
+PT/ABM/PPTS01/002/00001  1 liv.: 80 f.
+
+Não encontrei IDs de armazenamento em /digitalobjects.
+Início da resposta (para diagnóstico):
+[]
 2195  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
-2206  digital=true  representations=200 nós=179   digitalobjects=200 páginas=177   Livro 4.º de registo de casamentos dos Canhas (1743/1754)
-2196  digital=true  representations=200 nós=17    digitalobjects=200 páginas=15    Livro de registo de casamentos do Jardim do Mar do ano de 1870
-2197  digital=true  representations=200 nós=35    digitalobjects=200 páginas=33    Livro de registo de casamentos do Caniço do ano de 1883
-2198  digital=true  representations=200 nós=17    digitalobjects=200 páginas=15    Livro de registo de casamentos do Jardim do Mar do ano de 1872
-47511  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Paróquia dos Canhas
+2199  digital=true  representations=200 nós=11    digitalobjects=200 páginas=9     Livro de registo de casamentos do Jardim do Mar do ano de 1882
+2200  digital=true  representations=200 nós=16    digitalobjects=200 páginas=14    Livro de registo de casamentos do Jardim do Mar do ano de 1875
+2201  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     Copiador de ofícios expedidos (1947)
+2202  digital=true  representations=200 nós=12    digitalobjects=200 páginas=10    Livro de registo de casamentos do Jardim do Mar do ano de 1878
+2203  digital=true  representations=200 nós=14    digitalobjects=200 páginas=12    Livro de registo de casamentos do Jardim do Mar do ano de 1879
+2204  digital=true  representations=200 nós=13    digitalobjects=200 páginas=11    Livro de registo de casamentos do Jardim do Mar do ano de 1884
+2205  digital=true  representations=200 nós=21    digitalobjects=200 páginas=19    Livro de registo de casamentos do Jardim do Mar do ano de 1887
+2207  digital=true  representations=200 nós=201   digitalobjects=200 páginas=199   Livro 6.º de registo de casamentos dos Canhas (1794/1807)
+2208  digital=true  representations=200 nós=20    digitalobjects=200 páginas=18    Livro de registo de casamentos do Jardim do Mar do ano de 1888
