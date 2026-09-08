@@ -1,0 +1,66 @@
+=== 60 descrições notariais/judiciais anteriores a 1800, IDs 60000-120000 ===
+  71348  PT/ABM/DSIEV/G-C/00019           ..  Registo de escrituras de constituição de sociedades de transportes de aluguer
+ 103705  PT/ABM/FBM/A/001/00001           1564-06-05..1564-06-05  Escritura de transação de aforamento de três dias e meio e três horas de água da levada da ribeira de Nossa Senhora do Calhau 
+ 103711  PT/ABM/FBM/A/001/00002           1588-12-14..1588-12-14  Escritura de desistência de demandas e aforamento de água efetuada entre a Câmara Municipal do Funchal e outros e Zenóbio Acciaiolly
+ 103729  PT/ABM/FBM/C/00001               1605-05-20..1605-05  Escritura de transação de três horas de água da levada de Santa Luzia, Funchal, efetuada entre Ana Ferreira Nabais, solteira, filha de Francisco de Nabais, e Simão Acciaiolly de Vasconcelos 
+ 116845  PT/ABM/FBM/D/001/00002           1670-05-10..1671  Autos cíveis de petição do capitão Roque Acciaiolly de Vasconcelos a solicitar vista da escritura de venda de água que fez Dom Manuel Rojas ao capitão Diogo Fernandes Branco, no âmbito de uma sentença da Relação a favor do primeiro e contra o segundo 
+  65741  PT/ABM/FBPV/001/00004            ----------..----------  Nota sobre o valor do alqueire de terra duma fazenda no Lombo do Atouguia
+  61107  PT/ABM/FBPV/A/001/000003         1718..1718  Resumo de duas escrituras
+  61120  PT/ABM/FBPV/C-B/000002           1732-06-09..1732-06-09  Nota dirigida ao padre Manuel de Sousa e Vasconcelos por José [?] Vasconcelos pedindo a chave da [casinha] e da loja, que queria mandar varrer e consertar
+  61850  PT/ABM/FBPV/C/003                1772-06---..1783-07-02  Escrituras
+  61851  PT/ABM/FBPV/C/003/000001         ..  Apontamento referente a duas escrituras de venda de fazenda no lugar dos Galegos.
+  61918  PT/ABM/FBPV/C/003/000002         ----------..----------  Escritura de desistência que fez Vicente Gomes e Sua Mulher à senhora D. Luísa Agostinha de Noronha Bettencourt
+  65545  PT/ABM/FBPV/E/005-001/000009     ----------..----------  Carta dirigida por António Ferreira, moço filho de Isabel Maria, viúva, e de Bartolomeu Ferreira, ao morgado juiz dos órfãos da Calheta
+  66993  PT/ABM/JPC-A/B-A/010             ..  Relações da documentação da Madeira transferida para o Arquivo Nacional Torre do Tombo, em função da portaria de [09 de Junho de 1886]
+  67159  PT/ABM/JPC-A/B-A/012/000001      ..  Traslado de testamento de Francisco de Figueiroa (Juízo dos Resíduos e Capelas, 1665)
+  67162  PT/ABM/JPC-A/B-A/012/000002      ..  Transcrição paleográfica, datilografada, do f. 78 v.º do Tombo I do Registo Geral da Câmara Municipal do Funchal.: Carta de D. Manuel em que dá "licença e lugar" a D. João de Vasconcelos de Meneses para exercer atividade cambista na Madeira
+  67156  PT/ABM/JPC-A/B-A/012/00001       ..  Transcrições paleográficas manuscritas de documentos dos Tombos do Registo Geral da Câmara do Funchal relativos à defesa e fortificações da cidade (1476/ 1760)
+  67160  PT/ABM/JPC-A/B-A/012/00005       ..  Transcrição paleográfica dactilografada do registo de batismo e testamento de Manuel Rodrigues Chaves (Registos Paroquiais e Juízo dos Resíduos e Capelas)
+  67770  PT/ABM/JPC-A/B-D/011/00005       ..  Notas manuscritas, questionário às instituições a visitar e introdução em língua inglesa da comunicação ou discurso proferido por José Pereira da Costa
+  67791  PT/ABM/JPC-A/B-D/013/000001      ..  Cópia de Diário do Governo de 2 de Fevereiro de 1843, em que se publica o relatório de José Feliciano de Castilho sobre a situação do Real Archivo da Torre do Tombo
+  67797  PT/ABM/JPC-A/B-D/014/00004       ..  Notas de José Pereira da Costa aquando de convite da RTP para entrevista sobre o Arquivo Nacional Torre do Tombo
+  67819  PT/ABM/JPC-A/B-D/019/00006       ..  Apontamentos, notas, transcrições e fichas manuscritas que fazem referência à destruição e extravio de acervos documentais portugueses entre os séculos XVII e XIX
+  67821  PT/ABM/JPC-A/B-D/019/00008       ..  Textos e apontamentos sobre assuntos relacionados com o Arquivo Nacional Torre do Tombo (micrografia, transferência dos serviços para o novo edifício, acesso à documentação, doações, inventário do gabinete do diretor)
+  67823  PT/ABM/JPC-A/B-D/019/00009       ..  "A Torre do Tombo e a restruturação dos arquivos públicos" de José Mattoso com emendas de José Pereira da Costa
+  67824  PT/ABM/JPC-A/B-D/019/00010       ..  Artigos de José Pereira da Costa sobre a história do Arquivo Nacional Torre do Tombo
+  67837  PT/ABM/JPC-A/B-D/020/000008      ..  Cópia de telegrama dos funcionários do Arquivo Nacional Torre do Tombo congratulando o Secretário de Estado da Cultura pela decisão da construção do novo edifício
+  67839  PT/ABM/JPC-A/B-D/020/00006       ..  Referências documentais extraídas de fundos documentais madeirenses transferidos para a Torre do Tombo (Cabido da Sé do Funchal, Convento de Santa Clara, Convento de Nossa Senhora da Encarnação) e outros documentos daquele Arquivo, nomeadamente do Núcleo Antigo, relativas à edificação de igrejas, capelas e aquisição de ornamentos diversos, retábulos e obras realizadas
+  68500  PT/ABM/JPC-A/C/001-002/00001     ..  Consultas bibliográficas e notas manuscritas de José Pereira da Costa
+  68503  PT/ABM/JPC-A/C/001-003/00001     ..  Notas datilografadas da obra com correções manuscritas de José Pereira da Costa
+  68505  PT/ABM/JPC-A/C/001-004/00002     ..  Notas manuscritas de José Pereira da Costa e fotos da documentação de suporte à edição das obras
+  68506  PT/ABM/JPC-A/C/001-004/00003     ..  Extratos da obra, notas manuscritas e excertos da transcrição paleográfica
+  68514  PT/ABM/JPC-A/C/001-006/00001     ..  Consultas bibliográficas e notas manuscritas de José Pereira da Costa
+  68598  PT/ABM/JPC-A/C/002-004/00004     ..  Documentação de suporte à escrita dos artigos e comunicações sobre Luís de Camões: notas manuscritas e verbetes relativos à temática camoniana
+  68601  PT/ABM/JPC-A/C/002-004/00006     ..  Documentação de suporte à escrita dos artigos e comunicações sobre Luís de Camões: reproduções fotográficas e respetivas transcrições paleográficas de diversos documentos do Arquivo Nacional Torre do Tombo sobre Luís de Camões
+  68616  PT/ABM/JPC-A/C/002-011/00005     ..  Notas bibliográficas de médicos madeirenses e recortes de imprensa
+  68644  PT/ABM/JPC-A/C/002-016/00012     ..  Comunicação de José Pereira da Costa "Notícia sobre os humanistas madeirenses do séc. XVI" proferida em Novembro de 1959, recorte de imprensa, notas manuscritas e traduções de diversos poemas
+  68651  PT/ABM/JPC-A/C/004/000003        ..  Texto de José Pereira da Costa: "D. Manuel e a Torre do Tombo"
+  68653  PT/ABM/JPC-A/C/004/000004        ..  Texto de José Pereira da Costa: "The National Archives of Torre do Tombo"
+  68661  PT/ABM/JPC-A/C/005-001/00002     ..  Apontamentos: "(...) notas de duas conferências: no Brasil e na Índia"
+  68667  PT/ABM/JPC-A/C/005-001/00008     ..  Apontamentos: "Tesouros da Torre do Tombo" e seus diretores
+  68672  PT/ABM/JPC-A/C/005-001/00013     ..  Notas para a sua participaçao no programa "Pôr-do-Sol" da RTP Madeira
+  68657  PT/ABM/JPC-A/C/005-004           ..  Reproduções de documentos do Arquivo Nacional Torre do Tombo
+  68689  PT/ABM/JPC-A/C/005-004/000002    ..  Gavetas - Gaveta 13, M. 8, n.º 13: inventário dos livros e papéis da Torre do Tombo (1634)
+  68703  PT/ABM/JPC-A/C/005-004/000013    ..  Instituto dos Arquivos Nacionais/ Torre do Tombo - Tribunal do Santo Ofício, Inquisição de Lisboa, proc. 257 IANT/TT/T S O, Inquisição de Lisboa, proc. 257/mf. 4977 P.
+
+  68704  PT/ABM/JPC-A/C/005-004/000014    ..  Instituto dos Arquivos Nacionais/ Torre do Tombo - Mesa da Consciência e Ordens, Habilitações da Ordem de Cristo, Letra F, mç. 15, n.º 2 - IAN/TT/M.C.O. Secretaria da Mesa e Comum das Ordens, Habilitações da Ordem de Cristo, Letra F, mç. 15, n.º 2 mf. 7053 P.
+  68705  PT/ABM/JPC-A/C/005-004/000015    ..  Instituto dos Arquivos Nacionais/ Torre do Tombo - Tribunal do Santo Ofício, Inquisição de Lisboa, proc. 7858. IANT/TT/Tribunal do Santo Ofício, Inquisição de Lisboa, proc. 7858/Mf. 7056 P.
+  68659  PT/ABM/JPC-A/C/005-006           ..  Reproduções de documentos do Arquivo Nacional Torre do Tombo relativos à Madeira
+  68178  PT/ABM/JPC-A/E-A/010/00007       ..  Ilha Terceira: "Angra do Heroísmo: altar de Nossa Senhora Auxiliadora na igreja do orfanato"
+  68365  PT/ABM/JPC-A/E-B/002/00010       ..  Diapositivos sem n.º: documentos que estão no Arquivo Nacional Torre do Tombo (Leitura Nova, Tombo da Ordem de Cristo, Lendas da Índia de Gaspar Correia, Tratado Geral do Congresso de Viena de 1815, Tratado com a América do Norte)
+  68366  PT/ABM/JPC-A/E-B/002/00011       ..  Diapositivos sem n.º: documentos que estão no Arquivo Nacional Torre do Tombo (abolição da pena de morte - 1867, Tombo da Ordem de Cristo, Segundo Cerco de Diu, Auto de aclamação de D. João I)
+  68372  PT/ABM/JPC-A/E-B/002/00017       ..  Diapositivos sem n.º do "Livro das Ilhas" (10) e diapositivos sem n.º da Torre do Tombo em maquete e em construção (11)
+  68376  PT/ABM/JPC-A/E-B/003/00003       ..  Diapositivos sem n.º: Arquivo Nacional da Torre do Tombo
+ 119247  PT/ABM/MCR/A/003/00002           ..  Nota assinada por "Countess Kassenbuch" relativa ao estado de saúde de uma pessoa, nomeadamente a sua pulsação e febre 
+ 118461  PT/ABM/MCR/B/014/00008           ..  Contos diversos de Maria do Carmo Rodrigues, com anotações, e apontamento sobre a vida e obra da escritora 
+ 117249  PT/ABM/MCR/B/015/00002           ..  Textos intitulados "Da minha Janela: impressões várias", com notas manuscritas
+  98373  PT/ABM/PCLT01/002/00003/000451   1740..1740  Registo de casamento: Manuel Gomes Órfão c.c. Inês de Jesus Maria
+  97470  PT/ABM/PCLT01/002/00004/000029   1745..1745  Registo de casamento: Francisco de Sousa Órfão c.c. Isabel Maria da Estrela
+  97737  PT/ABM/PCLT01/002/00004/000381   1768..1768  Registo de casamento: Francisco Fernandes Órfão c.c. Quitéria Maria
+  97789  PT/ABM/PCLT01/002/00004/000432   1770..1770  Registo de casamento: Domingos Fernandes Órfão c.c. Isabel Maria
+  96788  PT/ABM/PCLT01/002/00005/000160   1789..1789  Registo de casamento: Francisco de Sousa Órfão c.c. Maria de Santo António
+  96934  PT/ABM/PCLT01/002/00005/000307   1797..1797  Registo de casamento: António Fernandes Órfão c.c. Maria de Jesus
+54600  digital=true  representations=200 nós=83    digitalobjects=200 páginas=81    Índice dos livros de notas n.º 1 a 6
+54654  digital=true  representations=200 nós=165   digitalobjects=200 páginas=163   Índice dos livros de notas n.º 1 a 8
+42993  digital=true  representations=200 nós=401   digitalobjects=200 páginas=399   Índice dos livros de notas n.º 1 a 30
+52097  digital=false representations=200 nós=0     digitalobjects=200 páginas=0     NOTARIADO PRIVATIVO
