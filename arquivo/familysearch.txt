@@ -1,38 +1,145 @@
-=== 1 · Research Wiki (público) ===
 
-  https://www.familysearch.org/en/wiki/Portugal,_Madeira_Islands_Civil_Registration -> 200, 6421 bytes
-     (sem correspondências)
+===== wiki · Madeira =====
+  https://www.familysearch.org/en/wiki/Madeira,_Portugal_Genealogy
+  HTTP 200 · 887 bytes de HTML · 0 car. de texto
 
-  https://www.familysearch.org/en/wiki/Ponta_do_Sol,_Funchal,_Madeira,_Portugal_Genealogy -> 200, 6421 bytes
-     (sem correspondências)
+===== wiki · Portugal Church Records =====
+  https://www.familysearch.org/en/wiki/Portugal_Church_Records
+  HTTP 403 · 890 bytes de HTML · 0 car. de texto
 
-  https://www.familysearch.org/en/wiki/Madeira,_Portugal_Genealogy -> 200, 6421 bytes
-     (sem correspondências)
+===== catálogo · lugar =====
+  https://www.familysearch.org/search/catalog/results?q.placeString=Portugal%2C%20Madeira%2C%20Ponta%20do%20Sol
+  HTTP 403 · 890 bytes de HTML · 0 car. de texto
 
-  https://www.familysearch.org/en/wiki/Portugal_Church_Records -> 200, 6421 bytes
-     (sem correspondências)
+===== catálogo · texto =====
+  https://www.familysearch.org/search/catalog/results?q.text=Ponta%20do%20Sol%20Madeira
+  HTTP 403 · 890 bytes de HTML · 0 car. de texto
 
-  https://www.familysearch.org/en/wiki/Special:Search?search=Ponta+do+Sol+Madeira -> 200, 6421 bytes
-     (sem correspondências)
+===== raiz =====
+  https://www.familysearch.org/
+  HTTP 403 · 891 bytes de HTML · 0 car. de texto
 
-=== 2 · páginas de catálogo em HTML ===
+===== (controlo) Arquivo.pt =====
+  https://arquivo.pt/
+  HTTP 200 · 125427 bytes de HTML · 1320 car. de texto
+  ----
+Link copiado
 
-  https://www.familysearch.org/search/catalog/results?q.placeString=Portugal%2C+Madeira%2C+Pon -> 404, 65831 bytes
-     (sem correspondências)
+Menu
+×
+English
+Copiar link
+Páginas
+Nova pesquisa
+Pesquisa avançada
+Imagens
+Nova pesquisa
+Pesquisa avançada
+Arquive páginas
+Sobre
+Pesquisar
+Páginas
+Imagens
+Narrativa
+Pesquisa avançada
+Prémio Arquivo.pt 2026 - Conheça os vencedores!
+O que é o Arquivo.pt?
+Testemunhos de utilizadores
 
-  https://www.familysearch.org/search/catalog/results?q.text=Ponta+do+Sol+Madeira+registos+par -> 404, 65831 bytes
-     (sem correspondências)
+Sugira
 
-  https://www.familysearch.org/service/search/catalog/place-suggest?placeText=Ponta%20do%20Sol -> 404, 354 bytes
-     <html><body><script src="/Hemlock-Night-Gosper-this-go-this-Famids-not-of-" async></script><h1>Whitelabel Error Page</h1><p>This application has no explicit mapping for /error, so you are seeing this as a fallback.</p><div id='created'>Tue Sep 08 12:46:09 UTC 2026</div><div>There was an unexpected error (type=Not Found, status=404).</div></body></html>
+ 
 
-  https://www.familysearch.org/service/search/catalog/places?text=Ponta+do+Sol -> 404, 354 bytes
-     <html><body><script src="/Hemlock-Night-Gosper-this-go-this-Famids-not-of-" async></script><h1>Whitelabel Error Page</h1><p>This application has no explicit mapping for /error, so you are seeing this as a fallback.</p><div id='created'>Tue Sep 08 12:46:09 UTC 2026</div><div>There was an unexpected error (type=Not Found, status=404).</div></body></html>
+Sugira websites para serem preservados
 
-=== 3 · WorldCat, que espelha as fichas dos microfilmes ===
+ArchivePage
 
-  https://search.worldcat.org/search?q=Registos+paroquiais+Ponta+do+Sol+Madeira -> 429, 7668 bytes
-     (sem correspondências)
+ 
 
-  https://search.worldcat.org/search?q=%22Ponta+do+Sol%22+paroquiais+Madeira -> 429, 7668 bytes
-     (sem correspondências)
+Now
+
+Arquive uma página imediatamente
+
+Notícias
+
+ 
+
+Fique a par das últimas novidades
+
+Formação
+
+ 
+
+Aprenda como preservar informação digital
+
+Exemplos
+
+ 
+
+Conheça algumas páginas preservadas
+
+Exposições
+
+ 
+
+Explore coleções de páginas do passado agrupadas por tema
+
+Arquivo
+
+ 
+
+404
+
+Acabe com as “Páginas não encontradas” no seu website
+
+Memorial
+
+ 
+
+Preserve o seu antigo website antes de o desativar
+
+Publicações
+
+ 
+
+Artigos e relatórios acerca do Arquivo.pt
+
+Citation
+
+ 
+
+Saver
+
+Preserve citações para documentação online
+
+Sobre
+O que é o Arquivo.pt?
+Publicações
+Exposições
+Área de imprensa
+API & Código-aberto
+Dados abertos
+Termos e Condições
+Notícias
+Subscrever lista de email
+Últimas novidades
+Twitter
+Facebook
+Vídeos
+Material de Divulgação
+Colabore
+Prémios Arquivo.pt
+Sugira site
+Conserte links quebrados
+Memorial
+Recomendações
+Arquive páginas
+Preserve citações
+Ajuda
+Pesquisa de páginas
+Pesquisa de imagens
+Recolha
+Acesso
+Formação
+Catálogo
+Contacto
