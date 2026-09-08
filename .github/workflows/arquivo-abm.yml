@@ -23,6 +23,7 @@ on:
       - 'scripts/arquivo-abm-itens-canhas.mjs'
       - 'scripts/arquivo-abm-pais.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
+      - 'scripts/arquivo-abm-original.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -167,7 +168,7 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-resolucao.mjs > arquivo/abm-resolucao.txt 2>&1 || true
+          node scripts/arquivo-abm-original.mjs > arquivo/abm-resolucao.txt 2>&1 || true
           cat arquivo/abm-resolucao.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
