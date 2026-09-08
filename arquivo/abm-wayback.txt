@@ -1,0 +1,86 @@
+=== 1 · que URLs do sítio antigo do ABM o Arquivo.pt guardou ===
+
+  [arquivo.abm.madeira.gov.pt/details*] -> 200
+    {"url": "http://arquivo.abm.madeira.gov.pt/details", "timestamp": "20170307043259", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details", "timestamp": "20170819025535", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details", "timestamp": "20171207194946", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details", "timestamp": "20180716195146", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=101698&ht=", "timestamp": "20170812074523", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=101698&ht=", "timestamp": "20180726122705", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=1034&ht=", "timestamp": "20180726122618", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=115546&ht=", "timestamp": "20180716222310", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=117089&ht=", "timestamp": "20180726122914", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=117462&ht=", "timestamp": "20171207185753", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=117462&ht=", "timestamp": "20180716193550", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/details?id=117462&ht=", "timestamp": "20181010172209", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.
+
+  [arquivo.abm.madeira.gov.pt/viewer*] -> 200
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer", "timestamp": "20180716201307", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=1000", "timestamp": "20181106230341", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10038", "timestamp": "20181111052144", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=1005", "timestamp": "20181107001303", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=1008", "timestamp": "20181107001324", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10085", "timestamp": "20181111052000", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10086", "timestamp": "20181111052036", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=101", "timestamp": "20180726134654", "mime": "text/html"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=101", "timestamp": "20181111021138", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=1011", "timestamp": "20181107001351", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10119", "timestamp": "20181111052757", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10120", "timestamp": "20181030155856", "mime": "unk"}
+    {"url": "http://arquivo.abm.madeira.gov.pt/viewer?id=10122", "timestamp": "20181030154727", "mime": "unk"}
+    {"url": "http:
+
+  [arquivo.abm.madeira.gov.pt/*jpg*] -> 200
+    
+
+  [arquivo.abm.madeira.gov.pt/*image*] -> 200
+    
+
+=== 2 · a captura de 2017 do details?id=2206, e o mesmo para 2195 ===
+  id=2206 -> 200, 7926 bytes
+  id=2195 -> 200, 7926 bytes
+  id=48626 -> 404, 4295 bytes
+
+=== 3 · Relacao da documentacao digitalizada do ARM ===
+  https://arquivo.pt/wayback/20091219000000/http://www.arquivo-madeira.org/download.php?id=2 -> 200, 7930 bytes, text/html
+  http://www.arquivo-madeira.org/download.php?id=222 -> TypeError: fetch failed, 0 bytes, undefined
+
+=== 4 · blogue ARQUIVO HISTORICO (Madeira) ===
+  https://arquivohistoricomadeira.blogspot.com/search?q=Pita -> 200, 474820 bytes
+     Pita' rel='canonical'/
+     Pita' property='og:url'/
+     Pita
+     Pita&max-results=20&by-date=true"
+     pita_ferreira.jpg' itemprop='image_url'/
+     pita-ferreira-por.html'
+     Pita Ferreira&#187; - Dr. Manuel Pedro Freitas
+     pita_ferreira.jpg"
+     pita_ferreira.jpg" style="FLOAT: left; MARGIN: 0px 10px 10px 0px; WIDTH: 218px; CURSOR: hand; HEIGHT: 320px" /
+     Pita Ferreira
+     Pita Ferreira. Seguiu a vida eclesiástica, tendo sido ordenado sacerdote a 25 de Agosto de 1935. A 29 de Setembro 
+     Pita Ferreira fazer história simplesmente, ele ia em busca da verdade, procurando dar novas interpretações a facto
+  https://arquivohistoricomadeira.blogspot.com/search?q=Canhas -> 200, 475505 bytes
+     Canhas' rel='canonical'/
+     Canhas' property='og:url'/
+     Canhas
+     Canhas&max-results=20&by-date=true"
+     pitania do Porto Santo a Bartolomeu Perestrelo
+     pitania de Machico a Tristão Vaz
+     pitania do Funchal a João Gonçalves Zarco
+     pital.
+     pital da cidade do Funchal
+     Canhas e Porto da Cruz
+     pital
+     Pita, futuro doutor em medicina
+  https://arquivohistoricomadeira.blogspot.com/search/label/Genealogia -> 200, 410186 bytes
+     Pitta'
+     Pitta
+     Pita'
+     Pita
+     Pitarra'
+     Pitarra
+     Pita%20Ferreira'
+     Pita Ferreira
+     canhas.com/'
+     Canhas e do Carvalhal (Ponta do Sol)
