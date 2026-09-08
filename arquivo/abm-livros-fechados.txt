@@ -26,9 +26,9 @@ f. 9-9 v.º - contêm relação de casamentos celebrados nesta freguesia e que n
   UnitId: 00001
   AssociationCount: 0
   AllowTextualContentInference: true
-  ViewCount: 2091
+  ViewCount: 2092
   Created: 2012-04-09T00:00:00
-  Modified: 2026-09-08T15:58:17.307
+  Modified: 2026-09-08T16:25:26.217
   WithPartialPermissions: false
   PhysicalStorageAssociationCount: 1
   ProcessInfoDate: 0001-01-01T00:00:00
@@ -82,9 +82,9 @@ Folha solta.
   UnitId: 00002
   AssociationCount: 1
   AllowTextualContentInference: true
-  ViewCount: 1087
+  ViewCount: 1089
   Created: 2006-01-01T00:00:00
-  Modified: 2026-09-08T15:58:17.533
+  Modified: 2026-09-08T17:04:52.713
   WithPartialPermissions: false
   PhysicalStorageAssociationCount: 1
   ProcessInfoDate: 0001-01-01T00:00:00
@@ -131,9 +131,9 @@ F. perfuradas pelo repasse e acidez da tinta, na quase totalidade do livro.
   UnitId: 00001
   AssociationCount: 1
   AllowTextualContentInference: true
-  ViewCount: 6818
+  ViewCount: 6820
   Created: 2006-07-02T00:00:00
-  Modified: 2026-09-08T15:58:17.76
+  Modified: 2026-09-08T16:56:10.963
   WithPartialPermissions: false
   PhysicalStorageAssociationCount: 1
   ProcessInfoDate: 0001-01-01T00:00:00

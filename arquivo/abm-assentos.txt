@@ -1,72 +1,30 @@
 
-===== 603056 =====
-  PT/ABM/PPTS03/002/00001/000329  1616
-  Registo de casamento: Diogo Fernandes Pita c.c. Maria Fernandes
-  PhysLoc: Liv. 454, f. 75   Parent: 48721
+===== 44110 =====
+  PT/ABM/PPTS01/005/000001  1643-08-10
+  Rol de crismados dos Canhas (1643)
+  PhysLoc: D2/B1/E7/PC/479-1   Parent: 2828
   digitalobjects: 0 nó(s)
 
-===== 602749 =====
-  PT/ABM/PPTS03/002/00001/000022  1569
-  Registo de casamento: Manuel Nunes c.c. Maria Pita
-  PhysLoc: Liv. 454, f. 9   Parent: 48721
+===== 44113 =====
+  PT/ABM/PPTS01/005/000003  1685-08-30
+  Rol de crismados dos Canhas (1685)
+  PhysLoc: —   Parent: 2828
   digitalobjects: 0 nó(s)
 
-===== 602760 =====
-  PT/ABM/PPTS03/002/00001/000033  1571
-  Registo de casamento: António Pita c.c. Maria Afonso
-  PhysLoc: Liv. 454, f. 11   Parent: 48721
+===== 44112 =====
+  PT/ABM/PPTS01/005/000004  1691-08-06
+  Rol de crismados dos Canhas (1691)
+  PhysLoc: —   Parent: 2828
   digitalobjects: 0 nó(s)
 
-===== 603061 =====
-  PT/ABM/PPTS03/002/00001/000334  1616
-  Registo de casamento: Manuel Correia da Silva c.c. Francisca Fernandes
-  PhysLoc: Liv. 454, f. 77   Parent: 48721
+===== 44108 =====
+  PT/ABM/PPTS01/005/000006  1732-08-04
+  Rol de crismados dos Canhas (1732)
+  PhysLoc: —   Parent: 2828
   digitalobjects: 0 nó(s)
 
-===== 602829 =====
-  PT/ABM/PPTS03/002/00001/000102  1579
-  Registo de casamento: Inácio Correia c.c. Beatriz Fernandes
-  PhysLoc: Liv. 454, f. 21 v.º   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 602764 =====
-  PT/ABM/PPTS03/002/00001/000037  1572
-  Registo de casamento: Luís Gonçalves c.c. Mecia Correia
-  PhysLoc: Liv. 454, f. 11 v.º   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603143 =====
-  PT/ABM/PPTS03/002/00001/000416  1633
-  Registo de casamento: João Pita c.c. Isabel Fernandes
-  PhysLoc: Liv. 454, f. 104   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603147 =====
-  PT/ABM/PPTS03/002/00001/000420  1633
-  Registo de casamento: Diogo da Silva c.c. Maria Pita
-  PhysLoc: Liv. 454, f. 106   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603179 =====
-  PT/ABM/PPTS03/002/00001/000452  1638
-  Registo de casamento: António Pita c.c. Madalena Rodrigues
-  PhysLoc: Liv. 454, f. 113   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603192 =====
-  PT/ABM/PPTS03/002/00001/000465  1639
-  Registo de casamento: António Pita c.c. Maria Alves
-  PhysLoc: Liv. 454, f. 116 v.º   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603195 =====
-  PT/ABM/PPTS03/002/00001/000468  1640
-  Registo de casamento: António Rodrigues c.c. Isabel Pita
-  PhysLoc: Liv. 454, f. 117 v.º   Parent: 48721
-  digitalobjects: 0 nó(s)
-
-===== 603216 =====
-  PT/ABM/PPTS03/002/00001/000489  1643
-  Registo de casamento: Belchior Calaça de Canha c.c. Maria Pita de Aguiar
-  PhysLoc: Liv. 454, f. 124   Parent: 48721
+===== 44109 =====
+  PT/ABM/PPTS01/005/000007  1742-09-01
+  Rol de crismados dos Canhas (1742)
+  PhysLoc: —   Parent: 2828
   digitalobjects: 0 nó(s)
