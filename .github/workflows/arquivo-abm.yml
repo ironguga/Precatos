@@ -56,7 +56,10 @@ env:
   # Uma fatia do Livro 1.o na mao do mesmo vigario, Balthesior Alvares de
   # Araujo: se ele escreveu mais vezes a freguesia de origem de alguem, uma
   # das instancias estara em tinta melhor do que a do assento 84.
-  ABM_ITENS: '170530 170531 170532 170533 170534 170535 170536 170537 170538 170539 170540 170541 170542 170543 170544 170545 170546 170547 170548 170552 170553 170554 170555 170556 170557 170558 170559 170560'
+  # O indice da Ponta do Sol da um DIOGO FERNANDES PITA a casar la em 1616,
+  # 25 anos antes do dos Canhas, e Pitas desde 1569. 603056 e esse assento;
+  # os outros sao os Pita mais antigos e os Correa da mesma freguesia.
+  ABM_ITENS: '603056 602749 602760 603061 602829 602764 603143 603147 603179 603192 603195 603216'
 
 jobs:
   baixar:
@@ -201,6 +204,7 @@ jobs:
           }
 
       - name: Listar os nomes de todas as paroquias do arquivo
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -261,7 +265,6 @@ jobs:
           }
 
       - name: Baixar as imagens ao nivel do assento
-        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
