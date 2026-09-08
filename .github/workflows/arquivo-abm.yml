@@ -21,6 +21,7 @@ on:
       - 'scripts/arquivo-abm-filhos.mjs'
       - 'scripts/arquivo-abm-notas.mjs'
       - 'scripts/arquivo-abm-itens-canhas.mjs'
+      - 'scripts/arquivo-abm-pais.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -36,7 +37,7 @@ env:
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
   # Livro 4.º de óbitos (1720-1749): faltam as imagens 201-292.
   # Indice dos livros de notas n.o 1 a 30 (399 paginas) e n.o 1 a 8 (163).
-  ABM_LIVROS: '42993:1-399 54654:1-163'
+  ABM_LIVROS: ''
 
 jobs:
   baixar:
@@ -140,7 +141,25 @@ jobs:
             done
           }
 
+      - name: Descobrir o identificador do Livro 1.o de casamentos
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-pais.mjs 170550 170161 169595 169383 > arquivo/abm-pais-assentos.txt 2>&1 || true
+          cat arquivo/abm-pais-assentos.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-pais-assentos.txt
+          git diff --cached --quiet || {
+            git commit -m 'Identificadores dos livros a que pertencem os assentos-chave'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Procurar as descricoes ao nivel do assento dos Canhas
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
