@@ -2360,3 +2360,111 @@ Geral** e de sua m.er M.ª de Ponte». Também não os junto.
 Este livro está agora aberto e vai ser lido. **É o único que alcança a
 geração nascida antes de 1639** — a que produziria Manoel Correa, Manoel de
 Ponte e Diogo Fernandes Pita.
+
+---
+---
+
+# 21 DE OUTUBRO DE 1700 — A TRAVE
+
+O varrimento dos identificadores 90 000 a 200 000 filtrado por `PPTS01`
+devolveu **11 910 descrições ao nível do assento** da paróquia dos Canhas —
+uma por casamento, uma por baptismo, **com os nomes no título**. É um índice
+nominal completo, e estava lá o tempo todo.
+
+E na primeira consulta:
+
+```
+169595  PT/ABM/PPTS01/002/00003/000092  1700  Registo de casamento:
+        Pedro da Silva c.c. Maria Vieira Pita
+```
+
+Localizei-o na imagem **38** do Livro 3.º (fólio 18) e li-o a 6×:
+
+> «Em os **21 dias do mez de 8.bro de 1700**, nesta Igreja da Piedade, eu o
+> Vig.º della **Manoel Gomes Jardim**, corridos os banhos na forma do Sagrado
+> Conc.º Trid.º, sem haver impedimento, recebi e dei as bênçãos a **PEDRO DA
+> SYLVA, f.º de ANT.º CORREA JÁ DEFUNTO, e de sua m.er M.ª DE PONTE**, com
+> **M.ª VIEYRA, filha de FRANCISCO PITA e de sua mulher ANTÓNIA VIEYRA**,
+> todos desta freguezia. Forão testemunhas **Amaro de Abreu Sanha** […] e
+> **Amaro de A[guiar]**, moradores desta [freguezia], de que fiz este termo…
+> — o Vig.º **Manoel Gomes Jardim**»
+
+Margem: «**P.º da Sylva com M.ª [Vieyra] Pita**».
+
+## Porque é que a varredura de margens falhou
+
+**Falhou porque não há margem nas imagens 34 a 43 deste livro.** Nessa
+dezena de folhas o pároco não escreveu nota marginal nenhuma, e a minha
+varredura por margem produziu um falso negativo que eu registei como «o
+casamento de Pedro não está no Livro 3.º». Estava, na imagem 38. **A
+explicação que eu tinha listado como possibilidade e não podia testar era a
+verdadeira.**
+
+## O que este assento fecha, de uma vez
+
+**1 — Pedro é filho do casal do baptismo de 1673.** «Pedro da Sylva, filho de
+António Correa **já defunto** e de sua mulher **Maria de Ponte**» — os mesmos
+dois nomes do baptismo de 4 de Maio de 1673, agora ditos pelo próprio noivo à
+porta da igreja. **CONFIRMADO POR DOCUMENTO PRIMÁRIO.** E acrescenta uma data:
+**António Correa morreu antes de Outubro de 1700**.
+
+**2 — A mulher de Pedro é filha de Francisco Pita e Antónia Vieyra.** Não de
+«Maria Rodrigues». **O assento de 1730 erra o nome da avó materna** — e o erro
+explica-se sozinho: ela chama-se **Maria VIEYRA Pitta** em 1748, 1754, 1757,
+1759 e 1760, porque leva **Vieyra da mãe e Pitta do pai**, exactamente como a
+regra onomástica desta freguezia manda. Foi o assento de 1730 que me pôs a
+caçar um casal que não existe. **Corrijo a décima geração materna.**
+
+**3 — E por isso a undécima geração cai por gravidade.** O casamento de
+**15 de Janeiro de 1676** diz: «Francisco Pita, **filho de DIOGO FERNANDES
+PITA e de sua mulher INES ROIZ**, com **Antónia Vieyra, filha de SIMÃO
+VIEYRA**». Se Maria Vieyra Pitta é filha desse casal — e o assento de 1700
+di-lo com todas as letras —, então **Diogo Fernandes Pita e Inês Rodrigues são
+a undécima geração da linha directa**, e o índice do arquivo dá-lhes o próprio
+casamento:
+
+```
+170161  PT/ABM/PPTS01/002/00002/000007  1641  Diogo Fernandes Pita c.c. Inês Rodrigues
+```
+
+**4 — E do lado paterno, o mesmo.** O índice confirma, pelo nome, o assento
+que eu lera na imagem 46 e não conseguira fixar:
+
+```
+170236  PT/ABM/PPTS01/002/00002/000081  1657  António Correia c.c. MARIA DE PONTE DA SILVA
+```
+
+**«Maria de Ponte da Silva»** — é exactamente o composto que eu lia como «M.ª
+de S.ª da Silva» e não fixava. A hipótese de 1657 deixa de ser hipótese. E o
+pai dele:
+
+```
+170550  PT/ABM/PPTS01/002/00001/000084  1622  Manuel Correia c.c. Francisca Lopes
+```
+
+— **no Livro 1.º de casamentos dos Canhas, que eu tinha dado por inexistente.**
+Existe: 155 assentos indexados, de 1596 a 1639.
+
+## A linha directa, agora com o casamento de cada geração
+
+| Ger. | Casal | Casamento | Referência |
+|---|---|---|---|
+| 8 | **Pedro da Silva Pitta × Antónia da Silva** | **1748** | PPTS01/002/00004/000077 |
+| 9 | **Pedro da Sylva de Ponte × Maria Vieyra Pitta** | **21 Out 1700** | PPTS01/002/00003/000092 |
+| 10 | **António Correa × Maria de Ponte da Silva** | **1657** | PPTS01/002/00002/000081 |
+| 10 | **Francisco Pita × Antónia Vieyra** | **15 Jan 1676** | PPTS01/002/00002/000203 |
+| 11 | **Manuel Correia × Francisca Lopes** | **1622** | PPTS01/002/00001/000084 |
+| 11 | **Diogo Fernandes Pita × Inês Rodrigues** | **1641** | PPTS01/002/00002/000007 |
+
+**São onze gerações documentadas, e o casamento de 1748 — o segundo de Pedro
+da Silva Pitta — estava no Livro 4.º, o livro que não está digitalizado e que
+eu procurei durante toda a investigação. O arquivo indexou-o na mesma.**
+
+## O que eu fiz mal, e é grande
+
+A caderneta registava, de uma campanha antiga, que existiam descrições ao
+nível do item nos «centos de milhar». Eu vi um exemplo de um livro do século
+XIX e **presumi que só os livros recentes estavam indexados**. Nunca testei a
+presunção. Custou-me campanhas inteiras de varredura de margens — e duas
+delas produziram negativos falsos que escrevi aqui como se fossem resultados.
+Ficam escritos, e ficam corrigidos.
