@@ -49,7 +49,11 @@ env:
   # Ultima tentativa ao Livro 1.o (2195) e os indices notariais.
   # Ponta do Sol: baptismos 1614-1641 e casamentos 1565-1652; Arco da Calheta 1598-1641.
   # Ponta do Sol: baptismos 1614-1641 (44085) e casamentos 1565-1652 (48721).
-  ABM_LIVROS: ''
+  # Livro 1.o de casamentos da Ponta do Sol (48721, 267 paginas servidas).
+  # O assento de Diogo Fernandes Pita de 1616 esta no folio 75; com uma imagem
+  # por pagina, cai por volta da imagem 150. Baixa-se 140-166, e 14-26 para
+  # calibrar pelos folios 9 e 11 dos assentos 22 e 33.
+  ABM_LIVROS: '48721:140-166,14-26'
   # Assentos servidos por descricao: o Livro 1.o (2195) nao serve paginas,
   # mas 170550 — Manuel Correia c.c. Francisca Lopes, 1622, f. 31 v.o — traz
   # StorageDisseminationID proprio. 170161 e o Diogo Fernandes Pita de 1641.
@@ -265,6 +269,7 @@ jobs:
           }
 
       - name: Baixar as imagens ao nivel do assento
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
