@@ -2627,3 +2627,34 @@ queria — mas do **notariado oitocentista da Câmara Municipal do Funchal**
 («termo de responsabilidade que assignou para as aguas do Concelho»). **Não
 são os livros de notas setecentistas onde estaria o testamento de Francisco
 Pita de 1721.** Série errada; fica registado para não se repetir a busca.
+
+## O conflito de data, resolvido: o baptismo é de 1747, não de 1748
+
+Reabri a imagem 190 do Livro 6.º de baptismos e li o ano por extenso:
+
+> «Em os **oito dias do mez de Dezembro de mil sete centos e quarenta e
+> s[ett]e**, … a **Maria**, que nasceo aos [dous] do dito mez e anno, filha
+> legítima de **PEDRO DA S.ª PITTA** e de sua m.er **CATH.ª GONSALVES**, e
+> **neta paterna de PEDRO DA S.ª DE PONTE e de sua m.er M.ª PITTA, e materna
+> de FRAN.co GONSALVES DA ROCHA e de sua m.er ANNA DA CONCEIÇÃO**, todos
+> moradores desta freguezia…»
+
+E a datação do livro confirma-o por outra via: o Livro 6.º corre de Março de
+1743 a Junho de 1751 em 321 imagens; a imagem 256 é de 1750 (assento já lido),
+o que dá uma escala de ~38 imagens por ano. **A imagem 190 cai no fim de
+1747.** Eu lera «quarenta e outo»; é **quarenta e sette**.
+
+**A sequência fica coerente, e é humana:**
+
+| Data | Facto |
+|---|---|
+| **8 Dez 1747** | Baptizam **Maria**, filha de Pedro e de **Catarina Gonsalves** |
+| *entre* | **Catarina morre** |
+| **5 Fev 1748** | Pedro casa com **Antónia da Sylva**, irmã de Catarina |
+| **20 Out 1754** | Baptizam **Francisco**, filho de Pedro e de Antónia |
+
+Duas irmãs, filhas de **Francisco Gonçalves da Rocha** — o assento de 1747
+dá-lhe por mulher **Anna da Conceição**, o de 1748 dá **Antónia da Sylva**;
+casou duas vezes, e as duas irmãs são de leitos diferentes. Um viúvo que casa
+com a cunhada dois meses depois de lhe nascer a filha, porque a mãe morreu no
+parto ou logo a seguir. **Não sobra conflito nenhum.**
