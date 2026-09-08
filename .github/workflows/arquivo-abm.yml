@@ -54,7 +54,9 @@ env:
   # O assento de Diogo Fernandes Pita de 1616 esta no folio 75; com uma imagem
   # por pagina, cai por volta da imagem 150. Baixa-se 140-166, e 14-26 para
   # calibrar pelos folios 9 e 11 dos assentos 22 e 33.
-  ABM_LIVROS: ''
+  # Os rois de crismados dos Canhas nao tem imagem propria, mas todos declaram
+  # Parent 2828 — a serie. Se a serie servir paginas, o rol de 1643 le-se.
+  ABM_LIVROS: '2828:'
   # Assentos servidos por descricao: o Livro 1.o (2195) nao serve paginas,
   # mas 170550 — Manuel Correia c.c. Francisca Lopes, 1622, f. 31 v.o — traz
   # StorageDisseminationID proprio. 170161 e o Diogo Fernandes Pita de 1641.
@@ -274,6 +276,7 @@ jobs:
           }
 
       - name: Baixar as imagens ao nivel do assento
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
@@ -432,6 +435,23 @@ jobs:
           git add -f arquivo/abm-variantes-48721.txt
           git diff --cached --quiet || {
             git commit -m 'Variantes declaradas para o folio 75 da Ponta do Sol'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Sondar a serie dos rois de crismados
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-sondar.mjs 2828 2827 2829 | tee arquivo/abm-rois-canhas.txt
+          node scripts/arquivo-abm-pais.mjs 2828 >> arquivo/abm-rois-canhas.txt 2>&1 || true
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-rois-canhas.txt
+          git diff --cached --quiet || {
+            git commit -m 'Estado da serie dos rois de crismados dos Canhas'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
