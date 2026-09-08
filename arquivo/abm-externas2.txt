@@ -1,0 +1,93 @@
+=== 1 · Arquivo.pt: busca de texto integral no arquivo da web portuguesa ===
+
+  ["Diogo Fernandes Pita"] -> 200
+    (nada)
+
+  ["Fernandes Pita" Canhas] -> 200
+    20170815  Livro de registo de baptismos dos Canhas do ano de 1885 - Arquivo Regional e Biblioteca Pú
+      http://arquivo.abm.madeira.gov.pt/details?id=4246
+    20091217  REP_MAPA_JOVENS_SUPLENTES
+      http://juventude.gov-madeira.pt/downloads/content/A000000000010431_fn_image_1.pdf
+    20090926  REP_MAPA_JOVENS_SUPLENTES
+      http://juventude.gov-madeira.pt/downloads/content/A000000000010431_fn_image_1.pdf
+    20080213  (Concurso escolar_inscri\347\365es_12fev08.xls)
+      http://www.aream.pt/download/concurso/Inscricoes%20no%20Escalao%204%20-%20Colector%20solar%20termico.pdf
+    20080306  tecnicos_madeira.pdf
+      http://www.anacom.pt/streaming/tecnicos_madeira.pdf?categoryId=32131&contentId=35321&field=ATTACHED_FILE
+    20080323  tecnicos_madeira.pdf
+      http://www.anacom.pt/streaming/tecnicos_madeira.pdf?categoryId=32131&contentId=35321&field=ATTACHED_FILE
+    19961013  Guestbook
+      http://www.uma.pt/gstbook/guestbook.html
+    20091224  Crystal Reports - COLOCACOES.rpt
+      http://www.spzn.pt/concurso_Madeira/afectac_destac/DRAE_Madeira-31Ago05_afectacao.pdf
+
+  ["Pedro da Silva de Ponte"] -> 200
+    20170815  Livro 4.º de registo de casamentos dos Canhas (1743/1754) - Arquivo Regional e Biblioteca 
+      http://arquivo.abm.madeira.gov.pt/details?id=2206
+    20131106  
+      http://www.aqualoja.net/results/20110611-torneio-natacao-master-portinado-resultados.pdf
+    20110701  
+      http://www.aqualoja.net/results/20110611-torneio-natacao-master-portinado-resultados.pdf
+    20131112  
+      http://www.annp.pt/provas1112/07/StartList_18.pdf
+    20131112  
+      http://www.annp.pt/provas1112/07/StartList_10.pdf
+    20170225  
+      http://www.aqualoja.pt/results/20110611-torneio-natacao-master-portinado-resultados.pdf
+    20200614  
+      http://www.aqualoja.pt/results/20110611-torneio-natacao-master-portinado-resultados.pdf
+
+  ["Silva Pitta" Canhas] -> 200
+    (nada)
+
+  ["Pita" Canhas genealogia] -> 200
+    20171207  ARQUIVO HISTÓRICO (Madeira): Genealogia
+      http://arquivohistoricomadeira.blogspot.pt/search/label/Genealogia
+    20170801  ARQUIVO HISTÓRICO (Madeira): Genealogia
+      http://arquivohistoricomadeira.blogspot.pt/search/label/Genealogia
+    20191207  ARQUIVO HISTÓRICO (Madeira): Genealogia
+      http://arquivohistoricomadeira.blogspot.com/search/label/Genealogia
+    20190830  ARQUIVO HISTÓRICO (Madeira): Genealogia
+      http://arquivohistoricomadeira.blogspot.com/search/label/Genealogia
+    20080315  
+      http://rtp1.rtp.pt/wportal/entretenimento/familiartp/familia.php?id=8457
+    20070802  
+      http://www.rtp.pt/wportal/entretenimento/familiartp/familia.php?id=8457
+    20001209  SAPO - Portugal Online!
+      http://mundial.sapo.pt/cgi/google?kw=diogo+morgado&ar=&selsearch=&strict=1&fs=60
+    20091219  RelaçãodadocumentaçãodigitalizadadoARM[1]
+      http://www.arquivo-madeira.org/download.php?id=222
+
+  ["Pedro da Silva de Figueiredo" Madeira] -> 200
+    20171214  ARQUIVO HISTÓRICO (Madeira): Berbardino Vareta
+      http://arquivohistoricomadeira.blogspot.pt/search/label/Berbardino%20Vareta?updated-max=2010-06-18T18:06:00%2B
+    20191216  CESAM »
+      http://www.cesam.ua.pt/index.php?menu=666&language=pt&tabela=pessoaldetail&user=1002
+    20070508  Campeonato Nacional da Língua Portuguesa
+      http://www.linguaportuguesa.aeiou.pt/php/conteudo.php?menu=ranking-acm-3-4-6&categoria=3&letra=P
+    20070514  FEP - Resultado da Pesquisa de Alunos
+      http://sigarra.up.pt/fep/alunos_geral.querylist?p_layout=0&p_modo=0&p_cod=&p_ano=&p_ano_upp=&p_cur_sigla=&p_es
+    20180419  FUNCIONÁRIOS QUE NÃO GOZARAM A TOTALIDADE  DOS DIAS DE FÉRIAS A QUE TINHAM DIREITO NO ANO 
+      http://www.arscentro.min-saude.pt/Recursos_Humanos/Documents/Assistente%20T%C3%A9cnico%20-%20Lista%20de%20Cand
+    20180727  FC Oliveira do Hospital: Comunicado Oficial
+      http://oliveiradohospitalfutsal.blogspot.com/2010/01/comunicado-oficial.html
+    20091003  Resultado Geral dos Candidatos - 2oEq - Imprensa - Bloco de notas
+      http://www.vestibular.uerj.br/portal_vestibular_uerj/arquivos/arquivos2008/Resultado_EQ2_M_S.pdf
+    20070610  
+      http://www.dgrhe.min-edu.pt//concurso2006/CICLICAS_2006/CONT/Listas_PDFs/ListaNaoColocados_grupo400.pdf
+
+=== 2 · FamilySearch: catálogo da Ponta do Sol e dos Canhas ===
+  https://www.familysearch.org/service/search/catalog/search?q.text=Ponta%20do%20Sol%20Madeira&co -> 401, 0 bytes
+  https://www.familysearch.org/service/search/catalog/place?placeText=Ponta+do+Sol%2C+Madeira%2C+ -> 404, 354 bytes
+  https://www.familysearch.org/search/catalog/results?q.placeString=Portugal,%20Madeira,%20Ponta% -> 404, 65831 bytes
+  https://www.familysearch.org/library/books/results?q.text=Canhas -> 404, 1375 bytes
+
+=== 3 · sítios de genealogia madeirense ===
+  https://madeiragenealogia.com/?s=Pita -> 200, 27598 bytes
+  https://madeiragenealogia.com/?s=Canhas -> 200, 27598 bytes
+  https://www.geneall.net/pt/busca/?tipo=nome&q=Pita -> 404, 46199 bytes
+     Pita
+            [path] = | Pita
+            [template] = | Pita" /
+  https://www.geneanet.org/fonds/individus/?go=1&nom=PITA&prenom=Diogo -> 403, 5943 bytes
+     PITA\u0026prenom=Diogo\u0026__cf_chl_tk=0uYzV5TpcJ0V8sGwlEQohimlqN3VIpdlzdbabl5fBys- | PITA\u0026prenom=Diogo\u0026__cf_chl_f_tk=0uYzV5TpcJ0V8sGwlEQohimlqN3VIpdlzdbabl5fBy | PITA\u0026prenom=Diogo\u0026__cf_chl_rt_tk=0uYzV5TpcJ0V8sGwlEQohimlqN3VIpdlzdbabl5fB
