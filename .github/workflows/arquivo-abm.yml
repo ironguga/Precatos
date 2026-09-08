@@ -64,7 +64,11 @@ env:
   # O indice da Ponta do Sol da um DIOGO FERNANDES PITA a casar la em 1616,
   # 25 anos antes do dos Canhas, e Pitas desde 1569. 603056 e esse assento;
   # os outros sao os Pita mais antigos e os Correa da mesma freguesia.
-  ABM_ITENS: '603056 602749 602760 603061 602829 602764 603143 603147 603179 603192 603195 603216'
+  # Rois de crismados dos Canhas: 1643 (44110), 1685 (44113), 1691 (44112),
+  # 1732 (44108), 1742 (44109). O de 1643 e dois anos depois de Diogo Fernandes
+  # Pita casar nos Canhas; um rol de crisma nomeia quem se crismou e, muitas
+  # vezes, os pais. Sao descricoes de nivel D, logo podem servir imagem propria.
+  ABM_ITENS: '44110 44113 44112 44108 44109'
 
 jobs:
   baixar:
@@ -270,7 +274,6 @@ jobs:
           }
 
       - name: Baixar as imagens ao nivel do assento
-        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
@@ -395,6 +398,7 @@ jobs:
       # a sua pasta e é comitado à parte, para o run não se perder todo se um
       # livro falhar.
       - name: Procurar o Livro 1.o de baptismos da Ponta do Sol
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
