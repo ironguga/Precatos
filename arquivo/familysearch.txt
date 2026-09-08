@@ -1,0 +1,38 @@
+=== 1 · Research Wiki (público) ===
+
+  https://www.familysearch.org/en/wiki/Portugal,_Madeira_Islands_Civil_Registration -> 200, 6421 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/en/wiki/Ponta_do_Sol,_Funchal,_Madeira,_Portugal_Genealogy -> 200, 6421 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/en/wiki/Madeira,_Portugal_Genealogy -> 200, 6421 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/en/wiki/Portugal_Church_Records -> 200, 6421 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/en/wiki/Special:Search?search=Ponta+do+Sol+Madeira -> 200, 6421 bytes
+     (sem correspondências)
+
+=== 2 · páginas de catálogo em HTML ===
+
+  https://www.familysearch.org/search/catalog/results?q.placeString=Portugal%2C+Madeira%2C+Pon -> 404, 65831 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/search/catalog/results?q.text=Ponta+do+Sol+Madeira+registos+par -> 404, 65831 bytes
+     (sem correspondências)
+
+  https://www.familysearch.org/service/search/catalog/place-suggest?placeText=Ponta%20do%20Sol -> 404, 354 bytes
+     <html><body><script src="/Hemlock-Night-Gosper-this-go-this-Famids-not-of-" async></script><h1>Whitelabel Error Page</h1><p>This application has no explicit mapping for /error, so you are seeing this as a fallback.</p><div id='created'>Tue Sep 08 12:46:09 UTC 2026</div><div>There was an unexpected error (type=Not Found, status=404).</div></body></html>
+
+  https://www.familysearch.org/service/search/catalog/places?text=Ponta+do+Sol -> 404, 354 bytes
+     <html><body><script src="/Hemlock-Night-Gosper-this-go-this-Famids-not-of-" async></script><h1>Whitelabel Error Page</h1><p>This application has no explicit mapping for /error, so you are seeing this as a fallback.</p><div id='created'>Tue Sep 08 12:46:09 UTC 2026</div><div>There was an unexpected error (type=Not Found, status=404).</div></body></html>
+
+=== 3 · WorldCat, que espelha as fichas dos microfilmes ===
+
+  https://search.worldcat.org/search?q=Registos+paroquiais+Ponta+do+Sol+Madeira -> 429, 7668 bytes
+     (sem correspondências)
+
+  https://search.worldcat.org/search?q=%22Ponta+do+Sol%22+paroquiais+Madeira -> 429, 7668 bytes
+     (sem correspondências)
