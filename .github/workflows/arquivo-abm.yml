@@ -38,7 +38,8 @@ env:
   # Livro 4.º de óbitos (1720-1749): faltam as imagens 201-292.
   # Indice dos livros de notas n.o 1 a 30 (399 paginas) e n.o 1 a 8 (163).
   # Livro 1.o de casamentos (1592-1639) e Livro 4.o (1743-1754), o que faltava.
-  ABM_LIVROS: '2206:1-400 2195:1-300'
+  # Ultima tentativa ao Livro 1.o (2195) e os indices notariais.
+  ABM_LIVROS: '2195:1-200 42993:1-399 54654:1-163'
 
 jobs:
   baixar:
@@ -114,7 +115,8 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p arquivo
-          node scripts/arquivo-abm-sondar.mjs 2195 2206 2196 2197 2198 47511 | tee arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-download.mjs 'https://arquivo-abm.madeira.gov.pt/viewer/descriptions/2195' --list 2>&1 | head -40 | tee arquivo/abm-canhas-sonda.txt
+          node scripts/arquivo-abm-sondar.mjs 2195 2199 2200 2201 2202 2203 2204 2205 2207 2208 | tee -a arquivo/abm-canhas-sonda.txt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -f arquivo/abm-canhas-sonda.txt
