@@ -1769,3 +1769,97 @@ desses dois casais, e dois nomes acima dele à espera de prova.
   antes de 1662, ou casou noutra freguezia. A primeira é incompatível com a
   cronologia dos filhos; **a segunda passa a ser a explicação provável, e
   aponta para fora do que tenho.**
+
+---
+
+# 4 DE MAIO DE 1673 — O BAPTISMO DE PEDRO
+
+Depois de varrer os dois livros de casamentos por inteiro sem achar o
+casamento de Pedro da Sylva de Ponte, virei-me para o outro lado: **se o
+casamento não existe em linha, o baptismo pode existir**. O Livro 2.º de
+baptismos dos Canhas (ID 42092) cobre **1639-1680** e está em linha com 267
+imagens. O pároco escreve na margem **o nome próprio da criança**. Isso torna
+a varredura discriminante: basta procurar «Pedro».
+
+Varri as margens das imagens 140 a 219 — os anos de **1658 a 1678**. Em vinte
+anos há **quatro** rapazes baptizados com o nome Pedro, e li os quatro:
+
+| Imagem | Data | Pai e mãe |
+|---|---|---|
+| 151 | 29 Jun 1664 | Francisco [Roiz] e **Izabel Henriques** |
+| 151 | Jul 1664 | Jozeph Roiz [Ribeiro] e Maria Francisca |
+| 184 | 1 Dez 1669 | Simão Gonçalves e Margarida Gonçalves |
+| **201** | **4 Mai 1673** | **ANTÓNIO CORREA e MARIA DE PONTE** |
+
+## O assento
+
+**4 de Maio de 1673, Livro 2.º de baptismos dos Canhas, fl. 100v (imagem 201)**
+— margem: «**Pedro**»
+
+> «Em os **4 de Ma[i]o de 1673**, nesta Igr.ª de Nossa S[enho]ra da Piedade,
+> eu **Sebastião Marques, Vigário della**, Bautizei e [pus os] Santos Óleos,
+> pelos quais [houve], a **PEDRO, filho de ANT.º CORREA SAL[VE]S e de M.ª DE
+> PONTE sua mother**. Foi padrinho **[…] Leandro**, [e madrinha …], todos
+> desta freguezia. Em fé de que fiz este termo, que assinei com o padrinho,
+> era ut supra. — **Vigário Sebastião Marques**»
+
+Lido a 6× para o corpo, a 10× e 14× para as duas linhas dos pais, e conferido
+com dois tratamentos de imagem independentes (subtracção de fundo por
+normalização local, e realce de contraste directo). O apelido de alcunha do
+pai — «Sal[ue]s», depois de «Correa» — não o fixo; **os dois nomes que
+importam, «Ant.º Correa» e «M.ª de Ponte», lêem-se sem hesitação.**
+
+## O que isto vale
+
+O assento de **6 Nov 1730** declara que **Pedro da Sylva de Ponte** era «netto
+por p.te paterna de **Ant.º Correa** e de sua m.er **M.ª de Ponte**» — quer
+dizer, filho deles.
+
+O assento de **4 Mai 1673** diz que **António Correa e Maria de Ponte, dos
+Canhas, baptizaram um filho chamado Pedro**.
+
+Coincidem **cinco** identificadores: o nome próprio do filho, o nome completo
+do pai, o nome completo da mãe, a freguezia, e a cronologia — nascido em 1673,
+casaria por volta de 1700, os filhos casam em 1725 e 1730, é padrinho vivo a
+9 Jan 1751 com 77 anos e está «já defunto» a 20 Out 1754, com 81. **Não há
+um único ponto em que não encaixe.**
+
+E não é ligação por homónimo: não estou a juntar duas pessoas pelo nome
+próprio, estou a juntar um filho ao par de pais que outro documento lhe
+atribui, na mesma freguezia e na década certa.
+
+- **CONFIRMADO POR DOCUMENTO PRIMÁRIO:** António Correa e Maria de Ponte,
+  moradores nos Canhas, baptizaram a 4 de Maio de 1673 um filho chamado
+  **Pedro**.
+- **MUITO PROVÁVEL — no limiar do confirmado:** que este Pedro seja **Pedro
+  da Sylva de Ponte**, marido de Maria Roiz Pitta. Em vinte anos de baptismos
+  varridos não há outro Pedro filho de António Correa, e o assento de 1730
+  não deixa margem para um segundo.
+
+**É a primeira data de nascimento que esta investigação consegue fixar acima
+do século XIX.**
+
+## O que muda no resto
+
+O casamento de **26 Nov 1657** — «Ant.º Correa, f.º de M.el Correa def.to e de
+Fran.ca Lopes, com [Maria …] da Silva, f.ª de M.el de Ponte e de Anna da
+Silva» — sobe de candidato a **provável**, e por uma razão nova: a noiva de
+1657 é **filha de um de Ponte**, e a mãe de 1673 chama-se **Maria de Ponte**.
+As duas metades do nome de uma filha de Manoel de Ponte com Anna da Silva são
+exactamente «da Silva» e «de Ponte» — e é assim, aliás, que o próprio filho se
+vem a chamar: **Pedro da SILVA de PONTE**, as duas metades da mãe.
+
+Dezasseis anos entre o casamento e este baptismo é muito para um primeiro
+filho e normal para um dos últimos. **Continua HIPÓTESE**, mas agora com o
+apoio de um documento que antes não tinha.
+
+## Nota de método, e é minha
+
+Fiz esta busca ao contrário da ordem certa. Passei semanas a caçar o
+**casamento** de Pedro — que não está em linha, e agora sei porquê: o Livro
+4.º de casamentos (1743-1754) falta, e o dele seria por volta de 1700, no
+Livro 3.º, onde não está. O **baptismo** estava em linha desde o princípio, no
+livro mais antigo de todos, a quarenta imagens de sítios que eu já tinha
+aberto. A margem dava o nome próprio da criança — a única coisa de que eu
+precisava — e eu tinha varrido esse mesmo campo noutro livro, em 1725-1743,
+para procurar o Pedro errado.
