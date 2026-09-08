@@ -1,0 +1,40 @@
+=== 1/2 · variantes e tamanhos de uma imagem conhecida ===
+página escolhida: PT-ABM-PPTS01-2-477_002.jpg
+registo cru: {"RepresentationID":865406,"Length":329711,"Format":".jpg","Mimetype":"image/jpeg","OriginalURL":"vault://ORIGINAL/B561D655D3F71837584A38A64C062580","DisseminationURL":"vault://DISSEMINATION/DE4E76807C4128F2B56520765F4663D0","ThumbnailURL":"vault://THUMB/55EBC32CE8F7B4C9B997392AA2BF4E49","Digest":"B561D655D3F71837584A38A64C062580","DigestAlgorithm":"MD5","Properties":[{"FileID":3820328,"Property":"Compression","Value":"JPEG (old-style)"},{"FileID":3820328,"Property":"Copyright","Value":"Copyright (c) 1998 Hewlett-Packard Company"},{"FileID":3820328,"Property":"Orientation","Value":"Top, left side (Horizontal / normal)"}],"AssociationCount":0,"Published":true,"ViewCount":1,"DownloadCount":0,"WithPartialPermissions":false,"AuthorityAssociationCount":0,"ID":3820328,"Creator":"andyaguiar","CreationDate":"2024-11-21T15:03:46.18","Modifier":"andyaguiar","ModificationDate":"2024-11-22T09:21:22.
+
+  OriginalURL    sem parâmetro    -> 404  
+  OriginalURL    &width=4000      -> 404  
+  OriginalURL    &size=full       -> 404  
+  OriginalURL    &maxSize=4000    -> 404  
+  OriginalURL    &scale=4         -> 404  
+  OriginalURL    &quality=100     -> 404  
+  OriginalURL    &original=true   -> 404  
+  DisseminationURL sem parâmetro    -> 200 668x980 107422
+  DisseminationURL &width=4000      -> 200 668x980 107422
+  DisseminationURL &size=full       -> 200 668x980 107422
+  DisseminationURL &maxSize=4000    -> 200 668x980 107422
+  DisseminationURL &scale=4         -> 200 668x980 107422
+  DisseminationURL &quality=100     -> 200 668x980 107422
+  DisseminationURL &original=true   -> 200 668x980 107422
+  ThumbnailURL   sem parâmetro    -> 200 128x188 5692
+  ThumbnailURL   &width=4000      -> 200 128x188 5692
+  ThumbnailURL   &size=full       -> 200 128x188 5692
+  ThumbnailURL   &maxSize=4000    -> 200 128x188 5692
+  ThumbnailURL   &scale=4         -> 200 128x188 5692
+  ThumbnailURL   &quality=100     -> 200 128x188 5692
+  ThumbnailURL   &original=true   -> 200 128x188 5692
+
+=== 3 · o visualizador de livros sem digitalobjects ===
+  2195 /viewer/descriptions/2195 -> 200, 2255 bytes; <!doctype html><html lang="pt-PT"><head><script>const env={ARCHEEVO_API_BASE_URL:"/api",ARCHEEVO_REPORT_PATH:"/Archeevo7",ARCHEEVO_LOG_LEVEL:"ALL",ARCHEEVO_PUBL
+  2195 /api/descriptions/2195/representations -> 200, 2 bytes; []
+  2195 /api/descriptions/2195/digitalobjects -> 200, 2 bytes; []
+  2195 /details?id=2195 -> 200, 2255 bytes; <!doctype html><html lang="pt-PT"><head><script>const env={ARCHEEVO_API_BASE_URL:"/api",ARCHEEVO_REPORT_PATH:"/Archeevo7",ARCHEEVO_LOG_LEVEL:"ALL",ARCHEEVO_PUBL
+  44085 /viewer/descriptions/44085 -> 200, 2255 bytes; <!doctype html><html lang="pt-PT"><head><script>const env={ARCHEEVO_API_BASE_URL:"/api",ARCHEEVO_REPORT_PATH:"/Archeevo7",ARCHEEVO_LOG_LEVEL:"ALL",ARCHEEVO_PUBL
+  44085 /api/descriptions/44085/representations -> 200, 2 bytes; []
+  44085 /api/descriptions/44085/digitalobjects -> 200, 2 bytes; []
+  44085 /details?id=44085 -> 200, 2255 bytes; <!doctype html><html lang="pt-PT"><head><script>const env={ARCHEEVO_API_BASE_URL:"/api",ARCHEEVO_REPORT_PATH:"/Archeevo7",ARCHEEVO_LOG_LEVEL:"ALL",ARCHEEVO_PUBL
+
+=== 4 · o mesmo livro noutro repositório ===
+  https://www.familysearch.org/service/search/catalog/results?q.text=Canhas%20Pont -> 404, 354 bytes
+  https://www.familysearch.org/search/catalog/results?q.placeString=Portugal%2C%20 -> 404, 65831 bytes
+  https://arquivo.pt/wayback/19960101000000*/arquivo-abm.madeira.gov.pt -> 200, 3644 bytes
