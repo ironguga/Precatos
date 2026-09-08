@@ -2125,3 +2125,97 @@ Ponte**» e «**Diogo de Ponte**, testamento» (c. 1720, imagens 13-14);
 Imagens **42 a 292** deste livro — os anos de **1725 a 1749**. É onde caem, se
 lá caírem, **Maria de Ponte** (mãe de Pedro) e **Maria Rodrigues** (mãe de
 Maria Roiz Pitta).
+
+## Varredura do Livro 4.º de óbitos, imagens 42-81 (1725–1728)
+
+**1 de Novembro de 1723, imagem 42** — margem «Maria de Ponte»
+> «Em o primeyro de Novembro de 1723 faleceu com todos os Sacramentos
+> **MARIA DE PONTE, VIÚVA DE FRANCISCO FERREYRA**. Tinha feito testamento de
+> mão comum com o dito seu marido, e approvado pelo Tabelião **M.el Alves
+> Mourado**… que a acompanhariam as **Irmandades de Jesus e Almas**, de que
+> era irmã… sepultada na Igreja da Piedade em cova da fabrica… Deixou sua
+> [terça] ao **filho MANOEL FERREYRA** e por sua morte à sua **neta MARIA**;
+> e a **Jozeph Ferreyra**, ao qual deixou por testamenteiro.»
+
+**Não é a nossa.** É a casa Ferreira × de Ponte, que o Livro 3.º de casamentos
+já dava («Jozeph Ferreira × Maria de Ponte»).
+
+**24 de Julho de 1727, imagem 75** — margem «M.ª de Ponte», **e é armadilha**
+> «Em os 24 de Julho de 1727 faleceu **MAGDALENA DE PONTE**, declaro viúva de
+> M.el [Duarte] Velosa. Fez seu testamento de mão comum com [F.co] seu
+> marido, que já faleceu…»
+
+**A margem escreve «M.ª» e o corpo diz «Magdalena».** Fica a regra: nesta
+freguezia a abreviatura marginal «M.ª» **não é forçosamente Maria** — pode ser
+Magdalena. Nenhuma margem «M.ª de Ponte» vale sem se ler o corpo.
+
+Varridas por margem, sem os nomes que procuro: imagens **2-81** (1720-1728).
+Outros de Ponte apanhados: «Izabel, mulher de Diogo de Ponte» e o testamento
+de **Diogo de Ponte** (imagens 13-14), «Beatriz de Ponte» (32), «Izabel de
+Ponte» e «Anna de Ponte, viúva» (51), «P.º de Ponte» (79).
+
+---
+
+# Duas correcções minhas, e ambas travam a árvore
+
+## 1. «Fran.co Pitta» confirmado a 14×, mas o par não é único
+
+Voltei ao assento de 6 Nov 1730 e ampliei a 14× o nome do avô materno.
+Lê-se **«de Fran.co Pitta e de sua m.er M.ª Roiz»** — «Fran.co», com o F longo
+e o «co» sobrescrito, e não «M.el Fr.z». **A décima geração materna continua a
+ser Francisco Pitta × Maria Rodrigues.**
+
+**Mas** — e isto desfaz o meu entusiasmo da campanha anterior — o par de nomes
+«**Pitta × Maria Rodrigues**» **não é único nos Canhas**. Esta mesma caderneta
+já documenta, em três assentos independentes, um segundo casal:
+
+> **Manoel Fernandes Pitta × Maria Rodrigues** — Livro 3.º, fl. 34, img. 70
+> (1706): «M.ª Pitta, filha de M.el Fernandes Pitta e de sua molher M.ª
+> Rodrigues»; Livro 5.º, fl. 8 (1754): «Francisco Pitta… neto paterno de
+> Manoel Fernandes Pitta e de Maria Rodrigues»; Livro 5.º, fl. 41 (1760):
+> Romé Fernandes Pitta, «neto materno de Manoel Fernandes Pitta e Maria
+> Rodrigues».
+
+Logo, o baptismo de **9 Jul 1673** — «Manoel, filho de […] Pita e de sua m.er
+M.ª Roiz», com o nome próprio do pai comido pela humidade — **pode ser de
+qualquer um dos dois**. Escrevi na campanha anterior que ele apanhava «o casal
+da décima geração materna em vida». **Não apanha: apanha um de dois casais, e
+não sei qual.** Corrijo.
+
+## 2. Francisco Pita casa em 1676 como solteiro, não como viúvo
+
+Reli o assento de 15 Jan 1676 a 5,5×:
+
+> «…eu **Sebastião Marques**, Vigário nesta dita freguezia, os recebi e dei as
+> bênçãos a **FRANCISCO PITA, filho de DIOGO F[ERNANDE]S PITA e de sua mulher
+> INES ROIZ**, com **ANTÓNIA V[IEY]RA, filha de SIMÃO V[IEY]RA** e de sua
+> mulher, já defuntos, ambos desta freguezia.»
+
+**Não há «viúvo».** O pároco apresenta-o pela filiação, que é a fórmula do
+primeiro casamento; este mesmo Sebastião Marques escreve «viúvo de…» noutros
+assentos do livro quando é o caso. Portanto **o Francisco Pita que casa em
+1676 não é, com toda a probabilidade, o pai do menino baptizado em Julho de
+1673**.
+
+**Consequência:** a hipótese de que **Diogo Fernandes Pita** fosse a undécima
+geração da linha directa — que assentava em Francisco Pitta ter casado duas
+vezes — **perde o seu apoio**. Não a elimino (nada prova que o Francisco Pitta
+de 1730 seja o mesmo de 1676; podem ser dois homens distintos e o nosso ser
+outro), mas deixa de ter documento a favor.
+
+## Onde isto deixa o tecto, honestamente
+
+**Décima geração, confirmada:** António Correa × Maria de Ponte (com o
+baptismo do filho Pedro, 4 Mai 1673) e Francisco Pitta × Maria Rodrigues
+(assento de 1730, lido a 14×).
+
+**Undécima geração:** duas hipóteses, **ambas agora mais fracas do que
+estavam**:
+- Manoel Correa × Francisca Lopes / Manoel de Ponte × Anna da Silva
+  (casamento de 26 Nov 1657) — enfraquecida pela segunda «Maria da Silva
+  filha de Manoel de Ponte» que casa em 1671;
+- Diogo Fernandes Pita × Ines Rodrigues (casamento de 15 Jan 1676) —
+  enfraquecida por Francisco Pita casar ali como solteiro.
+
+**Não subo.** E registo que duas campanhas seguidas produziram sobretudo
+negativos: é o que acontece quando se recusa ligar por nome.
