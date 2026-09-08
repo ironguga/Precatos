@@ -2219,3 +2219,61 @@ estavam**:
 
 **Não subo.** E registo que duas campanhas seguidas produziram sobretudo
 negativos: é o que acontece quando se recusa ligar por nome.
+
+## Livro 4.º de óbitos, imagens 82-131 (1728–1733)
+
+**13 de Setembro de 1727, imagem 87** — margem «M.el Roiz Pita»
+> «Em os **treze dias do mez de Setembro de mil sete centos vinte e sete**
+> faleceo **M.el ROIZ PITA** com todos os Sacramentos de bem morrer. Foi
+> sepultado nesta Igreja em cova da fabrica. **Fez testamento de mão comum com
+> sua mulher**, no qual dispõem o seguinte: que sendo Deus servido de os levar,
+> seus corpos seriam envoltos no **hábito de S. Francisco**, e acompanhados até
+> à sepultura pelos mais padres que se achassem na freguezia; … que se dissesse
+> por cada um delles hum **ofício de Nocturno** com a offerta costumada; …
+> **doze trintários de missas** … missas pela alma de **Anna Fernandes e seu
+> marido Manoel da Sylva** … Declarão… **e Jozé da Silva, seu genro**… — o
+> Vigário **António Caiado**»
+
+**Isto obriga a separar dois homens que eu tratava como um.** Há um **Manoel
+Rodrigues Pitta que morre a 13 de Setembro de 1727**, e há o **Manoel Rodrigues
+Pitta fabriqueiro que morre a 23 de Março de 1757** (Livro 5.º de óbitos,
+fl. 84) — trinta anos depois. Não podem ser o mesmo. Os assentos de casamento
+de 1755, 1757 e 1759 que dão «neta materna de Manoel Rodrigues Pitta e de sua
+mulher Maria Vieyra» referem-se a **avós**, e tanto podem apontar a um como ao
+outro. **Deixo os dois separados até que um documento os distinga ou os junte.**
+
+**Fevereiro de 1733, imagem 122** — margem «Ant.º V.ra de Ponte»
+> «Em os […] dias do mez de Fevereiro de **733** faleceo **na Santa Casa da
+> Misericórdia**, com todos os Sacramentos de bem morrer, **ANTÓNIO VIEIRA DE
+> PONTE**, e nella foi sepultado. Tinha feito hum **testamento aprovado pello
+> Tabelião ANTÓNIO DA SYLVA DE ABREU**, no qual dispôs que seu corpo fosse
+> involto em [seu] lençol e sepultado nesta Igreja de Nossa Senhora da Piedade
+> em cova da fabrica… hum ofício de Nocturno com a offerta costumada… **trinta
+> missas rezadas** por sua alma…»
+
+**«António Vieira de Ponte»** — e o casamento de **16 Nov 1671** dava «Ant.º
+Vieyra, filho de Joam Vieyra e de Beatriz Lopes, **com Maria da Sylva, filha de
+Manoel de Ponte**». Um filho desse casal chamar-se **Vieira** (do pai) **de
+Ponte** (da mãe) é exactamente o mecanismo onomástico desta freguezia, aqui
+apanhado a funcionar. **Não o afirmo como filho deles** — não há documento que
+o diga —, mas registo a coincidência de forma, que é instrutiva.
+
+## Estado da varredura deste livro
+
+**Varridas por margem as imagens 2 a 131 — os anos de 1720 a 1733.** Não
+aparece António Correa, não aparece a nossa Maria de Ponte, não aparece Maria
+Rodrigues. Faltam as imagens **132 a 292** (1733–1749).
+
+## Uma porta que estes assentos abrem: os tabeliães
+
+Três destes testamentos nomeiam o tabelião que os aprovou:
+- **Manoel Alves Mourado** — testamento de Maria de Ponte e Francisco Ferreyra,
+  aprovado antes de 1723.
+- **António da Sylva de Abreu** — testamento de António Vieira de Ponte,
+  aprovado antes de 1733.
+- E o de **Francisco Pita** (Dez 1721) diz apenas «aprovado pello Tabelião».
+
+Os testamentos aprovados por tabelião ficam em **livros de notas**, que são
+outra série do arquivo. Se o testamento de Francisco Pita sobreviver, dirá o
+nome da mulher, os filhos e as fazendas — e resolve de uma vez a décima
+geração materna. **É o alvo seguinte, e está fora dos livros paroquiais.**
