@@ -52,7 +52,10 @@ env:
   # Assentos servidos por descricao: o Livro 1.o (2195) nao serve paginas,
   # mas 170550 — Manuel Correia c.c. Francisca Lopes, 1622, f. 31 v.o — traz
   # StorageDisseminationID proprio. 170161 e o Diogo Fernandes Pita de 1641.
-  ABM_ITENS: '170550 170549 170551 170161 169595 169383'
+  # Uma fatia do Livro 1.o na mao do mesmo vigario, Balthesior Alvares de
+  # Araujo: se ele escreveu mais vezes a freguesia de origem de alguem, uma
+  # das instancias estara em tinta melhor do que a do assento 84.
+  ABM_ITENS: '170530 170531 170532 170533 170534 170535 170536 170537 170538 170539 170540 170541 170542 170543 170544 170545 170546 170547 170548 170552 170553 170554 170555 170556 170557 170558 170559 170560'
 
 jobs:
   baixar:
@@ -175,6 +178,7 @@ jobs:
           }
 
       - name: Varrer os assentos das freguesias PPTS02 a PPTS09
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -196,7 +200,6 @@ jobs:
           }
 
       - name: Baixar as imagens ao nivel do assento
-        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
