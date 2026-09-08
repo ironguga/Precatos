@@ -20,6 +20,7 @@ on:
       - 'scripts/arquivo-abm-casamentos-antigos.mjs'
       - 'scripts/arquivo-abm-filhos.mjs'
       - 'scripts/arquivo-abm-notas.mjs'
+      - 'scripts/arquivo-abm-itens-canhas.mjs'
   workflow_dispatch:
     inputs:
       url:
@@ -34,7 +35,8 @@ env:
   ABM_PAGINAS: ${{ github.event.inputs.paginas || '' }}
   # Livro 5.º de baptismos (1725-1743): a janela do nascimento de Pedro.
   # Livro 4.º de óbitos (1720-1749): faltam as imagens 201-292.
-  ABM_LIVROS: '48628:201-292'
+  # Indice dos livros de notas n.o 1 a 30 (399 paginas) e n.o 1 a 8 (163).
+  ABM_LIVROS: '42993:1-399 54654:1-163'
 
 jobs:
   baixar:
@@ -138,7 +140,26 @@ jobs:
             done
           }
 
+      - name: Procurar as descricoes ao nivel do assento dos Canhas
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-itens-canhas.mjs 90000 200000 > arquivo/abm-itens-canhas.txt 2> >(tail -6 >&2) || true
+          wc -l arquivo/abm-itens-canhas.txt
+          head -40 arquivo/abm-itens-canhas.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-itens-canhas.txt
+          git diff --cached --quiet || {
+            git commit -m 'Descricoes ao nivel do assento da paroquia dos Canhas'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Procurar os livros de notas dos tabeliaes
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
