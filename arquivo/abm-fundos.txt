@@ -1,0 +1,151 @@
+
+===== 47511 =====
+  Dimensions: 345 liv.
+  LangMaterial: Português.
+  ScopeContent: Livros de registo de batismos, casamentos, óbitos e crismados.
+  BiogHist: Criada por alvará régio de 30 de janeiro de 1577, somente alguns anos depois ficou definitivamente constituída. O primeiro pároco nela provido foi o Padre Diogo da Silva. A sua igreja paroquial é o templo de Nossa Senhora da Piedade, contudo, antes esteve instalada na capela de São Tiago. Ignora-se 
+  OtherFindAid: Arquivo Regional e Biblioteca Pública da Madeira, Catálogo dos registos paroquiais, 2012 (idd n.º 57).
+  Note: O número total de unidades de instalação contabilizadas no elemento de informação Dimensão (no Fundo e nas séries de registo de batismos, casamentos e óbitos) compreende 157 livros duplicados de registo de batismos, casamentos e óbitos relativos aos anos de 1860 a 1911.
+Os registos de batismos e de 
+  RelatedMaterial: Portugal, Arquivo Nacional da Torre do Tombo, Cabido da Sé do Funchal, "Procuração dos fregueses da Ermida de São Tiago dos Canhas, termo da Ponta do Sol, passada a Luís Fernandes Barreto, para no Funchal, tratar das formalidades necessárias para a construção de uma igreja" (PT/TT/CSF/015/M02/20), d
+  CustodHist: Incorporações no Arquivo Regional da Madeira em 16 de abril de 1933; 12 de dezembro de 1979; 28 de junho de 1990; 10 de novembro de 1994 (duplicados); 24 de abril de 2007; 22 de janeiro de 2008; 28 de fevereiro de 2011.
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Producer: Paróquia dos Canhas
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1592
+  UnitTitle: Paróquia dos Canhas
+  UnitDateFinal: 1911
+  UnitTitleType: Formal
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: F
+  CompleteUnitId: PT/ABM/PPTS01
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: PPTS01
+  AssociationCount: 0
+  AllowTextualContentInference: true
+  ViewCount: 5083
+  Created: 2016-09-19T11:35:30.56
+  Modified: 2026-09-08T03:10:35.4
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 0
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: false
+  HasAudiovisualRecord: false
+  Barcode: UD47511
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 47511
+  Parent: 0
+  RootParent: 47511
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: false
+  Active: true
+  Highlighted: false
+47512: HTTP 404
+47513: HTTP 404
+
+===== 47514 =====
+  Dimensions: 345 u.i. (341 liv., 4 cad.)
+  LangMaterial: Português.
+  ScopeContent: Livros de registo de batismos, casamentos, óbitos e crismados.
+  BiogHist: O território que veio a constituir a freguesia do Porto do Moniz, criada cerca de 1572, denominou-se inicialmente Janela da Clara - correspondente à zona ribeirinha que compreende hoje a Fajã do Porto do Moniz e a Ribeira da Janela e, por sua vez, a área mais elevada da localidade chamava-se então P
+  OtherFindAid: Arquivo Regional e Biblioteca Pública da Madeira, Catálogo dos registos paroquiais, 2012 (idd n.º 57).
+  Note: O número total de unidades de instalação contabilizadas no elemento de informação Dimensão (no Fundo e nas séries de registo de batismos, casamentos e óbitos) compreende 156 livros duplicados de registo de batismos, casamentos e óbitos relativos aos anos de 1860 a 1911.
+Os registos de batismos e de 
+  CustodHist: Incorporações no Arquivo Regional da Madeira em 19 de maio de 1961; 21 de abril de 1975; 15 de outubro de 1980; 11 de junho de 1990; 10 de novembro de 1994 (duplicados); 18 de maio de 2007; 4 de fevereiro de 2008; 15 de março de 2011.
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  MediaFormat: [{"Notation":null,"ScopeNote":null,"EditorialNote":null,"HistoryNote":null,"ChangeNote":null,"Example":null,"NonPreferredTermsLiteral":null,"Creator":"root","CreationDate":"2016-09-20T09:31:01.17Z","Modifier":"root","ModificationDate":"2016-09-20T09:31:01.17Z","NonPreferredTerms":[],"RelatedTerms":[
+  Producer: Paróquia do Porto do Moniz
+  Imported: false
+  HasActiveChildren: true
+  UnitDateInitial: 1572
+  UnitTitle: Paróquia do Porto do Moniz
+  UnitDateFinal: 1911
+  UnitTitleType: Formal
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: F
+  CompleteUnitId: PT/ABM/PPMZ02
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: PPMZ02
+  AssociationCount: 0
+  AllowTextualContentInference: true
+  ViewCount: 4137
+  Created: 2016-09-19T11:35:30.56
+  Modified: 2026-09-08T02:18:26.503
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 0
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: false
+  HasAudiovisualRecord: false
+  Barcode: UD47514
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 47514
+  Parent: 0
+  RootParent: 47514
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
+
+===== 47515 =====
+  Dimensions: 13 cartas; 8 orçamentos; 4 envelopes; 1 desenho; 3 folhetos
+  LangMaterial: Português.
+  ScopeContent: Contém correspondência e documentos escritos em francês:
+Cap. 1: Carta de Barbet H. Chouet, da empresa de engenheiros construtores "E. Barbet & Fils & Cie.", a [Georges] Lefebvre, com indicações destinadas a [João Higino] Ferraz, director técnico da Casa Hinton. 1919-12-02; orçamento da empresa E. B
+  PhysLoc: D2/B20/E7/PC/6-20
+  ApplySelectionTable: false
+  RetentionDisposalPeriod: 0
+  Imported: false
+  HasActiveChildren: false
+  UnitDateInitial: 1919-11-28
+  UnitTitle: Correspondência trocada entre empresas francesas de aparelhos de evaporação e Georges Lefebvre, engenheiro, destinada a remeter informações e orçamentos de aparelhos a João Higino Ferraz, director técnico da Casa Hinton
+  UnitDateFinal: 1920-05-04
+  UnitTitleType: Atribuído
+  UnitDateInitialCertainty: true
+  UnitDateFinalCertainty: true
+  DescriptionLevel: DC
+  CompleteUnitId: PT/ABM/JST/C-B/001/00008
+  CountryCode: PT
+  RepositoryCode: ABM
+  Repository: Arquivo e Biblioteca da Madeira
+  UnitId: 00008
+  AssociationCount: 0
+  AllowTextualContentInference: true
+  ViewCount: 103
+  Created: 2012-01-06T00:00:00
+  Modified: 2026-09-08T15:53:09.633
+  WithPartialPermissions: false
+  PhysicalStorageAssociationCount: 0
+  ProcessInfoDate: 0001-01-01T00:00:00
+  HasDigitalRepresentation: false
+  HasAudiovisualRecord: false
+  Barcode: UD47515
+  AllowAddDescendants: false
+  HasPublishedFiles: false
+  ID: 47515
+  Parent: 53092
+  RootParent: 52518
+  Available: true
+  AllowUnitDatesInference: false
+  AllowExtentsInference: true
+  Published: true
+  Revised: true
+  Active: true
+  Highlighted: false
