@@ -200,7 +200,28 @@ jobs:
             done
           }
 
+      - name: Listar os nomes de todas as paroquias do arquivo
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # Os fundos paroquiais estao juntos por volta do 47500 (47511 = Paroquia
+          # dos Canhas, 47514 = Porto do Moniz). A lista dos nomes e a lista de
+          # candidatos para a freguesia plural e feminina do assento de 1622.
+          node scripts/arquivo-abm-mapa.mjs 47400 47700 1 > arquivo/abm-paroquias.txt 2>/dev/null || true
+          grep -E 'Par[oó]quia|Freguesia' arquivo/abm-paroquias.txt || true
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-paroquias.txt
+          git diff --cached --quiet || {
+            git commit -m 'Nomes de todas as paroquias do arquivo, e as suas descricoes de fundo'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
       - name: Varrer os assentos da Ponta do Sol, agora com a faixa certa
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
