@@ -2557,3 +2557,73 @@ os dois assentos concordam nisso.
 
 **Onze gerações. E o tecto é agora a geração que casa entre 1622 e 1641 — os
 bisavós de Pedro da Sylva de Ponte, nascidos por volta de 1595-1615.**
+
+---
+
+# Tentativa de subir à décima segunda geração — três vias, e o que cada uma deu
+
+## Via 1 · A tinta do assento de 1641 — perdida, e agora provado
+
+Reabri o fólio inteiro (imagem 7 do Livro 2.º de casamentos) e ampliei a
+**22×** com os dois tratamentos independentes. O texto corre:
+
+> «…recebi a **Diogo F[ernande]s Pitta, f.º de** — [fim da linha, mancha] —
+> **[Fr.º?] Pitta desta** […] nossos m[e]nores…»
+
+A linha seguinte começa com um grupo que **pode** ler-se «**Fr.º Pitta**» —
+o que faria de **Francisco Pitta** o pai de Diogo e a duodécima geração. **Não
+o fixo:** a 22× os traços são manchas, o original tem 662 px de largura, e a
+diferença entre «Fr.º» e «f.ª» não se decide nesta cópia. **Fica como leitura
+possível, não como facto.**
+
+## Via 2 · O Livro 1.º de casamentos — não está em linha, e testei-o
+
+Não me fiquei pela sonda. Mandei o descarregador atacar directamente o
+identificador **2195**, e ele percorre por ordem **ORIGINAL, MASTER,
+DISSEMINATION e THUMB**. Não veio uma única imagem; nem sequer se criou a
+pasta. **Duas verificações independentes: o livro está catalogado, os 155
+assentos estão indexados nominalmente, e não há digitalização.**
+
+## Via 3 · O baptismo de Diogo — e aqui está a descoberta
+
+Se o assento de casamento está ilegível, o **baptismo** dá-lhe o pai. Casou em
+Janeiro de 1641; nasceria por volta de 1610-1621; o **Livro 1.º de baptismos
+dos Canhas (1593-1639)** está em disco. Varri as margens — que neste livro dão
+o nome próprio da criança — das imagens **42 a 76**, e li por corpo as folhas
+20, 30, 36, 40 e 62-69. **Não há nenhum Diogo.**
+
+E então fui ver **quando é que o apelido Pita entra na freguezia**. O índice
+nominal do ABM responde de imediato:
+
+| Livro | Cobertura | Casamentos Pita |
+|---|---|---|
+| **1.º** | **1592–1639** | **ZERO** |
+| 2.º | 1640–1691 | 6, e o primeiro é o de **Diogo Fernandes Pita, 1641** |
+
+**Não há um único casamento Pita nos Canhas em quarenta e sete anos, até
+Diogo.** A família **chega à freguezia com ele**. É por isso que o baptismo
+dele não está no livro dos Canhas — **não nasceu ali**. E é provável que a
+parte comida do assento de 1641 dissesse justamente a naturalidade dele.
+
+**Isto não é um becos: é uma mudança de alvo.** O pai de Diogo Fernandes Pita
+está nos livros de outra freguezia, e as candidatas com livros em linha para a
+janela certa são poucas:
+
+| ID | Livro | Cobertura |
+|---|---|---|
+| 44085 | 2.º de baptismos da **Ponta do Sol** | **1614–1641** |
+| 48721 | 1.º de casamentos da **Ponta do Sol** | 1565–1652 |
+| 41661 | 1.º de casamentos do **Arco da Calheta** | 1598–1641 |
+
+Mandei baixar os três, e lancei o varrimento do **índice nominal ao nível do
+assento** dessas freguesias (PPTS03, PCLT01, PCLT03, PPTS02) — o mesmo
+instrumento que resolveu os Canhas.
+
+## Via 4 · Os índices notariais — série errada
+
+Os três «Índice dos livros de notas» estão descarregados (562 páginas). Abri-os:
+são índices **alfabéticos, com colunas Livro e Fólio** — exactamente o que eu
+queria — mas do **notariado oitocentista da Câmara Municipal do Funchal**
+(«termo de responsabilidade que assignou para as aguas do Concelho»). **Não
+são os livros de notas setecentistas onde estaria o testamento de Francisco
+Pita de 1721.** Série errada; fica registado para não se repetir a busca.
