@@ -2277,3 +2277,86 @@ Os testamentos aprovados por tabelião ficam em **livros de notas**, que são
 outra série do arquivo. Se o testamento de Francisco Pita sobreviver, dirá o
 nome da mulher, os filhos e as fazendas — e resolve de uma vez a décima
 geração materna. **É o alvo seguinte, e está fora dos livros paroquiais.**
+
+---
+
+# Duas descobertas de método, e valem mais do que um assento
+
+## 1. O ABM tem índice nominal AO NÍVEL DO ASSENTO — para alguns livros
+
+O levantamento notarial devolveu, de passagem, isto:
+
+```
+ 98373  PT/ABM/PCLT01/002/00003/000451  1740  Registo de casamento: Manuel Gomes Órfão c.c. Inês de Jesus Maria
+ 97470  PT/ABM/PCLT01/002/00004/000029  1745  Registo de casamento: Francisco de Sousa Órfão c.c. Isabel Maria da Estrela
+ 97737  PT/ABM/PCLT01/002/00004/000381  1768  Registo de casamento: Francisco Fernandes Órfão c.c. Quitéria Maria
+```
+
+**Uma descrição por assento, com o nome dos dois noivos no título**, para os
+livros de casamentos do **Arco da Calheta**. Vivem nos identificadores acima
+dos **90 mil** — fora de todos os intervalos que varri até hoje.
+
+Se os livros de casamentos dos **Canhas** estiverem assim indexados, então o
+casamento de **Pedro da Sylva de Ponte com Maria Roiz Pitta** aparece pelo
+nome, sem varrer margem nenhuma — e o mesmo vale para **António Correa com
+Maria de Ponte** e para **Francisco Pitta com Maria Rodrigues**. Lancei o
+varrimento dos identificadores **90 000 a 200 000** filtrado por `PPTS01`.
+
+**Nota de método, e é uma censura a mim próprio:** a caderneta já registava, de
+uma campanha antiga, que existiam descrições ao nível do item nos «centos de
+milhar» — `descriptions/163946`, `PT/ABM/PPTS01/001/00056/000053`. **Eu tinha
+essa informação e não a explorei**, porque o exemplo que vi era de um livro do
+século XIX e presumi que só os livros recentes estavam indexados. Presumi mal.
+
+## 2. Os índices dos livros de notas estão digitalizados
+
+A sonda aos três «Índice dos livros de notas» do Cartório do Funchal
+(PT/ABM/CMFUN/C-D/003) devolveu:
+
+| ID | Título | Páginas |
+|---|---|---|
+| 54600 | Índice dos livros de notas n.º 1 a 6 | **81** |
+| 54654 | Índice dos livros de notas n.º 1 a 8 | **163** |
+| 42993 | Índice dos livros de notas n.º 1 a 30 | **399** |
+
+E o **NOTARIADO PRIVATIVO** de Santana (52097) tem zero páginas.
+
+São **índices nominais**. Se listarem os outorgantes por nome, procura-se
+«Francisco Pita» e sai o livro e o fólio do testamento aprovado que o assento
+de óbito de Dezembro de 1721 refere. Mandei baixar os dois maiores (42993 e
+54654, 562 páginas ao todo).
+
+---
+
+# O Livro 1.º de baptismos dos Canhas (1593–1639) — aberto pela primeira vez
+
+93 imagens, legíveis, e **dão pai e mãe da criança**. A margem só nomeia a
+criança a partir de meados do livro; antes disso não há margem nenhuma, o que
+obriga a ler corpos.
+
+**Fólio 31 (imagem 62), ano de 1634** — quatro assentos lidos, e dois nomes que
+interessam ao contexto da nossa décima e undécima gerações:
+
+> **[?] Julho de 1634** — «…eu o P.e **Ant.º Frz**, Cure Ordinário nesta Igr.ª
+> de Nossa Senhora da Piedade dos Canhas, [baptizei] a **M.ª, f.ª de […]tinho
+> da Sylva e de Anna Roiz**, de legítimo matrimónio. Forão padrinhos
+> **ANTÓNIO ROIZ DE PONTE** e […] parteira da freguezia da Ponta do Sol…»
+
+> **2 de Setembro de 1634** — «…a **[Bernardo], do lugar dos Canhas, filho de
+> […] e de […] Sequeira Roiz sua mulher**… Forão padrinhos **M.EL CORREA** e
+> **Phelippa Frz**…»
+
+**Manoel Correa está vivo e a apadrinhar nos Canhas em Setembro de 1634.** O
+casamento de 26 Nov 1657 dá António Correa como «f.º de M.el Correa **defunto**
+e de sua legítima mulher Fran.ca Lopes». Um Manoel Correa adulto em 1634 e
+morto antes de 1657 é exactamente o mesmo homem, na mesma freguezia. **Não o
+afirmo** — há mais de um Correa nos Canhas, como esta caderneta já provou —,
+mas é a primeira vez que o nome aparece uma geração acima do casamento.
+
+E **«António Roiz de Ponte»**, padrinho em 1634, é o mesmo nome que o assento
+de 8 Nov 1730 dá como bisavô de Manoel de Ponte de Azevedo: «**Ant.º Roiz
+Geral** e de sua m.er M.ª de Ponte». Também não os junto.
+
+Este livro está agora aberto e vai ser lido. **É o único que alcança a
+geração nascida antes de 1639** — a que produziria Manoel Correa, Manoel de
+Ponte e Diogo Fernandes Pita.
