@@ -2710,3 +2710,61 @@ O **Livro 2.º de baptismos da Ponta do Sol (1614-1641, ID 44085)** — que seri
 o baptismo do próprio Diogo — foi pedido no mesmo lote e **devolveu zero
 imagens**. Fica por confirmar se é falha da descarga ou se não está
 digitalizado.
+
+---
+
+# A sonda à Ponta do Sol — e a segunda lacuna, medida
+
+| ID | Livro | Cobertura | Páginas em linha |
+|---|---|---|---|
+| **44085** | **2.º de baptismos da Ponta do Sol** | **1614–1641** | **`digital=true`, mas ZERO** |
+| 44101 | 3.º de baptismos da Ponta do Sol | 1641–1677 | 441 |
+| 48721 | 1.º de casamentos da Ponta do Sol | 1565–1652 | 267 |
+| 48722 | 2.º de casamentos da Ponta do Sol | 1652–1690 | 95 |
+| 51147 | *série* «Registo de casamentos» | 1565–1911 | 0 (é série, não livro) |
+
+**O Livro 2.º de baptismos da Ponta do Sol — o único que poderia trazer o
+baptismo de Diogo Fernandes Pita — está catalogado como digitalizado e serve
+zero páginas.** É o mesmo padrão do Livro 8.º de baptismos dos Canhas: descrito,
+marcado como digital, e sem imagem nenhuma do outro lado.
+
+E confirmei também, por resposta da própria API, o que já suspeitava do Livro
+1.º de casamentos dos Canhas:
+
+```
+Livro 1.º misto de registo de casamentos dos Canhas (1592/1639)
+PT/ABM/PPTS01/002/00001   1 liv.: 80 f.
+Não encontrei IDs de armazenamento em /digitalobjects.
+Início da resposta (para diagnóstico): []
+```
+
+**Oitenta fólios descritos, e a lista de objectos digitais vem vazia.**
+
+## O balanço da décima segunda geração
+
+Três portas, e o que cada uma é:
+
+| Porta | O que daria | Estado |
+|---|---|---|
+| Assento de casamento de **Diogo Fernandes Pita**, Canhas 1641 | o pai dele | **imagem existe, a filiação caiu numa mancha de humidade** — lida a 22×, não há tinta |
+| Assento de casamento de **Manuel Correia**, Canhas 1622 | o pai dele | **livro não digitalizado** (80 fólios, `digitalobjects` vazio) |
+| **Baptismo de Diogo**, Ponta do Sol 1614-1641 | o pai dele | **livro não digitalizado** (zero páginas, apesar de `digital=true`) |
+
+**Duas das três são lacunas de digitalização do arquivo; a terceira é perda
+física.** Não há aqui método meu por corrigir: as três estão fora do que
+qualquer pessoa pode ler em linha hoje.
+
+## O que ainda posso varrer, e o que ele vale
+
+Resta o **Livro 1.º de casamentos da Ponta do Sol (1565–1652)**, que tenho em
+disco. Não dá o baptismo de Diogo; dá, quando muito, **o casamento dos pais
+dele**, se a família estava na Ponta do Sol por volta de 1600-1620. Comecei a
+varrê-lo e digo o que ele é: **708 px de largura, tinta repassada dos dois
+lados da folha, e notas marginais inconsistentes** — em muitas folhas o pároco
+não escreveu margem nenhuma e o par de nomes só se apura lendo o corpo. Medi a
+escala: **as imagens 145-154 trazem o ano de 1617**, o que dá ~2,9 imagens por
+ano e põe a janela de 1600-1620 nas imagens **101-159**.
+
+Varridas por margem, até agora, as imagens **100-155**: **nenhum Pita**. É
+cobertura parcial e de fiabilidade média — digo-o assim porque neste livro a
+margem falha, e um negativo por margem aqui não vale o que valia nos Canhas.
