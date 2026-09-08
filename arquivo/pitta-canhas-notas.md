@@ -2918,3 +2918,45 @@ nada de útil para estes nomes.
 
 **Duas portas continuam abertas, e nenhuma delas depende de mais engenho meu:
 uma conta no FamilySearch, e o correio para o Arquivo.**
+
+---
+
+# «Não consegue entrar pelo navegador?» — a resposta, com números
+
+Pus **Chromium a sério** (Playwright, cabeçalho de Chrome 131, locale pt-PT,
+janela 1400×1000) a abrir as páginas **públicas** do FamilySearch a partir do
+*runner*. Sem login e sem criar conta. E pus **o Arquivo.pt na mesma lista, como
+controlo**, para se ver se o navegador funciona.
+
+| Página | HTTP | HTML | Texto |
+|---|---|---|---|
+| familysearch · wiki Madeira | **200** | 887 B | **0 car.** |
+| familysearch · wiki Portugal Church Records | **403** | 890 B | 0 |
+| familysearch · catálogo por lugar | **403** | 890 B | 0 |
+| familysearch · catálogo por texto | **403** | 890 B | 0 |
+| **familysearch · a própria raiz do sítio** | **403** | 891 B | 0 |
+| **(controlo) arquivo.pt** | **200** | **125 427 B** | **1 320 car.** |
+
+**O controlo prova que o navegador funciona.** O que não funciona é o destino:
+**o familysearch.org devolve 403 até na página inicial.** Não é o *login*, não
+é o catálogo, não é o JavaScript — é o filtro de robôs a recusar o endereço IP
+do centro de dados, antes de haver conversa sobre contas.
+
+E deste ambiente nem chego lá: `curl` para o familysearch.org devolve `000`, o
+mesmo que devolve para o arquivo da Madeira. O proxy de saída bloqueia o
+domínio.
+
+**Portanto: uma conta não resolve nada do meu lado.** Um 401 seria «falta
+sessão» e uma conta abriria a porta. **Um 403 é «não sirvo esta máquina».** De
+uma ligação doméstica normal, a mesma página abre sem obstáculo.
+
+## Um erro meu, no caminho, que vale a pena registar
+
+As duas primeiras corridas do navegador **nunca publicaram o resultado**, e eu
+não percebi porquê à primeira. O log dizia `cannot pull with rebase: You have
+unstaged changes`. A causa: **`package.json` e `package-lock.json` estão
+versionados neste repositório**; o `npm i -D playwright` alterava-os, e a minha
+«limpeza» apagava-os — deixando alterações por preparar que faziam o
+`git pull --rebase` recusar-se a correr. Corrigido com
+`git checkout -- package.json package-lock.json` antes do *commit*. Fica escrito
+porque foi o meu erro, não do arquivo.
