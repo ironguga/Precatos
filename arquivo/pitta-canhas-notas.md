@@ -3131,3 +3131,15 @@ altas e um «t» de travessão longo. Não o nomeio. Fica no pedido ao Arquivo,
 onde um arquivista o lê num minuto — e fica escrito aqui exactamente com esta
 incerteza, porque **é um rasto e não um elo**: as doze gerações não dependem
 dele.
+
+## Os róis de crismados: fechados também
+
+Os cinco róis de crismados dos Canhas — **1643, 1685, 1691, 1732, 1742**,
+série `PPTS01/005` — não servem imagem própria (`digitalobjects` vazio, sem
+`StorageDisseminationID`), ao contrário dos assentos do Livro 1.º. E a série
+que os contém, a descrição **2828**, diz `HasDigitalRepresentation: false`,
+`HasPublishedFiles: false` e devolve **zero páginas**.
+
+Não é o caso do Livro 1.º de casamentos, onde o livro nega e os filhos servem.
+Aqui **negam os dois**. Os róis de crismados dos Canhas não estão
+digitalizados. Fica escrito para não se voltar lá.

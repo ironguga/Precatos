@@ -45,6 +45,22 @@ zero páginas e a descrição não tem descendentes ao nível do assento. **Peç
 saber se as imagens existem e podem ser publicadas** — ou, em alternativa, a
 verificação de um baptizado de **Diogo Fernandes Pita** entre 1614 e 1621.
 
+## 4. A filiação de um assento de 1616 da Ponta do Sol
+
+**`PT/ABM/PPTS03/002/00001/000329`** — descrição **603056** — *Livro 1.º de
+registo de casamentos da Ponta do Sol (1565/1652)*, **Liv. 454, f. 75**,
+**12 de Janeiro de 1616**, «Diogo Fernandes Pita c.c. Maria Fernandes».
+
+É, para a minha investigação, o assento mais importante que falta. **Peço
+apenas a leitura da filiação do noivo** — «Diogo Fernandes Pita, filho de …».
+
+A imagem em linha desta página (`075.jpg`, 721×1107) não a devolve: à escala a
+que o portal serve, esta letra dá seis ou sete pontos por caracter. E a
+`OriginalURL` declarada para esta página devolve 404, sendo que o tamanho
+declarado (157 059 bytes) é quase o da servida (139 534) — pelo que, ao
+contrário do que sucede noutros livros, aqui não haveria ganho mesmo que fosse
+servida.
+
 ---
 
 ## Uma nota que talvez vos seja útil
