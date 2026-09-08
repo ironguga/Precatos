@@ -2827,3 +2827,94 @@ variante ORIGINAL da imagem 7 do Livro 2.º de casamentos dos Canhas, cujo MD5
 e cujo tamanho o próprio catálogo publica. É o pedido mais barato dos quatro e
 é o que pode resolver a filiação de Diogo Fernandes Pita sem ninguém ir à
 estante.
+
+---
+
+# As três últimas frentes, e o que cada uma deu
+
+## 1 · A cor das digitalizações — a técnica que eu devia ter usado e não usei
+
+Descobri, tarde, que **as digitalizações são a cores** — RGB, com o papel
+quente (R 193, G 169, B 139) e a tinta ferrogálica escura. **Todos os meus
+scripts convertiam para cinzento na primeira linha.** Para manuscrito
+ferrogálico isso é o erro clássico: o cinzento pesa 0,299R + 0,587G + 0,114B,
+ou seja, dá quase todo o peso aos canais onde vive o papel amarelado e a
+mancha castanha, e quase nenhum ao azul, que é onde a tinta se destaca.
+
+Refiz o assento de 1641 em seis modos — **azul, verde, vermelho, R−B, B/R e
+saturação** — contra o cinzento que vinha a usar.
+
+**Não deu nada, e a razão é instrutiva:** o JPEG servido tem a crominância
+subamostrada ao ponto de os modos R−B e saturação produzirem **puros blocos
+8×8 de artefacto de compressão**, sem informação nenhuma. O canal azul e a
+razão B/R são marginalmente mais limpos do que o cinzento, mas a 20× os traços
+já são bolhas. **Não há separação espectral por explorar: a compressão comeu-a.**
+
+Fica registado como técnica a usar **primeiro** em qualquer campanha futura com
+imagens melhores — e como falha minha nesta.
+
+## 2 · O sítio antigo do ABM, guardado no Arquivo.pt
+
+A busca de texto integral do Arquivo.pt revelou que o ABM teve **outro sítio** —
+`arquivo.abm.madeira.gov.pt`, sem hífen — capturado entre 2017 e 2018, e que a
+ficha do próprio **Livro 4.º de casamentos (id=2206)** lá está.
+
+Fui ver o que o robô guardou:
+
+| Padrão | Capturas |
+|---|---|
+| `…/details*` | dezenas, 2017-2018 |
+| `…/viewer?id=*` | dezenas, 2018 |
+| `…/*jpg*` | **nenhuma** |
+| `…/*image*` | **nenhuma** |
+
+**O robô guardou as fichas e nunca guardou uma única imagem.** As capturas de
+`details?id=2195` e `id=2206` devolvem a mesma página genérica de 7 926 bytes.
+A «Relação da documentação digitalizada do ARM», que a busca prometia, já não
+existe nem no arquivo da web.
+
+## 3 · FamilySearch, e é aqui que fica a única porta aberta
+
+O catálogo do FamilySearch responde **HTTP 401** — não 404. **O acervo está lá;
+o que falta é uma conta.** O FamilySearch microfilmou registos paroquiais da
+Madeira, e os livros que o ABM não serve podem estar lá digitalizados a partir
+do microfilme, que é uma cópia independente feita noutra década.
+
+**Isto não o posso fazer eu: precisa de uma pessoa com conta** (é gratuita). O
+que se procura, em concreto:
+
+- **Portugal, Madeira, Ponta do Sol — Registos paroquiais**, e dentro deles o
+  **Livro 1.º misto de casamentos dos Canhas (1592-1639)** e o **Livro 2.º de
+  baptismos da Ponta do Sol (1614-1641)**;
+- os assentos: **1622, Manuel Correia com Francisca Lopes** (Canhas), e um
+  **Diogo** baptizado entre 1612 e 1622 filho de um Pita.
+
+## O blogue e as genealogias publicadas — nada
+
+`arquivohistoricomadeira.blogspot.com` devolve, para «Pita», o **Padre Manuel
+Juvenal Pita Ferreira**, historiador madeirense do século XX — nada que ver.
+Para «Canhas», só fragmentos de «capitania». Geneall e Geneanet não devolvem
+nada de útil para estes nomes.
+
+---
+
+# Balanço final das vias
+
+| Via | Estado |
+|---|---|
+| API do ABM: busca, `?parent=`, filhos | **partidas** — devolvem sempre o mesmo |
+| API do ABM: variante ORIGINAL | **existe, não é servida** — 22 formas testadas |
+| Parâmetros de tamanho | **ignorados** — 668×980 fixo |
+| Processamento de imagem, incl. canais de cor | **esgotado** — a compressão comeu a informação |
+| Livros dos Canhas | **todos lidos**, por margem e por corpo onde importava |
+| Índice nominal ao nível do assento | **explorado** — foi o que fechou onze gerações |
+| Freguesias vizinhas (Arco, Estreito) | **excluídas por documento** |
+| Ponta do Sol | casamentos em disco e em varredura; **baptismos não digitalizados** |
+| Livros de notas | **série errada** (notariado oitocentista do Funchal) |
+| Arquivo.pt / sítio antigo do ABM | **nenhuma imagem foi guardada** |
+| Blogues e genealogias publicadas | **nada** |
+| **FamilySearch** | **401 — acervo existe, falta uma conta** |
+| **Pedido ao ABM** | **escrito, com quatro itens** |
+
+**Duas portas continuam abertas, e nenhuma delas depende de mais engenho meu:
+uma conta no FamilySearch, e o correio para o Arquivo.**
