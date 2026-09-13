@@ -25,6 +25,7 @@ on:
       - 'scripts/arquivo-abm-assentos.mjs'
       - 'scripts/arquivo-abm-mapa.mjs'
       - 'scripts/arquivo-abm-variantes.mjs'
+      - 'scripts/arquivo-abm-tiles.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -527,6 +528,7 @@ jobs:
           }
 
       - name: As tres ultimas paroquias antigas
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -547,6 +549,23 @@ jobs:
           git add -f arquivo/abm-itens-ilha3.txt
           git diff --cached --quiet || {
             git commit -m 'Camara de Lobos, Campanario e Sao Vicente: as ultimas faixas antigas'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: O visualizador deixa ampliar? Sondar mosaicos e IIIF
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-tiles.mjs 48721 2FDB4B09315CCCB4DC8AB4B779CEE1B5 \
+            497028441981BA1B3011001ED8950928 2>&1 | tee arquivo/abm-mosaicos.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-mosaicos.txt
+          git diff --cached --quiet || {
+            git commit -m 'Sonda de mosaicos e IIIF ao folio 75 da Ponta do Sol'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
