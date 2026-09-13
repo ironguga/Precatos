@@ -494,6 +494,7 @@ jobs:
           }
 
       - name: A lista completa das paroquias, e as faixas que faltam
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -519,6 +520,33 @@ jobs:
           git add -f arquivo/abm-paroquias2.txt arquivo/abm-itens-ilha2.txt
           git diff --cached --quiet || {
             git commit -m 'Lista completa das paroquias e as faixas antigas que faltavam'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: As tres ultimas paroquias antigas
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # Camara de Lobos (livro 1.o e 2.o de casamentos, ~137000-140000),
+          # Campanario (~156000-159000) e Sao Vicente (~542000-545000) foram as
+          # unicas cujas faixas antigas as varreduras anteriores nao apanharam.
+          for faixa in "136500 140500" "155500 159500" "541500 545500"; do
+            set -- $faixa
+            echo "=== $1-$2 ==="
+            ABM_CODIGO='PT/ABM/P' node scripts/arquivo-abm-itens-canhas.mjs "$1" "$2" \
+              >> arquivo/abm-itens-ilha3.txt 2> >(tail -2 >&2) || true
+          done
+          wc -l arquivo/abm-itens-ilha3.txt
+          echo '--- noivos Correa antes de 1610 ---'
+          grep -iE 'casamento: [^,]*corre[ia]' arquivo/abm-itens-ilha3.txt | grep -E ' 1[56][0-9]{2} ' | head -20 || echo nenhum
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-itens-ilha3.txt
+          git diff --cached --quiet || {
+            git commit -m 'Camara de Lobos, Campanario e Sao Vicente: as ultimas faixas antigas'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
