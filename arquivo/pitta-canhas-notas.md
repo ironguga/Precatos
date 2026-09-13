@@ -3219,3 +3219,71 @@ Ficam duas leituras, e não escolho entre elas sem mais documento:
 **O negativo é grande e é sólido**, e por isso vale escrevê-lo: não é «não
 procurei bem». É dezasseis paróquias, alguns livros desde 1539, e um só Manuel
 Correa em toda a ilha antes de 1600.
+
+---
+
+# O Monte, e a família de João Pitta apanhada inteira
+
+O índice nominal do Monte (PFUN02, identificadores 246 000-259 000) devolveu
+**8 845 descrições**, e nele está a casa do Monte de uma assentada. No século
+XIX o ABM põe **os nomes dos pais no título de cada baptismo**, pelo que isto
+se lê sem abrir uma única imagem.
+
+## O casamento, localizado
+
+```
+256009  PT/ABM/PFUN02/002/00019/000024  1871
+        Registo de casamento: João Pita c.c. Júlia Henriques
+```
+
+## E os filhos, um a um
+
+| Baptismo | Filho |
+|---|---|
+| 8 Dez 1872 | João |
+| 22 Fev 1874 | Maria |
+| 4 Abr 1875 | Frederico |
+| **5 Nov 1876** | **José** |
+| 24 Mar 1878 | Júlia |
+| 15 Jun 1879 | Maria |
+| 10 Out 1880 | Abraão |
+| 8 Ago 1886 | Tomás |
+
+**O José de 5 de Novembro de 1876 é o melhor candidato a ser José Maria Pitta**,
+o que casa com Maria Teresa Corbani e é bisavô de Luiz Gustavo. Não o fixo sem
+ler o assento — mas é o único José desta casa, e a data encaixa.
+
+## Um fio novo, e sólido
+
+O assento de 1874 chama à mãe «**Júlia Gomes Henriques**» — nome mais completo
+do que nos outros. E o índice do Monte tem, em **1834**:
+
+```
+253820  PT/ABM/PFUN02/002/00006/000021  1834
+        Registo de casamento: Manuel Gomes Henriques c.c. Isabel de Jesus
+```
+
+«Gomes Henriques» é exactamente o composto que a Júlia usa. **Candidatos a pais
+dela** — e o que decide é o assento de casamento de 1871, que nomeia os pais dos
+dois noivos. Está localizado; falta lê-lo.
+
+---
+
+# O ramo Ferro — âncora dada pela família
+
+> **Melchiades Delson Ferro**, avô de Luiz Gustavo, **filho de Pedro Ferro**.
+> A família diz-se vinda de **Pádua**, no Veneto.
+
+Duas observações de método, antes de procurar:
+
+1. **«Melchiades» e «Delson» são nomes brasileiros, não italianos.** O avô terá
+   nascido já no Brasil. O nome que atravessa o Atlântico é o do pai dele.
+2. **«Pedro Ferro» é a forma aportuguesada de «Pietro Ferro».** Nos registos
+   italianos e nas listas de desembarque procura-se *Pietro*, não *Pedro*.
+
+**Ferro é também apelido madeirense** — 58 ocorrências no acervo já varrido, a
+mais antiga «Francisco Ferro c.c. Catarina Ferreira», Sé do Funchal, **1568**, e
+há Ferro nas duas freguesias desta família: António de Abreu Ferro nos Canhas
+(1876-1880) e na Ponta do Sol (1884-1886). **Não ligo nada por apelido**, e a
+família dá Pádua; fica só registado que a coincidência existe e não vale nada
+sem documento.
