@@ -56,7 +56,7 @@ env:
   # calibrar pelos folios 9 e 11 dos assentos 22 e 33.
   # Os rois de crismados dos Canhas nao tem imagem propria, mas todos declaram
   # Parent 2828 — a serie. Se a serie servir paginas, o rol de 1643 le-se.
-  ABM_LIVROS: '2828:'
+  ABM_LIVROS: ''
   # Assentos servidos por descricao: o Livro 1.o (2195) nao serve paginas,
   # mas 170550 — Manuel Correia c.c. Francisca Lopes, 1622, f. 31 v.o — traz
   # StorageDisseminationID proprio. 170161 e o Diogo Fernandes Pita de 1641.
@@ -442,6 +442,7 @@ jobs:
           }
 
       - name: Sondar a serie dos rois de crismados
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -452,6 +453,39 @@ jobs:
           git add -f arquivo/abm-rois-canhas.txt
           git diff --cached --quiet || {
             git commit -m 'Estado da serie dos rois de crismados dos Canhas'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Varrer os indices mais antigos de toda a ilha
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # O mapa localizou o bloco de assentos mais antigo de cada paroquia.
+          # Varrem-se esses blocos a procura de um Correa a casar antes de 1625:
+          # se o Correa velho casou nalgum deles, o assento nomeia os pais DELE.
+          # PFUN10 Se do Funchal (desde 1544) · PFUN08 Sao Pedro · PFUN09
+          # PRBR02 Ribeira Brava · PCML03 Estreito de C. de Lobos
+          # PCLT04 Faja da Ovelha · PSTN03 Santana
+          for faixa in "555000 563000" "489000 495000" "439000 444000" "474000 479000" \
+                       "196000 201000" "222000 227000" "313000 318000" "369000 374000"; do
+            set -- $faixa
+            echo "=== $1-$2 ==="
+            ABM_CODIGO='PT/ABM/P' node scripts/arquivo-abm-itens-canhas.mjs "$1" "$2" \
+              >> arquivo/abm-itens-ilha.txt 2> >(tail -2 >&2) || true
+          done
+          wc -l arquivo/abm-itens-ilha.txt
+          echo '--- Correa antes de 1630 ---'
+          grep -iE 'corre[ia]' arquivo/abm-itens-ilha.txt | grep -E ' 1[56][0-2][0-9] ' || echo nenhum
+          echo '--- Pita antes de 1650 ---'
+          grep -iE 'pit[ae]' arquivo/abm-itens-ilha.txt | grep -E ' 1[56][0-4][0-9] ' || echo nenhum
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-itens-ilha.txt
+          git diff --cached --quiet || {
+            git commit -m 'Indices mais antigos de toda a ilha: onde ha Correa e Pita antes de 1650'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
