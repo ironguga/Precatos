@@ -27,6 +27,7 @@ on:
       - 'scripts/arquivo-abm-variantes.mjs'
       - 'scripts/arquivo-abm-tiles.mjs'
       - 'scripts/arquivo-abm-bundle.mjs'
+      - 'scripts/arquivo-abm-download-task.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -575,6 +576,7 @@ jobs:
           }
 
       - name: Perguntar ao codigo do visualizador, nao ao HTML
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -584,6 +586,22 @@ jobs:
           git add -f arquivo/abm-bundle.txt
           git diff --cached --quiet || {
             git commit -m 'Os enderecos de imagem que o codigo do visualizador conhece'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: O endpoint tasks/download, que eu nunca tinha visto
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo/assentos
+          node scripts/arquivo-abm-download-task.mjs 2>&1 | tee arquivo/abm-download-task.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-download-task.txt arquivo/assentos
+          git diff --cached --quiet || {
+            git commit -m 'Sonda ao endpoint tasks/download do Archeevo'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
