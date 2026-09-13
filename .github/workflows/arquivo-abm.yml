@@ -611,6 +611,7 @@ jobs:
           }
 
       - name: Uma tentativa com sessao de navegador, e so uma
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
@@ -620,6 +621,33 @@ jobs:
           git add -f arquivo/abm-sessao.txt arquivo/assentos
           git diff --cached --quiet || {
             git commit -m 'A descarga com sessao normal de navegador: o que responde'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: O Monte, no Funchal — o ramo Henriques e Sabina Rosa
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          # Joao Pitta casa com Julia Maria Henriques no Monte a 30 Out 1871, e
+          # Antonio Pitta com Sabina Rosa a 5 Ago 1835. O Monte e PFUN02 e vive
+          # em 247000-258000. No seculo XIX o indice do ABM traz os NOMES DOS
+          # PAIS no proprio titulo dos baptismos — «Pai: X; Mae: Y» — pelo que
+          # se podem montar familias inteiras sem abrir uma imagem.
+          ABM_CODIGO='PFUN02' node scripts/arquivo-abm-itens-canhas.mjs 246000 259000 \
+            > arquivo/abm-itens-monte.txt 2> >(tail -2 >&2) || true
+          wc -l arquivo/abm-itens-monte.txt
+          echo '--- Pitta no Monte ---'
+          grep -iE 'pit[at]' arquivo/abm-itens-monte.txt | head -30 || echo nenhum
+          echo '--- Henriques no Monte antes de 1880 ---'
+          grep -iE 'henriques' arquivo/abm-itens-monte.txt | grep -E ' 18[0-7][0-9]' | head -25 || echo nenhum
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-itens-monte.txt
+          git diff --cached --quiet || {
+            git commit -m 'Indice nominal do Monte: o ramo Henriques e o Pitta oitocentista'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
