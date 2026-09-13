@@ -3143,3 +3143,79 @@ que os contém, a descrição **2828**, diz `HasDigitalRepresentation: false`,
 Não é o caso do Livro 1.º de casamentos, onde o livro nega e os filhos servem.
 Aqui **negam os dois**. Os róis de crismados dos Canhas não estão
 digitalizados. Fica escrito para não se voltar lá.
+
+---
+
+# A varredura da ilha inteira — 85 607 assentos, e um negativo que vale
+
+Depois de o mapa de identificadores localizar o **bloco de assentos mais antigo
+de cada paróquia**, varri esses blocos à procura de uma coisa só: **um Manuel
+Correa a casar antes de 1600**. Se o pai do noivo de 1622 casou nalguma
+paróquia da Madeira, o assento dele nomeia **os pais dele** — a décima terceira
+geração — e identifica a freguesia sem eu ter de ler a palavra que não se lê.
+
+## Cobertura, medida e não estimada
+
+Três corridas, **85 607 descrições ao nível do assento**:
+
+| Paróquia | Índice recua até |
+|---|---|
+| **Sé do Funchal** · **Ribeira Brava** · **Santa Cruz** | **1539** |
+| Estreito de Câmara de Lobos | 1564 |
+| São Pedro · Santana | 1568 |
+| Câmara de Lobos | 1570 |
+| Fajã da Ovelha | 1571 |
+| Ponta do Sol | 1576 |
+| Porto da Cruz | 1577 |
+| PFUN09 | 1587 |
+| PPTS02 | 1590 |
+| **Canhas** | **1592** |
+| Arco da Calheta | 1598 |
+| Campanário | 1600 |
+| São Vicente | 1605 |
+| Estreito da Calheta | 1610 |
+| Machico | 1632 |
+
+## O resultado
+
+**Noivos de apelido Correa, em toda a ilha, antes de 1610 — sete:**
+
+| Ano | Noivo | Paróquia |
+|---|---|---|
+| 1572 | Gonçalo Correia, escravo | Câmara de Lobos |
+| 1572 | António Correia de Sousa | São Pedro |
+| **1577** | **Manuel Correia Ribeiro** c.c. Antónia Bezerra | **Ribeira Brava** |
+| 1597 | Pedro Correia | Porto da Cruz |
+| 1599 | Pedro Correia | Arco da Calheta |
+| 1600 | Pedro Correia | Câmara de Lobos |
+| 1609 | Domingos Gomes Correia | Câmara de Lobos |
+
+**Um só Manuel**, e não serve: «Ribeira Brava» é **singular**, e o assento de
+1622 exige plural — «da freguesia da**s** […]». Os Manueis Correa seguintes
+casam em **1611 e 1615**, tarde de mais para terem um filho a casar em 1622.
+
+## E o achado que muda a leitura do problema
+
+Pedi ao catálogo a lista dos nomes das paróquias, para testar a palavra **por
+eliminação sobre um conjunto fechado** — que é prova de tipo diferente da
+paleografia, e melhor. Das dezanove que o arquivo devolve — Arco da Calheta,
+Estreito da Calheta, Fajã da Ovelha, Paul do Mar, Prazeres, Câmara de Lobos,
+Estreito de Câmara de Lobos, Monte, Santa Maria Maior, Santo António, São
+Gonçalo, São Pedro, Machico, Porto do Moniz, Ribeira da Janela, Canhas, Gaula,
+Faial, Boaventura —
+
+> **nenhuma tem nome plural e feminino.**
+
+Ficam duas leituras, e não escolho entre elas sem mais documento:
+
+1. **A minha leitura do «das» está errada.** O que tomei por «s» final é outra
+   coisa, e a palavra volta à estaca zero.
+2. **O Correa velho não era da Madeira.** «Da freguesia das […]» plural e
+   feminino é corrente no continente — das Caldas, das Antas, das Lajes, das
+   Neves — e ausente da ilha. Se for isso, **a décima terceira geração está
+   fora deste arquivo**, e explica de uma vez por que é que oitenta e cinco mil
+   assentos madeirenses não a encontram.
+
+**O negativo é grande e é sólido**, e por isso vale escrevê-lo: não é «não
+procurei bem». É dezasseis paróquias, alguns livros desde 1539, e um só Manuel
+Correa em toda a ilha antes de 1600.
