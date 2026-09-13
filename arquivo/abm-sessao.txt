@@ -1,0 +1,9 @@
+GET /                                200
+GET /viewer/descriptions/48721       200
+GET /api/descriptions/48721          200
+cookies obtidos: cookiesession1=678B28CE0EA1F7AF6F69FFF94E672EB2; cookiesession1=678B28CE8CEF89244A8B3FCCFCF93C3D
+
+descarga livro              403  0b  
+   corpo: 
+descarga vault ORIGINAL     403  0b  
+   corpo: 
