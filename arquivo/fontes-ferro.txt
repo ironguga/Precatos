@@ -1,0 +1,12 @@
+ABM Madeira (controlo)           200      1588b html     1588 car.  566ms
+Antenati · Itália                403       520b html       27 car.  1857ms
+Antenati · busca                 403       520b html       27 car.  439ms
+Arq. Público de São Paulo        200    314454b html    28678 car.  1497ms
+Familysearch (conhecido 403)     200     19651b html      960 car.  583ms
+Tombo.pt                         403      5590b html      511 car.  198ms
+Arquivos.pt (controlo)           200     31396b html     2125 car.  785ms
+ANTT DigitArq                    200    141209b html    22302 car.  745ms
+Arq. Distrital do Porto          200    141209b html    22302 car.  1102ms
+Geneanet                         403      5705b html      511 car.  431ms
+Portal Português de Arquivos     ERRO  AbortError: This operation was aborted
+Registro Civil BR (arpen)        200      5243b html       31 car.  636ms
