@@ -1,0 +1,1638 @@
+=== mapa 47000-48600, passo 1 ===
+  47000  —
+  47001  —
+  47002  —
+  47003  —
+  47004  —
+  47005  —
+  47006  —
+  47007  —
+  47008  —
+  47009  —
+  47010  —
+  47011  —
+  47012  PT/ABM/JST/C-C/007/000004            D  1958  Programa da peça de teatro "Auto da Barca do Inferno", de Gil Vicente,
+  47013  PT/ABM/JST/E/005/00005               DC 2000  Programa das comemorações do centenário do nascimento do escritor e po
+  47014  —
+  47015  —
+  47016  —
+  47017  —
+  47018  PT/ABM/JST/E/003/000004              D        Manuscrito de uma resenha histórica de E. da Gama sobre o Pós-Modernis
+  47019  —
+  47020  —
+  47021  —
+  47022  —
+  47023  —
+  47024  —
+  47025  —
+  47026  PT/ABM/JST/E/002-012/000005          D  1959  Cópia de carta do poeta Herberto Hélder à pintora madeirense Alice de 
+  47027  PT/ABM/JST/B-B/005/000001            D  1996  Revista do Diário de Notícias contendo na capa imagens de brasões de a
+  47028  PT/ABM/JST/C-B/001/000002            D  1922  Carta de John Smith, secretário da empresa escocesa L. Stern & Co. Ltd
+  47029  PT/ABM/JST/B-B/005/00004             DC 1990  Recortes do Diário de Notícias e Jornal da Madeira sobre o envio ao Pa
+  47030  PT/ABM/JST/B-B/005/000003            D        Estudo de completamento dos símbolos heráldicos da Região Autónoma da 
+  47031  —
+  47032  —
+  47033  —
+  47034  —
+  47035  —
+  47036  —
+  47037  —
+  47038  —
+  47039  —
+  47040  —
+  47041  —
+  47042  —
+  47043  —
+  47044  —
+  47045  —
+  47046  PT/ABM/JST/C-C/006-006/00002         DC 1949  Programas de concertos por professores e alunos da Academia de Música 
+  47047  PT/ABM/JST/C-B/001/000006            D        Caderno de João Higino Ferraz como cliente da loja Progresso, de Ferra
+  47048  PT/ABM/JST/C-C/007/000001            D  1953  Programa da récita de despedida dos setimanistas do Liceu Nacional do 
+  47049  —
+  47050  PT/ABM/JST/E/002-005/000001          D  1993  Guião da peça de teatro "Fêne-Cá-Ló", de Ernesto Leal
+  47051  PT/ABM/JST/E/002-002/000004          D  1997  Cartão de Dalila Teles Veras a José Sainz-Trueva agradecendo o envio d
+  47052  PT/ABM/JST/C-C/010/000002            D  1979  Programa de bailado do Grupo de Ballet do Funchal no Teatro Municipal 
+  47053  PT/ABM/JST/C-C/010/000001            D  1967  Programa de bailado do Grupo Gulbenkian de Bailado no Teatro Municipal
+  47054  —
+  47055  —
+  47056  —
+  47057  —
+  47058  —
+  47059  —
+  47060  —
+  47061  —
+  47062  —
+  47063  —
+  47064  —
+  47065  —
+  47066  —
+  47067  —
+  47068  —
+  47069  —
+  47070  —
+  47071  —
+  47072  —
+  47073  PT/ABM/JST/C-C/006-006/00003         DC 1958  Programas de concertos promovidos por diversas entidades entre 1958 e 
+  47074  —
+  47075  —
+  47076  —
+  47077  —
+  47078  —
+  47079  —
+  47080  —
+  47081  —
+  47082  —
+  47083  —
+  47084  —
+  47085  —
+  47086  —
+  47087  —
+  47088  —
+  47089  —
+  47090  —
+  47091  —
+  47092  —
+  47093  —
+  47094  PT/ABM/JST/C-C/004/000001            D  1913  Programa de teatro "Guiomar Teixeira", por J. Reis Gomes, no Teatro Fu
+  47095  —
+  47096  —
+  47097  PT/ABM/JST/C-C/006-003/00003         DC 1967  Programas de concertos promovidos pela Câmara Municipal do Funchal no 
+  47098  PT/ABM/JST/C-C/006-005/00001         DC 1960  Programas de concertos promovidos pela Comissão de Festas do Fim do An
+  47099  PT/ABM/JST/C-C/007/000005            D  1970  Programa da festa de recepção aos soldados cadetes do 1.º ciclo do C. 
+  47100  PT/ABM/JST/C-C/006-001/00003         DC 1946  Programas de concertos patrocinados pela Sociedade de Concertos da Mad
+  47101  —
+  47102  —
+  47103  —
+  47104  PT/ABM/JST/C-C/006-006/00005         DC 1966  Programas de concertos promovidos por diversas entidades entre 1966 e 
+  47105  —
+  47106  —
+  47107  —
+  47108  —
+  47109  —
+  47110  —
+  47111  —
+  47112  —
+  47113  —
+  47114  —
+  47115  —
+  47116  —
+  47117  —
+  47118  —
+  47119  —
+  47120  —
+  47121  —
+  47122  —
+  47123  —
+  47124  —
+  47125  —
+  47126  —
+  47127  —
+  47128  —
+  47129  —
+  47130  —
+  47131  —
+  47132  —
+  47133  —
+  47134  —
+  47135  —
+  47136  —
+  47137  —
+  47138  —
+  47139  —
+  47140  —
+  47141  PT/ABM/JST/E/005/000001              D  1989  Texto de Fátima Pitta Dionísio intitulado "O que foi o primeiro encont
+  47142  —
+  47143  —
+  47144  —
+  47145  —
+  47146  PT/ABM/JST/E/005/000003              D  1993  Convocatória da Comissão Instaladora da Associação de Escritores da Ma
+  47147  —
+  47148  PT/ABM/JST/D/011/00001               DC       Documentos relativos à Real Associação da Madeira
+  47149  —
+  47150  —
+  47151  —
+  47152  —
+  47153  PT/ABM/PFUN02/001/00057              DC 1901  Livro de registo de baptismos do Monte do ano de 1901
+  47154  PT/ABM/JST/D/005/00001               DC 1980  Documentos relativos ao Partido Popular Monárquico
+  47155  PT/ABM/JST/F/006/000004              D        Folheto publicitário sobre o bordado Madeira contendo aguarela de Mári
+  47156  PT/ABM/JST/C/005/000006              D        Cópia da carta do Dr. Oliveira Salazar dirigida ao Dr. João Abel de Fr
+  47157  —
+  47158  —
+  47159  —
+  47160  —
+  47161  —
+  47162  —
+  47163  PT/ABM/JST/F/001-003/00001           DC       Fotos a preto e branco relativas a militares, carros de cestos e bois,
+  47164  —
+  47165  —
+  47166  PT/ABM/JST/F/002-001/00002           DC       Postais a preto e branco e a cores relativos a militares, carros de ce
+  47167  PT/ABM/JST/C-C/006-001/00030         DC 1973  Programas de concertos promovidos pela Sociedade de Concertos da Madei
+  47168  —
+  47169  PT/ABM/JST/B-B/001/00005             DC       Rótulos brasonados da marca de vinho Madeira "Veiga França (Vinhos) Ld
+  47170  PT/ABM/JST/C/009/000001              D  1985  Cópia de relatório de trabalhos de investigação respeitantes às relaçõ
+  47171  PT/ABM/JST/B-B/005/00001             DC 1987  Rótulos de brasões de armas da cidade do Funchal e de municípios da Ma
+  47172  PT/ABM/JST/B-B/005/00006             DC       Desenhos e cópias de desenhos de brasões de armas dos diversos concelh
+  47173  PT/ABM/JST/B-B/005/00003             DC 1990  Propostas de decretos regionais e cópia de decreto regional relativas 
+  47174  PT/ABM/JST/E/001/00004               DC 1974  Poema ilustrado de Saúl Dias intitulado "Aurora" e cartão de visita
+  47175  —
+  47176  PT/ABM/JST/B-B/005/00005             DC 1999  Cópias de documentos sobre o registo de símbolos heráldicos da fregues
+  47177  PT/ABM/JST/F/001-003/00009           DC       Fotos a preto e branco da entrada da cidade do Funchal, actual Avenida
+  47178  —
+  47179  —
+  47180  PT/ABM/JST/C/003/00002               DC 1786  Carta patente da rainha D. Maria I nomeando Francisco da Câmara Leme c
+  47181  PT/ABM/JST/C/009/00002               DC 1999  Compilação de cópias de trabalhos de investigação sobre a Quinta Mirab
+  47182  —
+  47183  PT/ABM/JST/C-B/004/000003            D  1998  Ofício de José Carlos R. Martins e Rita Filipa Pereira Ferreira Martin
+  47184  —
+  47185  —
+  47186  —
+  47187  —
+  47188  —
+  47189  —
+  47190  —
+  47191  —
+  47192  PT/ABM/JST/C/001/000012              D  1900  Contribuição de registo por título oneroso por D. Ifigénia da Câmara F
+  47193  —
+  47194  —
+  47195  —
+  47196  —
+  47197  —
+  47198  —
+  47199  —
+  47200  —
+  47201  PT/ABM/JST/C/005/00001               DC 1983  Exemplares originais dos folhetos artesanais intitulados "Lixo" e "Car
+  47202  —
+  47203  —
+  47204  PT/ABM/JST/C/010-013/000001          D  1988  Carta de D. Mafalda Noronha da Câmara França Dória a José de Sainz-Tru
+  47205  —
+  47206  —
+  47207  —
+  47208  —
+  47209  —
+  47210  —
+  47211  PT/ABM/JST/F/001-003/00004           DC       Fotos a preto e branco relativas a ruas, sítios e paisagens do Funchal
+  47212  PT/ABM/JST/F/002-001/00003           DC       Postais antigos relativos a paisagens da Madeira e Porto Santo, Jardim
+  47213  PT/ABM/JST/C/001/00007               DC 1680  Escritura de venda real que faz Francisco Teles de Meneses e sua mulhe
+  47214  —
+  47215  PT/ABM/JST/F/003/00006               DC       Estampas de santos
+  47216  PT/ABM/JST/B-A/001/000002            D  1800  Notas genealógicas sobre o polaco André Gonçalves, o "Polonês", que vi
+  47217  PT/ABM/JST/C/007/000004              D  1971  Cópia de carta de P. Graham Blandy a João Gonçalves Borges, tesoureiro
+  47218  —
+  47219  —
+  47220  —
+  47221  PT/ABM/JST/C/005/00002               DC 1980  Panfletos e cópias de panfletos que circularam no Funchal
+  47222  PT/ABM/JST/E/002-007/000001          D  1990  Cartão de Eurico de Sousa a José Sainz-Trueva informando que o livro q
+  47223  —
+  47224  PT/ABM/JST/E/005/000004              D  1996  Carta de Maria Aurora, José Sainz-Trueva, Carlos Fino, Ana Margarida F
+  47225  —
+  47226  —
+  47227  PT/ABM/JST/B/002-006/000001          D  1987  Carta de David Ogilvy Fairlie, residente em Myres Castle, Fife, Escóci
+  47228  —
+  47229  PT/ABM/JST/C-C/002/000004            D  1997  Carta de Manuel Carvalho, diplomata português residente em Viena de Áu
+  47230  PT/ABM/JST/C/010-011/000001          D  1985  Cartão de João Medina a José Sainz-Trueva informando que a tradução da
+  47231  —
+  47232  PT/ABM/JST/B/002-007/000001          D  1992  Carta de Francisco Simas Alves de Azevedo a José Sainz-Trueva agradece
+  47233  —
+  47234  —
+  47235  PT/ABM/JST/C/010-008/000001          D  1994  Carta de Eberhard Axel Wilhelm a José Sainz-Trueva pedindo dados sobre
+  47236  PT/ABM/PCML01/002/00053              DC 1904  Livro de registo de casamentos de Câmara de Lobos do ano de 1904
+  47237  —
+  47238  —
+  47239  —
+  47240  —
+  47241  —
+  47242  —
+  47243  —
+  47244  —
+  47245  —
+  47246  —
+  47247  —
+  47248  —
+  47249  —
+  47250  —
+  47251  —
+  47252  —
+  47253  —
+  47254  —
+  47255  —
+  47256  —
+  47257  —
+  47258  —
+  47259  —
+  47260  —
+  47261  —
+  47262  —
+  47263  —
+  47264  —
+  47265  —
+  47266  —
+  47267  —
+  47268  —
+  47269  —
+  47270  —
+  47271  —
+  47272  —
+  47273  —
+  47274  —
+  47275  —
+  47276  —
+  47277  —
+  47278  —
+  47279  —
+  47280  —
+  47281  —
+  47282  —
+  47283  —
+  47284  —
+  47285  —
+  47286  —
+  47287  —
+  47288  —
+  47289  —
+  47290  —
+  47291  —
+  47292  —
+  47293  —
+  47294  —
+  47295  —
+  47296  —
+  47297  —
+  47298  —
+  47299  —
+  47300  —
+  47301  —
+  47302  —
+  47303  —
+  47304  —
+  47305  —
+  47306  —
+  47307  —
+  47308  —
+  47309  —
+  47310  —
+  47311  PT/ABM/JST/C-D/002/000001            D        Modelo de folha do itinerário a cumprir pelos motoristas da Companhia 
+  47312  —
+  47313  —
+  47314  —
+  47315  —
+  47316  —
+  47317  —
+  47318  —
+  47319  —
+  47320  —
+  47321  —
+  47322  PT/ABM/JST/B-B/004/00001             DC 1889  Cartas e envelopes armariados de Edgar Hans Brunner, D. António Correi
+  47323  PT/ABM/JST/C/007/000002              D  1920  Carta de Manuel Fernandes para sua cunhada Antonieta de Coito dando no
+  47324  PT/ABM/JST/C/010-010/00001           DC 2001  Cartões do investigador João José Abreu de Sousa remetendo narrativas 
+  47325  —
+  47326  —
+  47327  PT/ABM/JST/B-B/007/00001             DC 1619  Notificação de Frei António de Cristo, guardião do Convento de São Fra
+  47328  —
+  47329  —
+  47330  —
+  47331  —
+  47332  —
+  47333  —
+  47334  —
+  47335  —
+  47336  —
+  47337  PT/ABM/JST/F/001-005/00001           DC       Álbum de fotografias de família do séc. XIX
+  47338  —
+  47339  —
+  47340  PT/ABM/JST/F/001-003/00010           DC       Fotos a preto e branco em cartão dos meios de transporte na Madeira
+  47341  PT/ABM/JST/E/002-009/00002           DC 1994  Fotografias do escritor Ferreira de Castro e postais contendo ilustraç
+  47342  —
+  47343  —
+  47344  —
+  47345  —
+  47346  —
+  47347  —
+  47348  —
+  47349  —
+  47350  —
+  47351  —
+  47352  —
+  47353  —
+  47354  —
+  47355  PT/ABM/JST/B-A/004/00001             DC       Álbum n.º 1 de apontamentos biográficos de Gabriel Brazão Vieira conte
+  47356  PT/ABM/JST/C/003/00007               DC       Microfotografias de ofícios do Governador e Capitão-General da Madeira
+  47357  PT/ABM/JST/B-C/001/00001             DC 1971  Carta com lacre heráldico de Henrique de Azevedo e Rollim Gomes do Bac
+  47358  —
+  47359  —
+  47360  —
+  47361  —
+  47362  —
+  47363  PT/ABM/JST/F/001-003/00006           DC       Fotografias antigas de paisagens da Madeira e Porto Santo
+  47364  PT/ABM/JST/F/001-001/000013          D        Reprodução de miniatura de uma senha da família Campbell
+  47365  PT/ABM/JST/C-C/011/00001             DC 1968  Cartas e postais ilustrados do pintor Cruzeiro Seixas para José de Sai
+  47366  PT/ABM/PCML02/002/00036              DC 1894  Livro de registo de casamentos do Curral das Freiras do ano de 1894
+  47367  —
+  47368  PT/ABM/JST/F/001-012/00001           DC       Fotografias antigas diversas a preto e branco
+  47369  PT/ABM/PCML01/001/00056              DC 1895  Livro de registo de baptismos de Câmara de Lobos do ano de 1895
+  47370  PT/ABM/JST/F/001-004/00002           DC 1901  Fotografias a preto e branco de Luzia Grande, dos Duques de Bragança, 
+  47371  PT/ABM/JST/A/004/00017               DC 1814  Copiador de correspondência de cariz militar
+  47372  —
+  47373  PT/ABM/JST/F/001-001/00003           DC 1895  Álbum de fotografias de personalidades portuguesas (Fotografia Vicente
+  47374  PT/ABM/JST/C/010-012/000001          D  1987  Carta de Luísa Clode a [José Sainz-Trueva] pedindo a sua colaboração n
+  47375  PT/ABM/JST/B-B/002/00001             DC 1989  Convites dirigidos a António de Sousa Lara de vários embaixadores em L
+  47376  PT/ABM/JST/B/001/00001               DC       Cartões de visita manuscritos e em branco de escritores, embaixadores,
+  47377  PT/ABM/JST/E/002-003/00001           DC       Fotografias relativas a Edmundo de Bettencourt
+  47378  PT/ABM/JST/E/002-012/00005           DC       Fotos relativas ao poeta Herberto Hélder
+  47379  PT/ABM/JST/F/001-001/00007           DC 1991  Fotografias e reproduções fotográficas de personalidades madeirenses e
+  47380  PT/ABM/JST/F/001-001/000008          D  1997  Fotografia de uma pintura do Dr. Perestrelo de França
+  47381  PT/ABM/JST/C-A/003/000002            D  1966  Liturgia nupcial de Maria Judite Ferreira de Freitas e Ivo António Baz
+  47382  PT/ABM/JST/F/001-002/00003           DC 1987  Ricardo Dick Jardim, descendente dos Barões da Conceição
+  47383  PT/ABM/JST/F/001-003/00005           DC 1995  Fotos de pinturas e gravuras de paisagens da Madeira
+  47384  PT/ABM/JST/F/001-002/00004           DC 1992  Personalidades e escritores portugueses
+  47385  PT/ABM/JST/B/001/00007               DC       Cartões de visita de diversas personalidades madeirenses
+  47386  —
+  47387  —
+  47388  —
+  47389  PT/ABM/JST/E/006/00001               DC       Folhetos contendo versos de literatura de cordel do madeirense José Vi
+  47390  PT/ABM/JST/B-C/004/000001            D  1985  Álbum de Rafael Carvalho contendo coleção de ex-líbris usados por si e
+  47391  —
+  47392  PT/ABM/JST/F/007/000002              D  1976  Caderneta de colecção de gravuras antigas da Madeira (trajes e costume
+  47393  —
+  47394  PT/ABM/JST/D/010/00001               DC       Álbum de recortes de imprensa sobre os reis de Portugal colecionados p
+  47395  PT/ABM/JST/F/002-001/00004           DC       Postais relativos a paisagens da Madeira, ruas do Funchal, casas, quin
+  47396  —
+  47397  —
+  47398  —
+  47399  —
+  47400  —
+  47401  PT/ABM/JST/C-A/003/000003            D  1973  Folhas intituladas "Clode Folium" dirigidas e organizadas pela família
+  47402  PT/ABM/JST/B-B/006/000001            D        Álbuns de coleção de motivos de Heráldica Portuguesa (alguns da Casa R
+  47403  —
+  47404  —
+  47405  —
+  47406  —
+  47407  —
+  47408  —
+  47409  —
+  47410  —
+  47411  —
+  47412  —
+  47413  PT/ABM/JST/C/010-004/000001          D  1988  Carta de António Cannavial a José de Sainz-Trueva remetendo dados reun
+  47414  —
+  47415  —
+  47416  —
+  47417  —
+  47418  —
+  47419  —
+  47420  —
+  47421  —
+  47422  —
+  47423  PT/ABM/JST/C-C/006-001/00023         DC 1966  Programas de concertos promovidos pela Sociedade de Concertos da Madei
+  47424  —
+  47425  —
+  47426  —
+  47427  —
+  47428  —
+  47429  PT/ABM/JST/C-C/006-003/00001         DC 1955  Programas de concertos promovidos pela Delegação do Funchal da Pró-Art
+  47430  —
+  47431  —
+  47432  PT/ABM/JST/C-C/006-001/00005         DC 1948  Programas de concertos promovidos pela Sociedade de Concertos da Madei
+  47433  —
+  47434  —
+  47435  —
+  47436  —
+  47437  —
+  47438  —
+  47439  —
+  47440  —
+  47441  —
+  47442  —
+  47443  —
+  47444  —
+  47445  —
+  47446  —
+  47447  —
+  47448  —
+  47449  —
+  47450  —
+  47451  —
+  47452  —
+  47453  —
+  47454  —
+  47455  —
+  47456  —
+  47457  —
+  47458  —
+  47459  —
+  47460  —
+  47461  —
+  47462  —
+  47463  —
+  47464  —
+  47465  —
+  47466  PT/ABM/JST/E/002-013/000002          D        Carta da escritora Isabel Aguiar Barcelos a José de Sainz-Trueva remet
+  47467  —
+  47468  —
+  47469  —
+  47470  —
+  47471  —
+  47472  PT/ABM/JST/B/002-004/000001          D  2001  Carta de [?] Bettencourt da Câmara a José de Sainz-Trueva colocando qu
+  47473  PT/ABM/PFUN05                        F  1569  Paróquia de Santo António
+  47474  —
+  47475  —
+  47476  —
+  47477  —
+  47478  —
+  47479  —
+  47480  —
+  47481  PT/ABM/PFUN02/002/00005              DC 1819  Livro (cópia) de registo de casamentos do Monte (1819/1825)
+  47482  —
+  47483  —
+  47484  —
+  47485  PT/ABM/PFUN02/003/00002              DC 1801  Livro 2.º de registo de óbitos do Monte (1801/1811)
+  47486  PT/ABM/PFUN10/001/00024              DC 1746  Livro 23.º de registo de baptismos da Sé (1746/1754)
+  47487  —
+  47488  —
+  47489  —
+  47490  —
+  47491  —
+  47492  —
+  47493  —
+  47494  —
+  47495  —
+  47496  PT/ABM/PCLT06                        F  1684  Paróquia do Paul do Mar
+  47497  —
+  47498  —
+  47499  PT/ABM/JST/C/005/000004              D  2006  Cópia de panfleto satírico-político intitulado "A Borage" contendo rim
+  47500  PT/ABM/JST/F/002-002/00001           DC 1911  Postais de beldades da "Belle Époque"
+  47501  PT/ABM/PCLT01                        F  1592  Paróquia do Arco da Calheta
+  47502  PT/ABM/PCLT03                        F  1596  Paróquia do Estreito da Calheta
+  47503  PT/ABM/PCLT04                        F  1571  Paróquia da Fajã da Ovelha
+  47504  PT/ABM/PCLT08                        F  1814  Paróquia dos Prazeres
+  47505  —
+  47506  PT/ABM/PCML01                        F  1570  Paróquia de Câmara de Lobos
+  47507  PT/ABM/PCML03                        F  1562  Paróquia do Estreito de Câmara de Lobos
+  47508  —
+  47509  PT/ABM/PMCH03                        F  1622  Paróquia de Machico
+  47510  —
+  47511  PT/ABM/PPTS01                        F  1592  Paróquia dos Canhas
+  47512  —
+  47513  —
+  47514  PT/ABM/PPMZ02                        F  1572  Paróquia do Porto do Moniz
+  47515  PT/ABM/JST/C-B/001/00008             DC 1919  Correspondência trocada entre empresas francesas de aparelhos de evapo
+  47516  —
+  47517  PT/ABM/PPMZ03                        F  1726  Paróquia da Ribeira da Janela
+  47518  —
+  47519  PT/ABM/JST/C-B/001/00015             DC 1946  Cartas de Avelino Cabral a João Higino Ferraz, ambos funcionários da C
+  47520  PT/ABM/PSVC01                        F  1790  Paróquia da Boaventura
+  47521  PT/ABM/PSCR04                        F  1541  Paróquia de Gaula
+  47522  PT/ABM/PSTN02                        F  1542  Paróquia do Faial
+  47523  —
+  47524  PT/ABM/JST/F/006/00002               DC       Coleção de fotografias de bordados da Madeira da empresa "OPUS Casa de
+  47525  PT/ABM/PFUN02                        F  1673  Paróquia do Monte
+  47526  —
+  47527  PT/ABM/PFUN04                        F  1803  Paróquia de Santa Maria Maior
+  47528  PT/ABM/PFUN06                        F  1568  Paróquia de São Gonçalo
+  47529  PT/ABM/PFUN08                        F  1568  Paróquia de São Pedro
+  47530  —
+  47531  PT/ABM/JST/C/001/000015              D        Documentos notariais e patrimoniais da "Quinta da Cova", no Monte, con
+  47532  PT/ABM/JST/E/004/00001               DC 1962  Postais enviados a José Sainz-Trueva com autógrafos de escritores
+  47533  PT/ABM/JST/F/002-001/00001           DC       Postais relativos a ruas do Funchal, eventos e festividades, transport
+  47534  PT/ABM/JST/C-B/001/00011             DC 1923  Correspondência trocada entre Virgile Miroir Malvezin, da Usine Labora
+  47535  —
+  47536  —
+  47537  —
+  47538  —
+  47539  —
+  47540  PT/ABM/PCLT04/005/000002             D  1699  Rol de crismados da Fajã da Ovelha (1699)
+  47541  —
+  47542  —
+  47543  —
+  47544  PT/ABM/PCML01/002/00060              DC 1911  Livro de registo de casamentos de Câmara de Lobos do ano de 1911
+  47545  PT/ABM/PCML01/004/00002              DC 1795  Livro de registo dos índices alfabéticos de Câmara de Lobos do ano (17
+  47546  PT/ABM/PCML03/005/000014             D  1775  Rol de crismados do Estreito de Câmara de Lobos do ano de 1775
+  47547  PT/ABM/PCML03/005/000013             D  1763  Rol de crismados do Estreito de Câmara de Lobos do ano de 1763
+  47548  —
+  47549  —
+  47550  —
+  47551  PT/ABM/PPTS02/005/00003              DC 1685  Róis de crismados da Madalena do Mar (1685/1710)
+  47552  PT/ABM/PRBR02/005/00002              DC 1714  Róis de crismados da Ribeira Brava (1714/1742)
+  47553  —
+  47554  —
+  47555  PT/ABM/PSVC03/002/00014              DC 1839  Livro 15.º de registo de casamentos de São Vicente (1839/1846)
+  47556  —
+  47557  —
+  47558  —
+  47559  —
+  47560  PT/ABM/PSCR02/003/00046              DC 1900  Livro de registo de óbitos da Camacha do ano de 1900
+  47561  —
+  47562  —
+  47563  —
+  47564  —
+  47565  —
+  47566  —
+  47567  —
+  47568  —
+  47569  —
+  47570  —
+  47571  —
+  47572  —
+  47573  —
+  47574  —
+  47575  —
+  47576  —
+  47577  —
+  47578  —
+  47579  —
+  47580  —
+  47581  —
+  47582  —
+  47583  —
+  47584  —
+  47585  —
+  47586  —
+  47587  —
+  47588  —
+  47589  —
+  47590  —
+  47591  —
+  47592  —
+  47593  —
+  47594  —
+  47595  —
+  47596  —
+  47597  —
+  47598  —
+  47599  —
+  47600  —
+  47601  —
+  47602  —
+  47603  —
+  47604  —
+  47605  —
+  47606  —
+  47607  —
+  47608  —
+  47609  —
+  47610  —
+  47611  —
+  47612  —
+  47613  —
+  47614  —
+  47615  PT/ABM/PFUN02/003/00055              DC 1909  Livro de registo de óbitos do Monte do ano de 1909
+  47616  —
+  47617  —
+  47618  —
+  47619  —
+  47620  —
+  47621  —
+  47622  —
+  47623  —
+  47624  —
+  47625  —
+  47626  —
+  47627  —
+  47628  —
+  47629  —
+  47630  —
+  47631  —
+  47632  —
+  47633  —
+  47634  —
+  47635  —
+  47636  —
+  47637  PT/ABM/PFUN02/001/00050              DC 1894  Livro de registo de baptismos do Monte do ano de 1894
+  47638  —
+  47639  —
+  47640  —
+  47641  —
+  47642  —
+  47643  —
+  47644  —
+  47645  —
+  47646  —
+  47647  —
+  47648  PT/ABM/PFUN04/001/00044              DC 1897  Livro de registo de baptismos de Santa Maria Maior do ano de 1897
+  47649  —
+  47650  —
+  47651  —
+  47652  —
+  47653  —
+  47654  —
+  47655  —
+  47656  —
+  47657  —
+  47658  —
+  47659  —
+  47660  PT/ABM/PFUN03/003/00057              DC 1909  Livro de registo de óbitos de Santa Luzia do ano de 1909
+  47661  —
+  47662  PT/ABM/PFUN03/001/00052              DC 1897  Livro de registo de baptismos de Santa Luzia do ano de 1897
+  47663  —
+  47664  —
+  47665  —
+  47666  —
+  47667  PT/ABM/PFUN02/002/00043              DC 1895  Livro de registo de casamentos do Monte do ano de 1895
+  47668  —
+  47669  PT/ABM/PFUN02/001/00055              DC 1899  Livro de registo de baptismos do Monte do ano de 1899
+  47670  —
+  47671  —
+  47672  PT/ABM/PFUN02/001/00051              DC 1895  Livro de registo de baptismos do Monte do ano de 1895
+  47673  —
+  47674  —
+  47675  PT/ABM/PFUN02/001/00052              DC 1896  Livro de registo de baptismos do Monte do ano de 1896
+  47676  PT/ABM/PFUN02/002/00056              DC 1908  Livro de registo de casamentos do Monte do ano de 1908
+  47677  PT/ABM/PFUN02/001/00053              DC 1897  Livro de registo de baptismos do Monte do ano de 1897
+  47678  —
+  47679  —
+  47680  PT/ABM/PFUN02/001/00067              DC 1911  Livro de registo de baptismos do Monte do ano de 1911
+  47681  PT/ABM/JST/D/006/00001               DC 1982  Documentos relativos à publicação Monarquia Portuguesa
+  47682  PT/ABM/PFUN03/001/00057              DC 1902  Livro de registo de baptismos de Santa Luzia do ano de 1902
+  47683  —
+  47684  PT/ABM/PFUN02/001/00056              DC 1900  Livro de registo de baptismos do Monte do ano de 1900
+  47685  —
+  47686  PT/ABM/PFUN02/001/00059              DC 1903  Livro de registo de baptismos do Monte do ano de 1903
+  47687  —
+  47688  —
+  47689  PT/ABM/PFUN02/002/00042              DC 1894  Livro de registo de casamentos do Monte do ano de 1894
+  47690  —
+  47691  PT/ABM/PFUN02/001/00060              DC 1904  Livro de registo de baptismos do Monte do ano de 1904
+  47692  —
+  47693  —
+  47694  —
+  47695  PT/ABM/PFUN03/001/00056              DC 1901  Livro de registo de baptismos de Santa Luzia do ano de 1901
+  47696  —
+  47697  —
+  47698  PT/ABM/PFUN02/001/00061              DC 1905  Livro de registo de baptismos do Monte do ano de 1905
+  47699  —
+  47700  —
+  47701  —
+  47702  —
+  47703  —
+  47704  PT/ABM/PFUN02/002/00044              DC 1896  Livro de registo de casamentos do Monte do ano de 1896
+  47705  PT/ABM/PFUN02/002/00045              DC 1897  Livro de registo de casamentos do Monte do ano de 1897
+  47706  PT/ABM/JST/C-C/003/000001            D  1874  Recorte do suplemento do jornal "The Illustrated London News", contend
+  47707  PT/ABM/PFUN02/002/00047              DC 1899  Livro de registo de casamentos do Monte do ano de 1899
+  47708  PT/ABM/PFUN02/002/00048              DC 1900  Livro de registo de casamentos do Monte do ano de 1900
+  47709  —
+  47710  PT/ABM/PFUN02/002/00051              DC 1903  Livro de registo de casamentos do Monte do ano de 1903
+  47711  —
+  47712  PT/ABM/PFUN02/002/00049              DC 1901  Livro de registo de casamentos do Monte do ano de 1901
+  47713  PT/ABM/PFUN02/002/00050              DC 1902  Livro de registo de casamentos do Monte do ano de 1902
+  47714  PT/ABM/JST/D/001                     SR 1800  "Carte de Visite" de membros da família real e nobreza francesa
+  47715  PT/ABM/PFUN03/001/00053              DC 1898  Livro de registo de baptismos de Santa Luzia do ano de 1898
+  47716  —
+  47717  —
+  47718  —
+  47719  —
+  47720  —
+  47721  —
+  47722  —
+  47723  —
+  47724  —
+  47725  —
+  47726  —
+  47727  —
+  47728  —
+  47729  —
+  47730  —
+  47731  —
+  47732  —
+  47733  —
+  47734  —
+  47735  —
+  47736  —
+  47737  —
+  47738  —
+  47739  —
+  47740  —
+  47741  —
+  47742  —
+  47743  —
+  47744  —
+  47745  —
+  47746  —
+  47747  PT/ABM/PFUN02/001/00058              DC 1902  Livro de registo de baptismos do Monte do ano de 1902
+  47748  PT/ABM/PFUN02/001/00066              DC 1910  Livro de registo de baptismos do Monte do ano de 1910
+  47749  PT/ABM/PFUN02/001/00065              DC 1909  Livro de registo de baptismos do Monte do ano de 1909
+  47750  —
+  47751  —
+  47752  —
+  47753  —
+  47754  —
+  47755  —
+  47756  —
+  47757  —
+  47758  —
+  47759  —
+  47760  —
+  47761  —
+  47762  —
+  47763  PT/ABM/PFUN02/002/00054              DC 1906  Livro de registo de casamentos do Monte do ano de 1906
+  47764  PT/ABM/PFUN02/002/00059              DC 1911  Livro de registo de casamentos do Monte do ano de 1911
+  47765  PT/ABM/PFUN02/003/00004              DC 1819  Livro 4.º de registo de óbitos do Monte (1819/1841)
+  47766  PT/ABM/PFUN02/003/00049              DC 1903  Livro de registo de óbitos do Monte do ano de 1903
+  47767  —
+  47768  —
+  47769  —
+  47770  PT/ABM/PFUN02/003/00041              DC 1895  Livro de registo de óbitos do Monte do ano de 1895
+  47771  —
+  47772  —
+  47773  —
+  47774  —
+  47775  PT/ABM/PFUN02/003/00044              DC 1898  Livro de registo de óbitos do Monte do ano de 1898
+  47776  —
+  47777  PT/ABM/PFUN02/003/00045              DC 1899  Livro de registo de óbitos do Monte do ano de 1899
+  47778  PT/ABM/PFUN02/003/00046              DC 1900  Livro de registo de óbitos do Monte do ano de 1900
+  47779  PT/ABM/PFUN02/003/00047              DC 1901  Livro de registo de óbitos do Monte do ano de 1901
+  47780  —
+  47781  PT/ABM/PFUN02/003/00054              DC 1908  Livro de registo de óbitos do Monte do ano de 1908
+  47782  —
+  47783  —
+  47784  —
+  47785  —
+  47786  —
+  47787  —
+  47788  —
+  47789  —
+  47790  —
+  47791  —
+  47792  —
+  47793  —
+  47794  —
+  47795  —
+  47796  —
+  47797  —
+  47798  —
+  47799  —
+  47800  PT/ABM/PFUN02/003/00057              DC 1911  Livro de registo de óbitos do Monte do ano de 1911
+  47801  —
+  47802  —
+  47803  —
+  47804  —
+  47805  —
+  47806  —
+  47807  —
+  47808  —
+  47809  —
+  47810  —
+  47811  —
+  47812  —
+  47813  —
+  47814  —
+  47815  —
+  47816  —
+  47817  —
+  47818  —
+  47819  —
+  47820  —
+  47821  —
+  47822  —
+  47823  PT/ABM/PFUN02/003/00056              DC 1910  Livro de registo de óbitos do Monte do ano de 1910
+  47824  —
+  47825  —
+  47826  —
+  47827  —
+  47828  —
+  47829  —
+  47830  —
+  47831  —
+  47832  PT/ABM/PFUN02/003/00053              DC 1907  Livro de registo de óbitos do Monte do ano de 1907
+  47833  PT/ABM/PFUN02/003/00052              DC 1906  Livro de registo de óbitos do Monte do ano de 1906
+  47834  PT/ABM/PFUN02/003/00051              DC 1905  Livro de registo de óbitos do Monte do ano de 1905
+  47835  PT/ABM/PFUN02/003/00050              DC 1904  Livro de registo de óbitos do Monte do ano de 1904
+  47836  PT/ABM/PFUN02/003/00048              DC 1902  Livro de registo de óbitos do Monte do ano de 1902
+  47837  PT/ABM/PFUN02/003/00043              DC 1897  Livro de registo de óbitos do Monte do ano de 1897
+  47838  PT/ABM/PFUN02/003/00042              DC 1896  Livro de registo de óbitos do Monte do ano de 1896
+  47839  PT/ABM/PFUN03/001/00049              DC 1894  Livro de registo de baptismos de Santa Luzia do ano de 1894
+  47840  PT/ABM/PFUN03/001/00050              DC 1895  Livro de registo de baptismos de Santa Luzia do ano de 1895
+  47841  PT/ABM/PFUN03/001/00051              DC 1896  Livro de registo de baptismos de Santa Luzia do ano de 1896
+  47842  PT/ABM/PFUN03/002/00042              DC 1894  Livro de registo de casamentos de Santa Luzia do ano de 1894
+  47843  —
+  47844  —
+  47845  —
+  47846  —
+  47847  PT/ABM/PFUN03/001/00054              DC 1899  Livro de registo de baptismos de Santa Luzia do ano de 1899
+  47848  —
+  47849  —
+  47850  —
+  47851  —
+  47852  —
+  47853  PT/ABM/PFUN03/002/00045              DC 1897  Livro de registo de casamentos de Santa Luzia do ano de 1897
+  47854  PT/ABM/PFUN03/002/00055              DC 1907  Livro de registo de casamentos de Santa Luzia do ano de 1907
+  47855  PT/ABM/PFUN03/002/00043              DC 1895  Livro de registo de casamentos de Santa Luzia do ano de 1895
+  47856  PT/ABM/PFUN03/001/00058              DC 1903  Livro de registo de baptismos de Santa Luzia do ano de 1903
+  47857  PT/ABM/PFUN03/002/00044              DC 1896  Livro de registo de casamentos de Santa Luzia do ano de 1896
+  47858  PT/ABM/PFUN03/001/00059              DC 1904  Livro de registo de baptismos de Santa Luzia do ano de 1904
+  47859  PT/ABM/PFUN03/001/00060              DC 1905  Livro de registo de baptismos de Santa Luzia do ano de 1905
+  47860  —
+  47861  PT/ABM/PFUN03/002/00052              DC 1904  Livro de registo de casamentos de Santa Luzia do ano de 1904
+  47862  PT/ABM/PFUN03/002/00046              DC 1898  Livro de registo de casamentos de Santa Luzia do ano de 1898
+  47863  PT/ABM/PFUN03/002/00047              DC 1899  Livro de registo de casamentos de Santa Luzia do ano de 1899
+  47864  PT/ABM/PFUN03/002/00048              DC 1900  Livro de registo de casamentos de Santa Luzia do ano de 1900
+  47865  PT/ABM/PFUN03/002/00049              DC 1901  Livro de registo de casamentos de Santa Luzia do ano de 1901
+  47866  PT/ABM/PFUN03/002/00050              DC 1902  Livro de registo de casamentos de Santa Luzia do ano de 1902
+  47867  PT/ABM/PFUN03/002/00051              DC 1903  Livro de registo de casamentos de Santa Luzia do ano de 1903
+  47868  —
+  47869  —
+  47870  —
+  47871  —
+  47872  —
+  47873  PT/ABM/PFUN03/002/00053              DC 1905  Livro de registo de casamentos de Santa Luzia do ano de 1905
+  47874  PT/ABM/PFUN03/002/00054              DC 1906  Livro de registo de casamentos de Santa Luzia do ano de 1906
+  47875  —
+  47876  —
+  47877  PT/ABM/PFUN03/002/00056              DC 1908  Livro de registo de casamentos de Santa Luzia do ano de 1908
+  47878  PT/ABM/PFUN03/002/00057              DC 1909  Livro de registo de casamentos de Santa Luzia do ano de 1909
+  47879  PT/ABM/PFUN03/002/00058              DC 1910  Livro de registo de casamentos de Santa Luzia do ano de 1910
+  47880  PT/ABM/PFUN03/002/00059              DC 1911  Livro de registo de casamentos de Santa Luzia do ano de 1911
+  47881  PT/ABM/PFUN03/003/00042              DC 1894  Livro de registo de óbitos de Santa Luzia do ano de 1894
+  47882  PT/ABM/PFUN03/003/00043              DC 1895  Livro de registo de óbitos de Santa Luzia do ano de 1895
+  47883  PT/ABM/PFUN03/003/00044              DC 1896  Livro de registo de óbitos de Santa Luzia do ano de 1896
+  47884  PT/ABM/PFUN03/003/00045              DC 1897  Livro de registo de óbitos de Santa Luzia do ano de 1897
+  47885  —
+  47886  PT/ABM/PFUN03/003/00046              DC 1898  Livro de registo de óbitos de Santa Luzia do ano de 1898
+  47887  PT/ABM/PFUN03/001/00062              DC 1907  Livro de registo de baptismos de Santa Luzia do ano de 1907
+  47888  PT/ABM/PFUN03/001/00063              DC 1908  Livro de registo de baptismos de Santa Luzia do ano de 1908
+  47889  PT/ABM/PFUN03/001/00065              DC 1910  Livro de registo de baptismos de Santa Luzia do ano de 1910
+  47890  PT/ABM/PFUN03/001/00034              DC 1879  Livro de registo de baptismos de Santa Luzia do ano de 1879
+  47891  PT/ABM/PFUN03/001/00045              DC 1890  Livro de registo de baptismos de Santa Luzia do ano de 1890
+  47892  —
+  47893  —
+  47894  —
+  47895  —
+  47896  —
+  47897  —
+  47898  —
+  47899  —
+  47900  —
+  47901  —
+  47902  —
+  47903  PT/ABM/PFUN03/001/00002              DC 1735  Livro 2.º de registo de baptismos de Santa Luzia (1735/1762)
+  47904  PT/ABM/PFUN03/001/00001              DC 1680  Livro 1.º de registo de baptismos de Santa Luzia (1680/1735)
+  47905  —
+  47906  PT/ABM/PFUN04/001/00001              DC 1803  Livro 1.º misto de registo de baptismos de Santa Maria Maior (1762/180
+  47907  —
+  47908  —
+  47909  —
+  47910  —
+  47911  —
+  47912  —
+  47913  —
+  47914  —
+  47915  —
+  47916  —
+  47917  —
+  47918  —
+  47919  PT/ABM/PFUN06/005/000019             D  1865  Rol de crismados de São Gonçalo do ano de 1865
+  47920  —
+  47921  —
+  47922  —
+  47923  —
+  47924  —
+  47925  —
+  47926  PT/ABM/PFUN04/001/00053              DC 1906  Livro de registo de baptismos de Santa Maria Maior do ano de 1906
+  47927  PT/ABM/PFUN04/001/00055              DC 1908  Livro de registo de baptismos de Santa Maria Maior do ano de 1908
+  47928  PT/ABM/PFUN04/001/00056              DC 1909  Livro de registo de baptismos de Santa Maria Maior do ano de 1909
+  47929  PT/ABM/PFUN04/001/00058              DC 1911  Livro de registo de baptismos de Santa Maria Maior do ano de 1911
+  47930  PT/ABM/PFUN07/005/000008             D  1632  Rol de crismados de São Martinho do ano de 1632
+  47931  PT/ABM/PFUN06/005/000018             D  1860  Rol de crismados de São Gonçalo do ano de 1860
+  47932  PT/ABM/PFUN07/005/000019             D  1730  Rol de crismados de São Martinho do ano de 1730
+  47933  PT/ABM/PFUN07/005/000013             D  1672  Rol de crismados de São Martinho do ano de 1672
+  47934  PT/ABM/PFUN10/001/00085              DC 1906  Livro de registo de baptismos da Sé do ano de 1906
+  47935  PT/ABM/PFUN05/001/00016              DC 1849  Livro 16.º de registo de baptismos de Santo António (1849/1859)
+  47936  PT/ABM/PFUN05/001/00014              DC 1833  Livro 14.º de registo de baptismos de Santo António (1833/1843)
+  47937  PT/ABM/PFUN05/003/00006              DC 1829  Livro 9.º de registo de óbitos de Santo António (1829/1843)
+  47938  PT/ABM/PFUN06/003/00001              DC 1569  Livro 1.º misto de registo de óbitos de São Gonçalo (1569/1591)
+  47939  —
+  47940  —
+  47941  —
+  47942  PT/ABM/PFUN06/001/00001              DC 1568  Livro 1.º misto de registo de baptismos de São Gonçalo (1568/1587)
+  47943  PT/ABM/PFUN07/003/00004              DC 1659  Livro 3.º misto de registo de óbitos de São Martinho (1659/1732)
+  47944  —
+  47945  —
+  47946  —
+  47947  —
+  47948  —
+  47949  —
+  47950  —
+  47951  PT/ABM/PFUN07/001/00063              DC 1906  Livro de registo de baptismos de São Martinho do ano de 1906
+  47952  PT/ABM/PFUN07/001/00064              DC 1907  Livro de registo de baptismos de São Martinho do ano de 1907
+  47953  PT/ABM/PFUN07/001/00065              DC 1908  Livro de registo de baptismos de São Martinho do ano de 1908
+  47954  PT/ABM/PFUN07/001/00066              DC 1909  Livro de registo de baptismos de São Martinho do ano de 1909
+  47955  PT/ABM/PFUN07/001/00067              DC 1910  Livro de registo de baptismos de São Martinho do ano de 1910
+  47956  —
+  47957  PT/ABM/PCLT02/001/00010              DC 1744  Livro 10.º de registo de baptismos da Calheta (1744/1753)
+  47958  PT/ABM/PFUN08/002/00002              DC 1589  Livro 2.º misto de registo de casamentos de São Pedro (1589/1608)
+  47959  —
+  47960  —
+  47961  —
+  47962  —
+  47963  —
+  47964  —
+  47965  —
+  47966  —
+  47967  —
+  47968  —
+  47969  —
+  47970  —
+  47971  —
+  47972  —
+  47973  —
+  47974  —
+  47975  —
+  47976  —
+  47977  —
+  47978  —
+  47979  —
+  47980  —
+  47981  —
+  47982  —
+  47983  —
+  47984  —
+  47985  —
+  47986  PT/ABM/PSCR02/002                    SR 1681  Registo de casamentos
+  47987  —
+  47988  —
+  47989  —
+  47990  —
+  47991  —
+  47992  —
+  47993  PT/ABM/PFUN04/002/00040              DC 1894  Livro de registo de casamentos de Santa Maria Maior do ano de 1894
+  47994  PT/ABM/PFUN04/001/00046              DC 1899  Livro de registo de baptismos de Santa Maria Maior do ano de 1899
+  47995  PT/ABM/PFUN04/002/00045              DC 1899  Livro de registo de casamentos de Santa Maria Maior do ano de 1899
+  47996  PT/ABM/PFUN04/001/00047              DC 1900  Livro de registo de baptismos de Santa Maria Maior do ano de 1900
+  47997  PT/ABM/PFUN04/002/00041              DC 1895  Livro de registo de casamentos de Santa Maria Maior do ano de 1895
+  47998  PT/ABM/PFUN04/001/00050              DC 1903  Livro de registo de baptismos de Santa Maria Maior do ano de 1903
+  47999  PT/ABM/PFUN04/002/00043              DC 1897  Livro de registo de casamentos de Santa Maria Maior do ano de 1897
+  48000  PT/ABM/PFUN04/002/00050              DC 1904  Livro de registo de casamentos de Santa Maria Maior do ano de 1904
+  48001  PT/ABM/PFUN04/001/00052              DC 1905  Livro de registo de baptismos de Santa Maria Maior do ano de 1905
+  48002  PT/ABM/PFUN04/002/00053              DC 1907  Livro de registo de casamentos de Santa Maria Maior do ano de 1907
+  48003  PT/ABM/PFUN04/002/00048              DC 1902  Livro de registo de casamentos de Santa Maria Maior do ano de 1902
+  48004  PT/ABM/PFUN04/002/00046              DC 1900  Livro de registo de casamentos de Santa Maria Maior do ano de 1900
+  48005  PT/ABM/PFUN04/003/00040              DC 1895  Livro de registo de óbitos de Santa Maria Maior do ano de 1895
+  48006  PT/ABM/PFUN04/003/00039              DC 1894  Livro de registo de óbitos de Santa Maria Maior do ano de 1894
+  48007  PT/ABM/PFUN04/002/00044              DC 1898  Livro de registo de casamentos de Santa Maria Maior do ano de 1898
+  48008  PT/ABM/PFUN04/002/00055              DC 1909  Livro de registo de casamentos de Santa Maria Maior do ano de 1909
+  48009  PT/ABM/PFUN04/002/00056              DC 1910  Livro de registo de casamentos de Santa Maria Maior do ano de 1910
+  48010  PT/ABM/PFUN04/003/00041              DC 1896  Livro de registo de óbitos de Santa Maria Maior do ano de 1896
+  48011  PT/ABM/PFUN04/003/00042              DC 1897  Livro de registo de óbitos de Santa Maria Maior do ano de 1897
+  48012  —
+  48013  PT/ABM/PFUN04/002/00051              DC 1905  Livro de registo de casamentos de Santa Maria Maior do ano de 1905
+  48014  PT/ABM/PFUN04/001/00048              DC 1901  Livro de registo de baptismos de Santa Maria Maior do ano de 1901
+  48015  PT/ABM/PFUN04/001/00049              DC 1902  Livro de registo de baptismos de Santa Maria Maior do ano de 1902
+  48016  PT/ABM/PFUN04/001/00051              DC 1904  Livro de registo de baptismos de Santa Maria Maior do ano de 1904
+  48017  PT/ABM/PFUN04/002/00057              DC 1911  Livro de registo de casamentos de Santa Maria Maior do ano de 1911
+  48018  —
+  48019  —
+  48020  —
+  48021  —
+  48022  PT/ABM/PFUN04/003/00043              DC 1898  Livro de registo de óbitos de Santa Maria Maior do ano de 1898
+  48023  PT/ABM/PFUN04/003/00044              DC 1899  Livro de registo de óbitos de Santa Maria Maior do ano de 1899
+  48024  —
+  48025  —
+  48026  PT/ABM/PFUN04/003/00045              DC 1900  Livro de registo de óbitos de Santa Maria Maior do ano de 1900
+  48027  PT/ABM/PFUN04/003/00046              DC 1901  Livro de registo de óbitos de Santa Maria Maior do ano de 1901
+  48028  PT/ABM/PFUN04/003/00047              DC 1902  Livro de registo de óbitos de Santa Maria Maior do ano de 1902
+  48029  PT/ABM/PFUN04/003/00048              DC 1903  Livro de registo de óbitos de Santa Maria Maior do ano de 1903
+  48030  PT/ABM/PFUN04/003/00049              DC 1904  Livro de registo de óbitos de Santa Maria Maior do ano de 1904
+  48031  PT/ABM/PFUN04/003/00053              DC 1908  Livro de registo de óbitos de Santa Maria Maior do ano de 1908
+  48032  PT/ABM/PFUN04/003/00051              DC 1906  Livro de registo de óbitos de Santa Maria Maior do ano de 1906
+  48033  —
+  48034  —
+  48035  —
+  48036  PT/ABM/PFUN04/003/00052              DC 1907  Livro de registo de óbitos de Santa Maria Maior do ano de 1907
+  48037  PT/ABM/PFUN05/003/00055              DC 1907  Livro 58.º de registo de óbitos de Santo António do ano de 1907
+  48038  PT/ABM/PFUN04/003/00055              DC 1910  Livro de registo de óbitos de Santa Maria Maior do ano de 1910
+  48039  —
+  48040  PT/ABM/PFUN05/002/00048              DC 1900  Livro [48.º] de registo de casamentos de Santo António do ano de 1900
+  48041  PT/ABM/PFUN05/001/00052              DC 1895  Livro 52.º de registo de baptismos de Santo António do ano de 1895
+  48042  —
+  48043  —
+  48044  —
+  48045  PT/ABM/PFUN05/001/00054              DC 1897  Livro 54.º de registo de baptismos de Santo António do ano de 1897
+  48046  PT/ABM/PFUN05/001/00055              DC 1898  Livro 55.º de registo de baptismos de Santo António do ano de 1898
+  48047  —
+  48048  PT/ABM/PFUN05/001/00051              DC 1894  Livro 51.º de registo de baptismos de Santo António do ano de 1894
+  48049  PT/ABM/PFUN05/001/00053              DC 1896  Livro 53.º de registo de baptismos de Santo António do ano de 1896
+  48050  PT/ABM/PFUN05/002/00057              DC 1909  Livro de registo de casamentos de Santo António do ano de 1909
+  48051  PT/ABM/PFUN05/002/00049              DC 1901  Livro 49.º de registo de casamentos de Santo António do ano de 1901
+  48052  —
+  48053  PT/ABM/PFUN05/001/00056              DC 1899  Livro 56.º de registo de baptismos de Santo António do ano de 1899
+  48054  PT/ABM/PFUN05/001/00057              DC 1900  Livro de registo de baptismos de Santo António do ano de 1900
+  48055  PT/ABM/PFUN05/001/00061              DC 1904  Livro de registo de baptismos de Santo António do ano de 1904
+  48056  PT/ABM/PFUN05/001/00059              DC 1902  Livro 59.º de registo de baptismos de Santo António do ano de 1902
+  48057  PT/ABM/PFUN05/001/00062              DC 1905  Livro de registo de baptismos de Santo António do ano de 1905
+  48058  PT/ABM/PFUN05/001/00060              DC 1903  Livro de registo de baptismos de Santo António do ano de 1903
+  48059  PT/ABM/PFUN05/002/00050              DC 1902  Livro 50.º de registo de casamentos de Santo António do ano de 1902
+  48060  PT/ABM/PFUN05/002/00051              DC 1903  Livro 51.º de registo de casamentos de Santo António do ano de 1903
+  48061  PT/ABM/PFUN05/002/00055              DC 1907  Livro 55.º de registo de casamentos de Santo António do ano de 1907
+  48062  PT/ABM/PFUN05/002/00058              DC 1910  Livro de registo de casamentos de Santo António do ano de 1910
+  48063  PT/ABM/PFUN05/002/00059              DC 1911  Livro de registo de casamentos de Santo António do ano de 1911
+  48064  PT/ABM/PFUN05/003/00057              DC 1909  Livro de registo de óbitos de Santo António do ano de 1909
+  48065  PT/ABM/PFUN05/003/00058              DC 1910  Livro de registo de óbitos de Santo António do ano de 1910
+  48066  PT/ABM/PFUN05/003/00043              DC 1895  Livro 46.º de registo de óbitos de Santo António do ano de 1895
+  48067  PT/ABM/PFUN05/003/00044              DC 1896  Livro 47.º de registo de óbitos de Santo António do ano de 1896
+  48068  PT/ABM/PFUN05/003/00045              DC 1897  Livro 48.º de registo de óbitos de Santo António do ano de 1897
+  48069  PT/ABM/PFUN05/003/00046              DC 1898  Livro 49.º de registo de óbitos de Santo António do ano de 1898
+  48070  PT/ABM/PFUN05/003/00047              DC 1899  Livro 50.º de registo de óbitos de Santo António do ano de 1899
+  48071  PT/ABM/PFUN05/003/00048              DC 1900  Livro 51.º de registo de óbitos de Santo António do ano de 1900
+  48072  PT/ABM/PFUN05/003/00050              DC 1902  Livro 53.º de registo de óbitos de Santo António do ano de 1902
+  48073  PT/ABM/PFUN05/003/00051              DC 1903  Livro 54.º de registo de óbitos de Santo António do ano de 1903
+  48074  PT/ABM/PFUN05/003/00052              DC 1904  Livro 55.º de registo de óbitos de Santo António do ano de 1904
+  48075  PT/ABM/PFUN05/003/00053              DC 1905  Livro 56.º de registo de óbitos de Santo António do ano de 1905
+  48076  PT/ABM/PFUN05/003/00059              DC 1911  Livro de registo de óbitos de Santo António do ano de 1911
+  48077  PT/ABM/PFUN06/002/00051              DC 1903  Livro de registo de casamentos de São Gonçalo do ano de 1903
+  48078  PT/ABM/PFUN06/001/00047              DC 1894  Livro de registo de baptismos de São Gonçalo do ano de 1894
+  48079  PT/ABM/PFUN06/001/00048              DC 1895  Livro de registo de baptismos de São Gonçalo do ano de 1895
+  48080  PT/ABM/PFUN06/001/00049              DC 1896  Livro de registo de baptismos de São Gonçalo do ano de 1896
+  48081  PT/ABM/PFUN06/001/00050              DC 1897  Livro de registo de baptismos de São Gonçalo do ano de 1897
+  48082  PT/ABM/PFUN06/001/00051              DC 1898  Livro de registo de baptismos de São Gonçalo do ano de 1898
+  48083  PT/ABM/PFUN06/001/00052              DC 1899  Livro de registo de baptismos de São Gonçalo do ano de 1899
+  48084  PT/ABM/PFUN06/001/00053              DC 1900  Livro de registo de baptismos de São Gonçalo do ano de 1900
+  48085  PT/ABM/PFUN06/001/00054              DC 1901  Livro de registo de baptismos de São Gonçalo do ano de 1901
+  48086  PT/ABM/PFUN06/001/00055              DC 1902  Livro de registo de baptismos de São Gonçalo do ano de 1902
+  48087  PT/ABM/PFUN06/001/00058              DC 1905  Livro de registo de baptismos de São Gonçalo do ano de 1905
+  48088  PT/ABM/PFUN06/001/00056              DC 1903  Livro de registo de baptismos de São Gonçalo do ano de 1903
+  48089  PT/ABM/PFUN06/001/00057              DC 1904  Livro de registo de baptismos de São Gonçalo do ano de 1904
+  48090  PT/ABM/PFUN06/002/00042              DC 1894  Livro de registo de casamentos de São Gonçalo do ano de 1894
+  48091  PT/ABM/PFUN06/002/00043              DC 1895  Livro de registo de casamentos de São Gonçalo do ano de 1895
+  48092  PT/ABM/PFUN06/002/00044              DC 1896  Livro de registo de casamentos de São Gonçalo do ano de 1896
+  48093  PT/ABM/PFUN06/002/00045              DC 1897  Livro de registo de casamentos de São Gonçalo do ano de 1897
+  48094  PT/ABM/PFUN06/002/00046              DC 1898  Livro de registo de casamentos de São Gonçalo do ano de 1898
+  48095  PT/ABM/PFUN06/002/00047              DC 1899  Livro de registo de casamentos de São Gonçalo do ano de 1899
+  48096  PT/ABM/PFUN06/002/00048              DC 1900  Livro de registo de casamentos de São Gonçalo do ano de 1900
+  48097  PT/ABM/PFUN06/002/00049              DC 1901  Livro de registo de casamentos de São Gonçalo do ano de 1901
+  48098  PT/ABM/PFUN06/002/00052              DC 1904  Livro de registo de casamentos de São Gonçalo do ano de 1904
+  48099  PT/ABM/PFUN06/002/00054              DC 1906  Livro de registo de casamentos de São Gonçalo do ano de 1906
+  48100  PT/ABM/PFUN06/002/00056              DC 1908  Livro de registo de casamentos de São Gonçalo do ano de 1908
+  48101  PT/ABM/PFUN06/003/00044              DC 1896  Livro de registo de óbitos de São Gonçalo do ano de 1896
+  48102  PT/ABM/PFUN06/002/00057              DC 1909  Livro de registo de casamentos de São Gonçalo do ano de 1909
+  48103  PT/ABM/PFUN06/002/00058              DC 1910  Livro de registo de casamentos de São Gonçalo do ano de 1910
+  48104  PT/ABM/PFUN06/002/00059              DC 1911  Livro de registo de casamentos de São Gonçalo do ano de 1911
+  48105  PT/ABM/PFUN06/003/00043              DC 1895  Livro de registo de óbitos de São Gonçalo do ano de 1895
+  48106  PT/ABM/PFUN07/001/00051              DC 1894  Livro de registo de baptismos de São Martinho do ano de 1894
+  48107  PT/ABM/PFUN07/001/00061              DC 1904  Livro de registo de baptismos de São Martinho do ano de 1904
+  48108  PT/ABM/PFUN07/001/00052              DC 1895  Livro de registo de baptismos de São Martinho do ano de 1895
+  48109  PT/ABM/PFUN07/001/00053              DC 1896  Livro de registo de baptismos de São Martinho do ano de 1896
+  48110  —
+  48111  —
+  48112  PT/ABM/PFUN07/001/00054              DC 1897  Livro de registo de baptismos de São Martinho do ano de 1897
+  48113  —
+  48114  PT/ABM/PFUN07/001/00055              DC 1898  Livro de registo de baptismos de São Martinho do ano de 1898
+  48115  —
+  48116  —
+  48117  —
+  48118  —
+  48119  PT/ABM/PFUN07/001/00062              DC 1905  Livro de registo de baptismos de São Martinho do ano de 1905
+  48120  PT/ABM/PFUN07/001/00056              DC 1899  Livro de registo de baptismos de São Martinho do ano de 1899
+  48121  —
+  48122  —
+  48123  —
+  48124  —
+  48125  PT/ABM/PFUN07/001/00057              DC 1900  Livro de registo de baptismos de São Martinho do ano de 1900
+  48126  PT/ABM/PFUN07/001/00058              DC 1901  Livro de registo de baptismos de São Martinho do ano de 1901
+  48127  PT/ABM/PFUN07/001/00060              DC 1903  Livro de registo de baptismos de São Martinho do ano de 1903
+  48128  PT/ABM/PFUN07/001/00059              DC 1902  Livro de registo de baptismos de São Martinho do ano de 1902
+  48129  PT/ABM/PFUN06/003/00046              DC 1898  Livro de registo de óbitos de São Gonçalo do ano de 1898
+  48130  PT/ABM/PFUN07/002/00046              DC 1897  Livro de registo de casamentos de São Martinho do ano de 1897
+  48131  PT/ABM/PFUN06/003/00049              DC 1901  Livro de registo de óbitos de São Gonçalo do ano de 1901
+  48132  PT/ABM/PFUN06/003/00057              DC 1909  Livro de registo de óbitos de São Gonçalo do ano de 1909
+  48133  PT/ABM/PFUN06/003/00058              DC 1910  Livro de registo de óbitos de São Gonçalo do ano de 1910
+  48134  —
+  48135  —
+  48136  PT/ABM/PFUN07/002/00047              DC 1898  Livro de registo de casamentos de São Martinho do ano de 1898
+  48137  PT/ABM/PFUN07/002/00051              DC 1902  Livro de registo de casamentos de São Martinho do ano de 1902
+  48138  —
+  48139  PT/ABM/PFUN07/002/00052              DC 1903  Livro de registo de casamentos de São Martinho do ano de 1903
+  48140  PT/ABM/PFUN07/002/00049              DC 1900  Livro de registo de casamentos de São Martinho do ano de 1900
+  48141  PT/ABM/PFUN07/003/00046              DC 1896  Livro de registo de óbitos de São Martinho do ano de 1896
+  48142  PT/ABM/PFUN07/002/00050              DC 1901  Livro de registo de casamentos de São Martinho do ano de 1901
+  48143  PT/ABM/PFUN07/002/00045              DC 1896  Livro de registo de casamentos de São Martinho do ano de 1896
+  48144  PT/ABM/PFUN07/002/00054              DC 1905  Livro de registo de casamentos de São Martinho do ano de 1905
+  48145  PT/ABM/PFUN07/002/00055              DC 1906  Livro de registo de casamentos de São Martinho do ano de 1906
+  48146  —
+  48147  PT/ABM/PFUN07/003/00047              DC 1897  Livro de registo de óbitos de São Martinho do ano de 1897
+  48148  PT/ABM/PFUN07/002/00058              DC 1909  Livro de registo de casamentos de São Martinho do ano de 1909
+  48149  PT/ABM/PFUN07/002/00059              DC 1910  Livro de registo de casamentos de São Martinho do ano de 1910
+  48150  PT/ABM/PFUN07/002/00056              DC 1907  Livro de registo de casamentos de São Martinho do ano de 1907
+  48151  PT/ABM/PFUN07/002/00060              DC 1911  Livro de registo de casamentos de São Martinho do ano de 1911
+  48152  PT/ABM/PFUN07/003/00044              DC 1894  Livro de registo de óbitos de São Martinho do ano de 1894
+  48153  —
+  48154  PT/ABM/PFUN07/003/00051              DC 1901  Livro de registo de óbitos de São Martinho do ano de 1901
+  48155  —
+  48156  PT/ABM/PFUN07/003/00053              DC 1903  Livro de registo de óbitos de São Martinho do ano de 1903
+  48157  PT/ABM/PFUN07/003/00056              DC 1906  Livro de registo de óbitos de São Martinho do ano de 1906
+  48158  PT/ABM/PFUN07/003/00061              DC 1911  Livro de registo de óbitos de São Martinho do ano de 1911
+  48159  PT/ABM/PFUN07/003/00059              DC 1909  Livro de registo de óbitos de São Martinho do ano de 1909
+  48160  PT/ABM/PFUN07/003/00060              DC 1910  Livro de registo de óbitos de São Martinho do ano de 1910
+  48161  —
+  48162  —
+  48163  —
+  48164  —
+  48165  —
+  48166  —
+  48167  —
+  48168  —
+  48169  —
+  48170  —
+  48171  —
+  48172  —
+  48173  —
+  48174  —
+  48175  —
+  48176  —
+  48177  —
+  48178  —
+  48179  —
+  48180  —
+  48181  —
+  48182  PT/ABM/PCML01/001/00001              DC 1570  Livro 1.º (parte), 2.º e 3.º (cópia) de registo de baptismos de Câmara
+  48183  —
+  48184  —
+  48185  —
+  48186  —
+  48187  —
+  48188  —
+  48189  —
+  48190  —
+  48191  —
+  48192  —
+  48193  —
+  48194  —
+  48195  —
+  48196  —
+  48197  —
+  48198  —
+  48199  —
+  48200  —
+  48201  —
+  48202  —
+  48203  —
+  48204  —
+  48205  —
+  48206  PT/ABM/PCML01/004/00001              DC 1581  Livro de registo dos índices alfabéticos de Câmara de Lobos do ano (15
+  48207  PT/ABM/PCML01/001/00067              DC 1906  Livro de registo de baptismos de Câmara de Lobos do ano de 1906
+  48208  PT/ABM/PCML01/001/00068              DC 1907  Livro de registo de baptismos de Câmara de Lobos do ano de 1907
+  48209  PT/ABM/PCML01/001/00070              DC 1909  Livro de registo de baptismos de Câmara de Lobos do ano de 1909
+  48210  —
+  48211  —
+  48212  —
+  48213  —
+  48214  —
+  48215  PT/ABM/PCML03/001/00004              DC 1638  Livro 3.º (misto) de registo de batismos do Estreito de Câmara de Lobo
+  48216  PT/ABM/PCML03/001/00005              DC 1699  Livro 3.º de registo de baptismos do Estreito de Câmara de Lobos (1699
+  48217  —
+  48218  —
+  48219  PT/ABM/PFUN04/005/000001             D  1813  Rol de crismados de Santa Maria Maior do ano de 1813
+  48220  —
+  48221  —
+  48222  —
+  48223  —
+  48224  —
+  48225  —
+  48226  —
+  48227  —
+  48228  —
+  48229  —
+  48230  —
+  48231  —
+  48232  PT/ABM/PCML03/001/00064              DC 1907  Livro de registo de baptismos do Estreito de Câmara de Lobos do ano de
+  48233  —
+  48234  —
+  48235  —
+  48236  —
+  48237  —
+  48238  —
+  48239  —
+  48240  —
+  48241  —
+  48242  —
+  48243  —
+  48244  PT/ABM/PFUN08/002/00001              DC 1568  Livro 1.º misto de registo de casamentos de São Pedro (1568/1578)
+  48245  PT/ABM/PCLT02/001/00073              DC 1907  Livro de registo de baptismos da Calheta do ano de 1907
+  48246  PT/ABM/PFUN08/001/00019              DC 1817  Livro 19.º (cópia) de registo de baptismos de São Pedro (1817/1819)
+  48247  PT/ABM/PCLT01/002/00003              DC 1704  Livro 3.º de registo de casamentos do Arco da Calheta (1704/1743)
+  48248  PT/ABM/PFUN08/003/00001              DC 1568  Livro 1.º (misto) de registo de óbitos de São Pedro (1568/1578)
+  48249  PT/ABM/PFUN08/001/00002              DC 1588  Livro 2.º misto de registo de baptismos de São Pedro (1588/1598)
+  48250  PT/ABM/PFUN08/003/00002              DC 1589  Livro 2.º misto de registo de óbitos de São Pedro (1589/1608)
+  48251  —
+  48252  PT/ABM/PFUN08/001/00020              DC 1817  Livro 19.º de registo de baptismos de São Pedro (1817/1822)
+  48253  PT/ABM/PFUN08/001/00023              DC 1826  Livro 22.º de registo de baptismos de São Pedro (1826/1830)
+  48254  PT/ABM/PFUN08/001/00026              DC 1848  Livro 25.º de registo de baptismos de São Pedro (1848/1857)
+  48255  PT/ABM/PCLT02/003/00004              DC 1693  Livro 5.º de registo de óbitos da Calheta (1693/1727)
+  48256  PT/ABM/PCLT03/001/00006              DC 1722  Livro 8.º de registo de baptismos do Estreito da Calheta (1722/1730)
+  48257  —
+  48258  —
+  48259  —
+  48260  —
+  48261  —
+  48262  —
+  48263  —
+  48264  —
+  48265  —
+  48266  —
+  48267  —
+  48268  —
+  48269  —
+  48270  —
+  48271  —
+  48272  —
+  48273  —
+  48274  —
+  48275  —
+  48276  —
+  48277  —
+  48278  —
+  48279  —
+  48280  —
+  48281  —
+  48282  —
+  48283  —
+  48284  —
+  48285  —
+  48286  —
+  48287  —
+  48288  —
+  48289  —
+  48290  —
+  48291  —
+  48292  —
+  48293  —
+  48294  —
+  48295  —
+  48296  —
+  48297  —
+  48298  —
+  48299  —
+  48300  —
+  48301  —
+  48302  —
+  48303  —
+  48304  —
+  48305  PT/ABM/PCLT03/001/00065              DC 1908  Livro de registo de baptismos do Estreito da Calheta do ano de 1908
+  48306  —
+  48307  —
+  48308  —
+  48309  —
+  48310  —
+  48311  —
+  48312  —
+  48313  —
+  48314  —
+  48315  —
+  48316  —
+  48317  PT/ABM/PCLT01/001/00052              DC 1897  Livro de registo de baptismos do Arco da Calheta do ano de 1897
+  48318  PT/ABM/PFUN09/002/00046              DC 1898  Livro de registo de casamentos de São Roque do ano de 1898
+  48319  PT/ABM/PFUN08/003/00073              DC 1911  Livro de registo de óbitos de São Pedro do ano de 1911
+  48320  PT/ABM/PFUN09/002/00055              DC 1907  Livro de registo de casamentos de São Roque do ano de 1907
+  48321  PT/ABM/PFUN09/002/00054              DC 1906  Livro de registo de casamentos de São Roque do ano de 1906
+  48322  PT/ABM/PFUN09/003/00054              DC 1906  Livro de registo de óbitos de São Roque do ano de 1906
+  48323  PT/ABM/PFUN09/002/00059              DC 1911  Livro de registo de casamentos de São Roque do ano de 1911
+  48324  PT/ABM/PFUN09/003/00059              DC 1911  Livro de registo de óbitos de São Roque do ano de 1911
+  48325  PT/ABM/PFUN08/003/00068              DC 1906  Livro de registo de óbitos de São Pedro do ano de 1906
+  48326  PT/ABM/PFUN10/003/00073              DC 1908  Livro de registo de óbitos da Sé do ano de 1908
+  48327  PT/ABM/PFUN08/003/00069              DC 1907  Livro de registo de óbitos de São Pedro do ano de 1907
+  48328  PT/ABM/PFUN08/003/00072              DC 1910  Livro de registo de óbitos de São Pedro do ano de 1910
+  48329  PT/ABM/PFUN08/003/00070              DC 1908  Livro de registo de óbitos de São Pedro do ano de 1908
+  48330  PT/ABM/PFUN08/003/00071              DC 1909  Livro de registo de óbitos de São Pedro do ano de 1909
+  48331  PT/ABM/PFUN10/003/00071              DC 1906  Livro de registo de óbitos da Sé do ano de 1906
+  48332  PT/ABM/PFUN10/003/00074              DC 1909  Livro de registo de óbitos da Sé do ano de 1909
+  48333  PT/ABM/PFUN10/003/00075              DC 1910  Livro de registo de óbitos da Sé do ano de 1910
+  48334  PT/ABM/PCLT01/001/00049              DC 1894  Livro de registo de baptismos do Arco da Calheta do ano de 1894
+  48335  PT/ABM/PFUN10/003/00076              DC 1911  Livro de registo de óbitos da Sé do ano de 1911
+  48336  PT/ABM/PCLT01/001/00050              DC 1895  Livro de registo de baptismos do Arco da Calheta do ano de 1895
+  48337  PT/ABM/PCLT01/001/00051              DC 1896  Livro de registo de baptismos do Arco da Calheta do ano de 1896
+  48338  PT/ABM/JST/E/004/00010               DC 1978  Carta autografada de Francine Benoit, musicóloga, a José Sainz-Trueva
+  48339  —
+  48340  PT/ABM/PCLT01/001/00054              DC 1899  Livro de registo de baptismos do Arco da Calheta do ano de 1899
+  48341  PT/ABM/PCLT01/001/00055              DC 1900  Livro de registo de baptismos do Arco da Calheta do ano de 1900
+  48342  PT/ABM/PCLT01/001/00056              DC 1901  Livro de registo de baptismos do Arco da Calheta do ano de 1901
+  48343  PT/ABM/PCLT01/001/00057              DC 1902  Livro de registo de baptismos do Arco da Calheta do ano de 1902
+  48344  PT/ABM/PCLT01/001/00058              DC 1903  Livro de registo de baptismos do Arco da Calheta do ano de 1903
+  48345  PT/ABM/PCLT01/001/00059              DC 1904  Livro de registo de baptismos do Arco da Calheta do ano de 1904
+  48346  —
+  48347  —
+  48348  PT/ABM/PCLT01/001/00060              DC 1905  Livro de registo de baptismos do Arco da Calheta do ano de 1905
+  48349  PT/ABM/PCLT01/001/00061              DC 1906  Livro de registo de baptismos do Arco da Calheta do ano de 1906
+  48350  —
+  48351  PT/ABM/PCLT04/001/00002              DC 1624  Livro 2.º (misto) de registo de baptismos da Fajã da Ovelha (1624/1645
+  48352  —
+  48353  —
+  48354  —
+  48355  —
+  48356  —
+  48357  —
+  48358  —
+  48359  —
+  48360  —
+  48361  —
+  48362  —
+  48363  —
+  48364  —
+  48365  —
+  48366  —
+  48367  —
+  48368  —
+  48369  —
+  48370  —
+  48371  —
+  48372  —
+  48373  —
+  48374  —
+  48375  —
+  48376  —
+  48377  —
+  48378  —
+  48379  —
+  48380  —
+  48381  —
+  48382  —
+  48383  —
+  48384  —
+  48385  —
+  48386  —
+  48387  —
+  48388  —
+  48389  —
+  48390  —
+  48391  —
+  48392  —
+  48393  —
+  48394  —
+  48395  PT/ABM/PCLT04/001/00065              DC 1910  Livro de registo de baptismos da Fajã da Ovelha do ano de 1910
+  48396  —
+  48397  —
+  48398  —
+  48399  —
+  48400  —
+  48401  —
+  48402  —
+  48403  —
+  48404  —
+  48405  —
+  48406  —
+  48407  —
+  48408  —
+  48409  —
+  48410  —
+  48411  —
+  48412  —
+  48413  —
+  48414  —
+  48415  PT/ABM/PMCH01/001/00051              DC 1907  Livro de registo de baptismos de Água de Pena do ano de 1907
+  48416  PT/ABM/PMCH01/001/00052              DC 1908  Livro de registo de baptismos de Água de Pena do ano de 1908
+  48417  —
+  48418  —
+  48419  —
+  48420  —
+  48421  —
+  48422  PT/ABM/PCLT04/005/000001             D  1634  Rol de crismados da Fajã da Ovelha (1634/1634)
+  48423  PT/ABM/PCLT04/005/00001              DC 1581  Róis de crismados da Fajã da Ovelha ([15]81/1622)
+  48424  PT/ABM/PMCH01/005/00001              DC 1611  Róis de crismados da paróquia de Água de Pena (1611/1727)
+  48425  PT/ABM/PMCH01/005/00002              DC 1743  Róis de crismados de Água de Pena (1743/1800)
+  48426  —
+  48427  —
+  48428  —
+  48429  —
+  48430  PT/ABM/PMCH02/001/00051              DC 1907  Livro de registos de baptismos do Caniçal do ano de 1907
+  48431  PT/ABM/PMCH03/002/00011              DC 1844  Livro 13.º de registo de casamentos de Machico (1844/1860)
+  48432  PT/ABM/PMCH03/002/00001              DC 1632  Livro 3.º (misto) de registo de casamentos de Machico (1632/1648; 1722
+  48433  —
+  48434  —
+  48435  —
+  48436  —
+  48437  —
+  48438  —
+  48439  —
+  48440  —
+  48441  —
+  48442  —
+  48443  —
+  48444  —
+  48445  —
+  48446  —
+  48447  —
+  48448  —
+  48449  —
+  48450  —
+  48451  —
+  48452  —
+  48453  PT/ABM/PCLT05/001/00038              DC 1896  Livro de registo de baptismos do Jardim do Mar do ano de 1896
+  48454  PT/ABM/PCLT01/007/00001              DC 1704  Livro 1.º de registo de índices do Arco da Calheta (1704/1852)
+  48455  PT/ABM/PMCH03/001/00075              DC 1909  Livro de registo de baptismos de Machico do ano de 1909
+  48456  —
+  48457  PT/ABM/PCLT01/002/00054              DC 1906  Livro de registo de casamentos do Arco da Calheta do ano de 1906
+  48458  PT/ABM/PCLT01/007/00002              DC 1704  Livro 2.º de registo de índices do Arco da Calheta (1704/1855)
+  48459  PT/ABM/PCLT01/003/00054              DC 1906  Livro de registo de óbitos do Arco da Calheta do ano de 1906
+  48460  PT/ABM/PCLT02/001/00067              DC 1901  Livro de registo de baptismos da Calheta do ano de 1901
+  48461  PT/ABM/PCLT01/003/00057              DC 1909  Livro de registo de óbitos do Arco da Calheta do ano de 1909
+  48462  PT/ABM/PCLT01/002/00055              DC 1907  Livro de registo de casamentos do Arco da Calheta do ano de 1907
+  48463  PT/ABM/PCLT01/003/00055              DC 1907  Livro de registo de óbitos do Arco da Calheta do ano de 1907
+  48464  PT/ABM/PCLT01/002/00058              DC 1910  Livro de registo de casamentos do Arco da Calheta do ano de 1910
+  48465  PT/ABM/PCLT02/001/00068              DC 1902  Livro de registo de baptismos da Calheta do ano de 1902
+  48466  PT/ABM/PCLT01/002/00057              DC 1909  Livro de registo de casamentos do Arco da Calheta do ano de 1909
+  48467  PT/ABM/PCLT01/002/00056              DC 1908  Livro de registo de casamentos do Arco da Calheta do ano de 1908
+  48468  PT/ABM/PCLT01/003/00056              DC 1908  Livro de registo de óbitos do Arco da Calheta do ano de 1908
+  48469  PT/ABM/PCLT01/003/00058              DC 1910  Livro de registo de óbitos do Arco da Calheta do ano de 1910
+  48470  PT/ABM/PCLT01/003/00059              DC 1911  Livro de registo de óbitos do Arco da Calheta do ano de 1911
+  48471  PT/ABM/PCLT01/002/00059              DC 1911  Livro de registo de casamentos do Arco da Calheta do ano de 1911
+  48472  —
+  48473  PT/ABM/PCLT02/001/00070              DC 1904  Livro de registo de baptismos da Calheta do ano de 1904
+  48474  PT/ABM/PCLT02/001/00069              DC 1903  Livro de registo de baptismos da Calheta do ano de 1903
+  48475  PT/ABM/PCLT02/001/00071              DC 1905  Livro de registo de baptismos da Calheta do ano de 1905
+  48476  PT/ABM/PCLT02/001/00072              DC 1906  Livro de registo de baptismos da Calheta do ano de 1906
+  48477  PT/ABM/PCLT02/002/00047              DC 1895  Livro 36.º de registo de casamentos da Calheta do ano de 1895
+  48478  PT/ABM/PCLT02/001/00008              DC 1705  Livro 8.º de registo de baptismos da Calheta (1705/1728)
+  48479  PT/ABM/PCLT02/002/00059              DC 1907  Livro 48.º de registo de casamentos da Calheta do ano de 1907
+  48480  PT/ABM/PCLT02/003/00061              DC 1907  Livro de registos de óbitos da Calheta do ano de 1907
+  48481  PT/ABM/PCLT02/002/00060              DC 1908  Livro 49.º de registo de casamentos da Calheta do ano de 1908
+  48482  PT/ABM/PCLT02/002/00061              DC 1909  Livro 50.º de registo de casamentos da Calheta do ano de 1909
+  48483  PT/ABM/PCLT02/002/00062              DC 1910  Livro 51.º de registo de casamentos da Calheta do ano de 1910
+  48484  PT/ABM/PCLT02/002/00063              DC 1911  Livro 52.º de registo de casamentos da Calheta do ano de 1911
+  48485  PT/ABM/PCLT02/003/00062              DC 1908  Livro de registos de óbitos da Calheta do ano de 1908
+  48486  PT/ABM/PCLT02/003/00063              DC 1909  Livro de registos de óbitos da Calheta do ano de 1909
+  48487  PT/ABM/PCLT02/003/00064              DC 1910  Livro de registos de óbitos da Calheta do ano de 1910
+  48488  PT/ABM/PCLT02/003/00065              DC 1911  Livro de registos de óbitos da Calheta do ano de 1911
+  48489  PT/ABM/PCLT03/001/00053              DC 1896  Livro de registo de baptismos do Estreito da Calheta do ano de 1896
+  48490  PT/ABM/PCLT03/001/00058              DC 1901  Livro 42.º de registo de baptismos do Estreito da Calheta do ano de 19
+  48491  PT/ABM/PCLT03/001/00061              DC 1904  Livro 45.º de registo de baptismos do Estreito da Calheta do ano de 19
+  48492  PT/ABM/PCLT03/001/00062              DC 1905  Livro 46.º de registo de baptismos do Estreito da Calheta do ano de 19
+  48493  PT/ABM/PCLT03/001/00063              DC 1906  Livro 47.º de registo de baptismos do Estreito da Calheta do ano de 19
+  48494  PT/ABM/PCLT03/002/00057              DC 1909  Livro 50.º de registo de casamentos do Estreito da Calheta do ano de 1
+  48495  PT/ABM/PCLT03/002/00056              DC 1908  Livro 49.º de registo de casamentos do Estreito da Calheta do ano de 1
+  48496  PT/ABM/PCLT03/002/00054              DC 1906  Livro 47.º de registo de casamentos do Estreito da Calheta do ano de 1
+  48497  PT/ABM/PCLT03/002/00058              DC 1910  Livro 51.º de registo de casamentos do Estreito da Calheta do ano de 1
+  48498  PT/ABM/PCLT04/003/00056              DC 1906  Livro de registo de óbitos da Fajã da Ovelha do ano de 1906
+  48499  PT/ABM/PCLT03/002/00059              DC 1911  Livro 52.º de registo de casamentos do Estreito da Calheta do ano de 1
+  48500  PT/ABM/PCLT04/002/00058              DC 1910  Livro de registo de casamentos da Fajã da Ovelha do ano de 1910
+  48501  PT/ABM/PCLT03/003/00058              DC 1906  Livro de registo de óbitos do Estreito da Calheta do ano de 1906
+  48502  PT/ABM/PCLT03/003/00060              DC 1908  Livro de registo de óbitos do Estreito da Calheta do ano de 1908
+  48503  PT/ABM/PCLT03/003/00061              DC 1909  Livro de registo de óbitos do Estreito da Calheta do ano de 1909
+  48504  PT/ABM/PCLT03/003/00062              DC 1910  Livro de registo de óbitos do Estreito da Calheta do ano de 1910
+  48505  PT/ABM/PCLT03/003/00063              DC 1911  Livro de registo de óbitos do Estreito da Calheta do ano de 1911
+  48506  PT/ABM/PCLT04/003/00047              DC 1897  Livro de registo de óbitos da Fajã da Ovelha do ano de 1897
+  48507  PT/ABM/PCLT04/003/00048              DC 1898  Livro de registo de óbitos da Fajã da Ovelha do ano de 1898
+  48508  PT/ABM/PCLT04/003/00051              DC 1901  Livro de registo de óbitos da Fajã da Ovelha do ano de 1901
+  48509  PT/ABM/PCLT04/003/00052              DC 1902  Livro de registo de óbitos da Fajã da Ovelha do ano de 1902
+  48510  PT/ABM/PCLT04/003/00057              DC 1907  Livro de registo de óbitos da Fajã da Ovelha do ano de 1907
+  48511  PT/ABM/PCLT04/003/00058              DC 1908  Livro de registo de óbitos da Fajã da Ovelha do ano de 1908
+  48512  PT/ABM/PCLT04/003/00059              DC 1909  Livro de registo de óbitos da Fajã da Ovelha do ano de 1909
+  48513  PT/ABM/PCLT04/003/00061              DC 1911  Livro de registo de óbitos da Fajã da Ovelha do ano de 1911
+  48514  PT/ABM/PCLT04/003/00060              DC 1910  Livro de registo de óbitos da Fajã da Ovelha do ano de 1910
+  48515  —
+  48516  —
+  48517  —
+  48518  —
+  48519  —
+  48520  —
+  48521  —
+  48522  —
+  48523  —
+  48524  —
+  48525  —
+  48526  —
+  48527  —
+  48528  —
+  48529  —
+  48530  —
+  48531  —
+  48532  —
+  48533  —
+  48534  —
+  48535  —
+  48536  —
+  48537  —
+  48538  —
+  48539  PT/ABM/PCLT05/001/00041              DC 1899  Livro 40.º de registo de baptismos do Jardim do Mar do ano de 1899
+  48540  —
+  48541  —
+  48542  —
+  48543  —
+  48544  —
+  48545  —
+  48546  —
+  48547  —
+  48548  —
+  48549  —
+  48550  —
+  48551  —
+  48552  —
+  48553  —
+  48554  —
+  48555  —
+  48556  —
+  48557  —
+  48558  —
+  48559  —
+  48560  —
+  48561  PT/ABM/PCLT05/001/00045              DC 1903  Livro 44.º de registo de baptismos do Jardim do Mar do ano de 1903
+  48562  PT/ABM/PCLT05/001/00042              DC 1900  Livro 41.º de registo de baptismos do Jardim do Mar do ano de 1900
+  48563  PT/ABM/PMCH04/001/00065              DC 1906  Livro de registo de baptismos do Porto da Cruz do ano de 1906
+  48564  PT/ABM/PMCH04/001/00070              DC 1911  Livro de registo de baptismos do Porto da Cruz do ano de 1911
+  48565  —
+  48566  —
+  48567  —
+  48568  PT/ABM/PCLT05/001/00044              DC 1902  Livro 43.º de registo de baptismos do Jardim do Mar do ano de 1902
+  48569  —
+  48570  PT/ABM/PMCH03/001/00074              DC 1908  Livro de registo de baptismos de Machico do ano de 1908
+  48571  PT/ABM/PCLT05/001/00046              DC 1904  Livro 45.º de registo de baptismos do Jardim do Mar do ano de 1904
+  48572  PT/ABM/PCLT05/001/00047              DC 1905  Livro 46.º de registo de baptismos do Jardim do Mar do ano de 1905
+  48573  PT/ABM/PCLT05/003/00044              DC 1902  Livro de registo de óbitos do Jardim do Mar do ano de 1902
+  48574  PT/ABM/PCLT05/001/00048              DC 1906  Livro 47.º de registo de baptismos do Jardim do Mar do ano de 1906
+  48575  PT/ABM/PCLT05/003/00042              DC 1900  Livro de registo de óbitos do Jardim do Mar do ano de 1900
+  48576  PT/ABM/PCLT05/003/00052              DC 1910  Livro de registo de óbitos do Jardim do Mar do ano de 1910
+  48577  PT/ABM/PCLT05/003/00053              DC 1911  Livro de registo de óbitos do Jardim do Mar do ano de 1911
+  48578  PT/ABM/PCLT06/001/00042              DC 1894  Livro de registo de baptismos do Paul do Mar do ano de 1894
+  48579  PT/ABM/PCLT06/001/00043              DC 1895  Livro 39.º de registo de baptismos do Paul do Mar do ano de 1895
+  48580  PT/ABM/PCLT06/001/00044              DC 1896  Livro 40.º de registo de baptismos do Paul do Mar do ano de 1896
+  48581  PT/ABM/PCLT06/001/00045              DC 1897  Livro 41.º de registo de baptismos do Paul do Mar do ano de 1897
+  48582  PT/ABM/PCLT06/001/00046              DC 1898  Livro 42.º de registo de baptismos do Paul do Mar do ano de 1898
+  48583  PT/ABM/PCLT06/001/00047              DC 1899  Livro 43.º de registo de baptismos do Paul do Mar do ano de 1899
+  48584  PT/ABM/PCLT06/001/00048              DC 1900  Livro 44.º de registo de baptismos do Paul do Mar do ano de 1900
+  48585  PT/ABM/PCLT06/001/00049              DC 1901  Livro 45.º de registo de baptismos do Paul do Mar do ano de 1901
+  48586  PT/ABM/PCLT06/001/00050              DC 1902  Livro 46.º de registo de baptismos do Paul do Mar do ano de 1902
+  48587  PT/ABM/PCLT06/001/00051              DC 1903  Livro 47.º de registo de baptismos do Paul do Mar do ano de 1903
+  48588  PT/ABM/PCLT06/001/00052              DC 1904  Livro 48.º de registo de baptismos do Paul do Mar do ano de 1904
+  48589  PT/ABM/PCLT06/001/00053              DC 1905  Livro de registo de baptismos do Paul do Mar do ano de 1905
+  48590  PT/ABM/PCLT06/001/00054              DC 1906  Livro 50.º de registo de baptismos do Paul do Mar do ano de 1906
+  48591  —
+  48592  —
+  48593  —
+  48594  —
+  48595  —
+  48596  —
+  48597  —
+  48598  —
+  48599  —
+  48600  —
+
+=== faixas por prefixo ===
+  PT/ABM/JST             47012 –   48338  (115 sondas)
+  PT/ABM/PFUN02          47153 –   47838  (47 sondas)
+  PT/ABM/PCML01          47236 –   48209  (10 sondas)
+  PT/ABM/PCML02          47366 –   47366  (1 sondas)
+  PT/ABM/PFUN05          47473 –   48076  (37 sondas)
+  PT/ABM/PFUN10          47486 –   48335  (7 sondas)
+  PT/ABM/PCLT06          47496 –   48590  (14 sondas)
+  PT/ABM/PCLT01          47501 –   48471  (28 sondas)
+  PT/ABM/PCLT03          47502 –   48505  (18 sondas)
+  PT/ABM/PCLT04          47503 –   48514  (17 sondas)
+  PT/ABM/PCLT08          47504 –   47504  (1 sondas)
+  PT/ABM/PCML03          47507 –   48232  (6 sondas)
+  PT/ABM/PMCH03          47509 –   48570  (5 sondas)
+  PT/ABM/PPTS01          47511 –   47511  (1 sondas)
+  PT/ABM/PPMZ02          47514 –   47514  (1 sondas)
+  PT/ABM/PPMZ03          47517 –   47517  (1 sondas)
+  PT/ABM/PSVC01          47520 –   47520  (1 sondas)
+  PT/ABM/PSCR04          47521 –   47521  (1 sondas)
+  PT/ABM/PSTN02          47522 –   47522  (1 sondas)
+  PT/ABM/PFUN04          47527 –   48219  (43 sondas)
+  PT/ABM/PFUN06          47528 –   48133  (38 sondas)
+  PT/ABM/PFUN08          47529 –   48330  (16 sondas)
+  PT/ABM/PPTS02          47551 –   47551  (1 sondas)
+  PT/ABM/PRBR02          47552 –   47552  (1 sondas)
+  PT/ABM/PSVC03          47555 –   47555  (1 sondas)
+  PT/ABM/PSCR02          47560 –   47986  (2 sondas)
+  PT/ABM/PFUN03          47660 –   47904  (42 sondas)
+  PT/ABM/PFUN07          47930 –   48160  (43 sondas)
+  PT/ABM/PCLT02          47957 –   48488  (21 sondas)
+  PT/ABM/PFUN09          48318 –   48324  (6 sondas)
+  PT/ABM/PMCH01          48415 –   48425  (4 sondas)
+  PT/ABM/PMCH02          48430 –   48430  (1 sondas)
+  PT/ABM/PCLT05          48453 –   48577  (12 sondas)
+  PT/ABM/PMCH04          48563 –   48564  (2 sondas)
