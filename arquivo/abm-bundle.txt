@@ -1,0 +1,33 @@
+casca: 2255 bytes
+<!doctype html><html lang="pt-PT"><head><script>const env={ARCHEEVO_API_BASE_URL:"/api",ARCHEEVO_REPORT_PATH:"/Archeevo7",ARCHEEVO_LOG_LEVEL:"ALL",ARCHEEVO_PUBLIC_PATH:"",PLAUSIBLE_KEEP_URL:"https://analytics.keep.pt/js/script.js",DEBUG_TRANSLATIONS:!1};window.env=env;let base=document.querySelector("base");null==base&&(base=document.createElement("base"),document.head.appendChild(base)),base.href=env.ARCHEEVO_PUBLIC_PATH??"",base.target="_blank";const plausibleScript=document.createElement("script");plausibleScript.setAttribute("src",env.PLAUSIBLE_KEEP_URL),plausibleScript.setAttribute("defer","true"),document.head.appendChild(plausibleScript)</script><link rel="stylesheet" href="/assets/css/animations.css"/><link rel="stylesheet" href="/assets/css/colors.css"/><link rel="stylesheet" href="/assets/css/common.css"/><link rel="stylesheet" href="/assets/css/defaults.css"/><link rel="stylesheet" href="/assets/css/fonts.css"/><link rel="stylesheet" href="/assets/css/index.css"/><link rel="stylesheet" href="/assets/css/material.css"/><link rel="stylesheet" href="/assets/css/utils.css"/><link rel="stylesheet" href="/assets/css/custom.css"/><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/><title>Archeevo</ti
+
+=== 18 recursos referidos ===
+  /assets/css/animations.css
+  /assets/css/colors.css
+  /assets/css/common.css
+  /assets/css/defaults.css
+  /assets/css/fonts.css
+  /assets/css/index.css
+  /assets/css/material.css
+  /assets/css/utils.css
+  /assets/css/custom.css
+  /assets/img/favicon/apple-touch-icon.png
+  /assets/img/favicon/favicon-32x32.png
+  /assets/img/favicon/favicon-16x16.png
+  /assets/img/favicon/site.webmanifest
+  /assets/img/favicon/safari-pinned-tab.svg
+  /502.94c9460b9e44ee476143.bundle.js
+  /main.9a45f19e278eb30d9012.bundle.js
+  /502.css
+  /main.css
+
+===== /502.94c9460b9e44ee476143.bundle.js · 1960821 bytes =====
+  ,r/o))},_updateScale:function(e,t,n){e.style.width=Math.round(this.options.maxWidth*n)+
+
+===== /main.9a45f19e278eb30d9012.bundle.js · 2948647 bytes =====
+  /digitalobjects
+  /storage/storageobject?objectId=
+  /tasks/download/?identifier=
+  /viewer/
+  /viewer/descriptions/
+  https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
