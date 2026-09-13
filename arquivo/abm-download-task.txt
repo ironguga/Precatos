@@ -1,0 +1,18 @@
+===== /api/tasks/download/ com vários identificadores =====
+  GET tasks/download livro 48721                       403
+  GET tasks/download assento 603056                    403
+  GET tasks/download hash ORIGINAL                     403
+  GET tasks/download hash DISSEMINATION                403
+  GET tasks/download vault ORIGINAL                    403
+  GET tasks/download vault DISSEMINATION               403
+
+===== variações do caminho =====
+  tasks/download · ORIGINAL                            403
+  tasks/download/ · ORIGINAL                           403
+  task/download · ORIGINAL                             404
+  tasks/downloads · ORIGINAL                           404
+
+===== POST, caso o download seja uma tarefa a criar =====
+  POST descriptionId 48721                             405
+  POST identifier vault ORIGINAL                       405
+  POST objectId vault ORIGINAL                         405
