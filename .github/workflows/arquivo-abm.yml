@@ -28,6 +28,7 @@ on:
       - 'scripts/arquivo-abm-tiles.mjs'
       - 'scripts/arquivo-abm-bundle.mjs'
       - 'scripts/arquivo-abm-download-task.mjs'
+      - 'scripts/arquivo-abm-sessao.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -593,6 +594,7 @@ jobs:
           }
 
       - name: O endpoint tasks/download, que eu nunca tinha visto
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo/assentos
@@ -602,6 +604,22 @@ jobs:
           git add -f arquivo/abm-download-task.txt arquivo/assentos
           git diff --cached --quiet || {
             git commit -m 'Sonda ao endpoint tasks/download do Archeevo'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Uma tentativa com sessao de navegador, e so uma
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo/assentos
+          node scripts/arquivo-abm-sessao.mjs 2>&1 | tee arquivo/abm-sessao.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-sessao.txt arquivo/assentos
+          git diff --cached --quiet || {
+            git commit -m 'A descarga com sessao normal de navegador: o que responde'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
