@@ -26,6 +26,7 @@ on:
       - 'scripts/arquivo-abm-mapa.mjs'
       - 'scripts/arquivo-abm-variantes.mjs'
       - 'scripts/arquivo-abm-tiles.mjs'
+      - 'scripts/arquivo-abm-bundle.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -556,6 +557,7 @@ jobs:
           }
 
       - name: O visualizador deixa ampliar? Sondar mosaicos e IIIF
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -566,6 +568,22 @@ jobs:
           git add -f arquivo/abm-mosaicos.txt
           git diff --cached --quiet || {
             git commit -m 'Sonda de mosaicos e IIIF ao folio 75 da Ponta do Sol'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Perguntar ao codigo do visualizador, nao ao HTML
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/arquivo-abm-bundle.mjs 2>&1 | tee arquivo/abm-bundle.txt | tail -60
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/abm-bundle.txt
+          git diff --cached --quiet || {
+            git commit -m 'Os enderecos de imagem que o codigo do visualizador conhece'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
