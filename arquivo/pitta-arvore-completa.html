@@ -1,0 +1,998 @@
+<title>Doze gerações dos Canhas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<style>
+  :root {
+    /* Papel e tinta. O tom --laid é o que eu medi nas próprias digitalizações
+       do ABM: R 193, G 169, B 139 — a cor do papel de trapo destes livros. */
+    --paper:      #FBFAF6;
+    --paper-sunk: #F4F1EA;
+    --ink:        #201B15;
+    --ink-soft:   #5F564A;
+    --ink-faint:  #8B8173;
+    --laid:       #C1A98B;
+    --laid-deep:  #9A8365;
+    --rule:       #E0D8C8;
+    --atlantic:   #27556B;
+    --amber:      #8A6220;
+    --shadow:     0 1px 0 rgba(32,27,21,.05);
+
+    --measure: 34rem;
+    --rail: 12.5rem;
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:      #16130F;
+      --paper-sunk: #1D1913;
+      --ink:        #EDE7DB;
+      --ink-soft:   #B3A895;
+      --ink-faint:  #837A6C;
+      --laid:       #C1A98B;
+      --laid-deep:  #D5BF9E;
+      --rule:       #332C22;
+      --atlantic:   #8CBBD2;
+      --amber:      #D9A94E;
+      --shadow:     0 1px 0 rgba(0,0,0,.4);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:      #16130F;
+    --paper-sunk: #1D1913;
+    --ink:        #EDE7DB;
+    --ink-soft:   #B3A895;
+    --ink-faint:  #837A6C;
+    --laid:       #C1A98B;
+    --laid-deep:  #D5BF9E;
+    --rule:       #332C22;
+    --atlantic:   #8CBBD2;
+    --amber:      #D9A94E;
+    --shadow:     0 1px 0 rgba(0,0,0,.4);
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Spectral, Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .sheet {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding-inline: 20px;
+    padding-block: clamp(2.5rem, 7vw, 5rem) 4rem;
+  }
+
+  /* ---------- apparato: mono, versaletes, cotas ---------- */
+  .mono, .cota, .chip, .rail dt, .num, .lede-figs dt {
+    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .cota {
+    font-size: .72rem;
+    letter-spacing: .01em;
+    color: var(--ink-faint);
+    overflow-wrap: anywhere;
+  }
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: .7rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--laid-deep);
+  }
+
+  /* ---------- abertura ---------- */
+  header.top { border-bottom: 2px solid var(--ink); padding-bottom: 1.6rem; }
+  h1 {
+    font-weight: 300;
+    font-size: clamp(2.4rem, 7vw, 4.1rem);
+    line-height: 1.02;
+    letter-spacing: -.02em;
+    margin: .5rem 0 0;
+    text-wrap: balance;
+  }
+  h1 em { font-style: italic; color: var(--laid-deep); }
+  .arc {
+    font-size: 1.18rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    max-width: 32rem;
+    margin: 1.1rem 0 0;
+    text-wrap: pretty;
+  }
+
+  .lede-figs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    gap: 1.4rem 2rem;
+    margin: 2.2rem 0 0;
+    padding: 0;
+  }
+  .lede-figs div { display: flex; flex-direction: column; gap: .15rem; }
+  .lede-figs dt {
+    font-size: 1.85rem;
+    font-weight: 500;
+    letter-spacing: -.03em;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+  .lede-figs dd {
+    margin: 0;
+    font-size: .82rem;
+    line-height: 1.35;
+    color: var(--ink-soft);
+  }
+
+  /* ---------- secções ---------- */
+  section { margin-top: clamp(3rem, 8vw, 5rem); }
+  h2 {
+    font-weight: 400;
+    font-size: clamp(1.45rem, 3.4vw, 1.95rem);
+    letter-spacing: -.012em;
+    line-height: 1.2;
+    margin: .5rem 0 0;
+    text-wrap: balance;
+  }
+  .intro {
+    color: var(--ink-soft);
+    max-width: var(--measure);
+    margin: .8rem 0 0;
+    text-wrap: pretty;
+  }
+  p { max-width: var(--measure); text-wrap: pretty; }
+
+  /* ---------- a escada ---------- */
+  .escada { margin-top: 2rem; border-top: 1px solid var(--rule); }
+  .degrau {
+    display: grid;
+    grid-template-columns: 3.2rem 5.5rem 1fr;
+    gap: 0 1rem;
+    align-items: baseline;
+    padding: .62rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .degrau .g {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .74rem;
+    color: var(--laid-deep);
+    letter-spacing: .04em;
+  }
+  .degrau .ano {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .84rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink-soft);
+  }
+  .degrau .quem { font-size: .98rem; }
+  .degrau .quem span { color: var(--ink-faint); }
+  .degrau.br .ano, .degrau.br .g { color: var(--atlantic); }
+
+  /* ---------- entradas com rail marginal ---------- */
+  .entrada {
+    display: grid;
+    grid-template-columns: var(--rail) 1fr;
+    gap: 0 2.4rem;
+    padding-top: 2.6rem;
+    margin-top: 2.6rem;
+    border-top: 1px solid var(--rule);
+  }
+  .entrada:first-of-type { border-top: 2px solid var(--ink); }
+  .rail { font-size: .8rem; line-height: 1.45; color: var(--ink-soft); }
+  .rail .ordinal {
+    display: block;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .7rem;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    color: var(--laid-deep);
+  }
+  .rail .periodo {
+    display: block;
+    font-size: 1.55rem;
+    font-weight: 300;
+    letter-spacing: -.02em;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+    margin: .15rem 0 .7rem;
+  }
+  .rail p { margin: .5rem 0 0; max-width: none; }
+
+  .corpo h3 {
+    font-weight: 600;
+    font-size: 1.12rem;
+    letter-spacing: -.005em;
+    margin: 0;
+    text-wrap: balance;
+  }
+  .corpo h3 + .chips { margin-top: .45rem; }
+  .corpo .casal + .casal { margin-top: 2.1rem; }
+  .corpo p { margin: .7rem 0 0; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .chip {
+    font-size: .66rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    padding: .17rem .5rem .2rem;
+    border: 1px solid var(--ink);
+    border-radius: 2px;
+    color: var(--ink);
+    white-space: nowrap;
+  }
+  .chip.dec { border-style: dashed; color: var(--ink-soft); border-color: var(--ink-faint); }
+  .chip.hip { border-color: var(--amber); color: var(--amber); }
+  .chip.sem { border-color: var(--rule); color: var(--ink-faint); }
+
+  blockquote {
+    margin: 1rem 0 0;
+    padding: .1rem 0 .1rem 1.1rem;
+    border-left: 3px solid var(--laid);
+    font-style: italic;
+    font-size: .97rem;
+    color: var(--ink-soft);
+    max-width: var(--measure);
+  }
+  blockquote strong { font-style: normal; font-weight: 600; color: var(--ink); }
+  blockquote cite {
+    display: block;
+    font-style: normal;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .7rem;
+    letter-spacing: .01em;
+    color: var(--ink-faint);
+    margin-top: .55rem;
+  }
+
+  /* ---------- figura ---------- */
+  figure { margin: 2rem 0 0; }
+  figure svg { display: block; width: 100%; max-width: 100%; height: auto; color: var(--ink); }
+  figcaption {
+    font-size: .85rem;
+    color: var(--ink-soft);
+    margin-top: .9rem;
+    max-width: var(--measure);
+    text-wrap: pretty;
+  }
+
+  /* ---------- retratos (quem se destaca) ---------- */
+  .retratos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15.5rem, 1fr));
+    gap: 1.6rem;
+    margin-top: 2rem;
+  }
+  .retrato {
+    background: var(--paper-sunk);
+    border-top: 2px solid var(--laid);
+    padding: 1.1rem 1.15rem 1.25rem;
+  }
+  .retrato h3 { font-size: 1rem; font-weight: 600; margin: 0; }
+  .retrato .quando {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .72rem;
+    color: var(--ink-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .retrato p { font-size: .93rem; margin: .55rem 0 0; max-width: none; }
+
+  /* ---------- listas de apuramento ---------- */
+  .aberto { margin-top: 1.8rem; border-top: 1px solid var(--rule); }
+  .aberto > div {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.55fr);
+    gap: .3rem 2rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .aberto h3 { font-size: .98rem; font-weight: 600; margin: 0; }
+  .aberto p { margin: .3rem 0 0; font-size: .93rem; color: var(--ink-soft); max-width: none; }
+
+  table.fontes { width: 100%; border-collapse: collapse; margin-top: 1.6rem; font-size: .88rem; }
+  .scroll-x { overflow-x: auto; }
+  table.fontes th, table.fontes td {
+    text-align: left;
+    padding: .55rem .9rem .55rem 0;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  table.fontes th {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: .68rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--laid-deep);
+    font-weight: 400;
+    border-bottom-color: var(--ink);
+  }
+  table.fontes td.a { font-variant-numeric: tabular-nums; white-space: nowrap; font-family: "IBM Plex Mono", monospace; font-size: .8rem; }
+
+  footer {
+    margin-top: 4.5rem;
+    padding-top: 1.4rem;
+    border-top: 2px solid var(--ink);
+    font-size: .84rem;
+    color: var(--ink-soft);
+  }
+  footer p { max-width: var(--measure); }
+
+  a { color: var(--atlantic); text-underline-offset: .18em; }
+  :focus-visible { outline: 2px solid var(--atlantic); outline-offset: 2px; }
+
+  @media (max-width: 760px) {
+    .entrada { grid-template-columns: 1fr; gap: 1rem; }
+    .rail {
+      border-bottom: 1px solid var(--rule);
+      padding-bottom: .9rem;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: .1rem .9rem;
+      align-items: baseline;
+    }
+    .rail .ordinal { grid-column: 1; }
+    .rail .periodo { grid-column: 2; margin: 0; font-size: 1.25rem; }
+    .rail p { grid-column: 1 / -1; }
+    .degrau { grid-template-columns: 2.6rem 4.6rem 1fr; gap: 0 .7rem; }
+    .aberto > div { grid-template-columns: 1fr; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+</style>
+
+<div class="sheet">
+
+  <header class="top">
+    <p class="eyebrow">Canhas · Ponta do Sol · Ilha da Madeira</p>
+    <h1>Doze gerações<br><em>dos Canhas</em></h1>
+    <p class="arc">De um casamento celebrado a 14 de Novembro de 1622, à porta da
+    igreja de Nossa Senhora da Piedade, até Luiz Gustavo Ferro, nascido em 1979.
+    Trezentos e cinquenta e sete anos, e cada elo com o seu assento.</p>
+
+    <dl class="lede-figs">
+      <div><dt>12</dt><dd>gerações, todas por documento primário</dd></div>
+      <div><dt>1622</dt><dd>o assento mais antigo lido, Livro 1.º, fólio 31 v.º</dd></div>
+      <div><dt>1</dt><dd>freguesia sustenta oito das doze: os Canhas</dd></div>
+      <div><dt>2</dt><dd>famílias que vêm de fora e se juntam aqui: Correa e Pita</dd></div>
+    </dl>
+  </header>
+
+  <section>
+    <p class="eyebrow">Como ler</p>
+    <h2>Três graus de certeza, e nunca se misturam</h2>
+    <p class="intro">Esta reconstituição segue uma regra simples: o que está
+    escrito num assento e o que eu deduzi nunca aparecem com o mesmo peso. Cada
+    pessoa leva a etiqueta do que a sustenta.</p>
+    <p class="chips" style="margin-top:1.2rem">
+      <span class="chip">Assento lido</span>
+      <span class="chip dec">Declarado noutro assento</span>
+      <span class="chip hip">Por confirmar</span>
+      <span class="chip sem">Sem documento em linha</span>
+    </p>
+    <p style="margin-top:1.1rem"><span class="chip">Assento lido</span> quer
+    dizer que li o próprio registo na imagem do livro. <span class="chip dec">Declarado
+    noutro assento</span> quer dizer que a pessoa é nomeada como pai, mãe ou avô
+    num registo posterior, mas o seu próprio assento não foi encontrado — o que
+    nesta freguesia é prova corrente, porque o pároco escrevia a filiação e às
+    vezes os quatro avós. E nunca se ligam pessoas só por serem homónimas.</p>
+  </section>
+
+  <section>
+    <p class="eyebrow">A escada</p>
+    <h2>A linha directa, de cima para baixo</h2>
+    <p class="intro">Doze degraus. Os oito primeiros nos Canhas; o nono e o
+    décimo no Monte, no Funchal; os últimos três já no Brasil.</p>
+
+    <div class="escada">
+      <div class="degrau"><span class="g">I</span><span class="ano">c. 1590</span><span class="quem">Manoel Correa, <span>o velho</span> · Manoel R[oi]z × Vitória Rodrigues</span></div>
+      <div class="degrau"><span class="g">II</span><span class="ano">1622</span><span class="quem">Manoel Correa × Francisca Lopes <span>— e, em 1641, Diogo Fernandes Pita × Inês Rodrigues</span></span></div>
+      <div class="degrau"><span class="g">III</span><span class="ano">1657</span><span class="quem">António Correa × Maria de Ponte da Silva <span>— e, em 1676, Francisco Pita × Antónia Vieyra</span></span></div>
+      <div class="degrau"><span class="g">IV</span><span class="ano">1700</span><span class="quem">Pedro da Sylva de Ponte × Maria Vieyra Pita</span></div>
+      <div class="degrau"><span class="g">V</span><span class="ano">1748</span><span class="quem">Pedro da Silva Pitta × Antónia da Silva <span>— o Lombo do Outeiro</span></span></div>
+      <div class="degrau"><span class="g">VI</span><span class="ano">1791</span><span class="quem">José da Silva Pitta × Maria Gomes</span></div>
+      <div class="degrau br"><span class="g">VII</span><span class="ano">1835</span><span class="quem">António Pitta × Sabina Rosa <span>— Monte, Funchal</span></span></div>
+      <div class="degrau br"><span class="g">VIII</span><span class="ano">1871</span><span class="quem">João Pitta × Júlia Maria Henriques <span>— Monte</span></span></div>
+      <div class="degrau br"><span class="g">IX</span><span class="ano">c. 1900</span><span class="quem">José Maria Pitta × Maria Teresa Corbani <span>— a travessia</span></span></div>
+      <div class="degrau br"><span class="g">X</span><span class="ano">1918</span><span class="quem">Nair Pitta <span>— nascida em Santos</span></span></div>
+      <div class="degrau br"><span class="g">XI</span><span class="ano">1957</span><span class="quem">Verquinia Teresa Gregório</span></div>
+      <div class="degrau br"><span class="g">XII</span><span class="ano">1979</span><span class="quem">Luiz Gustavo Ferro</span></div>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">O mecanismo</p>
+    <h2>Duas famílias de fora que se encontram numa freguesia pequena</h2>
+    <p class="intro">A árvore não é uma linha só. São dois ramos que entram nos
+    Canhas com poucos anos de diferença, correm em paralelo durante três
+    gerações, e se juntam num casamento em 1700.</p>
+
+    <figure>
+      <svg viewBox="0 0 680 560" role="img" aria-label="Duas linhas — Correa e Pita — entram nos Canhas em 1622 e 1641, correm em paralelo e convergem no casamento de 1700, de onde segue a linha única até ao Brasil.">
+        <defs>
+          <marker id="pta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="currentColor"></path>
+          </marker>
+        </defs>
+
+        <text x="160" y="24" text-anchor="middle" font-size="12" font-family="IBM Plex Mono, monospace" letter-spacing="2" fill="#9A8365">CORREA</text>
+        <text x="520" y="24" text-anchor="middle" font-size="12" font-family="IBM Plex Mono, monospace" letter-spacing="2" fill="#9A8365">PITA</text>
+
+        <!-- Correa -->
+        <rect x="24" y="42" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="4 3" opacity=".55"></rect>
+        <text x="38" y="64" font-size="13" fill="currentColor">Manoel Correa, o velho — já defunto</text>
+        <text x="38" y="82" font-size="12" fill="currentColor" opacity=".65">«da freguesia de […]» · por identificar</text>
+
+        <rect x="24" y="140" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1.4"></rect>
+        <text x="38" y="162" font-size="13" fill="currentColor">Manoel Correa × Francisca Lopes</text>
+        <text x="38" y="180" font-size="12" font-family="IBM Plex Mono, monospace" fill="currentColor" opacity=".65">14 Nov 1622 · L.1.º f. 31 v.º</text>
+
+        <rect x="24" y="238" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1.4"></rect>
+        <text x="38" y="260" font-size="13" fill="currentColor">António Correa × Maria de Ponte</text>
+        <text x="38" y="278" font-size="12" font-family="IBM Plex Mono, monospace" fill="currentColor" opacity=".65">26 Nov 1657 · L.2.º img. 46</text>
+
+        <line x1="160" y1="94" x2="160" y2="134" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="168" y="118" font-size="11" fill="currentColor" opacity=".7">filho</text>
+        <line x1="160" y1="192" x2="160" y2="232" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="168" y="216" font-size="11" fill="currentColor" opacity=".7">filho</text>
+
+        <!-- Pita -->
+        <rect x="384" y="42" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="4 3" opacity=".55"></rect>
+        <text x="398" y="64" font-size="13" fill="currentColor">Diogo Fernandes Pita — Ponta do Sol?</text>
+        <text x="398" y="82" font-size="12" fill="currentColor" opacity=".65">um homónimo casa lá em 1616 · não ligado</text>
+
+        <rect x="384" y="140" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1.4"></rect>
+        <text x="398" y="162" font-size="13" fill="currentColor">Diogo Fernandes Pita × Inês Rodrigues</text>
+        <text x="398" y="180" font-size="12" font-family="IBM Plex Mono, monospace" fill="currentColor" opacity=".65">1641 · L.2.º f. 2 · em mancha</text>
+
+        <rect x="384" y="238" width="272" height="52" fill="none" stroke="currentColor" stroke-width="1.4"></rect>
+        <text x="398" y="260" font-size="13" fill="currentColor">Francisco Pita × Antónia Vieyra</text>
+        <text x="398" y="278" font-size="12" font-family="IBM Plex Mono, monospace" fill="currentColor" opacity=".65">15 Jan 1676 · L.2.º f. 47</text>
+
+        <line x1="520" y1="94" x2="520" y2="134" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="528" y="118" font-size="11" fill="currentColor" opacity=".7">filho?</text>
+        <line x1="520" y1="192" x2="520" y2="232" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="528" y="216" font-size="11" fill="currentColor" opacity=".7">filho</text>
+
+        <!-- convergência -->
+        <path d="M 160 290 L 160 322 L 340 322" fill="none" stroke="currentColor" stroke-width="1.2"></path>
+        <path d="M 520 290 L 520 322 L 340 322" fill="none" stroke="currentColor" stroke-width="1.2"></path>
+        <line x1="340" y1="322" x2="340" y2="350" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="196" y="316" font-size="11" fill="currentColor" opacity=".7">o filho dele</text>
+        <text x="420" y="316" font-size="11" fill="currentColor" opacity=".7">a filha dele</text>
+
+        <rect x="112" y="356" width="456" height="54" fill="none" stroke="#4E86A3" stroke-width="2"></rect>
+        <text x="340" y="379" text-anchor="middle" font-size="14" fill="currentColor">Pedro da Sylva de Ponte × Maria Vieyra Pita</text>
+        <text x="340" y="397" text-anchor="middle" font-size="12" font-family="IBM Plex Mono, monospace" fill="#4E86A3">21 Out 1700 · L.3.º img. 38 — as duas casas juntam-se</text>
+
+        <line x1="340" y1="410" x2="340" y2="442" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+
+        <rect x="112" y="448" width="456" height="46" fill="none" stroke="currentColor" stroke-width="1.4"></rect>
+        <text x="340" y="468" text-anchor="middle" font-size="13" fill="currentColor">Pedro da Silva Pitta × Antónia da Silva — Lombo do Outeiro</text>
+        <text x="340" y="485" text-anchor="middle" font-size="12" font-family="IBM Plex Mono, monospace" fill="currentColor" opacity=".65">5 Fev 1748 · L.4.º img. 53</text>
+
+        <line x1="340" y1="494" x2="340" y2="518" stroke="currentColor" stroke-width="1.2" marker-end="url(#pta)"></line>
+        <text x="340" y="540" text-anchor="middle" font-size="13" fill="currentColor" opacity=".8">José (1791) → Monte (1835, 1871) → Santos (1918) → hoje</text>
+      </svg>
+      <figcaption><strong>Os Correa e os Pita chegam aos Canhas com dezanove anos
+      de diferença</strong> — e nenhum dos dois é de lá. Correm em paralelo três
+      gerações, cada um a casar dentro da freguesia, e o casamento de 1700 funde
+      as duas casas numa só, que é a que continua. A caixa a tracejado no topo é
+      o que ainda não está fechado.</figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <p class="eyebrow">Geração a geração</p>
+    <h2>Quem foi cada um</h2>
+    <p class="intro">Da mais antiga documentada para a mais recente. À margem, o
+    período e a cota do registo — como no próprio livro paroquial, onde o vigário
+    escrevia a nota na margem e o acto ao lado.</p>
+
+    <!-- I -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração I</span>
+        <span class="periodo">c. 1590</span>
+        <p>Nomeados no assento de 1622. Nenhum deles tem registo próprio: a
+        freguesia dos Canhas só abre livro em 1592.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>Manoel Correa, o velho</h3>
+          <p class="chips"><span class="chip dec">Declarado noutro assento</span></p>
+          <p>Já tinha morrido quando o filho casou, em Novembro de 1622. O
+          assento diz que era <em>«da freguesia de […]»</em> — e é aí que a
+          investigação bate numa palavra que não se lê. Sabe-se que é um nome
+          <strong>plural e feminino</strong>, porque vem depois de «das», o que
+          exclui Ponta do Sol, Calheta, Estreito, Arco, Madalena, Tábua e
+          Ribeira Brava, todas singulares. Sete letras, duas hastes altas. Não a
+          nomeio.</p>
+          <p>O que importa é o que ela implica: <strong>os Correa não são dos
+          Canhas.</strong> Nos oitenta e três assentos anteriores do Livro 1.º,
+          de 1592 a 1622, não há um único Correa. O filho é o primeiro.</p>
+        </div>
+        <div class="casal">
+          <h3>Manoel R[oi]z <span style="color:var(--ink-faint)">×</span> Vitória Rodrigues</h3>
+          <p class="chips"><span class="chip dec">Declarado noutro assento</span><span class="chip sem">Antes do primeiro livro</span></p>
+          <p>Pais de Francisca Lopes, a noiva de 1622. Ele já defunto nessa data.
+          Para terem uma filha em idade de casar em 1622, casaram antes de 1592 —
+          <strong>antes de a freguesia ter livro</strong>. Por este lado, a árvore
+          não pára por falta de engenho: pára por falta de papel.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- II -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração II</span>
+        <span class="periodo">1622—1641</span>
+        <p class="cota">PT/ABM/PPTS01/002/00001/000084<br>Liv. 476, f. 31 v.º</p>
+        <p class="cota">PT/ABM/PPTS01/002/00002/000007<br>Liv. 477, f. 2</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>Manoel Correa <span style="color:var(--ink-faint)">×</span> Francisca Lopes</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <blockquote>
+            «Nos <strong>cadorze dias do mes de Novembro de seiscentos [e vinte] e
+            dous annos</strong>, depois de serem corridos os bannos na forma do
+            Concillio Tridentino, a <strong>Manoel Correa, filho de Manoel Correa,
+            difunto, da freguesia [de …]</strong>, […] com <strong>Francisca
+            Lopes, filha de Manoel R[oi]z difunto e de sua mulher Vitória
+            Ro[i]z</strong>, meus freguezes, […] os recebi eu <strong>Balthesior
+            Aluares de Araujo</strong>, vigairo, nesta [igreja] de N.ª S.ª da
+            Piedade, à porta della.»
+            <cite>Testemunhas: Pero Henriques de Lumichana, Baltesar Henriques</cite>
+          </blockquote>
+          <p>O primeiro Correa a casar nos Canhas. Casaram <strong>à porta da
+          igreja</strong> — a fórmula antiga, anterior ao costume de receber
+          dentro. Entre as testemunhas está um <strong>Henriques de
+          Lumilhana</strong>, gente do sítio da Lumilhana, na Ponta do Sol: a
+          vizinhança da família é a fidalguia rural do concelho, os Berenguer, os
+          Esmeraldo, os Calaça.</p>
+        </div>
+        <div class="casal">
+          <h3>Diogo Fernandes Pita <span style="color:var(--ink-faint)">×</span> Inês Rodrigues</h3>
+          <p class="chips"><span class="chip">Assento lido</span><span class="chip hip">Filiação em mancha</span></p>
+          <p><strong>O primeiro Pita dos Canhas</strong>, casado a 21 de Janeiro
+          de 1641 na mesma igreja. O assento existe e lê-se — mas a linha da
+          filiação dele caiu numa <strong>mancha de humidade</strong>, e a imagem
+          que o arquivo publica não a devolve. O «f.º de» está lá; o nome do pai
+          não.</p>
+          <p>Onde ele nasceu, sabe-se por eliminação e por indício. Não há Pita
+          nenhum a casar nos Canhas entre 1592 e 1639; o Arco da Calheta e o
+          Estreito ficam excluídos por documento. Mas <strong>na Ponta do Sol há
+          Pitas desde 1569</strong> — Maria Pita nesse ano, António Pita em 1571,
+          Margarida em 1607, João e Maria em 1633, Isabel em 1640. E em
+          <strong>1616</strong>, no fólio 75 do Livro 1.º de casamentos de lá,
+          casa um <em>Diogo Fernandes Pita com Maria Fernandes</em>: o mesmo nome
+          de três elementos, vinte e cinco anos antes. <strong>Não os ligo por
+          homonímia</strong> — mas é a pista mais forte de toda a investigação.</p>
+        </div>
+        <div class="casal">
+          <h3>Manoel de Ponte <span style="color:var(--ink-faint)">×</span> Anna da Silva · Simão Vieyra <span style="color:var(--ink-faint)">×</span> Isabel</h3>
+          <p class="chips"><span class="chip dec">Declarados noutro assento</span></p>
+          <p>Os outros dois casais desta camada, nomeados como pais das noivas de
+          1657 e de 1676. Simão Vieyra e a mulher já eram defuntos quando a filha
+          casou.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- III -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração III</span>
+        <span class="periodo">1657—1676</span>
+        <p class="cota">PT/ABM/PPTS01/002/00002/000081<br>Liv. 477 · img. 46</p>
+        <p class="cota">PT/ABM/PPTS01/002/00002/000203<br>Liv. 477, f. 47 · img. 96</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>António Correa <span style="color:var(--ink-faint)">×</span> Maria de Ponte da Silva</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <blockquote>
+            «Em os <strong>26 dias do mes de Novembro de 1657 annos</strong>,
+            nesta [Igreja de Nossa Senhora] da Piedade dos Canhas, eu
+            <strong>M.el Antunes, Vigário</strong> […] dei as bênções a
+            <strong>Ant.º Correa, f.º de M.el Correa def.to e de sua legítima
+            mulher Fran.ca Lopes</strong>, com <strong>M.ª da Silva, f.ª de M.el
+            de Ponte e de sua legítima mulher Anna da Silva</strong>, todos meus
+            freguezes.»
+          </blockquote>
+          <p>É o assento que amarra a geração de 1622 à de 1700 — e o que provou,
+          quase um ano de investigação depois, que valia a pena procurar o
+          casamento de 1622.</p>
+        </div>
+        <div class="casal">
+          <h3>Francisco Pita <span style="color:var(--ink-faint)">×</span> Antónia Vieyra</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <blockquote>
+            «Em os 15 dias do mes de Janeiro de <strong>1676</strong> […] eu
+            <strong>Sebastião Marques</strong>, Vigário nesta dita freguezia, os
+            recebi e dei as bênçãos a <strong>Francisco Pita, filho de Diogo
+            Fernandes Pita e de sua mulher Ines Roiz</strong>, com <strong>Antónia
+            Vieyra, filha de Simão Vieyra e de sua mulher [Isabel], já
+            defuntos</strong>, ambos desta freguezia.»
+          </blockquote>
+          <p>Deste casal descendem várias das casas Pitta da freguesia — a
+          <strong>casa do Valle</strong>, entre elas, que se acompanha por cinco
+          gerações seguidas nos livros.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- IV -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração IV</span>
+        <span class="periodo">1700</span>
+        <p class="cota">PT/ABM/PPTS01/002/00003/000092<br>Liv. 495, f. 18 · img. 38</p>
+        <p>Baptizado dele: Livro 2.º de baptismos, fl. 100 v.º, imagem 201.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>Pedro da Sylva de Ponte <span style="color:var(--ink-faint)">×</span> Maria Vieyra Pita</h3>
+          <p class="chips"><span class="chip">Assento lido</span><span class="chip">Baptismo lido</span><span class="chip">Óbito dela lido</span></p>
+          <p>É a personagem melhor documentada de toda a árvore antiga: tem-se-lhe
+          o <strong>baptismo</strong>, o <strong>casamento</strong>, um
+          <strong>apadrinhamento em vida</strong> e o <strong>óbito da
+          mulher</strong>.</p>
+          <blockquote>
+            «Em os <strong>4 de Ma[i]o de 1673</strong>, nesta Igr.ª de Nossa
+            S[enho]ra da Piedade, eu <strong>Sebastião Marques, Vigário
+            della</strong>, Bautizei […] a <strong>Pedro, filho de Ant.º Correa e
+            de M.ª de Ponte sua m[ulh]er</strong>.»
+            <cite>Livro 2.º de baptismos, fl. 100 v.º · imagem 201</cite>
+          </blockquote>
+          <blockquote>
+            «Em os <strong>21 dias do mez de 8.bro de 1700</strong>, nesta Igreja
+            da Piedade, eu o Vig.º della <strong>Manoel Gomes Jardim</strong> […]
+            recebi e dei as bênçãos a <strong>Pedro da Sylva, f.º de Ant.º Correa
+            já defunto e de sua m.er M.ª de Ponte</strong>, com <strong>M.ª
+            Vieyra, filha de Francisco Pita e de sua mulher Antónia Vieyra</strong>,
+            todos desta freguezia.»
+          </blockquote>
+          <p>Estava vivo e a apadrinhar a 9 de Janeiro de 1751; a 20 de Outubro de
+          1754 o neto é baptizado e ele já é «<em>já defunto</em>». Morreu,
+          portanto, entre essas duas datas, com cerca de oitenta anos — idade
+          notável para o século XVIII numa freguesia rural.</p>
+          <p><strong>Maria Vieyra Pita</strong> morreu a <strong>23 de Dezembro de
+          1757</strong>. Fez testamento aprovado e deixou por testamenteiro «<em>seu
+          filho Pedro Pitta</em>» — a linha seguinte.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- V -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração V</span>
+        <span class="periodo">1748</span>
+        <p class="cota">PT/ABM/PPTS01/002/00004/000077<br>Liv. 496, f. 26 v.º · img. 53</p>
+        <p>Livro que o catálogo dava por inexistente e estava em linha o tempo
+        todo, no identificador 2206.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>Pedro da Silva Pitta <span style="color:var(--ink-faint)">×</span> Catarina Gonçalves, depois Antónia da Silva</h3>
+          <p class="chips"><span class="chip">Assento lido</span><span class="chip">Quatro avós no próprio assento</span></p>
+          <p>O homem que dá nome a tudo o que vem depois, e o assento que fechou a
+          investigação. Numa só folha, escrita pelo pároco em 1748, estão
+          <strong>três gerações</strong>:</p>
+          <blockquote>
+            «Em os <strong>sinco de Fevereyro de mil sete centos e quarenta e
+            outo</strong>, corridos os banhos na forma devida, sem impedimento
+            algum, assisti ao Matrimónio que entre si contrahirão <strong>Pedro da
+            Sylva de Ponte, filho de Pedro da Sylva de Ponte e de sua m.er Maria
+            V[iey]ra Pita</strong>, naturais desta fr[eguezi]a, e <strong>neto
+            paterno de Ant.º Correa e de sua m.er M.ª de Ponte, e materno neto de
+            Fran.co Pita e de sua m.er Ant.ª V[iey]ra</strong>, com <strong>Ant.ª
+            da Sylva, filha de Francisco Gonsalves da Rocha e de sua m.er Ant.ª da
+            Sylva</strong> […] todos moradores nesta freguezia.»
+          </blockquote>
+          <p><strong>Viveu no Lombo do Outeiro.</strong> Casou duas vezes, e as
+          duas mulheres eram <strong>irmãs</strong> — Catarina e Antónia, filhas
+          do mesmo Francisco Gonçalves da Rocha. Um viúvo que casa com a cunhada é
+          caso corrente nestes livros, e explica a dispensa de afinidade que a
+          paróquia registava.</p>
+          <p>Sabe-se-lhe uma coisa rara para um lavrador da freguesia:
+          <strong>sabia escrever e assinava</strong>. Em 1791 é escolhido
+          testamenteiro pela sogra, Izabel Gonçalves, e assina «<em>P.º da S.ª
+          Pitta</em>» de próprio punho. Ser escolhido para executar testamentos, e
+          assinar, diz da condição dele — não era um lavrador iletrado qualquer.</p>
+          <p><strong>Filhos conhecidos:</strong> Maria (baptizada em 1748),
+          Francisco (nascido a 12 de Outubro de 1754, baptizado na Capela de Nossa
+          Senhora da Anunciação), Francisca (casa em Outubro de 1786), João (casa
+          em Novembro de 1789) e José, que é a linha.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- VI -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração VI</span>
+        <span class="periodo">1791</span>
+        <p class="cota">Livro 8.º de casamentos dos Canhas, fl. 235</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>José da Silva Pitta <span style="color:var(--ink-faint)">×</span> Maria Gomes</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <p>O último dos filhos de Pedro a casar, em 1791. É a última geração
+          documentada nos Canhas — a partir daqui a família desce para o Funchal.</p>
+          <p>Um pormenor humano que os livros guardam: quando recebe um testamento,
+          por volta de 1793, <strong>assina de cruz</strong>. O pai assinava o
+          nome; o filho não. A alfabetização não subia numa família, ia e vinha.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- VII -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração VII</span>
+        <span class="periodo">1835</span>
+        <p>Paróquia do Monte, Funchal — 5 de Agosto.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>António Pitta <span style="color:var(--ink-faint)">×</span> Sabina Rosa</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <p>A família já não está nos Canhas. Casam no <strong>Monte</strong>, a
+          freguesia acima do Funchal — a mudança do interior agrícola do sul da
+          ilha para a periferia da cidade, que é o movimento de metade da Madeira
+          no século XIX.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- VIII -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração VIII</span>
+        <span class="periodo">1871</span>
+        <p>Paróquia do Monte, Funchal — 30 de Outubro.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>João Pitta <span style="color:var(--ink-faint)">×</span> Júlia Maria Henriques</h3>
+          <p class="chips"><span class="chip">Assento lido</span></p>
+          <p>Segunda geração no Monte. <em>(Há Henriques nos Canhas do século
+          XVII, e são gente diferente: não faço a ponte só porque o apelido
+          coincide.)</em></p>
+        </div>
+      </div>
+    </article>
+
+    <!-- IX -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Geração IX</span>
+        <span class="periodo">c. 1900</span>
+        <p>Certidão de óbito de 1945.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>José Maria Pitta <span style="color:var(--ink-faint)">×</span> Maria Teresa Corbani</h3>
+          <p class="chips"><span class="chip">Certidão lida</span></p>
+          <p><strong>A travessia.</strong> É nesta geração que a família sai da
+          Madeira e chega ao Brasil. O apelido da mulher — <strong>Corbani</strong>
+          — é italiano, e entra na família já do lado de cá do Atlântico: os Pitta
+          madeirenses e a imigração italiana de São Paulo encontram-se no mesmo
+          porto, Santos.</p>
+        </div>
+      </div>
+    </article>
+
+    <!-- X, XI, XII -->
+    <article class="entrada">
+      <div class="rail">
+        <span class="ordinal">Gerações X—XII</span>
+        <span class="periodo">1918—1979</span>
+        <p>Santos e São Paulo. Documentação de família.</p>
+      </div>
+      <div class="corpo">
+        <div class="casal">
+          <h3>Nair Pitta <span style="color:var(--ink-faint)">·</span> 1918, Santos</h3>
+          <p>A primeira da linha nascida no Brasil. Leva o apelido que atravessou o
+          oceano — o mesmo «Pitta» que um pároco dos Canhas escreveu pela primeira
+          vez ao lado de «da Silva» em 1748, porque nesta freguesia os filhos
+          tomavam metade do nome do pai e metade do da mãe.</p>
+        </div>
+        <div class="casal">
+          <h3>Verquinia Teresa Gregório <span style="color:var(--ink-faint)">·</span> 1957</h3>
+          <p>Entram os Gregório. É por esta geração que o ramo Pitta deixa de ser
+          o apelido de superfície e passa a ser o de dentro.</p>
+        </div>
+        <div class="casal">
+          <h3>Luiz Gustavo Ferro <span style="color:var(--ink-faint)">·</span> 1979</h3>
+          <p>Doze gerações depois de Manoel Correa, e trezentos e cinquenta e sete
+          anos depois daquela manhã de Novembro à porta da igreja da Piedade.</p>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <section>
+    <p class="eyebrow">Onomástica</p>
+    <h2>Porque é que a mesma pessoa tem três nomes</h2>
+    <p class="intro">É a chave que destravou a investigação, e vale a pena
+    percebê-la, porque explica confusões que qualquer pessoa desta família vai
+    encontrar nos papéis.</p>
+    <p>Nos Canhas, <strong>o filho tomava metade do nome do pai e metade do da
+    mãe</strong>, e cada pároco escolhia uma das metades. O mesmo homem aparece
+    nos livros como <strong>Pedro da Silva Pitta</strong> (1748), <strong>Pedro
+    da Sylva de Ponte</strong> (1754) e <strong>Pedro Pitta</strong> (1757 e
+    1786). Não é erro do arquivo: é o costume, documentado dezenas de vezes.
+    <em>Da Silva de Ponte</em> vinha do pai; <em>Pitta</em> vinha da mãe.</p>
+    <p>Consequência que muda tudo: <strong>o apelido Pitta chega a esta família
+    por via feminina</strong>. Foi Maria Vieyra Pita, casada em 1700, quem o
+    trouxe — e é por isso que o ramo se chama Pitta hoje, embora a linha varonil
+    seja de Correa.</p>
+  </section>
+
+  <section>
+    <p class="eyebrow">Quem se destaca</p>
+    <h2>Não há fidalgos. Há gente com ofício e com nome na freguesia</h2>
+    <p class="intro">Esta é uma família de lavradores do sul da Madeira. A
+    distinção que os livros lhes dão não é de sangue — é de função, de confiança
+    e de letra. Todos estes são Pitta dos Canhas documentados; os que estão fora
+    da linha directa aparecem como primos e parentes da mesma rede.</p>
+
+    <div class="retratos">
+      <div class="retrato">
+        <h3>Manoel Rodrigues Pitta</h3>
+        <p class="quando">† 23 Mar 1757</p>
+        <p><strong>Fabriqueiro</strong> — o leigo encarregado da fábrica da
+        igreja, das obras e das contas. O assento de óbito dá-lhe sepultura
+        <em>«sem pagar esmola pelo muito trabalho que tem tido com a mesma
+        fabrica»</em>. É o reconhecimento mais concreto que estes livros dão a
+        alguém: a paróquia enterrou-o de graça, por serviços prestados.</p>
+      </div>
+      <div class="retrato">
+        <h3>Alferes Manoel da Sylva Pitta</h3>
+        <p class="quando">1754 — 1784</p>
+        <p>Posto militar das ordenanças, a milícia territorial da ilha. Aparece
+        como <em>alferes</em> em assentos ao longo de trinta anos, e a mulher,
+        Maria Lourença, é sepultada na igreja da Piedade. Verifiquei se era filho
+        de Pedro da Sylva de Ponte: <strong>não é</strong> — os pais dele são
+        outros.</p>
+      </div>
+      <div class="retrato">
+        <h3>Padre Manoel José Pitta</h3>
+        <p class="quando">1801 — 1802</p>
+        <p>Serve a própria paróquia dos Canhas e assina dezenas de assentos. Um
+        Pitta a escrever os livros onde os outros Pitta estão escritos.</p>
+      </div>
+      <div class="retrato">
+        <h3>Francisco da Sylva Pitta, «o Estanqueiro»</h3>
+        <p class="quando">casa em 1730</p>
+        <p>A alcunha é o ofício: <strong>estanqueiro</strong> era quem tinha o
+        estanco, o monopólio régio do tabaco e do sabão numa localidade. É um
+        homem de negócio dentro da freguesia, não um lavrador de enxada. Casou
+        com Laura dos Santos, que morreu a 26 de Abril de 1749 e o deixou por
+        testamenteiro.</p>
+      </div>
+      <div class="retrato">
+        <h3>Pedro da Silva Pitta</h3>
+        <p class="quando">1748 — 1791</p>
+        <p>Da linha directa. <strong>Sabia escrever e assinava</strong>, o que o
+        põe numa minoria da freguesia; foi escolhido testamenteiro por mais de uma
+        família; e viveu, no Lombo do Outeiro, o suficiente para ver os quatro
+        filhos casados.</p>
+      </div>
+      <div class="retrato">
+        <h3>Maria Vieyra Pitta</h3>
+        <p class="quando">† 23 Dez 1757</p>
+        <p>A mulher que trouxe o apelido. Fez <strong>testamento aprovado</strong>
+        — coisa que exigia bens que valessem o tabelião — e nomeou o próprio filho
+        por testamenteiro.</p>
+      </div>
+    </div>
+
+    <p style="margin-top:1.8rem">À volta deles, nos mesmos assentos, estão como
+    testemunhas e padrinhos os nomes da fidalguia rural do concelho: os
+    <strong>Berenguer de Lumilhana</strong>, os <strong>Esmeraldo</strong>, os
+    <strong>Bettencourt Correia</strong>, os <strong>Calaça</strong>, os
+    <strong>Andrade</strong>. Não são parentes — são a vizinhança. Mas dizem em
+    que mundo esta gente vivia.</p>
+  </section>
+
+  <section>
+    <p class="eyebrow">O que falta</p>
+    <h2>Três perguntas em aberto, e onde está a resposta de cada uma</h2>
+    <p class="intro">Nenhuma delas põe em causa as doze gerações. Todas
+    acrescentariam a décima terceira.</p>
+
+    <div class="aberto">
+      <div>
+        <div>
+          <h3>De onde vieram os Correa</h3>
+          <p class="chips" style="margin-top:.4rem"><span class="chip hip">Uma palavra por ler</span></p>
+        </div>
+        <p>O assento de 1622 nomeia a freguesia de origem do pai do noivo e a
+        palavra não se lê em nenhuma das duas fotografias que existem — nem no
+        microfilme, nem na digitalização do arquivo, nem nas duas fundidas. Um
+        arquivista lê-a com o livro na mão em dois minutos.</p>
+      </div>
+      <div>
+        <div>
+          <h3>Quem foi o pai de Diogo Fernandes Pita</h3>
+          <p class="chips" style="margin-top:.4rem"><span class="chip hip">Duas vias, ambas identificadas ao fólio</span></p>
+        </div>
+        <p>Ou no assento dos Canhas de 1641 — onde a filiação caiu numa mancha —
+        ou no de Ponta do Sol de <strong>12 de Janeiro de 1616, Liv. 454, fólio
+        75</strong>, se o Diogo de lá for o mesmo homem. As imagens que o arquivo
+        publica não chegam; as do microfilme, em resolução plena, chegariam.</p>
+      </div>
+      <div>
+        <div>
+          <h3>Os pais de Francisca Lopes, mais acima</h3>
+          <p class="chips" style="margin-top:.4rem"><span class="chip sem">Fora de alcance</span></p>
+        </div>
+        <p>Esta não tem resposta. Manoel R[oi]z e Vitória Rodrigues casaram antes
+        de 1592, e o primeiro livro da freguesia começa em 1592. Não há onde
+        procurar.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="eyebrow">Fontes</p>
+    <h2>Os livros de onde sai cada elo</h2>
+    <p class="intro">Todos no Arquivo e Biblioteca da Madeira, fundo da Paróquia
+    dos Canhas (PPTS01) e da Ponta do Sol (PPTS03), salvo indicação.</p>
+
+    <div class="scroll-x">
+      <table class="fontes">
+        <thead>
+          <tr><th>Data</th><th>Acto</th><th>Livro e fólio</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="a">14 Nov 1622</td><td>Casamento — Manoel Correa × Francisca Lopes</td><td>L.1.º misto de casamentos, Liv. 476, f. 31 v.º, assento 84</td></tr>
+          <tr><td class="a">21 Jan 1641</td><td>Casamento — Diogo Fernandes Pita × Inês Rodrigues</td><td>L.2.º de casamentos, Liv. 477, f. 2, assento 7</td></tr>
+          <tr><td class="a">26 Nov 1657</td><td>Casamento — António Correa × Maria de Ponte</td><td>L.2.º de casamentos, imagem 46, assento 81</td></tr>
+          <tr><td class="a">4 Mai 1673</td><td>Baptismo — Pedro, f.º de António Correa</td><td>L.2.º de baptismos, f. 100 v.º, imagem 201</td></tr>
+          <tr><td class="a">15 Jan 1676</td><td>Casamento — Francisco Pita × Antónia Vieyra</td><td>L.2.º de casamentos, f. 47, imagem 96</td></tr>
+          <tr><td class="a">21 Out 1700</td><td>Casamento — Pedro da Sylva × Maria Vieyra Pita</td><td>L.3.º de casamentos, Liv. 495, f. 18, imagem 38</td></tr>
+          <tr><td class="a">6 Nov 1730</td><td>Casamento do irmão — dá os quatro avós</td><td>L.3.º de casamentos, f. 94 v.º, imagem 191</td></tr>
+          <tr><td class="a">5 Fev 1748</td><td>Casamento — Pedro da Silva Pitta × Antónia da Silva</td><td>L.4.º de casamentos, Liv. 496, f. 26 v.º, imagem 53</td></tr>
+          <tr><td class="a">26 Abr 1749</td><td>Óbito — Laura dos Santos, com testamento</td><td>L.5.º de óbitos, f. 2, imagem 4</td></tr>
+          <tr><td class="a">20 Out 1754</td><td>Baptismo — Francisco, f.º de Pedro</td><td>L.7.º de baptismos, f. 66, imagem 134</td></tr>
+          <tr><td class="a">23 Mar 1757</td><td>Óbito — Manoel Rodrigues Pitta, fabriqueiro</td><td>L.5.º de óbitos, f. 84, imagem 90</td></tr>
+          <tr><td class="a">23 Dez 1757</td><td>Óbito — Maria Vieyra Pitta, com testamento</td><td>L.5.º de óbitos, f. 400</td></tr>
+          <tr><td class="a">1791</td><td>Casamento — José da Silva Pitta × Maria Gomes</td><td>L.8.º de casamentos, f. 235</td></tr>
+          <tr><td class="a">11 Nov 1791</td><td>Óbito — Izabel Gonçalves; Pedro assina como testamenteiro</td><td>L.7.º de óbitos, f. 97, imagens 190-191</td></tr>
+          <tr><td class="a">5 Ago 1835</td><td>Casamento — António Pitta × Sabina Rosa</td><td>Paróquia do Monte, Funchal</td></tr>
+          <tr><td class="a">30 Out 1871</td><td>Casamento — João Pitta × Júlia Maria Henriques</td><td>Paróquia do Monte, Funchal</td></tr>
+          <tr><td class="a">1945</td><td>Certidão de óbito — José Maria Pitta e Maria Teresa Corbani</td><td>Brasil</td></tr>
+          <tr><td class="a">12 Jan 1616</td><td><em>Pista:</em> casamento — Diogo Fernandes Pita × Maria Fernandes</td><td>Ponta do Sol, L.1.º de casamentos, Liv. 454, f. 75</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer>
+    <p><strong>Doze gerações dos Canhas</strong> — reconstituição documental da
+    ascendência Pitta de Luiz Gustavo Ferro, feita sobre os registos paroquiais
+    digitalizados do Arquivo e Biblioteca da Madeira e um microfilme da
+    Sociedade Genealógica de Utah.</p>
+    <p style="margin-top:.8rem">Regra de trabalho, do princípio ao fim:
+    <strong>não se ligam pessoas por sobrenome nem por homónimo</strong>, e o que
+    é dedução nunca aparece vestido de documento. Onde a tinta não se lê, está
+    escrito que não se lê.</p>
+  </footer>
+
+</div>
