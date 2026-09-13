@@ -1,0 +1,18 @@
+===== 1 · APESP: a imigração é busca ou certidão? =====
+
+--- https://www.arquivoestado.sp.gov.br/apesp/servicos/cidadao/consulta-acervo
+    200  165863b  26976 car.
+    «consulta acervo Institucional Sobre o Arquivo Subsecretaria Organograma Legislação Carta de Serviços Exposições Horário de Atendimento, Endereço e Telefone Canais de Comunicação Fale Conosco Ouvidoria Privacidade e Proteção de Dados - LGPD Perguntas Frequentes - FAQ Transparência Servidores Públicos Remuneração Mensal Diárias e Passagens Aéreas Programas e Ações Participação Social Audiências e Consultas Públicas Conselhos e Órgãos Colegiados Avaliação dos Serviços Públicos Contratos e Compras Públicas Sistemas de Cadastros de Contratos e Compras Públicas Painel da Transparência de Despesas com Contratos Convênios, repasses e transferências de recursos Receitas e Despesas Receitas Despesas Emendas Parlamentares Obras Públicas Informações Classificadas e Desclassificadas Comissão Estadual de Acesso à Informação Serviços Publicações Publicações Técnicas Planos e Tabelas Coleção Gestão Docu»
+
+--- https://web.arquivoestado.sp.gov.br/web/acervo/solicitacao_certidoes/imigracao
+    200  91377b  14519 car.
+    «APESP - Arquivo Público do Estado de São Paulo :: Acervo :: Solicita&ccedil;&atilde;o de Certid&otilde;es :: Imigra&ccedil;&atilde;o :: Topo SP + Digital /governosp SP + Digital /governosp Seu navegador não tem suporte a JavaScript ou está desativado! Menu Entrar &nbsp; INSTITUCIONAL Quem Somos Estrutura Servi&ccedil;os Legisla&ccedil;&atilde;o Relat&oacute;rios Publica&ccedil;&otilde;es Assessoria de Imprensa APESP - Ambiente Virtual de Aprendizagem (AVA) SERVI&Ccedil;O AO CIDAD&Atilde;O Consulte Nosso Acervo Certid&otilde;es Apoio &agrave; Pesquisa SPdoc Cidad&atilde;o Acesso &agrave; Informa&ccedil;&atilde;o Transpar&ecirc;ncia Ativa Eventos e Capacita&ccedil;&otilde;es Exposi&ccedil;&otilde;es e Galerias ADMINISTRA&Ccedil;&Atilde;O P&Uacute;BLICA Gest&atilde;o Documental Orienta&ccedil;&atilde;o aos &Oacute;rg&atilde;os do SAESP Orienta&ccedil;&atilde;o aos SICs Assist&ecirc;ncia aos»
+
+
+===== 2 · FamilySearch com navegador verdadeiro =====
+
+--- wiki Madeira: HTTP 200  0 caracteres
+    «»
+
+--- catálogo Ponta do Sol: HTTP 403  0 caracteres
+    «»
