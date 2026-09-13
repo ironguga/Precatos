@@ -33,6 +33,7 @@ on:
       - 'scripts/ferro-padua.mjs'
       - 'scripts/ferro-hospedaria.mjs'
       - 'scripts/ferro-apesp-fs.mjs'
+      - 'scripts/apesp-imigracao.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -710,6 +711,7 @@ jobs:
           }
 
       - name: APESP a serio, e o FamilySearch com navegador
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -725,6 +727,26 @@ jobs:
           git add -f arquivo/ferro-apesp-fs.txt
           git diff --cached --quiet || {
             git commit -m 'APESP e FamilySearch com navegador verdadeiro'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: APESP com navegador: onde se procura a Hospedaria
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          npm i -D playwright@1.49.0 >/dev/null 2>&1 || true
+          npx playwright install --with-deps chromium >/dev/null 2>&1 || true
+          node scripts/apesp-imigracao.mjs 2>&1 | tee arquivo/apesp-imigracao.txt
+          git checkout -- package.json package-lock.json 2>/dev/null || true
+          rm -rf node_modules
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/apesp-imigracao.txt
+          git diff --cached --quiet || {
+            git commit -m 'O que as paginas de imigracao do APESP tem, lidas com navegador'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
