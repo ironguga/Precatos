@@ -32,6 +32,7 @@ on:
       - 'scripts/fontes-brasil-italia.mjs'
       - 'scripts/ferro-padua.mjs'
       - 'scripts/ferro-hospedaria.mjs'
+      - 'scripts/ferro-apesp-fs.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -692,6 +693,7 @@ jobs:
           }
 
       - name: A Hospedaria dos Imigrantes, e o FamilySearch outra vez
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -701,6 +703,28 @@ jobs:
           git add -f arquivo/ferro-hospedaria.txt
           git diff --cached --quiet || {
             git commit -m 'A busca da Hospedaria dos Imigrantes, e o estado do FamilySearch'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: APESP a serio, e o FamilySearch com navegador
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          npm i -D playwright@1.49.0 >/dev/null 2>&1 || true
+          npx playwright install --with-deps chromium >/dev/null 2>&1 || true
+          node scripts/ferro-apesp-fs.mjs 2>&1 | tee arquivo/ferro-apesp-fs.txt
+          # package.json e package-lock.json sao versionados: repoe-se, senao o
+          # git pull --rebase recusa-se a correr e o resultado nunca chega ao ramo.
+          git checkout -- package.json package-lock.json 2>/dev/null || true
+          rm -rf node_modules
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/ferro-apesp-fs.txt
+          git diff --cached --quiet || {
+            git commit -m 'APESP e FamilySearch com navegador verdadeiro'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
