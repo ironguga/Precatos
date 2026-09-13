@@ -31,6 +31,7 @@ on:
       - 'scripts/arquivo-abm-sessao.mjs'
       - 'scripts/fontes-brasil-italia.mjs'
       - 'scripts/ferro-padua.mjs'
+      - 'scripts/ferro-hospedaria.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -674,6 +675,7 @@ jobs:
           }
 
       - name: Ferro de Padua — Antenati e a Hospedaria dos Imigrantes
+        if: false
         continue-on-error: true
         run: |
           mkdir -p arquivo
@@ -683,6 +685,22 @@ jobs:
           git add -f arquivo/ferro-padua.txt
           git diff --cached --quiet || {
             git commit -m 'Ferro de Padua: que responde no Antenati e na Hospedaria dos Imigrantes'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: A Hospedaria dos Imigrantes, e o FamilySearch outra vez
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/ferro-hospedaria.mjs 2>&1 | tee arquivo/ferro-hospedaria.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/ferro-hospedaria.txt
+          git diff --cached --quiet || {
+            git commit -m 'A busca da Hospedaria dos Imigrantes, e o estado do FamilySearch'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
