@@ -29,6 +29,7 @@ on:
       - 'scripts/arquivo-abm-bundle.mjs'
       - 'scripts/arquivo-abm-download-task.mjs'
       - 'scripts/arquivo-abm-sessao.mjs'
+      - 'scripts/fontes-brasil-italia.mjs'
       - 'scripts/arquivo-abm-resolucao.mjs'
       - 'scripts/arquivo-abm-original.mjs'
       - 'scripts/arquivo-abm-externas2.mjs'
@@ -648,6 +649,22 @@ jobs:
           git add -f arquivo/abm-itens-monte.txt
           git diff --cached --quiet || {
             git commit -m 'Indice nominal do Monte: o ramo Henriques e o Pitta oitocentista'
+            for t in 1 2 3 4; do
+              git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
+              sleep $((2 ** t))
+            done
+          }
+
+      - name: Que arquivos do Brasil e de Italia estao ao alcance
+        continue-on-error: true
+        run: |
+          mkdir -p arquivo
+          node scripts/fontes-brasil-italia.mjs 2>&1 | tee arquivo/fontes-ferro.txt
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f arquivo/fontes-ferro.txt
+          git diff --cached --quiet || {
+            git commit -m 'Que arquivos estao ao alcance para o ramo Ferro'
             for t in 1 2 3 4; do
               git pull --rebase origin "$GITHUB_REF_NAME" && git push origin HEAD:"$GITHUB_REF_NAME" && break
               sleep $((2 ** t))
