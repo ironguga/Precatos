@@ -1,0 +1,16 @@
+===== ITÁLIA · Antenati, o registo civil de Pádua =====
+Antenati raiz                            403       520b      27 car.  text/html  1601ms
+Antenati busca «Ferro» Padova            403       520b      27 car.  text/html  450ms
+Antenati API busca                       403       520b      27 car.  text/html  126ms
+Antenati Archivio Padova                 403       520b      27 car.  text/html  124ms
+
+===== BRASIL · a Hospedaria dos Imigrantes de São Paulo =====
+Arq. Público SP raiz                     200    314567b   28678 car.  text/html  2110ms
+Memorial do Imigrante                    200    314567b   28678 car.  text/html  850ms
+Inventário de imigrantes (busca)         200      6183b    1620 car.  text/html  34ms
+Familia.org / listas                     404       355b     183 car.  text/html  486ms
+
+===== outros que podem servir =====
+Portal Antenati sitemap                  403       520b      27 car.  text/html  125ms
+FamilySearch (controlo)                  200     19650b     960 car.  text/html  504ms
+Arquivo.pt (controlo)                    200     31396b    2125 car.  text/html  746ms
