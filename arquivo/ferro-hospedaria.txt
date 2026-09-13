@@ -1,0 +1,24 @@
+===== 1 · ARQUIVO PÚBLICO DE SÃO PAULO: onde está a busca =====
+página inicial                               200    314241b    8665 car.
+
+ligações relevantes encontradas: 2
+  https://www.arquivoestado.sp.gov.br/apesp/servicos/cidadao/consulta-acervo
+  https://web.arquivoestado.sp.gov.br/web/acervo/solicitacao_certidoes/imigracao
+
+===== 2 · tentar a busca de imigrantes por FERRO =====
+www.arquivoestado.sp.gov.br/site/acervo/re   200    314241b    8665 car.
+www.arquivoestado.sp.gov.br/web/acervo/rep   200      6183b     760 car.
+www.arquivoestado.sp.gov.br/uploads/acervo   200      6183b     760 car.
+inci.org.br/acervodigital/livros.php         404       355b     183 car.
+www.inci.org.br/                             200       768b     108 car.
+
+===== 3 · FAMILYSEARCH: caiu o bloqueio? =====
+FS · raiz                                    200     19651b     444 car.
+      «FamilySearch.org Seu navegador não é compatível. Atualize para a versão mais recente para aproveitar tudo o que o FamilySearch tem a oferecer. É necessário o JavaScript para usar o FamilySearch Parece que o JavaScript está desativado no seu navegador. O FamilySearch necessita do JavaScript para func»
+FS · wiki Madeira                            200      6421b     760 car.
+      «Pardon Our Interruption Pardon Our Interruption As you were browsing something about your browser made us think you were a bot. There are a few reasons this might happen: You've disabled JavaScript in your web browser. You're a power user moving through this website with super-human speed. You've di»
+FS · catálogo por lugar                      200     19725b     444 car.
+      «FamilySearch.org Seu navegador não é compatível. Atualize para a versão mais recente para aproveitar tudo o que o FamilySearch tem a oferecer. É necessário o JavaScript para usar o FamilySearch Parece que o JavaScript está desativado no seu navegador. O FamilySearch necessita do JavaScript para func»
+FS · ark exemplo                             200     19717b     444 car.
+      «FamilySearch.org Seu navegador não é compatível. Atualize para a versão mais recente para aproveitar tudo o que o FamilySearch tem a oferecer. É necessário o JavaScript para usar o FamilySearch Parece que o JavaScript está desativado no seu navegador. O FamilySearch necessita do JavaScript para func»
+FS · api catálogo                            404        90b      90 car.
