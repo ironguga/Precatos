@@ -1,0 +1,20 @@
+===== visualizador do livro 48721 =====
+  HTTP 200, 2255 bytes
+    ref: image/png
+    ref: msapplication-TileColor
+
+===== formas de mosaico, para o hash 2FDB4B09… =====
+  IIIF info.json                                 200      2255b  text/html  
+  IIIF api info                                  404
+  IIIF full/full                                 200      2255b  text/html  
+  IIIF full/max                                  200      2255b  text/html  
+  IIIF vault id                                  200      2255b  text/html  
+  DZI descriptor                                 404
+  DZI ficheiros                                  404
+  tile api                                       404
+  deepzoom                                       200      2255b  text/html  
+  storage master                                 400
+  storage preserv.                               400
+  original c/ format                             404
+  download                                       404
+  file                                           404
